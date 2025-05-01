@@ -9277,7 +9277,7 @@ const questoes = [
     "alternativa4": "O conceito de trabalhador usuário está vinculado exclusivamente à quantidade total de empregados registrados pela organização, independentemente do uso das instalações.",
     "alternativa5": "A NR-24 considera como trabalhador usuário qualquer visitante ou terceirizado que transite eventualmente pelas instalações sanitárias da organização.",
     "respostaCorreta": "C"
-  },  [
+  },
   {
     "tema": "Resumão do Gabs",
     "pergunta": "Acerca da Higiene Ocupacional e seus agentes de risco, conforme apresentado nos excertos, assinale a opção correta.",
