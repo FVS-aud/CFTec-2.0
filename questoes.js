@@ -3641,7 +3641,7 @@ const questoes = [
     "gabaritoComentado": "A NR 7, ao tratar da saúde ocupacional, pode levar ao afastamento do trabalhador por doenças relacionadas ao trabalho, o que pode, em certas condições de rescisão contratual decorrentes dessa situação, influenciar a possibilidade de movimentação da conta do FGTS."
   },
   {
-    "tema": "GERENCIAMENTO DE RISCOS OCUPACIONAIS",
+    "tema": "GRO",
     "pergunta": "De acordo com a Norma Regulamentadora nº 1 (NR 1), qual é a finalidade principal do Gerenciamento de Riscos Ocupacionais (GRO)?",
     "alternativa1": "Definir os critérios para o pagamento de adicionais de insalubridade e periculosidade.",
     "alternativa2": "Garantir o cumprimento das obrigações trabalhistas relacionadas à segurança e saúde no trabalho.",
@@ -3652,7 +3652,7 @@ const questoes = [
     "gabaritoComentado": "A finalidade do GRO, conforme o subitem 1.5.1 da NR 1, é proporcionar locais de trabalho seguros e saudáveis, prevenir lesões e agravos à saúde relacionados com o trabalho e melhorar o desempenho em Segurança e Saúde do Trabalho nas organizações."
   },
   {
-    "tema": "GERENCIAMENTO DE RISCOS OCUPACIONAIS",
+    "tema": "GRO",
     "pergunta": "Qual é a primeira etapa essencial para um gerenciamento de risco ocupacional proativo, conforme preconiza a NR 1?",
     "alternativa1": "Avaliação dos riscos ocupacionais.",
     "alternativa2": "Implementação de medidas de controle.",
@@ -3663,7 +3663,7 @@ const questoes = [
     "gabaritoComentado": "O processo de identificação de perigos é fundamental para um gerenciamento de risco ocupacional proativo, assegurando que os processos seguintes do GRO tenham resultado."
   },
   {
-    "tema": "GERENCIAMENTO DE RISCOS OCUPACIONAIS",
+    "tema": "GRO",
     "pergunta": "Segundo a NR 1, o processo de avaliação de riscos ocupacionais deve considerar qual dos seguintes aspectos?",
     "alternativa1": "Apenas os riscos físicos, químicos e biológicos presentes no ambiente de trabalho.",
     "alternativa2": "Exclusivamente a probabilidade de ocorrência de acidentes típicos.",
@@ -3674,7 +3674,7 @@ const questoes = [
     "gabaritoComentado": "Para a avaliação de risco decorrente de perigos de acidentes, a NR 1 determina que se deve considerar a exposição do trabalhador ao perigo e a eficácia das medidas de prevenção implementadas."
   },
   {
-    "tema": "GERENCIAMENTO DE RISCOS OCUPACIONAIS",
+    "tema": "GRO",
     "pergunta": "Qual é a ordem de prioridade para a implementação de medidas de prevenção, conforme estabelecido pela NR 1?",
     "alternativa1": "Medidas de proteção individual, medidas administrativas, medidas de proteção coletiva, eliminação dos fatores de risco, evitar os perigos ocupacionais.",
     "alternativa2": "Evitar os perigos ocupacionais, eliminação dos fatores de risco, medidas administrativas, medidas de proteção coletiva, medidas de proteção individual.",
@@ -3685,7 +3685,7 @@ const questoes = [
     "gabaritoComentado": "A NR 1 estabelece a seguinte ordem de prioridade para controle dos riscos: 1º evitar os perigos ocupacionais; 2º eliminação dos fatores de risco; 3º minimização e controle dos fatores de risco, com a adoção de medidas de proteção coletiva; 4º minimização e controle dos fatores de risco, com a adoção de medidas administrativas ou de organização do trabalho; 5º adoção de medidas de proteção individual."
   },
   {
-    "tema": "GERENCIAMENTO DE RISCOS OCUPACIONAIS",
+    "tema": "GRO",
     "pergunta": "O Programa de Gerenciamento de Riscos (PGR) é composto por quais documentos principais, de acordo com a NR 1?",
     "alternativa1": "Atestado de Saúde Ocupacional (ASO) e Comunicação de Acidente de Trabalho (CAT).",
     "alternativa2": "Programa de Controle Médico de Saúde Ocupacional (PCMSO) e Programa de Prevenção de Riscos Ambientais (PPRA).",
@@ -3696,7 +3696,7 @@ const questoes = [
     "gabaritoComentado": "A documentação do PGR é composta pelo Inventário de Riscos Ocupacionais e Plano de Ação (subitem 1.5.7.1, da NR 1)."
   },
   {
-    "tema": "GERENCIAMENTO DE RISCOS OCUPACIONAIS",
+    "tema": "GRO",
     "pergunta": "Qual das alternativas abaixo apresenta um exemplo de perigo do tipo físico, conforme a lista referencial da NR 1?",
     "alternativa1": "Benzeno.",
     "alternativa2": "Vírus da Hepatite B.",
@@ -3707,7 +3707,7 @@ const questoes = [
     "gabaritoComentado": "O quadro 1 da NR 1 traz uma lista referencial de perigos, e o ruído contínuo ou intermitente é classificado como um perigo do tipo físico."
   },
   {
-    "tema": "GERENCIAMENTO DE RISCOS OCUPACIONAIS",
+    "tema": "GRO",
     "pergunta": "Segundo a NR 1, a etapa de identificação de perigos deve incluir, entre outros aspectos:",
     "alternativa1": "A determinação do nível de risco detalhado para cada perigo identificado.",
     "alternativa2": "A definição das medidas de controle mais adequadas para cada risco.",
@@ -3718,7 +3718,7 @@ const questoes = [
     "gabaritoComentado": "A NR 1 prescreve que a etapa de identificação de perigos deve incluir a descrição dos perigos e possíveis lesões ou agravos à saúde."
   },
   {
-    "tema": "GERENCIAMENTO DE RISCOS OCUPACIONAIS",
+    "tema": "GRO",
     "pergunta": "Para a determinação do nível de risco ocupacional, qual combinação de fatores deve ser considerada, de acordo com a NR 1?",
     "alternativa1": "Intensidade da exposição e número de trabalhadores expostos.",
     "alternativa2": "Frequência da exposição e custo das medidas de prevenção.",
@@ -3729,7 +3729,7 @@ const questoes = [
     "gabaritoComentado": "O nível de risco ocupacional é verificado pela combinação da severidade das possíveis lesões ou agravos à saúde com a probabilidade ou chance de sua ocorrência."
   },
   {
-    "tema": "GERENCIAMENTO DE RISCOS OCUPACIONAIS",
+    "tema": "GRO",
     "pergunta": "Qual norma técnica da ABNT é mencionada na NR 1 como fornecedora de orientações sobre a seleção e aplicação de técnicas sistemáticas para o processo de avaliação de riscos?",
     "alternativa1": "ABNT NBR ISO 9001.",
     "alternativa2": "ABNT NBR ISO 14001.",
@@ -3740,7 +3740,7 @@ const questoes = [
     "gabaritoComentado": "A norma técnica ABNT NBR ISO/IEC 31010: 2012 fornece orientações sobre a seleção e aplicação de técnicas sistemáticas para o processo de avaliação de riscos."
   },
   {
-    "tema": "GERENCIAMENTO DE RISCOS OCUPACIONAIS",
+    "tema": "GRO",
     "pergunta": "Segundo a NR 1, qual critério deve ser utilizado para classificar os riscos ocupacionais?",
     "alternativa1": "O número total de empregados da organização.",
     "alternativa2": "O grau de risco da atividade econômica da empresa, conforme a NR 4.",
@@ -3751,7 +3751,7 @@ const questoes = [
     "gabaritoComentado": "Após a determinação dos níveis de risco, é obrigação da organização classificar os riscos ocupacionais “para fins de identificar a necessidade de adoção ou manutenção de medidas de prevenção e elaboração do plano de ação” (subitem 1.5.4.4.3, da NR 1)."
   },
   {
-    "tema": "GERENCIAMENTO DE RISCOS OCUPACIONAIS",
+    "tema": "GRO",
     "pergunta": "Em quais situações a NR 1 determina que a avaliação de riscos ocupacionais deve ser revisada?",
     "alternativa1": "Anualmente, independentemente de qualquer outra condição.",
     "alternativa2": "Apenas quando ocorrerem acidentes de trabalho com afastamento.",
@@ -3762,7 +3762,7 @@ const questoes = [
     "gabaritoComentado": "A avaliação de riscos deve ser revisada quando identificadas inadequações, insuficiências ou ineficácias das medidas de prevenção, quando verificada a ocorrência de acidentes ou doenças relacionadas ao trabalho, após a solicitação justificada dos trabalhadores ou da CIPA, entre outras situações."
   },
   {
-    "tema": "GERENCIAMENTO DE RISCOS OCUPACIONAIS",
+    "tema": "GRO",
     "pergunta": "Qual é a importância do Plano de Ação no contexto do Gerenciamento de Riscos Ocupacionais (GRO), segundo a NR 1?",
     "alternativa1": "Documentar os procedimentos de trabalho seguros para cada função.",
     "alternativa2": "Registrar os dados da análise preliminar de riscos e do monitoramento das exposições.",
@@ -3773,7 +3773,7 @@ const questoes = [
     "gabaritoComentado": "A organização deve elaborar um plano de ação de controle dos riscos como resultado dos processos de identificação de perigos e avaliação de riscos, indicando as medidas de prevenção a serem introduzidas, aprimoradas ou mantidas, com definição de cronograma e responsáveis."
   },
   {
-    "tema": "GERENCIAMENTO DE RISCOS OCUPACIONAIS",
+    "tema": "GRO",
     "pergunta": "De acordo com a NR 1, qual deve ser um dos critérios para aumentar a prioridade de ação no Plano de Ação?",
     "alternativa1": "O custo financeiro da implementação da medida de prevenção.",
     "alternativa2": "A complexidade técnica da medida de controle a ser adotada.",
@@ -3784,7 +3784,7 @@ const questoes = [
     "gabaritoComentado": "Ao estabelecer o plano de ação, o número de trabalhadores, possivelmente atingidos por cada risco, deve ser utilizado pela organização “como critério para aumentar a prioridade de ação” (subitem 1.5.5.2.1.1, da NR 1)."
   },
   {
-    "tema": "GERENCIAMENTO DE RISCOS OCUPACIONAIS",
+    "tema": "GRO",
     "pergunta": "Qual a periodicidade mínima para a realização de exercícios simulados de respostas a emergências, conforme previsto na NR 1?",
     "alternativa1": "Anual.",
     "alternativa2": "Semestral.",
@@ -3795,7 +3795,7 @@ const questoes = [
     "gabaritoComentado": "O procedimento de preparação e resposta a emergências precisa incluir a realização de exercícios simulados de forma periódica, devendo ser geradas evidências de sua realização (subitens 1.5.6.3 e 1.5.6.3.1, da NR 1). A norma não especifica uma periodicidade mínima, deixando a critério da organização com base nos riscos."
   },
   {
-    "tema": "GERENCIAMENTO DE RISCOS OCUPACIONAIS",
+    "tema": "GRO",
     "pergunta": "Em relação às empresas contratadas, o que a NR 1 estabelece sobre a extensão das medidas de prevenção da contratante?",
     "alternativa1": "A contratante não tem responsabilidade sobre os riscos das atividades dos empregados da contratada.",
     "alternativa2": "A contratante deve estender suas medidas de prevenção aos riscos das atividades objeto da contratação, quando os trabalhadores da contratada atuarem em suas dependências ou local convencionado.",
@@ -3806,7 +3806,7 @@ const questoes = [
     "gabaritoComentado": "Para os casos específicos em que a prestação de serviços é realizada somente pelo titular ou sócios da contratada, “a organização contratante deve estender suas medidas de prevenção aos riscos das atividades, objeto de sua contratação, quando atuarem em suas dependências ou local previamente convencionado em contrato” (subitem 1.5.8.1.2, da NR 1)."
   },
   {
-    "tema": "GERENCIAMENTO DE RISCOS OCUPACIONAIS",
+    "tema": "GRO",
     "pergunta": "Qual é a importância do envolvimento dos trabalhadores no processo de identificação de perigos, conforme preconiza a NR 1?",
     "alternativa1": "Reduzir a necessidade de consultoria externa especializada.",
     "alternativa2": "Garantir a conformidade legal com as exigências da Inspeção do Trabalho.",
@@ -3817,7 +3817,7 @@ const questoes = [
     "gabaritoComentado": "É importante que os trabalhadores sejam envolvidos no processo de identificação de perigos para promover uma cultura de prevenção em SST e porque possuem as melhores condições de contribuir para o monitoramento das medidas de prevenção."
   },
   {
-    "tema": "GERENCIAMENTO DE RISCOS OCUPACIONAIS",
+    "tema": "GRO",
     "pergunta": "O Inventário de Riscos Ocupacionais deve ser mantido atualizado e seu histórico deve ser guardado por um período mínimo de:",
     "alternativa1": "5 anos.",
     "alternativa2": "10 anos.",
@@ -3828,7 +3828,7 @@ const questoes = [
     "gabaritoComentado": "O Inventário de Riscos Ocupacionais deve ser mantido atualizado e seu histórico deve ser mantido por um período mínimo de 20 anos (subitens 1.5.7.3.3 e 1.5.7.3.3.1, da NR 1)."
   },
   {
-    "tema": "GERENCIAMENTO DE RISCOS OCUPACIONAIS",
+    "tema": "GRO",
     "pergunta": "Qual das alternativas abaixo descreve corretamente o conceito de 'perigo' no contexto do Gerenciamento de Riscos Ocupacionais?",
     "alternativa1": "A probabilidade de ocorrência de um evento adverso combinado com a severidade de suas consequências.",
     "alternativa2": "Qualquer coisa que tenha o potencial de causar dano à saúde ou integridade física dos trabalhadores.",
@@ -3839,7 +3839,7 @@ const questoes = [
     "gabaritoComentado": "Conforme a NR 1, perigo é qualquer coisa que possa causar danos."
   },
   {
-    "tema": "GERENCIAMENTO DE RISCOS OCUPACIONAIS",
+    "tema": "GRO",
     "pergunta": "A avaliação ergonômica preliminar (AEP), prevista na NR 17, deve ser integrada ao Gerenciamento de Riscos Ocupacionais (GRO) de que forma?",
     "alternativa1": "Substituindo a etapa de identificação de perigos ergonômicos do GRO.",
     "alternativa2": "Os dados de seus resultados devem ser integrados ao inventário de riscos do PGR.",
@@ -3850,7 +3850,7 @@ const questoes = [
     "gabaritoComentado": "Quando a AEP for registrada em documentação específica, os dados de seus resultados devem ser integrados ao inventário de riscos do PGR."
   },
   {
-    "tema": "GERENCIAMENTO DE RISCOS OCUPACIONAIS",
+    "tema": "GRO",
     "pergunta": "Em relação ao controle da saúde dos empregados no GRO, a NR 1 destaca que este deve ser um processo:",
     "alternativa1": "Realizado apenas quando houver queixas dos trabalhadores.",
     "alternativa2": "Focado no tratamento de doenças ocupacionais diagnosticadas.",
@@ -3861,7 +3861,7 @@ const questoes = [
     "gabaritoComentado": "O GRO destaca que o controle da saúde dos empregados deve ser um processo preventivo planejado, sistemático e continuado (subitem 1.5.5.4.2, da NR 1)."
   },
   {
-    "tema": "GERENCIAMENTO DE RISCOS OCUPACIONAIS",
+    "tema": "GRO",
     "pergunta": "Qual deve ser a consideração fundamental na análise de acidentes e doenças relacionadas ao trabalho, conforme a NR 1?",
     "alternativa1": "A busca por culpados e a aplicação de medidas disciplinares.",
     "alternativa2": "A determinação do nexo causal para fins de responsabilização legal.",
@@ -3872,7 +3872,7 @@ const questoes = [
     "gabaritoComentado": "A análise de acidentes e doenças relacionadas ao trabalho deve considerar as situações geradoras dos eventos, levando em conta as atividades efetivamente desenvolvidas, ambiente de trabalho, materiais, processo produtivo, organização do trabalho e outros fatores relacionados com os eventos (subitem 1.5.5.5.2, “a”, da NR 1)."
   },
   {
-    "tema": "GERENCIAMENTO DE RISCOS OCUPACIONAIS",
+    "tema": "GRO",
     "pergunta": "O documento sobre critérios utilizados no GRO/PGR deve detalhar, no mínimo:",
     "alternativa1": "O cronograma de implementação das medidas de controle e os responsáveis por cada ação.",
     "alternativa2": "Os dados completos de todos os acidentes de trabalho ocorridos nos últimos 5 anos.",
@@ -3883,7 +3883,7 @@ const questoes = [
     "gabaritoComentado": "O documento sobre critérios deve conter, no mínimo, o detalhamento sobre os critérios das gradações de severidade e probabilidade, os níveis de risco resultantes da combinação e os critérios de classificação de riscos e de tomada de decisão (subitem 1.5.4.4.2.2, da NR 1)."
   },
   {
-    "tema": "GERENCIAMENTO DE RISCOS OCUPACIONAIS",
+    "tema": "GRO",
     "pergunta": "Qual é o papel da participação dos trabalhadores no Gerenciamento de Riscos Ocupacionais (GRO), conforme a NR 1?",
     "alternativa1": "É dispensável, desde que a empresa possua um SESMT atuante.",
     "alternativa2": "Restringe-se ao cumprimento das normas e procedimentos estabelecidos pela empresa.",
@@ -3894,7 +3894,7 @@ const questoes = [
     "gabaritoComentado": "A organização deverá dispor de meios eficientes para consultar os trabalhadores, podendo utilizar as manifestações da CIPA ou adotar outros meios de consulta para que os trabalhadores sejam encorajados a participar ativamente de todas as fases do gerenciamento."
   },
   {
-    "tema": "GERENCIAMENTO DE RISCOS OCUPACIONAIS",
+    "tema": "GRO",
     "pergunta": "O monitoramento das condições ambientais e exposições a agentes nocivos, quando aplicável, é uma das formas de:",
     "alternativa1": "Elaboração do Programa de Controle Médico de Saúde Ocupacional (PCMSO).",
     "alternativa2": "Determinação do grau de risco da empresa, conforme a NR 4.",
@@ -3905,7 +3905,7 @@ const questoes = [
     "gabaritoComentado": "O monitoramento das condições ambientais e exposições a agentes nocivos é uma das quatro formas de acompanhamento do desempenho das medidas de prevenção estabelecidas pela NR 1 (subitem 1.5.5.3.2, “c”)."
   },
   {
-    "tema": "GERENCIAMENTO DE RISCOS OCUPACIONAIS",
+    "tema": "GRO",
     "pergunta": "Na ausência de limites de tolerância previstos na NR 15, quais referências devem ser utilizadas para a adoção de medidas de prevenção relativas a agentes químicos?",
     "alternativa1": "Os valores de referência toxicológicos estabelecidos pela ANVISA.",
     "alternativa2": "Os limites de exposição ocupacional de outras normas internacionais reconhecidas.",
@@ -3916,7 +3916,7 @@ const questoes = [
     "gabaritoComentado": "Somado ao fato que, na ausência de limites de tolerância, previstos na NR 15 e seus anexos, devem ser utilizados como referência para a adoção de medidas de prevenção àqueles estabelecidos em organizações internacionais reconhecidas."
   },
   {
-    "tema": "GERENCIAMENTO DE RISCOS OCUPACIONAIS",
+    "tema": "GRO",
     "pergunta": "Qual é o prazo mínimo para que o relatório da Análise Ergonômica do Trabalho (AET), quando realizada, fique à disposição na organização?",
     "alternativa1": "5 anos.",
     "alternativa2": "10 anos.",
@@ -3927,7 +3927,7 @@ const questoes = [
     "gabaritoComentado": "A NR 17, no item 17.3.8, define que a organização deve garantir que o relatório da AET, quando realizada, deve ficar à disposição na organização pelo prazo de 20 (vinte) anos."
   },
   {
-    "tema": "GERENCIAMENTO DE RISCOS OCUPACIONAIS",
+    "tema": "GRO",
     "pergunta": "Em que situação a Norma Regulamentadora nº 1 (NR 1) estabelece que o GRO não deve ser utilizado?",
     "alternativa1": "Para a elaboração do Programa de Controle Médico de Saúde Ocupacional (PCMSO).",
     "alternativa2": "Para o planejamento e implementação de medidas de prevenção de acidentes.",
@@ -3938,7 +3938,7 @@ const questoes = [
     "gabaritoComentado": "O GRO não deve ser utilizado para fins de caracterização de atividades ou operações insalubres ou perigosas. Para tanto, devem ser aplicadas as disposições previstas na NR 15 e NR 16 (item 1.5.2, da NR 1)."
   },
   {
-    "tema": "GERENCIAMENTO DE RISCOS OCUPACIONAIS",
+    "tema": "GRO",
     "pergunta": "A hierarquia de controle de riscos preconizada pela NR 1 prioriza as medidas de proteção coletiva. Em quais situações podem ser adotadas outras medidas?",
     "alternativa1": "Quando o custo das medidas de proteção coletiva for muito elevado.",
     "alternativa2": "Quando comprovada pela organização a inviabilidade técnica da adoção de medidas de proteção coletiva ou quando estas não forem suficientes ou estiverem em fase de estudo, planejamento ou implementação.",
@@ -3949,7 +3949,7 @@ const questoes = [
     "gabaritoComentado": "A prioridade sempre deve ser a adoção de medidas de proteção coletiva. Contudo, em decorrência de algumas situações, podem ser adotadas outras medidas: quando comprovada pela organização a inviabilidade técnica da adoção de medidas de proteção coletiva ou quando estas não forem suficientes ou estiverem em fase de estudo, planejamento ou implementação."
   },
   {
-    "tema": "GERENCIAMENTO DE RISCOS OCUPACIONAIS",
+    "tema": "GRO",
     "pergunta": "Qual das alternativas abaixo não representa uma etapa estabelecida pela NR 1 para o processo de identificação de perigos?",
     "alternativa1": "Descrição dos perigos e possíveis lesões ou agravos à saúde.",
     "alternativa2": "Identificação das fontes e/ou circunstâncias.",
@@ -3960,7 +3960,7 @@ const questoes = [
     "gabaritoComentado": "A etapa de identificação de perigos, conforme o subitem 1.5.4.3.1 da NR 1, inclui a descrição dos perigos, a identificação das fontes/circunstâncias e a indicação dos trabalhadores sujeitos ao perigo. A determinação da probabilidade ocorre na etapa de avaliação de riscos."
   },
   {
-    "tema": "GERENCIAMENTO DE RISCOS OCUPACIONAIS",
+    "tema": "GRO",
     "pergunta": "Segundo a NR 1, o detalhamento dos critérios utilizados para avaliação e classificação de riscos é parte da documentação:",
     "alternativa1": "Do Programa de Controle Médico de Saúde Ocupacional (PCMSO).",
     "alternativa2": "Do relatório anual do SESMT.",
@@ -3971,7 +3971,7 @@ const questoes = [
     "gabaritoComentado": "A documentação do PGR inclui o detalhamento dos critérios utilizados para avaliação e classificação de riscos (subitem 1.5.4.4.2.2, da NR 1)."
   },
   {
-    "tema": "GERENCIAMENTO DE RISCOS OCUPACIONAIS",
+    "tema": "GRO",
     "pergunta": "Em qual situação específica a NR 1 prevê a necessidade de se considerar as condições de trabalho, incluindo os fatores de risco psicossociais relacionados ao trabalho?",
     "alternativa1": "Na elaboração do Laudo Técnico das Condições Ambientais do Trabalho (LTCAT).",
     "alternativa2": "No processo de identificação de perigos do Gerenciamento de Riscos Ocupacionais (GRO).",
@@ -3982,7 +3982,7 @@ const questoes = [
     "gabaritoComentado": "A NR 1 destaca expressamente que o GRO “deve abranger os riscos que decorrem dos agentes físicos, químicos, biológicos, riscos de acidentes e riscos ergonômicos”, e nesse processo, a organização deve considerar as condições de trabalho, nos termos da NR 17 – Ergonomia, incluindo os fatores de risco psicossociais relacionados ao trabalho (subitens 1.5.3.1.4 e 1.5.3.2.1, da NR 1)."
   },
   {
-    "tema": "GERENCIAMENTO DE RISCOS OCUPACIONAIS",
+    "tema": "GRO",
     "pergunta": "Qual é a principal implicação da constatação de ocorrência ou agravamento de doenças relacionadas ao trabalho no contexto do GRO, segundo a NR 1 e a NR 7?",
     "alternativa1": "Apenas o afastamento do trabalhador para tratamento médico.",
     "alternativa2": "A emissão da Comunicação de Acidente de Trabalho (CAT) e a reavaliação dos riscos ocupacionais e medidas de prevenção.",
