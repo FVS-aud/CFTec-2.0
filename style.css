@@ -1,0 +1,197 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    text-align: center;
+    color: #337ab7;
+}
+
+#admin-area, #main-content {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input[type="text"], textarea, select {
+    width: calc(100% - 12px);
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+textarea {
+    resize: vertical;
+    min-height: 100px;
+}
+
+button {
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1em;
+    margin-right: 10px;
+}
+
+button:hover {
+    opacity: 0.8; /* Diminui a opacidade no hover para feedback */
+}
+
+#alternativas label {
+    font-weight: normal;
+    margin-bottom: 8px;
+    display: block;
+}
+
+#resultado {
+    margin-top: 15px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.correta {
+    color: green;
+    font-weight: bold;
+}
+
+.incorreta {
+    color: red;
+    font-weight: bold;
+}
+
+#contador {
+    margin-top: 20px;
+    font-size: 0.9em;
+}
+
+/* Estilos para tornar o layout responsivo (para celulares) */
+@media (max-width: 600px) {
+    .container {
+        margin: 10px;
+        padding: 15px;
+    }
+
+    input[type="text"], textarea, select, button {
+        font-size: 0.9em;
+        padding: 8px;
+    }
+}
+
+#contador {
+    margin-top: 20px;
+    font-size: 1em;
+    font-weight: bold;
+    color: #333;
+}
+
+.status-resolvidas {
+    color: #777;
+}
+
+.status-acertos {
+    color: green;
+}
+
+.status-erros {
+    color: red;
+}
+
+.fechar-resultado {
+    color: #aaa;
+    font-size: 1.2em;
+    font-weight: normal;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+/* Botões da área de administração */
+#adicionar-questao-btn {
+    background-color: #007bff; /* Azul: Adicionar/Criar */
+}
+
+#resetar-questoes-btn {
+    background-color: #ffc107; /* Amarelo: Atenção/Limpar */
+    color: #212529; /* Preto para melhor contraste em amarelo */
+}
+
+#carregar-questoes-btn {
+    background-color: #17a2b8; /* Ciano: Informação/Importar */
+}
+
+#salvar-questao-btn {
+    background-color: #28a745; /* Verde: Sucesso/Salvar */
+}
+
+#cancelar-questao-btn {
+    background-color: #dc3545; /* Vermelho: Erro/Cancelar */
+}
+
+/* Botões da área de questões */
+#responder-btn {
+    background-color: #28a745; /* Verde: Ação principal positiva */
+}
+
+#proxima-questao-btn {
+    background-color: #007bff; /* Azul: Navegação */
+}
+
+/* Botões de exclusão e refazer */
+.excluir-questao {
+    background-color: #dc3545; /* Vermelho: Ação destrutiva */
+}
+
+.refazer-questao {
+    background-color: #007bff; /* Azul: Ação secundária */
+}
+
+#questoes-erradas-container {
+    margin-top: 30px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.questao-errada {
+    margin-bottom: 10px;
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.refazer-questao {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.refazer-questao:hover {
+    background-color: #0056b3;
+}

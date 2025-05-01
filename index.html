@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CF AFT 2025</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>CF AFT 2025 - Resolução de Questões</h1>
+
+        <div id="admin-area">
+            <h2>Gerenciamento de Questões</h2>
+            <button id="adicionar-questao-btn">Adicionar Questão</button>
+            <button id="resetar-questoes-btn">Resetar Questões</button>
+            <button id="carregar-questoes-btn">Carregar Questões (JSON)</button>
+            <input type="file" id="arquivo-questoes" accept=".json" style="display: none;">
+            <div id="mensagem-carregamento"></div>
+            <div id="formulario-questao" style="display: none;">
+                <label for="tema">Tema/Matéria:</label>
+                <input type="text" id="tema"><br><br>
+
+                <label for="pergunta">Pergunta:</label>
+                <textarea id="pergunta"></textarea><br><br>
+
+                <label for="alternativa1">Alternativa A:</label>
+                <input type="text" id="alternativa1"><br><br>
+
+                <label for="alternativa2">Alternativa B:</label>
+                <input type="text" id="alternativa2"><br><br>
+
+                <label for="alternativa3">Alternativa C:</label>
+                <input type="text" id="alternativa3"><br><br>
+
+                <label for="alternativa4">Alternativa D:</label>
+                <input type="text" id="alternativa4"><br><br>
+
+                <label for="alternativa5">Alternativa E:</label>
+                <input type="text" id="alternativa5"><br><br>
+
+                <label for="resposta-correta">Resposta Correta (A, B, C, D ou E):</label>
+                <input type="text" id="resposta-correta"><br><br>
+
+                <label for="gabarito-comentado">Gabarito Comentado:</label>
+                <textarea id="gabarito-comentado"></textarea><br><br>
+
+                <button id="salvar-questao-btn">Salvar</button>
+                <button id="cancelar-questao-btn">Cancelar</button>
+            </div>
+        </div>
+
+        <div id="main-content">
+            <label for="filtro-tema">Filtrar por Tema:</label>
+            <select id="filtro-tema">
+                <option value="todos">Todas as Matérias</option>
+            </select>
+
+            <div id="questao-container">
+                <p id="pergunta-texto"></p>
+                <form id="alternativas">
+                    <label><input type="radio" name="alternativa" value="A"> <span id="alt-a"></span></label><br>
+                    <label><input type="radio" name="alternativa" value="B"> <span id="alt-b"></span></label><br>
+                    <label><input type="radio" name="alternativa" value="C"> <span id="alt-c"></span></label><br>
+                    <label><input type="radio" name="alternativa" value="D"> <span id="alt-d"></span></label><br>
+                    <label><input type="radio" name="alternativa" value="E"> <span id="alt-e"></span></label><br>
+                    <button type="submit" id="responder-btn">Responder</button>
+                </form>
+                <div id="resultado" style="display: none;">
+                    <p id="mensagem-resultado"></p>
+                    <p id="gabarito"></p>
+                    <button id="proxima-questao-btn">Próxima Questão</button>
+                </div>
+                <div class="contador-tema">
+                    Tema: <span id="tema-atual"></span> - Questão <span id="questao-atual">1</span> de <span id="total-questoes-tema">0</span> (<span class="status-resolvidas"><span id="questoes-resolvidas-tema">0</span> Resolvidas</span>, <span class="status-acertos"><span id="acertos-tema">0</span> Acertos</span> e <span class="status-erros"><span id="incorretas-tema">0</span> Erros</span>)
+                </div>
+            </div>
+        </div>
+
+        <div id="questoes-erradas-container">
+            <h2>Questões Erradas para Refazer</h2>
+            <div id="questoes-erradas-lista"></div>
+        </div>
+    </div>
+
+    <script src="questoes.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
