@@ -1319,7 +1319,6 @@ const questoes = [
     "respostaCorreta": "D",
     "gabaritoComentado": "Justificativa: Escorregamento (sujeira/óleo) e tropeços (obstáculos) são\nfatores comuns. Prevenção inclui limpeza/antiderrapante, corrimãos e remoção de obstáculos. (Apostila Vol IV, págs. 250, 259)."
   },
-  [
   {
     "tema": "MIOTO 1",
     "pergunta": "A higiene ocupacional opera com foco nos agentes químicos, físicos, biológicos, na ergonomia e nos acidentes de trabalho.",
