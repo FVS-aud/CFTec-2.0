@@ -703,8 +703,349 @@ const questoes = [
     "respostaCorreta": "C",
     "gabaritoComentado": "É importante que a análise tenha profundidade, buscando as raízes dos problemas que culminaram em um erro humano. Analisar o AT para encontrar os fatores causais subjacentes e latentes é uma forma de cortar o mal pela raiz e contribuir para uma gestão mais eficaz de riscos."
   },
+    {
+    "tema": "TOXICOLOGIA OCUPACIONAL",
+    "pergunta": "Os Indicadores Biológicos do Tipo 1, conforme descritos nos textos, referem-se àqueles que:",
+    "alternativa1": "Indicam alterações no organismo resultantes da ação do agente químico, servindo como indicativos de adoecimento e permitindo a avaliação direta do risco e prevenção de efeitos nocivos.",
+    "alternativa2": "São utilizados eticamente para identificar indivíduos mais suscetíveis a xenobióticos em processos seletivos.",
+    "alternativa3": "São absorvidos já ativos e produzidos nas fases do metabolismo ou biotransformação de substâncias, como benzo(a)pireno e 1,3 butadieno.",
+    "alternativa4": "Revelam a exposição a uma substância tóxica específica e são determinados em candidatos a emprego.",
+    "alternativa5": "Não permitem avaliar diretamente o risco, sendo utilizados apenas para monitoramento da exposição.",
+    "respostaCorreta": "A",
+    "gabaritoComentado": "O texto descreve os Indicadores Biológicos do Tipo 1 como aqueles que 'Revelam alterações no organismo resultantes da ação do agente químico em qualquer tecido, órgão ou sistema, sendo, portanto, indicativos de adoecimento, em virtude da exposição àquele agente químico'. Eles permitem 'avaliar diretamente o risco e prevenir a manifestação de efeitos nocivos'. A alternativa B espelha essa descrição."
+  },
   {
-    "tema": "ERGONOMIA",
+    "tema": "TOXICOLOGIA OCUPACIONAL",
+    "pergunta": "Segundo o texto, o que ocorre geralmente com os valores dos Limites de Exposição Ocupacional (LEO) ao longo do tempo, em função da descoberta de novos efeitos nocivos de agentes químicos em concentrações cada vez mais baixas?",
+    "alternativa1": "Eles ficam cada vez maiores.",
+    "alternativa2": "Eles permanecem constantes.",
+    "alternativa3": "Eles ficam cada vez menores.",
+    "alternativa4": "Eles são descontinuados.",
+    "alternativa5": "Eles são substituídos por indicadores de suscetibilidade.",
+    "respostaCorreta": "C",
+    "gabaritoComentado": "O texto afirma que, de uma forma geral, os valores dos LEO 'ficam cada vez menores com o passar do tempo, em função da descoberta de novos efeitos nocivos de agentes químicos em concentrações cada vez mais baixas'."
+  },
+  {
+    "tema": "TOXICOLOGIA OCUPACIONAL",
+    "pergunta": "Os exames complementares no âmbito do PCMSO, especialmente aqueles previstos nos anexos da NR 7, são obrigatórios e fundamentais para:",
+    "alternativa1": "Identificar indivíduos mais suscetíveis de serem afetados por um xenobiótico em processos seletivos.",
+    "alternativa2": "Identificar eventuais agravos, mesmo subclínicos, decorrentes da exposição dos trabalhadores a riscos ocupacionais e para a monitorização da exposição ocupacional a agentes químicos.",
+    "alternativa3": "Avaliar o desempenho dos trabalhadores para fins de remuneração e vantagens.",
+    "alternativa4": "Validar as medidas de prevenção ergonômica adotadas pela organização.",
+    "alternativa5": "Determinar a probabilidade de ocorrência de acidentes no trabalho em altura.",
+    "respostaCorreta": "B",
+    "gabaritoComentado": "O texto afirma que os exames complementares previstos nos anexos da NR 7 (para agentes específicos e substâncias cancerígenas) são 'fundamentais para identificar eventuais agravos, mesmo subclínicos, decorrentes da exposição dos trabalhadores a riscos ocupacionais neles especificados', e outros (para substâncias químicas) são 'utilizados para monitorização da exposição ocupacional aos agentes químicos ali relacionados'."
+  },
+  {
+    "tema": "TOXICOLOGIA OCUPACIONAL",
+    "pergunta": "Qual é a definição de 'perigo' apresentada nos textos?",
+    "alternativa1": "A chance de algo dar errado.",
+    "alternativa2": "A combinação de severidade e probabilidade.",
+    "alternativa3": "O nível de risco ocupacional.",
+    "alternativa4": "Qualquer coisa que possa causar danos.",
+    "alternativa5": "A classificação dos riscos para fins de plano de ação.",
+    "respostaCorreta": "D",
+    "gabaritoComentado": "O texto apresenta a definição de perigo como 'Qualquer coisa que possa causar danos'."
+  },
+  {
+    "tema": "TOXICOLOGIA OCUPACIONAL",
+    "pergunta": "Segundo o texto, qual é um fator de grande importância na avaliação da toxicidade de carcinogênicos e na elaboração de limites de exposição pelas agências de regulação?",
+    "alternativa1": "A experiência e o nível de aprendizagem dos trabalhadores.",
+    "alternativa2": "A higienização diária dos módulos em frentes de trabalho.",
+    "alternativa3": "O uso de ranking de comparação de resultados ou metas.",
+    "alternativa4": "A classificação dos fluidos em caldeiras e vasos de pressão.",
+    "alternativa5": "A mutação do DNA.",
+    "respostaCorreta": "E",
+    "gabaritoComentado": "O texto afirma que 'a mutação do DNA, sendo esta questão de grande importância na avaliação da toxicidade de carcinogênicos e na elaboração de limites de exposição pelas agências de regulação'."
+  },
+  {
+    "tema": "TOXICOLOGIA OCUPACIONAL",
+    "pergunta": "No contexto do Gerenciamento de Riscos Ocupacionais (GRO), a avaliação da probabilidade de ocorrência das lesões ou agravos à saúde pode estar vinculada à comparação do perfil de exposição ocupacional com valores de referência ou à aplicação de outros critérios estabelecidos em qual Norma Regulamentadora (NR)?",
+    "alternativa1": "NR 9.",
+    "alternativa2": "NR 12.",
+    "alternativa3": "NR 17.",
+    "alternativa4": "NR 7.",
+    "alternativa5": "NR 35.",
+    "respostaCorreta": "A",
+    "gabaritoComentado": "O texto afirma que a avaliação da probabilidade 'está vinculada a comparação do perfil de exposição ocupacional com valores de referência estabelecidos na NR 9 ou a aplicação de outros critérios estabelecidos na NR 9'."
+  },
+  {
+    "tema": "TOXICOLOGIA OCUPACIONAL",
+    "pergunta": "Considerando a classificação de agentes químicos e sua relação com o material genético, um carcinogênico pode ter seu modo de ação classificado como:",
+    "alternativa1": "Metabólico ou biotransformador.",
+    "alternativa2": "Não genotóxico ou genotóxico.",
+    "alternativa3": "Suscetível ou não suscetível.",
+    "alternativa4": "Adaptativo ou não adaptativo.",
+    "alternativa5": "Tipo 1 ou tipo 2.",
+    "respostaCorreta": "B",
+    "gabaritoComentado": "O texto estabelece que 'O modo de ação de um carcinogênico pode ser não genotóxico ou genotóxico'."
+  },
+  {
+    "tema": "TOXICOLOGIA OCUPACIONAL",
+    "pergunta": "O texto menciona que, no exame admissional, exames complementares realizados nos 90 dias anteriores podem ser aceitos. Contudo, uma condição para a realização de *outros* exames complementares, além dos previstos nos anexos da NR 7, é que eles sejam:",
+    "alternativa1": "Aprovados pelo órgão de âmbito nacional competente em matéria de segurança e saúde no trabalho.",
+    "alternativa2": "Relacionados aos riscos ergonômicos identificados na avaliação preliminar.",
+    "alternativa3": "Tecnicamente justificados pelo médico responsável pelo PCMSO e relacionados aos riscos ocupacionais identificados e avaliados.",
+    "alternativa4": "Capazes de identificar indivíduos mais suscetíveis de serem afetados por xenobióticos.",
+    "alternativa5": "Dispensados de serem registrados em prontuário médico individual.",
+    "respostaCorreta": "C",
+    "gabaritoComentado": "O texto estabelece que outros exames complementares 'podem ser realizados, desde que relacionados aos riscos ocupacionais identificados e avaliados, e se tecnicamente justificados pelo médico responsável pelo PCMSO'."
+  },
+  {
+    "tema": "TOXICOLOGIA OCUPACIONAL",
+    "pergunta": "No contexto da gestão de riscos ocupacionais, as Normas Regulamentadoras (NRs) brasileiras se integram. Qual NR se destaca como aquela que prevê a estrutura sistematizada para identificação de perigos, avaliação de riscos e controle de riscos, alcançando todos os perigos e riscos ocupacionais na organização, e que deve estar articulada com ações de saúde?",
+    "alternativa1": "NR 7.",
+    "alternativa2": "NR 9.",
+    "alternativa3": "NR 17.",
+    "alternativa4": "NR 5.",
+    "alternativa5": "NR 1.",
+    "respostaCorreta": "E",
+    "gabaritoComentado": "O texto descreve a NR 1 como a norma que 'prevê uma estrutura sistematizada dos processos de identificação de perigos, avaliação dos riscos ocupacionais e controle dos riscos ocupacionais, alcançando todos os perigos e riscos ocupacionais existentes na organização' e que 'deve estar articulado com ações de saúde'."
+  },
+  {
+    "tema": "TOXICOLOGIA OCUPACIONAL",
+    "pergunta": "O Inventário de Riscos Ocupacionais, conforme mencionado nos textos, prevê a integração do PGR com outras NRs. Quais NRs são explicitamente citadas nesse contexto de integração no inventário de riscos?",
+    "alternativa1": "NR 12 e NR 35.",
+    "alternativa2": "NR 6 e NR 18.",
+    "alternativa3": "NR 10 e NR 13.",
+    "alternativa4": "NR 9 e NR 17.",
+    "alternativa5": "NR 5 e NR 31.",
+    "respostaCorreta": "D",
+    "gabaritoComentado": "O texto afirma que o item do Inventário de Riscos 'prevê a integração do PGR com a NR 9 e NR 17'."
+  },
+  {
+    "tema": "TOXICOLOGIA OCUPACIONAL",
+    "pergunta": "A análise de acidentes e doenças relacionadas ao trabalho, conforme a NR 1, deve ser documentada. O que essa análise deve considerar, segundo o texto?",
+    "alternativa1": "As situações geradoras dos eventos, levando em conta as atividades, ambiente de trabalho, materiais, processo produtivo, organização do trabalho e outros fatores.",
+    "alternativa2": "Apenas o tipo de perigo, sem considerar o ambiente.",
+    "alternativa3": "Exclusivamente as falhas humanas.",
+    "alternativa4": "Somente os dados epidemiológicos da organização.",
+    "alternativa5": "Apenas as informações prestadas pelos trabalhadores.",
+    "respostaCorreta": "A",
+    "gabaritoComentado": "O texto cita o subitem 1.5.5.5.2, 'a', da NR 1, que define que a análise de acidentes e doenças deve 'considerar as situações geradoras dos eventos, levando em conta as atividades efetivamente desenvolvidas, ambiente de trabalho, materiais, processo produtivo, organização do trabalho e outros fatores relacionados com os eventos'."
+  },
+  {
+    "tema": "TOXICOLOGIA OCUPACIONAL",
+    "pergunta": "Qual documento integrante do Programa de Gerenciamento de Riscos (PGR) deve estabelecer, detalhadamente, os critérios que orientam a avaliação de riscos e a priorização das medidas de prevenção?",
+    "alternativa1": "O Relatório Analítico do PCMSO.",
+    "alternativa2": "O documento sobre critérios utilizados no GRO/PGR.",
+    "alternativa3": "O Inventário de Riscos Ocupacionais.",
+    "alternativa4": "O Plano de Ação.",
+    "alternativa5": "O Atestado de Saúde Ocupacional (ASO).",
+    "respostaCorreta": "B",
+    "gabaritoComentado": "O texto descreve o 'DOCUMENTO SOBRE CRITÉRIOS UTILIZADOS NO GRO/PGR' como essencial ao gerenciamento de riscos ocupacionais, pois 'ele deve estabelecer, detalhadamente, os critérios que orientam a avaliação de riscos e a priorização das medidas de prevenção'."
+  },
+  {
+    "tema": "TOXICOLOGIA OCUPACIONAL",
+    "pergunta": "Conforme os textos, por que os indicadores de suscetibilidade não são utilizados, via de regra, na monitorização biológica ocupacional?",
+    "alternativa1": "Por questões metodológicas, relacionadas à contaminação de produtos colhidos para análise.",
+    "alternativa2": "Porque detectam a exposição a uma substância tóxica específica, o que é desnecessário.",
+    "alternativa3": "Já que indicam apenas adoecimento e não a exposição direta ao agente químico.",
+    "alternativa4": "Pois sua determinação pode caracterizar discriminação em processos como seleção de candidatos a emprego, visto que ambientes de trabalho devem ser saudáveis para todos, inclusive os suscetíveis.",
+    "alternativa5": "Uma vez que são atualizados periodicamente e seus valores diminuem com o passar do tempo, tornando seu uso impraticável.",
+    "respostaCorreta": "D",
+    "gabaritoComentado": "O texto afirma que os indicadores de suscetibilidade 'Não são utilizados por questões éticas, pois detectam indivíduos mais susceptíveis de serem afetados por um xenobiótico, e a determinação de um indicador deste tipo em um candidato a emprego, por exemplo, caracteriza discriminação'. A alternativa C reflete essa informação."
+  },
+  {
+    "tema": "TOXICOLOGIA OCUPACIONAL",
+    "pergunta": "Em relação ao Gerenciamento de Riscos Ocupacionais (GRO), a NR 1 destaca que a organização deve considerar as condições de trabalho nos termos da NR 17 (Ergonomia), incluindo os fatores de risco psicossociais relacionados ao trabalho. Além disso, o GRO deve abranger os riscos que decorrem dos agentes:",
+    "alternativa1": "Apenas físicos e biológicos.",
+    "alternativa2": "Apenas ergonômicos e de acidentes.",
+    "alternativa3": "Que causam mutação do DNA.",
+    "alternativa4": "Somente aqueles com Limite de Exposição Ocupacional definido.",
+    "alternativa5": "Físicos, químicos, biológicos, riscos de acidentes e riscos ergonômicos (incluindo psicossociais).",
+    "respostaCorreta": "E",
+    "gabaritoComentado": "O texto cita o subitem 1.5.3.1.4, da NR 1, que destaca expressamente que o GRO 'deve abranger os riscos que decorrem dos agentes físicos, químicos, biológicos, riscos de acidentes e riscos ergonômicos'."
+  },
+  {
+    "tema": "TOXICOLOGIA OCUPACIONAL",
+    "pergunta": "Os Indicadores Biológicos que revelam alterações no organismo resultantes da ação do agente químico, sendo indicativos de adoecimento, são denominados, conforme o texto, como:",
+    "alternativa1": "Indicadores do Tipo 1.",
+    "alternativa2": "Indicadores de suscetibilidade.",
+    "alternativa3": "Indicadores de exposição.",
+    "alternativa4": "Indicadores de biotransformação.",
+    "alternativa5": "Indicadores genotóxicos.",
+    "respostaCorreta": "A",
+    "gabaritoComentado": "O texto descreve estes indicadores e afirma que 'Este tipo de indicador também é denominado do Tipo 1'."
+  },
+  {
+    "tema": "TOXICOLOGIA OCUPACIONAL",
+    "pergunta": "No que diz respeito aos riscos psicossociais, os textos e listam diversos fatores que podem ser considerados de risco. Qual dos itens a seguir NÃO é explicitamente mencionado como um fator de risco psicossocial nos textos?",
+    "alternativa1": "Pressão de tempo.",
+    "alternativa2": "Exposição a ruído contínuo ou intermitente.",
+    "alternativa3": "Baixo apoio social.",
+    "alternativa4": "Assédio moral.",
+    "alternativa5": "Baixo controle no trabalho.",
+    "respostaCorreta": "B",
+    "gabaritoComentado": "O texto e lista fatores como pressão de tempo, desequilíbrio esforço-recompensa, insegurança no emprego, baixo apoio social, assédio moral e baixo controle no trabalho como fatores de risco psicossociais. A exposição a ruído é listada como um perigo físico."
+  },
+  {
+    "tema": "TOXICOLOGIA OCUPACIONAL",
+    "pergunta": "Qual a principal via de absorção de agrotóxicos no trabalhador que deve ser evitada para a prevenção de intoxicação, segundo o texto?",
+    "alternativa1": "Via respiratória.",
+    "alternativa2": "Via injetável.",
+    "alternativa3": "Via auditiva.",
+    "alternativa4": "Via dérmica, inalatória ou oral.",
+    "alternativa5": "Via ocular.",
+    "respostaCorreta": "D",
+    "gabaritoComentado": "O texto afirma que, para a prevenção de intoxicação com agrotóxicos, deve-se evitar que o produto alcance alguma via de absorção no trabalhador, sendo as principais: 'a dérmica, a inalatória ou a oral'."
+  },
+  {
+    "tema": "TOXICOLOGIA OCUPACIONAL",
+    "pergunta": "Em relação ao Atestado de Saúde Ocupacional (ASO), previsto na NR 7, qual das seguintes informações deve, no mínimo, constar neste documento?",
+    "alternativa1": "Estatística de resultados anormais dos exames complementares por setor.",
+    "alternativa2": "Análise comparativa da incidência de doenças em relação ao relatório anterior.",
+    "alternativa3": "O horário de trabalho dos profissionais do SESMT.",
+    "alternativa4": "O número e tipo de eventos e doenças informadas nas CATs.",
+    "alternativa5": "Descrição dos perigos ou fatores de risco identificados e avaliados no ambiente de trabalho do trabalhador, ou a sua inexistência.",
+    "respostaCorreta": "E",
+    "gabaritoComentado": "O texto lista as informações mínimas que devem constar no ASO. A alternativa C ('Descrição dos perigos ou fatores de risco identificados e avaliados no seu ambiente de trabalho, que necessitem de controle médico ocupacional, ou a sua inexistência') é uma dessas informações."
+  },
+  {
+    "tema": "TOXICOLOGIA OCUPACIONAL",
+    "pergunta": "No âmbito do PCMSO, conforme a NR 7, quando constatadas alterações nos exames complementares previstos nos anexos, o que deve ser feito pelo médico responsável?",
+    "alternativa1": "Ignorar as alterações, pois são apenas indicativas de exposição.",
+    "alternativa2": "Afastar o trabalhador da função imediatamente, sem análise prévia.",
+    "alternativa3": "Analisar seu significado e repercussões para a saúde do trabalhador e adotar medidas visando identificar e corrigir eventuais exposições excessivas.",
+    "alternativa4": "Substituir os exames complementares por indicadores de suscetibilidade.",
+    "alternativa5": "Apenas registrar as alterações no prontuário médico individual.",
+    "respostaCorreta": "C",
+    "gabaritoComentado": "O texto estabelece que, ao constatar alterações nos exames complementares, o médico deve 'serem analisados quanto ao seu significado e repercussões para a saúde do trabalhador examinado, devendo ser adotadas medidas visando identificar e corrigir eventuais exposições excessivas aos agentes nocivos envolvidos'."
+  },
+  {
+    "tema": "TOXICOLOGIA OCUPACIONAL",
+    "pergunta": "De acordo com os textos, qual é o objetivo principal do Programa de Controle Médico de Saúde Ocupacional (PCMSO) no que se refere aos riscos ocupacionais?",
+    "alternativa1": "Estabelecer limites de exposição ocupacional para agentes químicos.",
+    "alternativa2": "Avaliar a aptidão física e mental dos trabalhadores para atividades em espaços confinados, sem integração com outros programas.",
+    "alternativa3": "Promover a saúde e evitar doenças, proativamente, e, caso ocorram, cuidar do trabalhador, encaminhando-o para tratamento e orientando melhorias para a prevenção de agravamento.",
+    "alternativa4": "Identificar os riscos ergonômicos em situações de trabalho por meio de análise ergonômica preliminar.",
+    "alternativa5": "Definir os procedimentos de respostas a cenários de emergências, como incêndios e vazamentos.",
+    "respostaCorreta": "C",
+    "gabaritoComentado": "O texto descreve a premissa definida no PCMSO e integrada no GRO como 'promover a saúde, evitar doenças, proativamente, mas, caso ocorram, cuidar do trabalhador, encaminhando-o para o devido tratamento e orientando melhorias para a prevenção de possível agravamento do quadro do trabalhador afetado e de outros que ali laboram'."
+  },
+  {
+    "tema": "TOXICOLOGIA OCUPACIONAL",
+    "pergunta": "Os textos citam a NR 9 - Avaliação e Controle das Exposições Ocupacionais a Agentes Físicos, Químicos e Biológicos. De acordo com essa NR, a adoção direta de medidas de prevenção está vinculada, conforme o texto, a qual condição?",
+    "alternativa1": "Ao risco ocupacional evidente, conforme previsto no levantamento preliminar de perigos e riscos da NR 1.",
+    "alternativa2": "À identificação de indivíduos mais suscetíveis.",
+    "alternativa3": "À realização obrigatória de exames médicos admissionais.",
+    "alternativa4": "À obtenção do Certificado de Aprovação (CA) para EPIs.",
+    "alternativa5": "À revisão bienal da avaliação de riscos.",
+    "respostaCorreta": "A",
+    "gabaritoComentado": "O texto afirma que 'A adoção direta de medidas de prevenção está vinculada ao risco ocupacional evidente, conforme previsto no levantamento preliminar de perigos e riscos da NR 1'."
+  },
+  {
+    "tema": "TOXICOLOGIA OCUPACIONAL",
+    "pergunta": "Qual dos fatores listados abaixo, conforme os textos, pode afetar a monitorização biológica de agentes químicos?",
+    "alternativa1": "A classificação da instituição que define os LEOs.",
+    "alternativa2": "Fatores relacionados com o modo de vida, como atividades com exposição ao agente fora do ambiente de trabalho.",
+    "alternativa3": "O modo de ação genotóxico ou não genotóxico de um agente.",
+    "alternativa4": "A definição de apto ou inapto no Atestado de Saúde Ocupacional (ASO).",
+    "alternativa5": "A periodicidade das inspeções de segurança em equipamentos de guindar.",
+    "respostaCorreta": "B",
+    "gabaritoComentado": "O texto lista 'Fatores relacionados com o modo de vida: atividades com exposição ao agente fora do ambiente de trabalho, higiene pessoal, hábitos de vida e de trabalho, outras exposições domésticas e de lazer' como fatores que afetam a monitorização biológica."
+  },
+  {
+    "tema": "TOXICOLOGIA OCUPACIONAL",
+    "pergunta": "A NR 1 estabelece que a avaliação de riscos deve ser revista a cada dois anos ou em situações específicas. Qual das seguintes situações, citada nos textos, obriga a revisão da avaliação de riscos?",
+    "alternativa1": "A simples constatação de adoecimento de um trabalhador, sem análise de causalidade.",
+    "alternativa2": "A realização de treinamento básico em segurança do trabalho.",
+    "alternativa3": "A solicitação justificada dos trabalhadores ou da CIPA.",
+    "alternativa4": "A emissão do Atestado de Saúde Ocupacional (ASO).",
+    "alternativa5": "O fornecimento de EPIs com Certificado de Aprovação (CA).",
+    "respostaCorreta": "C",
+    "gabaritoComentado": "O texto lista diversas situações que obrigam a revisão da avaliação de riscos, incluindo 'após a solicitação justificada dos trabalhadores ou da CIPA, quando houver'."
+  },
+  {
+    "tema": "TOXICOLOGIA OCUPACIONAL",
+    "pergunta": "O Inventário de Riscos Ocupacionais, parte do PGR, deve incluir uma série de informações mínimas. Qual das opções abaixo apresenta uma informação que deve constar no Inventário de Riscos?",
+    "alternativa1": "A data do último treinamento da CIPA.",
+    "alternativa2": "Os procedimentos para recebimento e acompanhamento de denúncias de assédio.",
+    "alternativa3": "O nome do profissional habilitado responsável pela inspeção de caldeiras.",
+    "alternativa4": "A caracterização da exposição dos trabalhadores aos perigos.",
+    "alternativa5": "A data do próximo simulado de emergência.",
+    "respostaCorreta": "D",
+    "gabaritoComentado": "O texto lista as informações mínimas que devem constar no Inventário de Riscos Ocupacionais, incluindo a alínea 'g) caracterização da exposição dos trabalhadores aos perigos'."
+  },
+  {
+    "tema": "TOXICOLOGIA OCUPACIONAL",
+    "pergunta": "Segundo os textos, informações sobre a carcinogenicidade de uma substância são normalmente fornecidas segundo uma classificação de instituições como a Agência Internacional de Pesquisa em Câncer. A avaliação da toxicidade de carcinogênicos e a elaboração de limites de exposição por agências de regulação consideram de grande importância a questão da mutação do DNA. Nesse contexto, qual tipo de ação está primariamente relacionado a essa mutação?",
+    "alternativa1": "Ação não genotóxica.",
+    "alternativa2": "Avaliação preliminar.",
+    "alternativa3": "Biotransformação.",
+    "alternativa4": "Metabolismo.",
+    "alternativa5": "Ação genotóxica.",
+    "respostaCorreta": "E",
+    "gabaritoComentado": "O texto afirma que 'primariamente ou não, a mutação do DNA' é uma questão de grande importância na avaliação da toxicidade de carcinogênicos e na elaboração de limites de exposição, e que 'O modo de ação de um carcinogênico pode ser não genotóxico ou genotóxico'. A mutação do DNA está relacionada à ação genotóxica."
+  },
+  {
+    "tema": "TOXICOLOGIA OCUPACIONAL",
+    "pergunta": "Qual Norma Regulamentadora (NR) brasileira contém a lista completa dos Indicadores Biológicos exigidos pela legislação, conforme mencionado nos textos?",
+    "alternativa1": "NR 7 - Programa de Controle Médico de Saúde Ocupacional (PCMSO).",
+    "alternativa2": "NR 9 - Avaliação e Controle das Exposições Ocupacionais a Agentes Físicos, Químicos e Biológicos.",
+    "alternativa3": "NR 17 - Ergonomia.",
+    "alternativa4": "NR 1 - Disposições Gerais e Gerenciamento de Riscos Ocupacionais.",
+    "alternativa5": "NR 12 - Segurança no Trabalho em Máquinas e Equipamentos.",
+    "respostaCorreta": "A",
+    "gabaritoComentado": "O texto menciona que 'A lista completa dos Indicadores Biológicos exigidos pela legislação brasileira se encontra nos Quadros 1 e 2, do Anexo I, da Norma Regulamentadora nº 7 – Programa de Controle Médico de Saúde Ocupacional – PCMSO'."
+  },
+  {
+    "tema": "TOXICOLOGIA OCUPACIONAL",
+    "pergunta": "Acerca dos Limites de Exposição Ocupacional (LEO) para agentes químicos, conforme abordado nos textos, assinale a opção correta.",
+    "alternativa1": "Os critérios para definição de LEO são uniformes entre todas as instituições de pesquisa.",
+    "alternativa2": "A atualização periódica dos LEO é realizada pelos diversos centros de pesquisa, e seus valores geralmente diminuem com o tempo.",
+    "alternativa3": "Os LEO tendem a aumentar com o tempo, devido à descoberta de efeitos nocivos em concentrações mais altas.",
+    "alternativa4": "Todos os LEO estabelecidos por centros de pesquisa possuem valor legal em seus respectivos países.",
+    "alternativa5": "A consulta a referências desatualizadas de LEO é aceitável, pois os valores permanecem constantes ao longo do tempo.",
+    "respostaCorreta": "B",
+    "gabaritoComentado": "De acordo com o texto, os critérios para definição de LEO variam entre instituições, apenas alguns têm valor legal e a maioria é atualizada periodicamente, com valores que geralmente diminuem com o passar do tempo em função da descoberta de novos efeitos nocivos em concentrações cada vez mais baixas. Portanto, a alternativa correta é a D."
+  },
+  {
+    "tema": "TOXICOLOGIA OCUPACIONAL",
+    "pergunta": "O texto indica ações que o empregador deve tomar ao ser informado pelo médico responsável pelo PCMSO sobre a ocorrência ou agravamento de doença relacionada ao trabalho. Qual das opções abaixo apresenta uma dessas ações?",
+    "alternativa1": "Realizar a Análise Ergonômica do Trabalho (AET) de forma imediata.",
+    "alternativa2": "Dispensar a elaboração do relatório analítico do PCMSO.",
+    "alternativa3": "Aprovar EPIs sem o Certificado de Aprovação (CA).",
+    "alternativa4": "Emitir eletronicamente a Comunicação de Acidente do Trabalho (CAT).",
+    "alternativa5": "Ignorar as recomendações de inspeções de segurança em caldeiras.",
+    "respostaCorreta": "D",
+    "gabaritoComentado": "O texto lista as ações que o empregador deve tomar. A alínea 'a' menciona 'Emitir eletronicamente a Comunicação de Acidente do Trabalho - CAT'."
+  },
+  {
+    "tema": "TOXICOLOGIA OCUPACIONAL",
+    "pergunta": "De acordo com os textos, qual a definição mais simples de 'risco' em Segurança e Saúde no Trabalho (SST)?",
+    "alternativa1": "Qualquer coisa que possa causar danos.",
+    "alternativa2": "Um tubarão.",
+    "alternativa3": "A chance de alguém ser prejudicado por um perigo, juntamente com a indicação da seriedade do dano que pode ser produzido.",
+    "alternativa4": "A interação da pessoa com o perigo.",
+    "alternativa5": "A ausência de exposição ao perigo.",
+    "respostaCorreta": "C",
+    "gabaritoComentado": "O texto define risco, em termos mais simples, como 'a chance de alguém ser prejudicado por um perigo, juntamente com a indicação da seriedade do dano que pode ser produzido'."
+  },
+  {
+    "tema": "TOXICOLOGIA OCUPACIONAL",
+    "pergunta": "Qual a finalidade principal do relatório analítico anual do PCMSO, conforme a NR 7?",
+    "alternativa1": "Identificar as falhas nos equipamentos de proteção individual (EPIs).",
+    "alternativa2": "Detalhar os critérios de gradação de severidade e probabilidade de riscos.",
+    "alternativa3": "Registrar a percepção dos riscos dos trabalhadores por meio de mapa de risco.",
+    "alternativa4": "Documentar a Análise Ergonômica do Trabalho (AET) de situações específicas.",
+    "alternativa5": "Apresentar dados sobre os exames clínicos e complementares realizados, estatísticas de resultados anormais e incidência/prevalência de doenças relacionadas ao trabalho, para análise e discussão com responsáveis pela SST e CIPA.",
+    "respostaCorreta": "E",
+    "gabaritoComentado": "O texto e descreve o conteúdo mínimo do relatório analítico anual do PCMSO, que inclui dados sobre exames, estatísticas de resultados anormais, incidência e prevalência de doenças relacionadas ao trabalho, informações de CATs e análise comparativa, e afirma que ele deve ser apresentado e discutido com os responsáveis pela SST e a CIPA."
+  },
+  {
+    "tema": "TOXICOLOGIA OCUPACIONAL",
+    "pergunta": "Conforme o texto, o que são os agentes que, mesmo não sendo absorvidos já ativos, podem ser produzidos nas fases do metabolismo ou da biotransformação de várias substâncias, citando como exemplos benzo(a)pireno e 1,3 butadieno?",
+    "alternativa1": "Produtos da biotransformação/metabolismo.",
+    "alternativa2": "Indicadores de suscetibilidade.",
+    "alternativa3": "Agentes genotóxicos.",
+    "alternativa4": "Fatores de risco psicossocial.",
+    "alternativa5": "Dispositivos de proteção pessoal.",
+    "respostaCorreta": "A",
+    "gabaritoComentado": "O texto descreve agentes que 'ser produzidos nas fases do metabolismo ou da biotransformação de várias substâncias, como o benzo(a)pireno e 1,3 butadieno'. Estes são exemplos de produtos da biotransformação ou metabolismo."
+  },
+  {
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "Acerca da Avaliação das Situações de Trabalho na NR 17, assinale a alternativa correta.",
     "alternativa1": "A Avaliação Ergonômica Preliminar (AEP) e a Análise Ergonômica do Trabalho (AET) são etapas alternativas, sendo que a realização de uma dispensa a outra, a critério da organização.",
     "alternativa2": "A AEP é a etapa de aprofundamento na avaliação ergonômica, realizada por meio de mensuração sistematizada de aspectos observáveis para diagnóstico.",
@@ -726,7 +1067,7 @@ const questoes = [
     "gabaritoComentado": "Segundo o item 17.3.2 da NR 17, a AET deve ser realizada para situações específicas quando observada a necessidade de uma avaliação mais aprofundada."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "A NR 17 estabelece etapas obrigatórias para a realização da Análise Ergonômica do Trabalho (AET). Qual das alternativas abaixo NÃO corresponde a uma dessas etapas?",
     "alternativa1": "Análise da demanda e, quando aplicável, reformulação do problema.",
     "alternativa2": "Análise do funcionamento da organização, dos processos, das situações de trabalho e da atividade.",
@@ -742,7 +1083,7 @@ const questoes = [
     "alternativa1": "A participação dos trabalhadores na AET se limita à coleta de informações pelo analista, sem necessidade de validação das medidas de correção.",
     "alternativa2": "A avaliação das situações de trabalho, seja AEP ou AET, deve ser feita com a participação dos próprios trabalhadores a partir da observação de situações reais.",
     "alternativa3": "A solicitação justificada dos trabalhadores ou da CIPA não constitui, por si só, um motivo para revisão da avaliação de riscos ocupacionais.",
-    "alternativa4": "Comitês de ergonomia, quando criados nas empresas, não possuem papel relevante na avaliação das demandas ergonômicas.",
+    "alternativa4": "Comitês de NR 17 - Ergonomia, quando criados nas empresas, não possuem papel relevante na avaliação das demandas ergonômicas.",
     "alternativa5": "A validação das medidas de correção da AET deve ser feita apenas pelos prepostos do empregador responsáveis.",
     "respostaCorreta": "B",
     "gabaritoComentado": "A avaliação das situações de trabalho (AEP ou AET) deve ser feita com a participação dos trabalhadores a partir da observação de situações reais. As medidas de correção da AET devem ser validadas e restituídas junto aos trabalhadores e partes interessadas na empresa. A solicitação justificada dos trabalhadores ou da CIPA é motivo para revisão da avaliação de riscos ocupacionais."
@@ -759,7 +1100,7 @@ const questoes = [
     "gabaritoComentado": "A NR 17, no item 17.3.5, dispensa ME e EPP (graus de risco 1 e 2) e MEI de elaborar a AET, mas não de atender aos demais requisitos. Contudo, ME/EPP (risco 1 e 2) devem realizar AET havendo evidências de associação entre agravos à saúde e riscos, ou causa relacionada a acidentes/doenças em análises."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "Os resultados da avaliação ergonômica, segundo a NR 1, devem ser integrados ao Programa de Gerenciamento de Riscos (PGR). Assinale a alternativa correta sobre essa integração.",
     "alternativa1": "Os resultados da AET devem integrar o inventário de riscos do PGR, mas os da AEP não precisam ser integrados.",
     "alternativa2": "Os dados da avaliação ergonômica preliminar (AEP) devem ser incorporados ao inventário de riscos do PGR, conforme previsto na NR 1.",
@@ -770,7 +1111,7 @@ const questoes = [
     "gabaritoComentado": "O item 131 da apostila e o subitem 1.5.7.3.2, 'h', da NR 1, preveem que o inventário de riscos deve conter os resultados da avaliação de ergonomia, nos termos da NR 17. Isso inclui os dados da AEP. A integração do PGR com outras NRs, como a NR 17, é fundamental."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "No que se refere à organização do trabalho, conforme a NR 17, qual dos seguintes aspectos deve ser abordado na análise?",
     "alternativa1": "Apenas os aspectos físicos e biomecânicos das tarefas.",
     "alternativa2": "O ritmo de trabalho e o conteúdo das tarefas.",
@@ -781,7 +1122,7 @@ const questoes = [
     "gabaritoComentado": "A análise da organização do trabalho, conforme item 17.4.1 da NR 17, deve abordar aspectos como normas de produção, modos operatórios, exigências de tempo, ritmo de trabalho, conteúdo das tarefas, meios técnicos disponíveis, além de aspectos cognitivos."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "As pausas para recuperação psicofisiológica dos trabalhadores, previstas na NR 17 para situações de trabalho contínuo e repetitivo, devem atender a certas condições. Assinale a alternativa incorreta.",
     "alternativa1": "As pausas devem ser computadas como tempo de trabalho efetivo.",
     "alternativa2": "A introdução das pausas não pode ser acompanhada de aumento da cadência individual.",
@@ -792,7 +1133,7 @@ const questoes = [
     "gabaritoComentado": "O item 17.4.3.1 lista pausas e alternância de atividades como medidas de prevenção. O item 17.4.3.2 estabelece que as pausas devem ser usufruídas fora dos postos de trabalho."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "Sobre os sistemas de avaliação de desempenho para fins de remuneração e vantagens, a NR 17 estabelece um critério importante. Qual é esse critério?",
     "alternativa1": "Devem ser baseados exclusivamente na produtividade individual.",
     "alternativa2": "Devem levar em consideração as repercussões sobre a saúde dos trabalhadores.",
@@ -803,7 +1144,7 @@ const questoes = [
     "gabaritoComentado": "O item 17.4.4 da NR 17 determina que qualquer sistema de avaliação de desempenho para efeito de remuneração e vantagens deve levar em consideração as repercussões sobre a saúde dos trabalhadores."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "A NR 17 proíbe certas práticas relacionadas ao trabalho que podem comprometer a segurança e saúde dos trabalhadores. Qual das alternativas abaixo apresenta uma prática proibida?",
     "alternativa1": "A organização do trabalho que inclua pausas programadas para recuperação psicofisiológica.",
     "alternativa2": "A utilização de ferramentas manuais com empunhadura apropriada à tarefa.",
@@ -814,7 +1155,7 @@ const questoes = [
     "gabaritoComentado": "O item 17.4.8 da NR 17 proíbe a exposição pública das avaliações de desempenho dos operadores, entre outras práticas."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "Considerando o carregamento manual de cargas, a NR 17 e o Manual de Aplicação da norma fornecem diretrizes. Em condições ideais de carregamento ocasional, com boa pega, distância vertical da pega de 75 cm e distância horizontal de 25 cm, qual a massa máxima da carga considerada aceitável para a maioria dos homens e mulheres?",
     "alternativa1": "15 kg.",
     "alternativa2": "20 kg.",
@@ -825,7 +1166,7 @@ const questoes = [
     "gabaritoComentado": "O manual de aplicação da NR 17, referenciado na apostila, indica que o carregamento de 23kg em condições ideais (ocasional, boa pega, V=75cm, H=25cm, sem torções ou posturas assimétricas) seria realizado por 75% das mulheres e 90% dos homens, sem grandes forças compressivas na coluna."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "No trabalho com máquinas, equipamentos e ferramentas manuais, a NR 17 remete a outra Norma Regulamentadora. Qual é essa norma?",
     "alternativa1": "NR 7 - Programa de Controle Médico de Saúde Ocupacional.",
     "alternativa2": "NR 9 - Avaliação e Controle das Exposições Ocupacionais a Agentes Físicos, Químicos e Biológicos.",
@@ -836,7 +1177,7 @@ const questoes = [
     "gabaritoComentado": "O item 17.7.1 da NR 17 ressalta que o trabalho com máquinas, equipamentos e ferramentas manuais deve atender, também, à NR 12."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "Sobre as condições de conforto no ambiente de trabalho, a NR 17 aborda a iluminação. Qual das alternativas descreve corretamente as exigências da norma para a iluminação?",
     "alternativa1": "A iluminação deve ser exclusivamente artificial, para manter padrões consistentes.",
     "alternativa2": "A iluminação deve ser forte e direta, para garantir visibilidade máxima.",
@@ -847,8 +1188,8 @@ const questoes = [
     "gabaritoComentado": "Os itens 17.8.1 e 17.8.2 da NR 17 determinam que a iluminação, natural ou artificial, geral ou suplementar, deve ser apropriada à natureza da atividade, evitando ofuscamento, reflexos e contrastes excessivos."
   },
   {
-    "tema": "ERGONOMIA",
-    "pergunta": "A postura no ambiente laboral é um aspecto relevante da ergonomia. Conforme o texto, como as posturas adotadas pelos trabalhadores são frequentemente determinadas?",
+    "tema": "NR 17 - Ergonomia",
+    "pergunta": "A postura no ambiente laboral é um aspecto relevante da NR 17 - Ergonomia. Conforme o texto, como as posturas adotadas pelos trabalhadores são frequentemente determinadas?",
     "alternativa1": "Por escolha pessoal do trabalhador, buscando maior conforto.",
     "alternativa2": "Pela imposição da gerência para aumentar a produtividade.",
     "alternativa3": "São assumidas muitas vezes para adaptação a condições de trabalho e espaços físicos não planejados para o trabalho humano.",
@@ -858,7 +1199,7 @@ const questoes = [
     "gabaritoComentado": "O texto afirma que as posturas adotadas pelos trabalhadores não são uma casualidade, mas são assumidas muitas vezes para adaptação a condições de trabalho e espaços físicos não planejados para o trabalho humano."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "Os aspectos cognitivos são parte integrante da organização do trabalho na NR 17. Qual das alternativas abaixo NÃO representa um aspecto cognitivo a ser considerado?",
     "alternativa1": "A exigência de tempo e o ritmo de trabalho.",
     "alternativa2": "O uso constante de memória e de tomadas de decisão.",
@@ -869,7 +1210,7 @@ const questoes = [
     "gabaritoComentado": "Os aspectos cognitivos referem-se aos mecanismos de desenvolvimento de conhecimentos, interpretação, classificação e organização das informações, incluindo memória, concentração, raciocínio e atenção, bem como fatores como tarefas complexas, tomadas de decisão e objetivos conflitantes. O levantamento, transporte e descarga de cargas é um aspecto físico/biomecânico, tratado em outro item da NR 17 (17.5)."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "O estresse no ambiente de trabalho pode ser classificado de diferentes formas. De acordo com o texto, quando o estresse é chamado de adaptativo?",
     "alternativa1": "Quando é resultado de assédio moral e pressão excessiva.",
     "alternativa2": "Quando está relacionado com o fracasso no uso de estratégias de defesa.",
@@ -880,7 +1221,7 @@ const questoes = [
     "gabaritoComentado": "O texto define o estresse adaptativo como aquele que, despertado por uma ameaça, é responsável pela autopreservação do indivíduo."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "Os fatores de risco psicossociais no trabalho, embora por vezes negligenciados, são relevantes para a saúde do trabalhador. Qual das alternativas abaixo NÃO representa um fator de risco psicossocial citado no texto ou na lista referencial de perigos?",
     "alternativa1": "Baixo apoio social no trabalho.",
     "alternativa2": "Desequilíbrio esforço-recompensa.",
@@ -891,7 +1232,7 @@ const questoes = [
     "gabaritoComentado": "O texto lista fatores como pressão de tempo, desequilíbrio esforço-recompensa, insegurança no emprego, baixo apoio social e assédio moral como fatores de risco psicossociais. A lista referencial de perigos inclui assédio, baixa clareza de papel/função, baixas recompensas, falta de suporte/apoio, e baixo controle/autonomia na categoria Ergonômico (incluindo Psicossocial). Exposição a ruído contínuo ou intermitente é classificada como perigo Físico."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "O assédio moral no trabalho é uma forma de violência psicológica. Qual das alternativas melhor descreve a natureza do assédio moral, segundo o texto?",
     "alternativa1": "É caracterizado por atitudes hostis e abusivas que atentam contra a dignidade e integridade psíquica ou física de uma pessoa.",
     "alternativa2": "Consiste exclusivamente em agressões físicas diretas e evidentes.",
@@ -902,7 +1243,7 @@ const questoes = [
     "gabaritoComentado": "O texto define assédio moral como uma forma de violência psicológica caracterizada por atitudes hostis e abusivas que atentam contra a dignidade e integridade psíquica ou física de uma pessoa. Embora envolva comportamentos sutis e raramente violências físicas diretas, ele atenta contra a integridade física ou psíquica."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "Certos fatores organizacionais podem facilitar ou propiciar práticas de assédio moral no ambiente de trabalho. Qual das alternativas abaixo NÃO representa um fator facilitador de assédio moral, conforme listado no texto?",
     "alternativa1": "Clareza de objetivos e expectativas para o trabalhador.",
     "alternativa2": "Competição interna excessiva.",
@@ -913,7 +1254,7 @@ const questoes = [
     "gabaritoComentado": "O Quadro 4 lista fatores que facilitam/propiciam assédio moral, incluindo falta de objetivos e expectativas claras, competição interna, deficiência no comportamento dos líderes e falta de procedimentos para resolução de conflitos. Carga excessiva de trabalho também é apontada como facilitador. Clareza de objetivos seria um fator protetivo, não facilitador."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "A gestão baseada no estresse é uma estratégia que pode ter consequências negativas para a saúde do trabalhador, embora não pretenda destruí-lo. Qual alternativa descreve uma prática comum na gestão por estresse?",
     "alternativa1": "Promoção da autonomia e do desenvolvimento pessoal.",
     "alternativa2": "Criação de canais abertos de diálogo para resolução de conflitos.",
@@ -924,7 +1265,7 @@ const questoes = [
     "gabaritoComentado": "O texto cita como exemplos de gestão por estresse práticas como cobranças constantes, supervisão exagerada, comparações de desempenho, rankings de produtividade e metas muito exigentes."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "A integração da ergonomia no Gerenciamento de Riscos Ocupacionais (GRO) é fundamental, conforme a NR 1. Qual a finalidade principal do GRO?",
     "alternativa1": "Caracterizar atividades ou operações insalubres ou perigosas.",
     "alternativa2": "Substituir as Normas Regulamentadoras específicas de SST.",
@@ -935,7 +1276,7 @@ const questoes = [
     "gabaritoComentado": "Conforme a NR 1, a finalidade do GRO é proporcionar locais de trabalho seguros e saudáveis, prevenir lesões e agravos à saúde relacionados com o trabalho e melhorar o desempenho em Segurança e Saúde do Trabalho nas organizações. O GRO não deve ser usado para caracterizar insalubridade ou periculosidade."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "O Inventário de Riscos Ocupacionais é um documento essencial do PGR. Qual das informações abaixo NÃO é expressamente exigida para constar no inventário de riscos, segundo a NR 1?",
     "alternativa1": "Descrição dos perigos, com identificação das fontes e/ou circunstâncias.",
     "alternativa2": "Indicação dos grupos de trabalhadores expostos aos perigos.",
@@ -946,7 +1287,7 @@ const questoes = [
     "gabaritoComentado": "O Inventário de Riscos Ocupacionais deve conter, no mínimo, identificação de perigos, indicação de grupos expostos, descrição de medidas de prevenção, caracterização da exposição, dados de avaliações (incluindo ergonomia), avaliação e classificação dos riscos. Embora a análise de acidentes subsidie a revisão do PGR, o inventário não exige um histórico detalhado de acidentes com identificação de vítimas."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "Os indicadores biológicos do Tipo 1, mencionados no texto, são utilizados na avaliação da ação de agentes químicos no organismo. Qual a característica principal desses indicadores?",
     "alternativa1": "Detectam indivíduos mais susceptíveis a serem afetados por xenobióticos e não são utilizados por questões éticas.",
     "alternativa2": "Indicam adoecimento em virtude da exposição a agentes químicos, sendo identificados precocemente e devendo ser reversíveis.",
@@ -957,7 +1298,7 @@ const questoes = [
     "gabaritoComentado": "Indicadores biológicos do Tipo 1 revelam alterações no organismo resultantes da ação do agente químico, sendo indicativos de adoecimento. Devem ser identificados precocemente e ser reversíveis. Indicadores de susceptibilidade não são usados por questões éticas."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "O Programa de Controle Médico de Saúde Ocupacional (PCMSO), conforme a NR 7 e sua integração com o PGR, deve descrever os possíveis agravos à saúde relacionados aos riscos ocupacionais identificados e avaliados nos ambientes de trabalho dos trabalhadores. Qual das ações abaixo deve ser adotada pelo empregador, após ser informado pelo médico responsável, caso seja constatada ocorrência ou agravamento de doença relacionada ao trabalho?",
     "alternativa1": "Garantir que o trabalhador continue exposto à situação de risco para monitoramento.",
     "alternativa2": "Realizar apenas o exame demissional imediatamente.",
@@ -968,7 +1309,7 @@ const questoes = [
     "gabaritoComentado": "Segundo o item 7.5.19.5 da NR 7, caso constatada doença relacionada ao trabalho, o empregador deve, após informado pelo médico, emitir a CAT, afastar o trabalhador (quando necessário), encaminhá-lo à Previdência Social (afastamento > 15 dias) e reavaliar os riscos ocupacionais e medidas de prevenção."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "O prontuário médico individual do trabalhador, que registra dados dos exames clínicos e complementares, deve ser mantido sob a responsabilidade do médico responsável. Por quanto tempo, no mínimo, este prontuário deve ser mantido após o desligamento do trabalhador?",
     "alternativa1": "Por 5 anos.",
     "alternativa2": "Por 10 anos.",
@@ -979,7 +1320,7 @@ const questoes = [
     "gabaritoComentado": "Os dados dos exames clínicos e complementares devem ser registrados em prontuário médico individual e mantidos por, no mínimo, 20 anos após o desligamento do trabalhador."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "Qual a definição de Perigo, em termos simples, conforme apresentado no texto sobre Gerenciamento de Riscos Ocupacionais?",
     "alternativa1": "A chance de alguém ser prejudicado por uma situação.",
     "alternativa2": "A combinação da severidade do dano com a probabilidade de sua ocorrência.",
@@ -990,7 +1331,7 @@ const questoes = [
     "gabaritoComentado": "Em termos simples, o perigo é definido como qualquer coisa que possa causar danos. O risco é a chance de ser prejudicado por um perigo, combinada com a seriedade do dano."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "A Norma Regulamentadora nº 1 (NR 1) estabelece a hierarquia das medidas de prevenção para o controle dos riscos ocupacionais. Qual medida é considerada a última na hierarquia, de acordo com o texto?",
     "alternativa1": "Eliminação dos perigos.",
     "alternativa2": "Controles de engenharia (medidas de proteção coletiva).",
@@ -1001,7 +1342,7 @@ const questoes = [
     "gabaritoComentado": "A NR 1 e a literatura técnica de SST consideram o uso de equipamento de proteção individual (EPI) como a última medida de controle do risco na hierarquia das medidas de prevenção."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "O planejamento da resposta a emergências é uma etapa complementar ao gerenciamento de riscos ocupacionais. De acordo com a NR 1, o que deve ser incluído no procedimento de resposta a emergências?",
     "alternativa1": "Apenas a lista de telefones úteis para contato.",
     "alternativa2": "Somente os meios de evacuação do local de trabalho.",
@@ -1012,7 +1353,7 @@ const questoes = [
     "gabaritoComentado": "A NR 1 exige a documentação do procedimento de resposta a emergências, que deve incluir meios responsáveis e recursos para primeiros socorros, encaminhamento de acidentados, abandono de locais, medidas para emergências de grande magnitude, provisão de equipamentos, meios de evacuação, identificação de materiais perigosos, interface com serviços externos, comunicação e proteção de registros."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "Os indicadores biológicos de susceptibilidade são mencionados no texto. Qual a principal razão ética para que estes indicadores não sejam utilizados em processos de seleção de candidatos a emprego?",
     "alternativa1": "Eles não fornecem informações relevantes sobre a exposição a agentes químicos.",
     "alternativa2": "Sua determinação em candidatos a emprego caracteriza discriminação, pois ambientes de trabalho devem ser saudáveis para todos, inclusive os susceptíveis.",
@@ -1023,7 +1364,7 @@ const questoes = [
     "gabaritoComentado": "Os indicadores de susceptibilidade detectam indivíduos mais susceptíveis a xenobióticos e não são utilizados por questões éticas, pois sua determinação em candidatos a emprego caracteriza discriminação, visto que ambientes de trabalho devem ser saudáveis para todos."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "O conceito de 'Trabalho Prescrito' difere do 'Trabalho Real' no contexto da análise ergonômica. O que geralmente demonstra a diferença entre o trabalho real e o trabalho prescrito?",
     "alternativa1": "As normas de produção estabelecidas pela gerência.",
     "alternativa2": "A descrição das tarefas contida nos manuais de procedimento.",
@@ -1034,7 +1375,7 @@ const questoes = [
     "gabaritoComentado": "O texto menciona que a análise da organização do trabalho geralmente demonstra diferenças entre o trabalho real e o trabalho prescrito. A seção sobre modos operatórios detalha que, apesar das normas, há situações em que a discrepância entre trabalho prescrito (como uma chapa pesada deve ser carregada por dois) e o trabalho real (quando é feito por um só) está na gênese de adoecimentos. Isso implica que os modos operatórios reais podem divergir do que é prescrito."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "A Análise Preliminar de Risco (APR) é uma técnica de análise de risco mencionada no texto, embora em um contexto relacionado à NR 10. Contudo, o modelo de APR apresentado inclui campos relevantes para a gestão de riscos em geral. Qual informação NÃO é tipicamente encontrada em um modelo de APR como o apresentado?",
     "alternativa1": "Descrição da atividade.",
     "alternativa2": "Possíveis riscos da atividade.",
@@ -1045,7 +1386,7 @@ const questoes = [
     "gabaritoComentado": "O modelo de APR apresentado inclui campos como descrição da atividade, possíveis riscos, medidas de controle, identificação da gerência, local, equipamento, data, responsáveis, etc.. Embora a análise de risco envolva a combinação de gravidade e probabilidade, e a gradação seja parte do processo do GRO, o modelo da APR mostrada não explicita campos para 'custo de implementação das medidas de controle'."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "Um dos resultados esperados da AET, especialmente quando as demandas envolvem aspectos físicos e adoecimento, é a explicitação de sobrecargas estáticas ou dinâmicas. Com que tipo de registro essa explicitação deve ser cotejada?",
     "alternativa1": "Com os resultados do programa de preparação para emergências.",
     "alternativa2": "Com os dados da análise de acidentes e doenças relacionados ao trabalho.",
@@ -1056,7 +1397,7 @@ const questoes = [
     "gabaritoComentado": "Um dos resultados esperados da AET, particularmente em casos envolvendo aspectos físicos e adoecimento, é a identificação de sobrecargas estáticas ou dinâmicas, a ser cotejada com os relatórios estatísticos da organização sobre queixas de agravos à saúde, colhidas pela Medicina do Trabalho nos prontuários médicos."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "Os resultados da avaliação ergonômica preliminar (AEP) e as adequações decorrentes devem ser previstos em qual documento da organização?",
     "alternativa1": "No Relatório Analítico do PCMSO.",
     "alternativa2": "No Atestado de Saúde Ocupacional (ASO).",
@@ -1067,7 +1408,7 @@ const questoes = [
     "gabaritoComentado": "As medidas de prevenção e adequações decorrentes da avaliação ergonômica preliminar e para as situações que necessitam de AET devem ser previstas em Planos de Ação, nos termos do PGR. O Plano de Ação é um documento básico do PGR."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "A ergonomia organizacional, um dos domínios da ergonomia, busca a otimização de sistemas sociotécnicos. O que este domínio inclui?",
     "alternativa1": "Apenas aspectos biomecânicos e físicos do trabalho.",
     "alternativa2": "Estruturas organizacionais, regras e processos, buscando melhorar a comunicação e o gerenciamento preventivo.",
@@ -1078,7 +1419,7 @@ const questoes = [
     "gabaritoComentado": "A ergonomia organizacional busca a otimização de sistemas sociotécnicos, incluindo suas estruturas organizacionais, regras e processos. Isso inclui buscar melhor comunicação entre pessoas e gerenciamento preventivo."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "Qual das alternativas melhor define o conceito de 'Normas de produção' no contexto da organização do trabalho, segundo o texto?",
     "alternativa1": "São os resultados alcançados pela organização em termos de quantidade e qualidade de produtos.",
     "alternativa2": "São todas as normas que o trabalhador deve seguir para cumprir a tarefa a ele designada, sejam escritas ou verbais, explícitas ou implícitas.",
@@ -1089,7 +1430,7 @@ const questoes = [
     "gabaritoComentado": "Normas de produção são definidas como todas as normas que o trabalhador deve seguir para cumprir a tarefa a ele designada. Podem ser escritas ou verbais, explícitas ou implícitas, e referem-se a questões de qualidade, segurança, saúde e exigências produtivas."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "O conteúdo das tarefas relaciona-se ao modo como o trabalhador percebe suas condições laborais. No contexto da organização do trabalho, com que outro termo o conteúdo das tarefas é sinônimo?",
     "alternativa1": "Trabalho prescrito.",
     "alternativa2": "Modos operatórios.",
@@ -1100,7 +1441,7 @@ const questoes = [
     "gabaritoComentado": "O texto afirma que o conteúdo das tarefas refere-se ao modo como o trabalhador percebe suas condições laborais e é sinônimo de atividade de trabalho."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "A NR 17 estabelece obrigações para os fabricantes de máquinas e equipamentos no que se refere ao projeto. Qual o objetivo principal dessas obrigações?",
     "alternativa1": "Garantir que os equipamentos sejam os mais rápidos e eficientes do mercado.",
     "alternativa2": "Projetar e construir equipamentos com comandos que possibilitem a interação clara e precisa com o operador, reduzindo riscos.",
@@ -1111,7 +1452,7 @@ const questoes = [
     "gabaritoComentado": "O item 17.7.2 da NR 17 dirige-se aos fabricantes, determinando que devem projetar e construir equipamentos com comandos que possibilitem a interação clara e precisa com o operador."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "As ferramentas manuais, sob a perspectiva da NR 17, também devem ser selecionadas de forma a garantir a segurança e o conforto do trabalhador. Qual característica da ferramenta manual é destacada como importante na seleção?",
     "alternativa1": "Seu peso máximo, independentemente do material.",
     "alternativa2": "O tipo, formato e textura da empunhadura, apropriados à tarefa e ao eventual uso de luvas.",
@@ -1122,7 +1463,7 @@ const questoes = [
     "gabaritoComentado": "O subitem 17.7.6 da NR 17 define que a organização deve selecionar as ferramentas manuais para que o tipo, formato e a textura da empunhadura sejam apropriados à tarefa e ao eventual uso de luvas."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "A Convenção 190 da OIT, mencionada no texto, aborda a violência e o assédio no mundo do trabalho. Qual das alternativas melhor define a violência e o assédio nesse contexto, segundo a Convenção?",
     "alternativa1": "Qualquer comportamento ou prática que cause dano físico ou psicológico, de ocorrência única.",
     "alternativa2": "Um conjunto de comportamentos e práticas inaceitáveis, ou de suas ameaças, de ocorrência única ou repetida, que visem, causem, ou sejam susceptíveis de causar dano físico, psicológico, sexual ou econômico, incluindo a violência e o assédio com base no gênero.",
@@ -1133,7 +1474,7 @@ const questoes = [
     "gabaritoComentado": "A Convenção 190 da OIT considera a violência e o assédio no mundo do trabalho como um conjunto de comportamentos e práticas inaceitáveis, ou de suas ameaças, de ocorrência única ou repetida, que visem, causem, ou sejam susceptíveis de causar dano físico, psicológico, sexual ou econômico, e inclui a violência e o assédio com base no gênero."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "No processo de Avaliação dos Riscos Ocupacionais, a NR 1 exige que para cada risco seja indicado um nível de risco. Como é determinado esse nível de risco?",
     "alternativa1": "Pela severidade das possíveis lesões ou agravos à saúde, isoladamente.",
     "alternativa2": "Pela probabilidade ou chance de ocorrência da lesão ou agravo à saúde, isoladamente.",
@@ -1144,7 +1485,7 @@ const questoes = [
     "gabaritoComentado": "Para cada risco deve ser indicado o nível de risco ocupacional, que é verificado pela combinação da severidade das possíveis lesões ou agravos à saúde com a probabilidade ou chance de sua ocorrência."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "Após a determinação dos níveis de risco, a organização deve classificar os riscos ocupacionais. Qual a finalidade principal dessa classificação?",
     "alternativa1": "Definir o salário base dos trabalhadores expostos ao risco.",
     "alternativa2": "Identificar a necessidade de adoção ou manutenção de medidas de prevenção e elaboração do plano de ação.",
@@ -1155,7 +1496,7 @@ const questoes = [
     "gabaritoComentado": "A organização deve classificar os riscos ocupacionais 'para fins de identificar a necessidade de adoção ou manutenção de medidas de prevenção e elaboração do plano de ação'."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "A medição de desempenho é uma forma de monitorar a eficácia das ações de SST. Quais tipos de medições de desempenho são citados na NR 1?",
     "alternativa1": "Apenas medições reativas que monitoram acidentes e doenças.",
     "alternativa2": "Apenas medições proativas que monitoram o atendimento a procedimentos.",
@@ -1166,7 +1507,7 @@ const questoes = [
     "gabaritoComentado": "A NR 1 estabelece que o acompanhamento do desempenho das medidas de prevenção pode incluir medições proativas (inspeções, permissões de trabalho) e medições reativas (acidentes, doenças)."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "O Plano de Ação do PGR é elaborado com base nos processos de identificação e avaliação de riscos. O que deve ser definido no Plano de Ação, conforme a NR 1?",
     "alternativa1": "Apenas a lista de perigos identificados e seus níveis de risco.",
     "alternativa2": "Cronograma com responsáveis, formas de acompanhamento e aferição de resultados das medidas de prevenção.",
@@ -1177,7 +1518,7 @@ const questoes = [
     "gabaritoComentado": "Ao estabelecer o plano de ação, deve ser definido cronograma com responsáveis, formas de acompanhamento e aferição de resultados das medidas de prevenção."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "Na análise de acidentes e doenças relacionadas ao trabalho, a NR 1 exige que certos fatores sejam considerados. Qual dos itens abaixo deve ser levado em conta nessa análise, segundo a norma?",
     "alternativa1": "Exclusivamente a culpa do trabalhador no evento.",
     "alternativa2": "Apenas os danos materiais resultantes do acidente.",
@@ -1188,7 +1529,7 @@ const questoes = [
     "gabaritoComentado": "A análise de acidentes e doenças relacionadas ao trabalho deve considerar as situações geradoras dos eventos, levando em conta as atividades efetivamente desenvolvidas, ambiente de trabalho, materiais, processo produtivo, organização do trabalho e outros fatores relacionados."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "Conforme a NR 17, a Avaliação Ergonômica Preliminar (AEP) das situações de trabalho pode ser realizada por meio de quais abordagens?",
     "alternativa1": "Apenas qualitativas.",
     "alternativa2": "Apenas quantitativas.",
@@ -1199,7 +1540,7 @@ const questoes = [
     "gabaritoComentado": "Segundo o subitem 17.3.1.1 da NR 17, a avaliação ergonômica preliminar (AEP) das situações de trabalho pode ser realizada por meio de abordagens qualitativas, semiquantitativas, quantitativas ou combinação dessas."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "A análise ergonômica do trabalho (AET) deve ser realizada em etapas progressivas. Qual é a etapa inicial desse processo, conforme descrito no texto?",
     "alternativa1": "A validação e revisão das intervenções efetuadas.",
     "alternativa2": "As observações detalhadas do trabalho em andamento.",
@@ -1210,7 +1551,7 @@ const questoes = [
     "gabaritoComentado": "A AET deve ser realizada em etapas progressivas, iniciadas pela discussão do problema a ser resolvido e escolha de situações a serem analisadas."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "A análise da organização do trabalho deve incluir a descrição e avaliação de diversos elementos. Qual dos itens abaixo faz parte dessa descrição e avaliação?",
     "alternativa1": "O nome e CNPJ do empregador.",
     "alternativa2": "Os resultados da produção em relação ao tempo alocado para as tarefas.",
@@ -1221,7 +1562,7 @@ const questoes = [
     "gabaritoComentado": "A descrição da organização do trabalho deve incluir os resultados da produção em relação ao tempo alocado para as tarefas, as variações na carga de trabalho, número de ciclos, trabalho em turnos, pausas, normas de produção, ritmo, conteúdo das tarefas e meios técnicos disponíveis."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "Na análise ergonômica do trabalho (AET), quando o estudo busca a prevenção de distúrbios osteomusculares relacionados ao trabalho, o que os registros da AET deverão contemplar?",
     "alternativa1": "Apenas os dados do PCMSO relacionados a doenças musculoesqueléticas.",
     "alternativa2": "As características dos postos de trabalho, no que se refere ao mobiliário, espaço físico para a execução do trabalho e condições de posicionamento e movimentação de segmentos corporais.",
@@ -1232,7 +1573,7 @@ const questoes = [
     "gabaritoComentado": "Quando o estudo na AET buscar a prevenção de distúrbios osteomusculares relacionados ao trabalho, os registros deverão contemplar as características dos postos de trabalho no que se refere ao mobiliário, espaço físico e condições de posicionamento e movimentação de segmentos corporais."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "Os superiores hierárquicos diretos dos trabalhadores possuem um papel na aplicação dos princípios da ergonomia, especialmente aspectos psicossociais. Qual a orientação exigida pela NR 17 para esses superiores, em organizações com mais de 10 empregados?",
     "alternativa1": "Fiscalizar rigorosamente as pausas e o ritmo de trabalho.",
     "alternativa2": "Estabelecer metas de produtividade individuais rígidas e monitorar o desempenho publicamente.",
