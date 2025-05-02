@@ -13976,7 +13976,7 @@ const questoes = [
     "gabaritoComentado": "O excerto e indicam que a NR 10 define as referências técnicas, os princípios fundamentais e as medidas de proteção para resguardar a saúde e a integridade física dos trabalhadores em atividades que envolvam máquinas e equipamentos, com foco específico, no contexto apresentado, em segurança em eletricidade. A alternativa D alinha-se a este objetivo, focando na segurança e saúde dos trabalhadores que interagem com instalações e serviços em eletricidade."
   },
   {
-    "tema": "NR 10",
+    "tema": "NR 10⚡",
     "pergunta": "Considerando as informações apresentadas nos excertos sobre acidentes de trabalho relacionados à eletricidade, qual percentual de subnotificação é estimado para esses acidentes no setor formal?",
     "alternativa1": "Aproximadamente 20%",
     "alternativa2": "Aproximadamente 40%",
@@ -13987,7 +13987,7 @@ const questoes = [
     "gabaritoComentado": "O excerto menciona que 'estudos estimam que o percentual de subnotificação é de cerca de 80%, isto é, de cada 10 acidentes, apenas 2 são reportados'."
   },
   {
-    "tema": "NR 10",
+    "tema": "NR 10⚡",
     "pergunta": "Conforme os excertos, que tratam, entre outros temas, da NR 10, qual das opções a seguir NÃO é mencionada como um tipo de acidente para o qual muitos acidentes elétricos são reportados, contribuindo para a subnotificação?",
     "alternativa1": "Quedas.",
     "alternativa2": "Queimaduras.",
@@ -13998,7 +13998,7 @@ const questoes = [
     "gabaritoComentado": "O excerto afirma que 'muitos acidentes decorrentes do perigo da energia elétrica são reportados como sendo oriundos de quedas e queimaduras'. Intoxicações não são mencionadas neste contexto."
   },
   {
-    "tema": "NR 10",
+    "tema": "NR 10⚡",
     "pergunta": "Nos excertos, a Análise Preliminar de Risco (APR) é apresentada como uma técnica de:",
     "alternativa1": "Gerenciamento de emergências.",
     "alternativa2": "Avaliação de desempenho de equipamentos.",
@@ -14009,7 +14009,7 @@ const questoes = [
     "gabaritoComentado": "A figura 4 no excerto e sua referência no excerto identificam a APR como um 'Exemplo de uma técnica de análise de risco'."
   },
   {
-    "tema": "NR 10",
+    "tema": "NR 10⚡",
     "pergunta": "De acordo com o excerto, que lista os documentos que compõem o Prontuário da NR 10, qual dos seguintes itens DEVE constar neste conjunto de documentos?",
     "alternativa1": "Relatórios de análise de acidentes e doenças relacionadas ao trabalho.",
     "alternativa2": "As especificações técnicas dos Equipamentos de Proteção Coletiva e Individual (EPC e EPI) e o ferramental utilizado.",
@@ -14020,7 +14020,7 @@ const questoes = [
     "gabaritoComentado": "O excerto lista a 'especificação dos equipamentos de proteção coletiva e individual e o ferramental' como um dos documentos que compõem o Prontuário. As alternativas A, C, E não são explicitamente listadas em. A alternativa D, embora o registro de fornecimento de EPI seja importante, o excerto lista a 'especificação' dos EPIs e ferramental, não o registro individual de entrega."
   },
   {
-    "tema": "NR 10",
+    "tema": "NR 10⚡",
     "pergunta": "Conforme descrito no excerto, o Prontuário de Instalações Elétricas, no contexto da NR 10, constitui um(a):",
     "alternativa1": "Relatório único consolidado.",
     "alternativa2": "Sistema informatizado de gestão.",
@@ -14031,7 +14031,7 @@ const questoes = [
     "gabaritoComentado": "O excerto inicia sua descrição do Prontuário afirmando: 'O Prontuário é um conjunto de documentos...'"
   },
   {
-    "tema": "NR 10",
+    "tema": "NR 10⚡",
     "pergunta": "Segundo o excerto, os procedimentos de trabalho relacionados à NR 10 devem conter, no mínimo, uma série de informações. Qual das opções abaixo NÃO faz parte do conteúdo mínimo exigido para esses procedimentos?",
     "alternativa1": "Objetivo.",
     "alternativa2": "Campo de aplicação.",
@@ -14042,7 +14042,7 @@ const questoes = [
     "gabaritoComentado": "O excerto lista o conteúdo mínimo dos procedimentos de trabalho: 'objetivo, campo de aplicação, base técnica, competências e responsabilidades, disposições gerais, medidas de controle e orientações finais'. 'Resultados esperados' não consta nesta lista."
   },
   {
-    "tema": "NR 10",
+    "tema": "NR 10⚡",
     "pergunta": "Considerando o modelo de Análise Preliminar de Risco (APR) apresentado nos excertos e, qual dos seguintes campos ou seções NÃO aparece no formulário?",
     "alternativa1": "Equipamento / Máquina / Instalação.",
     "alternativa2": "Gerência de Área.",
@@ -14053,7 +14053,7 @@ const questoes = [
     "gabaritoComentado": "O modelo de APR mostrado nos excertos e inclui campos como 'Equipamento / Máquina / Instalação', 'Gerência de Área', 'Telefones Úteis', e 'Descrição da Atividade'. Não há um campo específico para 'Histórico de Acidentes Anteriores' no modelo exibido."
   },
   {
-    "tema": "NR 10",
+    "tema": "NR 10⚡",
     "pergunta": "Ainda sobre o modelo de Análise Preliminar de Risco (APR) presente nos excertos, na seção 'TREINAMENTO DE SEGURANÇA DA APR', são previstos campos para registro de:",
     "alternativa1": "Carga horária e conteúdo programático.",
     "alternativa2": "Avaliação de eficácia do treinamento.",
@@ -14064,7 +14064,7 @@ const questoes = [
     "gabaritoComentado": "A seção 'TREINAMENTO DE SEGURANÇA DA APR' no excerto apresenta colunas para 'RE', 'FUNÇÃO', e 'ASSINATURA', indicando o registro da participação dos trabalhadores neste treinamento específico da APR."
   },
   {
-    "tema": "NR 10",
+    "tema": "NR 10⚡",
     "pergunta": "Além dos procedimentos e instruções de segurança e saúde, o Prontuário da NR 10 deve incluir, conforme o excerto, a documentação dos testes realizados em quais elementos das instalações elétricas?",
     "alternativa1": "Testes de continuidade de circuitos.",
     "alternativa2": "Testes de funcionamento de disjuntores.",
@@ -14075,7 +14075,7 @@ const questoes = [
     "gabaritoComentado": "O excerto especifica que o Prontuário deve conter a 'documentação dos resultados dos testes de isolação elétrica realizados'."
   },
   {
-    "tema": "NR 10",
+    "tema": "NR 10⚡",
     "pergunta": "No que diz respeito à documentação dos trabalhadores no Prontuário da NR 10, o excerto indica que deve ser incluída a documentação comprobatória de:",
     "alternativa1": "Exames médicos periódicos.",
     "alternativa2": "Histórico profissional.",
@@ -14086,7 +14086,7 @@ const questoes = [
     "gabaritoComentado": "O excerto lista, entre os documentos que compõem o Prontuário, a 'documentação comprobatória da qualificação, habilitação, capacitação, autorização dos trabalhadores e dos treinamentos realizados'."
   },
   {
-    "tema": "NR 10",
+    "tema": "NR 10⚡",
     "pergunta": "A Análise Preliminar de Risco (APR), conforme o modelo apresentado no excerto, inclui no campo 'SITUAÇÃO' diversas opções para indicar o contexto da atividade. Quais das seguintes opções estão listadas?",
     "alternativa1": "Emergência, Rotina, Planejada.",
     "alternativa2": "Instalação, Manutenção, Inspeção.",
@@ -14097,7 +14097,7 @@ const questoes = [
     "gabaritoComentado": "No modelo de APR apresentado no excerto, o campo 'SITUAÇÃO' oferece as opções: 'Parada Programada', 'Fora de Parada', 'Parada Acidental', 'Atividade de Segurança', 'RE', e 'Obra Nova'. As alternativas A, B, D e E não correspondem às opções listadas neste campo do modelo."
   },
   {
-    "tema": "NR 10",
+    "tema": "NR 10⚡",
     "pergunta": "De acordo com o excerto, qual dos itens abaixo é listado como parte do conteúdo mínimo que deve constar nos procedimentos de trabalho?",
     "alternativa1": "Base técnica.",
     "alternativa2": "Custos da atividade.",
@@ -14108,7 +14108,7 @@ const questoes = [
     "gabaritoComentado": "O excerto detalha o conteúdo mínimo dos procedimentos de trabalho, incluindo 'base técnica'. Os demais itens não são mencionados como obrigatórios nesta lista."
   },
   {
-    "tema": "NR 10",
+    "tema": "NR 10⚡",
     "pergunta": "Qual dos seguintes documentos, listados no excerto, deve obrigatoriamente fazer parte do Prontuário das Instalações Elétricas?",
     "alternativa1": "O relatório de inspeção de segurança de caldeiras.",
     "alternativa2": "Os procedimentos de trabalho para atividades rotineiras e não rotineiras.",
@@ -14119,7 +14119,7 @@ const questoes = [
     "gabaritoComentado": "O excerto afirma que o Prontuário inclui 'o conjunto de procedimentos e instruções técnicas e administrativas de segurança e saúde'. As alternativas A, C, D e E não correspondem a itens listados no excerto como parte do Prontuário da NR 10."
   },
   {
-    "tema": "NR 10",
+    "tema": "NR 10⚡",
     "pergunta": "No contexto da Análise Preliminar de Risco (APR) apresentada, a seção 'HOUVE INCIDENTE DURANTE A ATIVIDADE?' sugere uma ação específica caso a resposta seja afirmativa. Qual é essa ação?",
     "alternativa1": "Registrar o incidente no campo 'Observações Finais'.",
     "alternativa2": "Realizar uma nova APR imediatamente.",
@@ -14130,7 +14130,7 @@ const questoes = [
     "gabaritoComentado": "No excerto, na seção 'HOUVE INCIDENTE DURANTE A ATIVIDADE?', a instrução é: 'Se \"SIM\", encaminhar para Setor de Segurança do Trabalho'."
   },
   {
-    "tema": "NR 10",
+    "tema": "NR 10⚡",
     "pergunta": "Considerando a lista de documentos que compõem o Prontuário da NR 10 no excerto, qual tipo de documentação referente a inspeções e medições é especificamente mencionada?",
     "alternativa1": "Inspeções de extintores de incêndio.",
     "alternativa2": "Inspeções e medições do sistema de proteção contra descargas atmosféricas e aterramentos elétricos.",
@@ -14141,7 +14141,7 @@ const questoes = [
     "gabaritoComentado": "O excerto inclui no Prontuário a 'documentação das inspeções e medições do sistema de proteção contra descargas atmosféricas e aterramentos elétricos'."
   },
   {
-    "tema": "NR 10",
+    "tema": "NR 10⚡",
     "pergunta": "No modelo de Análise Preliminar de Risco (APR) apresentado, qual campo é destinado à identificação da área responsável pela atividade?",
     "alternativa1": "LOCAL DE TRABALHO.",
     "alternativa2": "EQUIPAMENTO / MÁQUINA / INSTALAÇÃO.",
@@ -14152,7 +14152,7 @@ const questoes = [
     "gabaritoComentado": "O modelo de APR mostrado no excerto possui um campo específico denominado 'GERÊNCIA DE ÁREA'."
   },
   {
-    "tema": "NR 10",
+    "tema": "NR 10⚡",
     "pergunta": "Os excertos mencionam que muitos acidentes decorrentes do perigo da energia elétrica são reportados de forma inadequada. Qual o principal impacto dessa prática, segundo os excertos?",
     "alternativa1": "Aumento do número total de acidentes registrados.",
     "alternativa2": "Dificulta a compreensão do universo real de acidentes elétricos.",
@@ -14163,7 +14163,7 @@ const questoes = [
     "gabaritoComentado": "O excerto discute a subnotificação e o reporte inadequado (como quedas/queimaduras), concluindo que 'Desta forma, saliente-se que os números apresentados não representam todo o universo de acidentes'. Isso indica que a prática dificulta a compreensão da real dimensão dos acidentes elétricos."
   },
   {
-    "tema": "NR 10",
+    "tema": "NR 10⚡",
     "pergunta": "Conforme o excerto, qual item referente ao contexto e alcance da atividade deve constar no conteúdo mínimo dos procedimentos de trabalho?",
     "alternativa1": "Competências e responsabilidades.",
     "alternativa2": "Base técnica.",
@@ -14174,7 +14174,7 @@ const questoes = [
     "gabaritoComentado": "O excerto lista 'campo de aplicação' como um dos itens do conteúdo mínimo dos procedimentos de trabalho. Este item se refere ao alcance ou contexto onde o procedimento deve ser aplicado."
   },
   {
-    "tema": "NR 10",
+    "tema": "NR 10⚡",
     "pergunta": "Considerando o excerto, que trata do Prontuário da NR 10, qual tipo de documentação sobre os trabalhadores é explicitamente exigida?",
     "alternativa1": "Atestados de aptidão física.",
     "alternativa2": "Registros de jornada de trabalho.",
@@ -14185,7 +14185,7 @@ const questoes = [
     "gabaritoComentado": "O excerto lista como componente do Prontuário a 'documentação comprobatória da qualificação, habilitação, capacitação, autorização dos trabalhadores e dos treinamentos realizados'."
   },
   {
-    "tema": "NR 10",
+    "tema": "NR 10⚡",
     "pergunta": "O excerto determina que os procedimentos de trabalho devem conter, no mínimo, as 'competências e responsabilidades'. Em qual contexto essa informação se aplica?",
     "alternativa1": "Definir as atribuições dos órgãos fiscalizadores.",
     "alternativa2": "Descrever as qualificações técnicas dos equipamentos.",
@@ -14196,7 +14196,7 @@ const questoes = [
     "gabaritoComentado": "No contexto de um procedimento de trabalho, 'competências e responsabilidades' (excerto) refere-se tipicamente à definição de quem está apto a realizar as tarefas descritas e quais são as responsabilidades associadas a essas funções durante a execução do procedimento."
   },
   {
-    "tema": "NR 10",
+    "tema": "NR 10⚡",
     "pergunta": "No modelo de Análise Preliminar de Risco (APR) apresentado, para que o campo 'DESCRIÇÃO DA ATIVIDADE' é utilizado?",
     "alternativa1": "Para listar os riscos identificados.",
     "alternativa2": "Para detalhar as medidas de controle.",
@@ -14207,7 +14207,7 @@ const questoes = [
     "gabaritoComentado": "O campo 'DESCRIÇÃO DA ATIVIDADE' em uma APR é onde se detalha a tarefa a ser executada, geralmente descrevendo as etapas do trabalho."
   },
   {
-    "tema": "NR 10",
+    "tema": "NR 10⚡",
     "pergunta": "Os excertos indicam que acidentes de trabalho relacionados à eletricidade originam-se de Comunicações de Acidentes de Trabalho (CAT). Qual setor, segundo os excertos, é abrangido por essas CATs de origem?",
     "alternativa1": "Apenas o setor público.",
     "alternativa2": "Apenas o setor privado.",
@@ -14218,7 +14218,7 @@ const questoes = [
     "gabaritoComentado": "O excerto afirma que os acidentes de trabalho 'abrangem apenas o setor formal', referindo-se à origem dos dados de acidentes a partir das CATs."
   },
   {
-    "tema": "NR 10",
+    "tema": "NR 10⚡",
     "pergunta": "Qual das seguintes opções representa um tipo de informação que DEVE constar no conteúdo mínimo dos procedimentos de trabalho, segundo o excerto?",
     "alternativa1": "Orientações finais.",
     "alternativa2": "Histórico de revisões.",
@@ -14229,7 +14229,7 @@ const questoes = [
     "gabaritoComentado": "O excerto lista 'orientações finais' como um dos itens do conteúdo mínimo dos procedimentos de trabalho."
   },
   {
-    "tema": "NR 10",
+    "tema": "NR 10⚡",
     "pergunta": "A definição de 'Profissional Habilitado', mencionada em excertos (geral) e (contexto NR 10 Prontuário), refere-se àquele que:",
     "alternativa1": "Comprove conclusão de curso específico e reconhecimento pelo sistema oficial de ensino.",
     "alternativa2": "Recebeu capacitação sob orientação e responsabilidade de profissional habilitado.",
@@ -14240,7 +14240,7 @@ const questoes = [
     "gabaritoComentado": "O excerto define 'Profissional Habilitado' como 'aquele que possui comprovação de conclusão de curso específico reconhecido pelo sistema oficial de ensino, com registro no competente conselho de classe, se necessário'. Complementarmente, outros excertos adicionam 'com atribuição compatível'. A alternativa E reflete essa definição completa."
   },
   {
-    "tema": "NR 10",
+    "tema": "NR 10⚡",
     "pergunta": "O excerto estabelece que a especificação dos Equipamentos de Proteção Coletiva e Individual (EPC e EPI) e o ferramental devem constar no Prontuário. Qual a relevância dessa informação?",
     "alternativa1": "Identificar os fabricantes dos equipamentos.",
     "alternativa2": "Permitir a gestão do estoque de EPIs.",
@@ -14251,7 +14251,7 @@ const questoes = [
     "gabaritoComentado": "Incluir a especificação de EPC, EPI e ferramental no Prontuário é fundamental para garantir que os meios de proteção e as ferramentas utilizadas nas instalações elétricas sejam apropriados para a segurança e saúde dos trabalhadores, conforme as necessidades das atividades."
   },
   {
-    "tema": "NR 10",
+    "tema": "NR 10⚡",
     "pergunta": "No modelo de APR apresentado, o campo 'OM / Contrato nº' aparece em diferentes seções do formulário. Isso sugere que este dado é importante para:",
     "alternativa1": "Identificar o responsável pela aprovação da APR.",
     "alternativa2": "Vincular a APR a uma ordem de serviço ou contrato específico.",
@@ -14262,7 +14262,7 @@ const questoes = [
     "gabaritoComentado": "O campo 'OM / Contrato nº' é um identificador comum em documentos de segurança do trabalho para associar a atividade ou análise a uma Ordem de Manutenção (OM) ou número de contrato específico, vinculando a APR ao trabalho que está sendo realizado."
   },
   {
-    "tema": "NR 10",
+    "tema": "NR 10⚡",
     "pergunta": "Os excertos mencionam que a subnotificação de acidentes elétricos pode ocorrer. Qual é uma das consequências diretas dessa subnotificação, segundo as informações fornecidas?",
     "alternativa1": "Os números oficiais de acidentes refletem precisamente a realidade.",
     "alternativa2": "A percepção do risco elétrico é superestimada.",
@@ -14273,7 +14273,7 @@ const questoes = [
     "gabaritoComentado": "O excerto afirma que a subnotificação (cerca de 80%) significa que os números reportados não representam o universo total, implicando que as estatísticas são inferiores à quantidade real de acidentes elétricos."
   },
   {
-    "tema": "NR 10",
+    "tema": "NR 10⚡",
     "pergunta": "Além de comprovar a qualificação, habilitação, capacitação e autorização, o excerto estabelece que a documentação referente aos ______ realizados pelos trabalhadores também deve constar no Prontuário da NR 10.",
     "alternativa1": "Exames de saúde periódicos.",
     "alternativa2": "Diálogos diários de segurança.",
@@ -14284,7 +14284,7 @@ const questoes = [
     "gabaritoComentado": "O excerto lista a 'documentação comprobatória da qualificação, habilitação, capacitação, autorização dos trabalhadores e dos treinamentos realizados' como parte do Prontuário."
   },
   {
-    "tema": "NR 10",
+    "tema": "NR 10⚡",
     "pergunta": "A 'Base técnica' é um dos itens que devem constar no conteúdo mínimo dos procedimentos de trabalho, de acordo com o excerto. Qual a finalidade desse item?",
     "alternativa1": "Descrever os equipamentos e ferramentas necessários.",
     "alternativa2": "Fundamentar o procedimento em normas, manuais ou princípios de engenharia aplicáveis.",
