@@ -17971,7 +17971,7 @@ const questoes = [
     "gabaritoComentado": "O Sistema de Proteção Contra Quedas (SPQ) deve ser selecionado de acordo com a **Análise de Risco – AR e adequado à tarefa que será executada**."
   },
     {
-    "tema": "NR 31",
+    "tema": "NR 31👨‍🌾",
     "pergunta": "1. De acordo com a Norma Regulamentadora nº 31 (NR-31), que trata da Segurança e Saúde no Trabalho na Agricultura, Pecuária, Silvicultura, Exploração Florestal e Aquicultura, qual é o seu objetivo primordial?",
     "alternativa1": "Definir os procedimentos para o transporte seguro de trabalhadores rurais em veículos adequados.",
     "alternativa2": "Estabelecer diretrizes para o uso correto de Equipamentos de Proteção Individual (EPI) no trabalho rural.",
@@ -17982,7 +17982,7 @@ const questoes = [
     "gabaritoComentado": "O objetivo da NR-31 é estabelecer os preceitos para a organização e o ambiente de trabalho rural, tornando compatível o planejamento e o desenvolvimento das atividades com a prevenção de acidentes e doenças relacionadas ao trabalho rural."
   },
   {
-    "tema": "NR 31",
+    "tema": "NR 31👨‍🌾",
     "pergunta": "2. Conforme a NR-31, qual é a regra geral quanto à aplicação de outras Normas Regulamentadoras (NRs) às atividades de agricultura, pecuária, silvicultura, exploração florestal e aquicultura?",
     "alternativa1": "As NRs relativas a trabalho em altura (NR-35) e espaços confinados (NR-33) são as únicas, além da NR-31, que se aplicam ao trabalho rural.",
     "alternativa2": "Aplica-se somente o disposto na NR-31, salvo exceções previstas no próprio texto da Norma.",
@@ -17993,7 +17993,7 @@ const questoes = [
     "gabaritoComentado": "A regra geral é que para as atividades da agricultura, pecuária, silvicultura, exploração florestal e aquicultura aplica-se somente o disposto na NR-31, salvo algumas exceções previstas no próprio texto da NR-31."
   },
   {
-    "tema": "NR 31",
+    "tema": "NR 31👨‍🌾",
     "pergunta": "3. No contexto das responsabilidades do empregador rural ou equiparado, a NR-31 estabelece diversas obrigações. Assinale a opção que NÃO constitui uma responsabilidade do empregador, segundo a Norma:",
     "alternativa1": "Garantir que os trabalhadores rurais cumpram as determinações sobre as formas seguras de desenvolver suas atividades.",
     "alternativa2": "Realizar periodicamente avaliações ambientais nos locais de trabalho e informar os resultados aos trabalhadores.",
@@ -18004,7 +18004,7 @@ const questoes = [
     "gabaritoComentado": "Cumprir as determinações sobre as formas seguras de desenvolver suas atividades e adotar as medidas de prevenção determinadas pelo empregador é uma obrigação do trabalhador rural, não do empregador."
   },
   {
-    "tema": "NR 31",
+    "tema": "NR 31👨‍🌾",
     "pergunta": "4. A NR-31 prevê a criação da Comissão Interna de Prevenção de Acidentes e de Assédio do Trabalho Rural (CIPATR). Além das medidas gerais de prevenção de acidentes e doenças, a Norma impõe medidas específicas para a prevenção e o combate ao assédio sexual e outras formas de violência no trabalho. Qual das alternativas abaixo NÃO corresponde a uma medida obrigatória para este fim, segundo a NR-31?",
     "alternativa1": "Criação de um canal de denúncia exclusivo para casos de assédio e violência, gerido por entidade externa à empresa.",
     "alternativa2": "Inclusão de regras de conduta sobre assédio sexual e violência nas normas internas da empresa, com ampla divulgação.",
@@ -18015,7 +18015,7 @@ const questoes = [
     "gabaritoComentado": "As medidas obrigatórias incluem a inclusão de regras de conduta nas normas internas, fixação de procedimentos para denúncias (garantindo anonimato na denúncia), e realização de ações de capacitação a cada 12 meses. A criação de um canal de denúncia externo gerido por outra entidade não é mencionada como obrigatória nos requisitos apresentados."
   },
   {
-    "tema": "NR 31",
+    "tema": "NR 31👨‍🌾",
     "pergunta": "5. A NR-31 estabelece requisitos para a capacitação e treinamento dos trabalhadores rurais. Em relação ao aproveitamento de conteúdos de treinamentos ministrados pelo mesmo empregador, qual condição é NECESSÁRIA para que este aproveitamento seja válido?",
     "alternativa1": "O trabalhador deve apresentar um certificado de proficiência emitido por órgão externo.",
     "alternativa2": "O treinamento anterior deve ter sido realizado há menos de 5 anos.",
@@ -18026,7 +18026,7 @@ const questoes = [
     "gabaritoComentado": "Para o aproveitamento de conteúdos de treinamentos na mesma organização, é necessário que o conteúdo e a carga horária requeridos no novo treinamento estejam compreendidos no treinamento anterior, que tenha sido ministrado em prazo inferior ao estabelecido na NR-31 ou há menos de 2 anos, e seja validado pelo responsável técnico do treinamento."
   },
   {
-    "tema": "NR 31",
+    "tema": "NR 31👨‍🌾",
     "pergunta": "6. A NR-31 introduz o conceito de Dispositivos de Proteção Pessoal, diferenciando-os dos Equipamentos de Proteção Individual (EPI). Qual a principal característica que distingue um Dispositivo de Proteção Pessoal de um EPI, segundo a NR-31?",
     "alternativa1": "Os EPIs destinam-se apenas à proteção contra riscos físicos, enquanto os Dispositivos de Proteção Pessoal abrangem riscos biológicos e químicos.",
     "alternativa2": "Os Dispositivos de Proteção Pessoal são de uso opcional, enquanto os EPIs são obrigatórios.",
@@ -18037,7 +18037,7 @@ const questoes = [
     "gabaritoComentado": "A diferença entre EPIs e Dispositivos de Proteção Pessoal, conforme a NR-31, é que os EPIs possuem Certificado de Aprovação (CA), enquanto os Dispositivos de Proteção Pessoal não o possuem."
   },
   {
-    "tema": "NR 31",
+    "tema": "NR 31👨‍🌾",
     "pergunta": "7. No que se refere ao transporte de trabalhadores rurais, a NR-31 estabelece requisitos para os veículos utilizados. Qual das alternativas a seguir NÃO apresenta um requisito obrigatório para os veículos, conforme a Norma?",
     "alternativa1": "Serem dotados de cobertura que proteja os trabalhadores contra intempéries.",
     "alternativa2": "Possuírem, em local visível, todas as instruções de segurança cabíveis aos passageiros.",
@@ -18048,7 +18048,7 @@ const questoes = [
     "gabaritoComentado": "Os requisitos listados incluem cobertura contra intempéries, pisos antiderrapantes na carroceria com guardas laterais, compartimento separado para ferramentas/materiais perigosos, e instruções de segurança visíveis aos passageiros. A exigência de bancos com encosto e cinto de segurança para todos os passageiros não está expressa no trecho fornecido."
   },
   {
-    "tema": "NR 31",
+    "tema": "NR 31👨‍🌾",
     "pergunta": "8. Sobre o uso de agrotóxicos, aditivos, adjuvantes e produtos afins no trabalho rural, a NR-31 apresenta diversas vedações. É expressamente vedado, segundo a Norma:",
     "alternativa1": "A manipulação de agrotóxicos em desacordo com as indicações do rótulo e bula.",
     "alternativa2": "O transporte de agrotóxicos em veículos específicos para este fim.",
@@ -18059,7 +18059,7 @@ const questoes = [
     "gabaritoComentado": "A NR-31 veda expressamente a manipulação de quaisquer agrotóxicos, aditivos, adjuvantes e produtos afins em desacordo com a receita e as indicações do rótulo e bula."
   },
   {
-    "tema": "NR 31",
+    "tema": "NR 31👨‍🌾",
     "pergunta": "9. Em relação às condições sanitárias e de conforto no trabalho rural, a NR-31 estabelece que o empregador deve disponibilizar aos trabalhadores áreas de vivência. Quais instalações devem compor essas áreas de vivência, conforme a Norma?",
     "alternativa1": "Instalações sanitárias, refeitórios, alojamentos, local para preparo de alimentos e lavanderias.",
     "alternativa2": "Alojamentos, lavanderias, área de convivência e refeitório.",
@@ -18070,7 +18070,7 @@ const questoes = [
     "gabaritoComentado": "Para proporcionar adequadas condições sanitárias e de conforto, a NR-31 determina que o empregador rural deve disponibilizar áreas de vivência compostas de instalações sanitárias, locais para refeição, alojamentos, local adequado para preparo de alimentos (exceto quando preparados fora da propriedade) e lavanderias."
   },
   {
-    "tema": "NR 31",
+    "tema": "NR 31👨‍🌾",
     "pergunta": "10. A NR-31 aborda as instalações sanitárias nas frentes de trabalho rural. O que a Norma exige que esteja presente nas instalações sanitárias disponibilizadas em todas as frentes de trabalho?",
     "alternativa1": "Chuveiro e vaso sanitário com descarga hídrica.",
     "alternativa2": "Lavatório, mictório e área para higienização de mãos.",
@@ -18081,7 +18081,7 @@ const questoes = [
     "gabaritoComentado": "A NR 31 prevê que o empregador disponibilize instalações sanitárias em todas as frentes de trabalho, compostas por vaso sanitário e lavatório."
   },
   {
-    "tema": "NR 31",
+    "tema": "NR 31👨‍🌾",
     "pergunta": "11. De acordo com a NR-31, em relação às condições de conforto no trabalho rural, especialmente no que se refere à hidratação, qual a exigência quanto ao fornecimento de água?",
     "alternativa1": "A água fornecida deve ser mineral, em embalagens lacradas.",
     "alternativa2": "O empregador deve fornecer água filtrada e fresca apenas nos locais de refeição.",
@@ -18092,7 +18092,7 @@ const questoes = [
     "gabaritoComentado": "O empregador rural ou equiparado deve garantir o fornecimento de água potável e fresca em todos os locais de trabalho, inclusive as frentes de trabalho."
   },
   {
-    "tema": "NR 31",
+    "tema": "NR 31👨‍🌾",
     "pergunta": "12. No que diz respeito ao trabalho em espaços confinados no âmbito rural, a NR-31, em complemento à NR-33, estabelece a necessidade de um Plano de Resgate. Qual dos itens abaixo NÃO é um componente obrigatório deste Plano de Resgate?",
     "alternativa1": "Cálculo do Índice de Bulbo Úmido Termômetro de Globo (IBUTG) nos espaços confinados.",
     "alternativa2": "Especificação dos meios e equipamentos disponíveis na unidade para resgate.",
@@ -18103,7 +18103,7 @@ const questoes = [
     "gabaritoComentado": "O Plano de Resgate deve conter identificação dos perigos, designação e dimensionamento da equipe, tempo de resposta, seleção de técnicas e equipamentos de resgate, especificação dos meios disponíveis (equipamentos) e previsão de simulados. O cálculo do IBUTG está relacionado à avaliação da exposição ao calor, não sendo um componente obrigatório do Plano de Resgate em Espaços Confinados."
   },
   {
-    "tema": "NR 31",
+    "tema": "NR 31👨‍🌾",
     "pergunta": "13. A NR-31 remete à aplicação da NR-6 - Equipamentos de Proteção Individual (EPI). De acordo com a NR-6, conforme citado no contexto da NR-31, qual a exigência fundamental para que um EPI, de fabricação nacional ou importado, possa ser posto à venda ou utilizado?",
     "alternativa1": "Deve apresentar selo de conformidade do fabricante.",
     "alternativa2": "Deve ser acompanhado de manual de instruções em língua portuguesa.",
@@ -18114,7 +18114,7 @@ const questoes = [
     "gabaritoComentado": "Conforme a NR-6, citada na NR-31, o EPI, de fabricação nacional ou importado, só pode ser posto à venda ou utilizado com a indicação do Certificado de Aprovação (CA), expedido pelo órgão de âmbito nacional competente, em matéria de segurança e saúde no trabalho."
   },
   {
-    "tema": "NR 31",
+    "tema": "NR 31👨‍🌾",
     "pergunta": "14. A NR-31 lista alguns dispositivos de proteção pessoal específicos para as atividades rurais, que não são enquadrados como EPI. Assinale a opção que apresenta um desses dispositivos, conforme listado na Norma:",
     "alternativa1": "Perneira contra picadas de animais peçonhentos.",
     "alternativa2": "Óculos de segurança com proteção lateral.",
@@ -18125,7 +18125,7 @@ const questoes = [
     "gabaritoComentado": "A NR-31 lista os dispositivos de proteção pessoal, que não são EPIs, incluindo perneira contra picadas de animais peçonhentos."
   },
   {
-    "tema": "NR 31",
+    "tema": "NR 31👨‍🌾",
     "pergunta": "15. No treinamento e capacitação dos trabalhadores rurais, a NR-31 permite que sejam ministrados em diferentes modalidades. Qual modalidade é OBRIGATÓRIA para o conteúdo prático do treinamento ou capacitação?",
     "alternativa1": "Pode ser em qualquer modalidade, a critério do empregador.",
     "alternativa2": "Ensino à distância ou semipresencial, conforme o Anexo II da NR-1.",
@@ -18136,7 +18136,7 @@ const questoes = [
     "gabaritoComentado": "A NR-31 permite modalidades presencial, semipresencial ou EaD para treinamentos, desde que atendidos os requisitos da NR-1, Anexo II. No entanto, o conteúdo prático do treinamento ou capacitação deve ser ministrado na modalidade presencial."
   },
   {
-    "tema": "NR 31",
+    "tema": "NR 31👨‍🌾",
     "pergunta": "16. A NR-31 trata das edificações rurais. Qual o objetivo principal dos requisitos estabelecidos neste capítulo da Norma?",
     "alternativa1": "Determinar o tipo de material a ser utilizado nas edificações.",
     "alternativa2": "Estabelecer padrões estéticos para as construções rurais.",
@@ -18147,7 +18147,7 @@ const questoes = [
     "gabaritoComentado": "A NR-31 trata, no capítulo 31.16, das edificações rurais, definindo requisitos visando preservar a segurança e saúde dos trabalhadores durante as atividades nas edificações rurais."
   },
   {
-    "tema": "NR 31",
+    "tema": "NR 31👨‍🌾",
     "pergunta": "17. Segundo a NR-31, as ferramentas manuais e seus acessórios utilizados pelos trabalhadores rurais devem ser fornecidos gratuitamente pelo empregador. Além disso, qual outra característica é exigida para essas ferramentas?",
     "alternativa1": "Devem ser seguras e eficientes para os fins a que se destinam, com condições anatômicas.",
     "alternativa2": "Devem possuir Certificado de Aprovação (CA).",
@@ -18158,7 +18158,7 @@ const questoes = [
     "gabaritoComentado": "As ferramentas manuais devem ser fornecidas gratuitamente, substituídas quando necessário e serem seguras e eficientes para os fins a que se destinam, com condições anatômicas."
   },
   {
-    "tema": "NR 31",
+    "tema": "NR 31👨‍🌾",
     "pergunta": "18. Conforme a NR-31, a manipulação de agrotóxicos, aditivos, adjuvantes e produtos afins é vedada em algumas situações, independentemente do registro e autorização pelos órgãos governamentais competentes e do cumprimento das indicações do rótulo e bula. É vedada a manipulação por:",
     "alternativa1": "Trabalhadores com menos de 2 anos de experiência na atividade.",
     "alternativa2": "Trabalhadores menores de 18 anos, maiores de 60 anos e mulheres gestantes ou em período de lactação.",
@@ -18169,7 +18169,7 @@ const questoes = [
     "gabaritoComentado": "A NR-31 veda expressamente a manipulação de agrotóxicos, aditivos, adjuvantes e produtos afins por menores de 18 anos, por maiores de 60 anos e por mulheres gestantes e em período de lactação."
   },
   {
-    "tema": "NR 31",
+    "tema": "NR 31👨‍🌾",
     "pergunta": "19. A NR-31 estabelece os direitos dos trabalhadores rurais em matéria de segurança e saúde no trabalho. Qual dos itens abaixo NÃO é um direito do trabalhador rural, segundo a Norma?",
     "alternativa1": "Ter ambientes de trabalho seguros e saudáveis.",
     "alternativa2": "Ser consultado, por meio de seus representantes na CIPATR, sobre as medidas de prevenção.",
@@ -18180,7 +18180,7 @@ const questoes = [
     "gabaritoComentado": "Os direitos dos trabalhadores rurais incluem ter ambientes seguros e saudáveis, ser consultado via CIPATR, escolher sua representação em SST, e receber instruções/orientação em SST. Recusar injustificadamente as medidas de prevenção determinadas pelo empregador constitui ato faltoso, conforme as obrigações do trabalhador."
   },
   {
-    "tema": "NR 31",
+    "tema": "NR 31👨‍🌾",
     "pergunta": "20. No contexto da aplicação da NR-31, para os alojamentos disponibilizados aos trabalhadores rurais, a Norma exige que sejam atendidos requisitos específicos. Qual das alternativas a seguir NÃO é um requisito para os alojamentos, conforme a NR-31?",
     "alternativa1": "Possuir sistema de refrigeração central para manter a temperatura constante.",
     "alternativa2": "Serem mantidos em condições adequadas de conservação, higiene e limpeza.",
@@ -18191,7 +18191,7 @@ const questoes = [
     "gabaritoComentado": "Os requisitos para alojamentos incluem camas com colchões higienizados, instalações sanitárias e lavanderia, conservação/higiene/limpeza, e área mínima/ventilação. A exigência de sistema de refrigeração central não está prevista no trecho da norma apresentado sobre alojamentos."
   },
   {
-    "tema": "NR 31",
+    "tema": "NR 31👨‍🌾",
     "pergunta": "21. Em relação ao conteúdo programático mínimo para a capacitação sobre prevenção de acidentes com agrotóxicos para trabalhadores em exposição direta, a NR-31 exige diversos temas. Qual item deve OBRIGATORIAMENTE fazer parte desse treinamento?",
     "alternativa1": "Métodos de marketing e venda de produtos agrícolas.",
     "alternativa2": "Histórico da evolução dos agrotóxicos no Brasil.",
@@ -18202,7 +18202,7 @@ const questoes = [
     "gabaritoComentado": "O treinamento sobre prevenção de acidentes com agrotóxicos deve incluir, entre outros, procedimentos de emergência e primeiros socorros em caso de intoxicação. As demais alternativas não são requisitos obrigatórios para este treinamento."
   },
   {
-    "tema": "NR 31",
+    "tema": "NR 31👨‍🌾",
     "pergunta": "22. A NR-31 estabelece que, ao término dos treinamentos ou capacitações, deve ser emitido um certificado. Qual informação DEVE constar neste certificado, conforme a Norma?",
     "alternativa1": "A avaliação de desempenho do trabalhador no treinamento.",
     "alternativa2": "O resultado da avaliação de riscos da atividade para a qual o treinamento foi ministrado.",
@@ -18213,7 +18213,7 @@ const questoes = [
     "gabaritoComentado": "O certificado deve conter o nome do trabalhador, o conteúdo programático, a carga horária, a data, o local de realização do treinamento, o nome e a qualificação dos instrutores, e a assinatura do responsável técnico."
   },
   {
-    "tema": "NR 31",
+    "tema": "NR 31👨‍🌾",
     "pergunta": "23. No que tange aos riscos biológicos no trabalho rural, a NR-31 e a literatura técnica associada mencionam exemplos de agentes de risco biológicos. Qual das opções abaixo NÃO é citada como um exemplo de agente de risco biológico no trato de animais?",
     "alternativa1": "Radiação solar.",
     "alternativa2": "Fungos.",
@@ -18224,7 +18224,7 @@ const questoes = [
     "gabaritoComentado": "No trato de animais, são comuns microrganismos (bactérias, fungos, protozoários e vírus), toxinas e parasitas, incluindo os príons. A radiação solar é classificada como um agente de risco físico, relacionado à exposição ao calor."
   },
   {
-    "tema": "NR 31",
+    "tema": "NR 31👨‍🌾",
     "pergunta": "24. A NR-31, ao tratar de locais para refeição, estabelece requisitos para garantir condições higiênico-sanitárias e de conforto. Qual das seguintes opções é uma exigência para os locais de refeição, segundo a Norma?",
     "alternativa1": "Devem ter pisos revestidos com carpetes.",
     "alternativa2": "Devem ser localizados a uma distância máxima de 50 metros das frentes de trabalho.",
@@ -18235,7 +18235,7 @@ const questoes = [
     "gabaritoComentado": "Os locais para refeição devem ter pisos e paredes limpas e conservadas, oferecer condições de higiene e conforto, ser dotados de lavatórios exclusivos para o pessoal que manipula alimentos (nos locais de preparo). O trecho específico sobre locais para refeição lista outros requisitos como ventilação, iluminação, assentos, mesas e água potável."
   },
   {
-    "tema": "NR 31",
+    "tema": "NR 31👨‍🌾",
     "pergunta": "25. Em relação aos riscos relacionados à ergonomia no trabalho rural, a NR-31 e a literatura técnica associada identificam diversos fatores. Qual atividade é citada como exemplo de esforço com sobrecarga muscular e repetitivo, ou permanência de posturas inadequadas?",
     "alternativa1": "Trabalho administrativo em escritório rural.",
     "alternativa2": "Colheita de cana-de-açúcar.",
@@ -18246,7 +18246,7 @@ const questoes = [
     "gabaritoComentado": "A atividade rural frequentemente abrange esforços com sobrecarga muscular e repetitivos, como a colheita de cana-de-açúcar, transporte manual de sacolas com frutas e trabalho realizado no nível do solo, determinando flexões contínuas do tronco."
   },
   {
-    "tema": "NR 31",
+    "tema": "NR 31👨‍🌾",
     "pergunta": "26. A NR-31 aborda a questão dos armários para guarda de vestuário. Em quais situações devem ser fornecidos armários de compartimentos duplos ou dois armários simples?",
     "alternativa1": "Quando houver necessidade de guarda de itens de valor pessoal do trabalhador.",
     "alternativa2": "Em locais de trabalho com mais de 10 trabalhadores.",
@@ -18257,7 +18257,7 @@ const questoes = [
     "gabaritoComentado": "Armários de compartimentos duplos ou dois armários simples devem ser fornecidos nas atividades laborais em que haja exposição e manuseio de material infectante, substâncias tóxicas, irritantes ou aerodispersóides, bem como naquelas em que haja contato com substâncias que provoquem deposição de poeiras que impregnem a pele e as roupas do trabalhador."
   },
   {
-    "tema": "NR 31",
+    "tema": "NR 31👨‍🌾",
     "pergunta": "27. No que se refere à aptidão dos trabalhadores para atividades em espaços confinados, a NR-31 (em relação à NR-33) exige avaliação específica. Além da aptidão física e mental, qual aspecto adicional deve ser considerado e consignado no Atestado de Saúde Ocupacional (ASO), nos termos da NR-07?",
     "alternativa1": "A experiência prévia do trabalhador em espaços confinados.",
     "alternativa2": "O nível de escolaridade do trabalhador.",
@@ -18268,7 +18268,7 @@ const questoes = [
     "gabaritoComentado": "Além da capacitação, os trabalhadores designados para atividades em espaços confinados devem ser avaliados quanto à aptidão física e mental, considerando os fatores de riscos psicossociais. A aptidão deve estar consignada no Atestado de Saúde Ocupacional - ASO, nos termos da NR-07."
   },
   {
-    "tema": "NR 31",
+    "tema": "NR 31👨‍🌾",
     "pergunta": "28. A NR-31 estabelece que o aproveitamento de conteúdos de treinamentos ministrados pelo mesmo empregador, realizado há menos de 2 anos, pode ser aproveitado, desde que validado pelo responsável técnico. A validade do novo treinamento, nesses casos, passa a considerar:",
     "alternativa1": "A data de validação pelo responsável técnico.",
     "alternativa2": "A data de realização do treinamento aproveitado (mais antigo).",
@@ -18279,7 +18279,7 @@ const questoes = [
     "gabaritoComentado": "Conforme a NR-1, referenciada na NR-31, a validade do novo treinamento passa a considerar a data do treinamento mais antigo aproveitado."
   },
   {
-    "tema": "NR 31",
+    "tema": "NR 31👨‍🌾",
     "pergunta": "29. No que se refere à aplicação da Norma Regulamentadora nº 24 (NR-24) - Condições Sanitárias e de Conforto nos Locais de Trabalho - às atividades rurais, a NR-31 determina que:",
     "alternativa1": "A NR-31 e a NR-24 se aplicam simultaneamente para todas as condições sanitárias e de conforto.",
     "alternativa2": "A aplicação da NR-24 é opcional, a critério do empregador rural.",
@@ -18290,7 +18290,7 @@ const questoes = [
     "gabaritoComentado": "Em nenhum momento a NR-31 prevê a aplicação da NR-24. Seguindo a regra de aplicação da NR-31 (que somente se aplicam outras NRs quando há remissão expressa), conclui-se que a NR-24 não se aplica ao trabalho rural, para condições sanitárias e de conforto, aplicando-se exclusivamente a NR-31 neste caso."
   },
   {
-    "tema": "NR 31",
+    "tema": "NR 31👨‍🌾",
     "pergunta": "30. Qual a definição de 'Água potável', segundo o glossário da NR-31?",
     "alternativa1": "Água mineral engarrafada, fornecida diariamente aos trabalhadores.",
     "alternativa2": "Água tratada quimicamente e armazenada em reservatórios.",
@@ -18301,7 +18301,7 @@ const questoes = [
     "gabaritoComentado": "De acordo com o glossário da NR 31, água potável é aquela destinada à ingestão, preparação e produção de alimentos, que atenda ao padrão de potabilidade estabelecido pelas normas governamentais."
   },
   {
-    "tema": "NR 33",
+    "tema": "NR 33🕳️",
     "pergunta": "Conforme a NR 33, qual é o percentual mínimo de oxigênio aceitável para entrada em espaços confinados?",
     "alternativa1": "18,5%",
     "alternativa2": "19,5%",
@@ -18312,7 +18312,7 @@ const questoes = [
     "gabaritoComentado": "A NR 33 estabelece que o percentual mínimo de oxigênio aceitável para entrada em espaços confinados é 19,5%, desde que a causa da redução seja conhecida e controlada."
   },
   {
-    "tema": "NR 33",
+    "tema": "NR 33🕳️",
     "pergunta": "Qual elemento NÃO compõe o pentágono da explosão de poeira combustível em espaços confinados?",
     "alternativa1": "Oxigênio presente no ar",
     "alternativa2": "Poeira combustível em dispersão",
@@ -18323,7 +18323,7 @@ const questoes = [
     "gabaritoComentado": "O pentágono da explosão inclui oxigênio, poeira combustível dispersa, ambiente confinado, fonte de ignição e concentração adequada. Vapor d'água não é um componente essencial."
   },
   {
-    "tema": "NR 33",
+    "tema": "NR 33🕳️",
     "pergunta": "Qual é a obrigação do empregador em relação à Permissão de Entrada e Trabalho (PET)?",
     "alternativa1": "Emitir a PET apenas para espaços confinados ativos",
     "alternativa2": "Arquivar a PET por no mínimo 2 anos",
@@ -18334,7 +18334,7 @@ const questoes = [
     "gabaritoComentado": "A NR 33 exige que o empregador garanta o arquivamento da PET por no mínimo 5 anos e que seja rastreável."
   },
   {
-    "tema": "NR 33",
+    "tema": "NR 33🕳️",
     "pergunta": "O que caracteriza um espaço confinado segundo a NR 33?",
     "alternativa1": "Projetado para ocupação humana contínua",
     "alternativa2": "Possui ventilação natural suficiente",
@@ -18345,7 +18345,7 @@ const questoes = [
     "gabaritoComentado": "Um espaço confinado é caracterizado por ter meios limitados de entrada e saída, entre outros requisitos."
   },
   {
-    "tema": "NR 33",
+    "tema": "NR 33🕳️",
     "pergunta": "Qual medida é essencial para prevenir engolfamento em silos de grãos?",
     "alternativa1": "Uso de detectores de gases",
     "alternativa2": "Sistema de linha de vida e cabo guia",
@@ -18356,7 +18356,7 @@ const questoes = [
     "gabaritoComentado": "O uso de linha de vida e cabo guia é crucial para prevenir engolfamento durante o deslocamento sobre massa de grãos."
   },
   {
-    "tema": "NR 33",
+    "tema": "NR 33🕳️",
     "pergunta": "Qual função é responsável por preencher e assinar a PET?",
     "alternativa1": "Vigia",
     "alternativa2": "Trabalhador autorizado",
@@ -18367,7 +18367,7 @@ const questoes = [
     "gabaritoComentado": "O supervisor de entrada é capacitado para preencher e assinar a PET, conforme a NR 33."
   },
   {
-    "tema": "NR 33",
+    "tema": "NR 33🕳️",
     "pergunta": "O que deve conter o cadastro de espaços confinados?",
     "alternativa1": "Apenas a identificação do espaço",
     "alternativa2": "Número de trabalhadores autorizados",
@@ -18378,7 +18378,7 @@ const questoes = [
     "gabaritoComentado": "O cadastro deve incluir volume, aberturas, croqui, produtos armazenados e perigos existentes."
   },
   {
-    "tema": "NR 33",
+    "tema": "NR 33🕳️",
     "pergunta": "Qual gás NÃO é comumente associado à atmosfera IPVS em espaços confinados?",
     "alternativa1": "Metano (CH4)",
     "alternativa2": "Monóxido de Carbono (CO)",
@@ -18389,7 +18389,7 @@ const questoes = [
     "gabaritoComentado": "Nitrogênio não é tóxico, mas pode causar asfixia por deslocamento de oxigênio. Os gases listados na NR 33 são CH4, CO, H2S e variações de O2."
   },
   {
-    "tema": "NR 33",
+    "tema": "NR 33🕳️",
     "pergunta": "O que é obrigatório antes da entrada em espaço confinado?",
     "alternativa1": "Realização de teste de resposta (bump test) nos detectores",
     "alternativa2": "Treinamento opcional dos trabalhadores",
@@ -18400,7 +18400,7 @@ const questoes = [
     "gabaritoComentado": "O bump test é necessário para verificar a funcionalidade dos detectores de gases antes do uso."
   },
   {
-    "tema": "NR 33",
+    "tema": "NR 33🕳️",
     "pergunta": "Qual é uma atribuição do vigia conforme a NR 33?",
     "alternativa1": "Entrar no espaço confinado para auxiliar",
     "alternativa2": "Emitir a PET",
@@ -18411,7 +18411,7 @@ const questoes = [
     "gabaritoComentado": "O vigia deve garantir que apenas trabalhadores autorizados na PET ingressem no espaço confinado."
   },
   {
-    "tema": "NR 33",
+    "tema": "NR 33🕳️",
     "pergunta": "Qual medida previne explosões em espaços com poeira combustível?",
     "alternativa1": "Uso de equipamentos elétricos não certificados",
     "alternativa2": "Acúmulo de poeira em camadas",
@@ -18422,7 +18422,7 @@ const questoes = [
     "gabaritoComentado": "A limpeza contínua reduz poeiras em camadas, minimizando riscos de explosões secundárias."
   },
   {
-    "tema": "NR 33",
+    "tema": "NR 33🕳️",
     "pergunta": "O que deve ser feito em caso de troca de turnos durante bloqueio de energias?",
     "alternativa1": "Manter os dispositivos anteriores",
     "alternativa2": "Substituir dispositivos e etiquetas",
@@ -18433,7 +18433,7 @@ const questoes = [
     "gabaritoComentado": "Os dispositivos e etiquetas devem ser substituídos a cada troca de turno para garantir a segurança."
   },
   {
-    "tema": "NR 33",
+    "tema": "NR 33🕳️",
     "pergunta": "Qual documento comprova a aptidão física e mental para trabalhos em espaços confinados?",
     "alternativa1": "PET",
     "alternativa2": "Laudo técnico",
@@ -18444,7 +18444,7 @@ const questoes = [
     "gabaritoComentado": "O ASO, conforme a NR-07, atesta a aptidão física e mental do trabalhador."
   },
   {
-    "tema": "NR 33",
+    "tema": "NR 33🕳️",
     "pergunta": "O que é considerado atmosfera IPVS?",
     "alternativa1": "Atmosfera com oxigênio acima de 23%",
     "alternativa2": "Qualquer atmosfera com risco imediato à vida ou saúde",
@@ -18455,7 +18455,7 @@ const questoes = [
     "gabaritoComentado": "Atmosfera IPVS é aquela que apresenta risco imediato à vida ou causa efeito debilitante à saúde."
   },
   {
-    "tema": "NR 33",
+    "tema": "NR 33🕳️",
     "pergunta": "Qual é o objetivo do Plano de Resgate?",
     "alternativa1": "Substituir a PET",
     "alternativa2": "Garantir atendimento rápido em emergências",
@@ -18466,7 +18466,7 @@ const questoes = [
     "gabaritoComentado": "O Plano de Resgate visa garantir respostas eficazes em emergências, reduzindo tempo de exposição a riscos."
   },
   {
-    "tema": "NR 33",
+    "tema": "NR 33🕳️",
     "pergunta": "Qual norma técnica complementa a NR 33 para prevenção de acidentes?",
     "alternativa1": "NBR 16577",
     "alternativa2": "NR-35",
@@ -18477,7 +18477,7 @@ const questoes = [
     "gabaritoComentado": "A NBR 16577 estabelece procedimentos e medidas de proteção para espaços confinados, complementando a NR 33."
   },
   {
-    "tema": "NR 33",
+    "tema": "NR 33🕳️",
     "pergunta": "O que é necessário para a ventilação em espaços confinados?",
     "alternativa1": "Insufllação de ar externo sem análise",
     "alternativa2": "Dimensionamento conforme características do espaço",
@@ -18488,7 +18488,7 @@ const questoes = [
     "gabaritoComentado": "A ventilação deve ser dimensionada conforme características do espaço, como geometria e contaminantes."
   },
   {
-    "tema": "NR 33",
+    "tema": "NR 33🕳️",
     "pergunta": "Qual é uma falha comum em acidentes de asfixia em espaços confinados?",
     "alternativa1": "Uso de detectores de gases",
     "alternativa2": "Emissão adequada da PET",
@@ -18499,7 +18499,7 @@ const questoes = [
     "gabaritoComentado": "A falta de avaliação atmosférica prévia é uma falha crítica que leva a acidentes de asfixia."
   },
   {
-    "tema": "NR 33",
+    "tema": "NR 33🕳️",
     "pergunta": "Qual equipamento é usado para monitorar atmosferas perigosas?",
     "alternativa1": "Termômetro",
     "alternativa2": "Detector multigás",
@@ -18510,7 +18510,7 @@ const questoes = [
     "gabaritoComentado": "Detectores multigás monitoram O2, LIE, CO e H2S, essenciais para avaliar atmosferas perigosas."
   },
   {
-    "tema": "NR 33",
+    "tema": "NR 33🕳️",
     "pergunta": "O que caracteriza engolfamento conforme a NR 33?",
     "alternativa1": "Queda de altura",
     "alternativa2": "Envolvimento por material particulado sólido",
@@ -18521,7 +18521,7 @@ const questoes = [
     "gabaritoComentado": "Engolfamento é o envolvimento por material sólido que pode levar à inconsciência ou morte."
   },
   {
-    "tema": "NR 33",
+    "tema": "NR 33🕳️",
     "pergunta": "Qual é a função do Responsável Técnico?",
     "alternativa1": "Executar trabalhos no espaço confinado",
     "alternativa2": "Elaborar o cadastro de espaços confinados",
@@ -18532,7 +18532,7 @@ const questoes = [
     "gabaritoComentado": "O Responsável Técnico deve elaborar o cadastro de espaços confinados, entre outras atribuições."
   },
   {
-    "tema": "NR 33",
+    "tema": "NR 33🕳️",
     "pergunta": "Qual ação previne acidentes em túneis com poeira combustível?",
     "alternativa1": "Acumular poeira em camadas",
     "alternativa2": "Usar equipamentos não certificados",
@@ -18543,7 +18543,7 @@ const questoes = [
     "gabaritoComentado": "Limpeza contínua reduz poeiras em camadas, prevenindo explosões secundárias."
   },
   {
-    "tema": "NR 33",
+    "tema": "NR 33🕳️",
     "pergunta": "Qual é um requisito para o bloqueio de energias perigosas?",
     "alternativa1": "Uso de etiquetas não identificáveis",
     "alternativa2": "Bloqueio coletivo para toda a equipe",
@@ -18554,7 +18554,7 @@ const questoes = [
     "gabaritoComentado": "Cada trabalhador deve ter dispositivo de bloqueio individual, conforme a NR 33."
   },
   {
-    "tema": "NR 33",
+    "tema": "NR 33🕳️",
     "pergunta": "O que é essencial no Plano de Resgate?",
     "alternativa1": "Ignorar simulados",
     "alternativa2": "Designação de equipe externa ou interna",
@@ -18565,7 +18565,7 @@ const questoes = [
     "gabaritoComentado": "O Plano de Resgate deve designar equipe de emergência, interna ou externa, conforme os riscos."
   },
   {
-    "tema": "NR 33",
+    "tema": "NR 33🕳️",
     "pergunta": "Qual situação caracteriza um espaço confinado mesmo sem atmosfera perigosa?",
     "alternativa1": "Armazenamento de grãos com risco de engolfamento",
     "alternativa2": "Ambiente com ventilação adequada",
@@ -18576,7 +18576,7 @@ const questoes = [
     "gabaritoComentado": "Espaços com risco de engolfamento são considerados confinados mesmo sem atmosfera perigosa."
   },
   {
-    "tema": "NR 33",
+    "tema": "NR 33🕳️",
     "pergunta": "Qual é uma medida de prevenção contra atmosferas IPVS?",
     "alternativa1": "Ignorar a ventilação",
     "alternativa2": "Monitoramento contínuo da atmosfera",
@@ -18587,7 +18587,7 @@ const questoes = [
     "gabaritoComentado": "O monitoramento contínuo é essencial para detectar alterações na atmosfera durante a permanência."
   },
   {
-    "tema": "NR 33",
+    "tema": "NR 33🕳️",
     "pergunta": "Qual é a finalidade do 'bump test' em detectores de gases?",
     "alternativa1": "Calibrar o equipamento sem gases de teste",
     "alternativa2": "Verificar a funcionalidade dos sensores",
@@ -18598,7 +18598,7 @@ const questoes = [
     "gabaritoComentado": "O 'bump test' verifica se os sensores e alarmes do detector estão funcionando corretamente."
   },
   {
-    "tema": "NR 33",
+    "tema": "NR 33🕳️",
     "pergunta": "O que deve constar na sinalização provisória durante entrada em espaço confinado?",
     "alternativa1": "Liberação ou não da entrada",
     "alternativa2": "Dados financeiros da empresa",
@@ -18609,7 +18609,7 @@ const questoes = [
     "gabaritoComentado": "A sinalização provisória deve indicar se a entrada está liberada ou não para trabalhadores autorizados."
   },
   {
-    "tema": "NR 33",
+    "tema": "NR 33🕳️",
     "pergunta": "Qual é um risco associado a silos de grãos?",
     "alternativa1": "Queda de raios",
     "alternativa2": "Engolfamento e soterramento",
@@ -18620,7 +18620,7 @@ const questoes = [
     "gabaritoComentado": "Silos apresentam riscos de engolfamento e soterramento devido à movimentação da massa de grãos."
   },
   {
-    "tema": "NR 33",
+    "tema": "NR 33🕳️",
     "pergunta": "O que é necessário para a capacitação dos trabalhadores?",
     "alternativa1": "Avaliação física e mental periódica",
     "alternativa2": "Treinamento apenas inicial",
@@ -18631,7 +18631,7 @@ const questoes = [
     "gabaritoComentado": "A capacitação inclui avaliação física e mental periódica, conforme a NR 33 e NR-07."
   },
   {
-    "tema": "NR 33",
+    "tema": "NR 33🕳️",
     "pergunta": "Qual ação é proibida durante trabalho sobre massa de grãos?",
     "alternativa1": "Uso de linha de vida",
     "alternativa2": "Sistema de descarga em funcionamento",
@@ -18642,7 +18642,7 @@ const questoes = [
     "gabaritoComentado": "É proibido trabalhar sobre massa de grãos com o sistema de descarga em operação, devido ao risco de engolfamento."
   },
   {
-    "tema": "NR 33",
+    "tema": "NR 33🕳️",
     "pergunta": "O que é considerado na classificação de áreas explosivas?",
     "alternativa1": "Presença de poeira combustível em suspensão",
     "alternativa2": "Ausência de oxigênio",
