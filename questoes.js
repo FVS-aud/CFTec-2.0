@@ -16343,7 +16343,7 @@ const questoes = [
     "gabaritoComentado": "O registro do teste hidrostático de fabricação no prontuário visa a **atestar a resistência da caldeira à pressão interna de projeto**."
   },
   {
-    "tema": "NR 18",
+    "tema": "NR 18🏗️",
     "pergunta": "Qual é a principal finalidade da NR-18 na indústria da construção civil?",
     "alternativa1": "Aumentar a produtividade dos trabalhadores.",
     "alternativa2": "Estabelecer diretrizes administrativas e medidas de controle de segurança.",
@@ -16354,7 +16354,7 @@ const questoes = [
     "gabaritoComentado": "A NR-18 tem como objetivo estabelecer diretrizes administrativas, de planejamento e organização para implementar medidas de controle e sistemas preventivos de segurança, conforme descrito no item 2 do documento."
   },
   {
-    "tema": "NR 18",
+    "tema": "NR 18🏗️",
     "pergunta": "Qual é a profundidade máxima permitida para escavações manuais de tubulões sem exigências adicionais?",
     "alternativa1": "3 metros",
     "alternativa2": "5 metros",
@@ -16365,7 +16365,7 @@ const questoes = [
     "gabaritoComentado": "A NR-18 proíbe escavações manuais de tubulões com profundidade superior a 15 metros, conforme destacado no item 6.2."
   },
   {
-    "tema": "NR 18",
+    "tema": "NR 18🏗️",
     "pergunta": "Qual medida é obrigatória para escavações com profundidade superior a 1,25 metros?",
     "alternativa1": "Uso de equipamentos automatizados.",
     "alternativa2": "Proteção com taludes ou escoramentos projetados por PLH.",
@@ -16376,7 +16376,7 @@ const questoes = [
     "gabaritoComentado": "Escavações acima de 1,25m exigem taludes ou escoramentos definidos em projeto por profissional habilitado, conforme item 6.1."
   },
   {
-    "tema": "NR 18",
+    "tema": "NR 18🏗️",
     "pergunta": "Qual é a altura mínima exigida para o tapume que cerca o canteiro de obras?",
     "alternativa1": "1 metro",
     "alternativa2": "1,5 metros",
@@ -16387,7 +16387,7 @@ const questoes = [
     "gabaritoComentado": "O tapume deve ter altura mínima de 2m para impedir acesso de pessoas não autorizadas, conforme item 4."
   },
   {
-    "tema": "NR 18",
+    "tema": "NR 18🏗️",
     "pergunta": "O que deve ser disponibilizado nas áreas de vivência dos trabalhadores?",
     "alternativa1": "Academia e sala de jogos.",
     "alternativa2": "Instalação sanitária e local para refeições.",
@@ -16398,7 +16398,7 @@ const questoes = [
     "gabaritoComentado": "As áreas de vivência devem incluir instalação sanitária, vestiário, local para refeições e alojamento (se necessário), conforme item 5."
   },
   {
-    "tema": "NR 18",
+    "tema": "NR 18🏗️",
     "pergunta": "Qual é a principal causa de acidentes fatais no setor da construção civil, segundo os dados apresentados?",
     "alternativa1": "Queda de materiais.",
     "alternativa2": "Queda de pessoas com diferença de nível.",
@@ -16409,7 +16409,7 @@ const questoes = [
     "gabaritoComentado": "Queda de pessoas com diferença de nível foi a principal causa de mortes no setor, conforme Gráfico 3 do documento."
   },
   {
-    "tema": "NR 18",
+    "tema": "NR 18🏗️",
     "pergunta": "Qual norma complementar deve ser observada nas áreas de vivência?",
     "alternativa1": "NR-12",
     "alternativa2": "NR-24",
@@ -16420,7 +16420,7 @@ const questoes = [
     "gabaritoComentado": "As áreas de vivência devem atender também à NR-24, que detalha condições de conforto e higiene, conforme item 5."
   },
   {
-    "tema": "NR 18",
+    "tema": "NR 18🏗️",
     "pergunta": "O que é obrigatório para a execução de desmonte de rochas com explosivos?",
     "alternativa1": "Presença de um engenheiro ambiental.",
     "alternativa2": "Elaboração de um Plano de Fogo por profissional habilitado.",
@@ -16431,7 +16431,7 @@ const questoes = [
     "gabaritoComentado": "O Plano de Fogo, elaborado por profissional habilitado, é obrigatório para desmonte com explosivos, conforme item 6.3."
   },
   {
-    "tema": "NR 18",
+    "tema": "NR 18🏗️",
     "pergunta": "Qual é a distância máxima permitida entre o posto de trabalho e a instalação sanitária?",
     "alternativa1": "50 metros",
     "alternativa2": "100 metros",
@@ -16442,7 +16442,7 @@ const questoes = [
     "gabaritoComentado": "As instalações sanitárias devem estar a até 150m dos postos de trabalho, conforme item 5."
   },
   {
-    "tema": "NR 18",
+    "tema": "NR 18🏗️",
     "pergunta": "Qual dispositivo é obrigatório em plataformas elevatórias móveis de trabalho (PEMT)?",
     "alternativa1": "Ar-condicionado.",
     "alternativa2": "Botão de parada de emergência.",
@@ -16453,7 +16453,7 @@ const questoes = [
     "gabaritoComentado": "A PEMT deve ter botão de parada de emergência, conforme item 8.4."
   },
   {
-    "tema": "NR 18",
+    "tema": "NR 18🏗️",
     "pergunta": "O que é proibido durante a operação de andaimes suspensos?",
     "alternativa1": "Uso de capacete.",
     "alternativa2": "Transporte de materiais não vinculados ao serviço.",
@@ -16464,7 +16464,7 @@ const questoes = [
     "gabaritoComentado": "É proibido transportar materiais ou pessoas não relacionados ao serviço, conforme item 8.2."
   },
   {
-    "tema": "NR 18",
+    "tema": "NR 18🏗️",
     "pergunta": "Qual é a carga mínima que os pontos de ancoragem devem suportar?",
     "alternativa1": "500 kgf",
     "alternativa2": "750 kgf",
@@ -16475,7 +16475,7 @@ const questoes = [
     "gabaritoComentado": "Os pontos de ancoragem devem suportar pelo menos 1.500 kgf, conforme item 8 (ancoragem predial)."
   },
   {
-    "tema": "NR 18",
+    "tema": "NR 18🏗️",
     "pergunta": "Qual é a exigência para redes de segurança usadas na periferia de edificações?",
     "alternativa1": "Devem ser substituídas mensalmente.",
     "alternativa2": "Precisam ter malhas de tamanho variável.",
@@ -16486,7 +16486,7 @@ const questoes = [
     "gabaritoComentado": "As redes de segurança requerem inspeção semanal, conforme item 7."
   },
   {
-    "tema": "NR 18",
+    "tema": "NR 18🏗️",
     "pergunta": "O que é obrigatório em escavações próximas a cabos elétricos?",
     "alternativa1": "Medidas preventivas adicionais.",
     "alternativa2": "Presença de bombeiros.",
@@ -16497,7 +16497,7 @@ const questoes = [
     "gabaritoComentado": "Medidas preventivas adicionais são exigidas para escavações próximas a cabos elétricos, conforme item 6.1."
   },
   {
-    "tema": "NR 18",
+    "tema": "NR 18🏗️",
     "pergunta": "Qual é a altura mínima para instalação de dispositivos de ancoragem em edificações?",
     "alternativa1": "6 metros",
     "alternativa2": "9 metros",
@@ -16508,7 +16508,7 @@ const questoes = [
     "gabaritoComentado": "Edificações com altura igual ou superior a 12m devem ter dispositivos de ancoragem, conforme item 8."
   },
   {
-    "tema": "NR 18",
+    "tema": "NR 18🏗️",
     "pergunta": "O que é vedado em relação aos resíduos orgânicos nos canteiros de obra?",
     "alternativa1": "Reciclagem.",
     "alternativa2": "Acúmulo em locais inadequados.",
@@ -16519,7 +16519,7 @@ const questoes = [
     "gabaritoComentado": "É proibido acumular resíduos orgânicos em locais inadequados, conforme item 10."
   },
   {
-    "tema": "NR 18",
+    "tema": "NR 18🏗️",
     "pergunta": "Qual é a exigência para a capacitação de operadores de PEMT?",
     "alternativa1": "Ter ensino superior completo.",
     "alternativa2": "Ser capacitado para o modelo específico do equipamento.",
@@ -16530,7 +16530,7 @@ const questoes = [
     "gabaritoComentado": "A capacitação deve ser compatível com a marca e modelo do equipamento, conforme item 8.4."
   },
   {
-    "tema": "NR 18",
+    "tema": "NR 18🏗️",
     "pergunta": "Qual é a largura mínima da plataforma de trabalho em andaimes suspensos?",
     "alternativa1": "0,40 metros",
     "alternativa2": "0,50 metros",
@@ -16541,7 +16541,7 @@ const questoes = [
     "gabaritoComentado": "A largura útil mínima é de 0,65m para andaimes suspensos, conforme item 8.2."
   },
   {
-    "tema": "NR 18",
+    "tema": "NR 18🏗️",
     "pergunta": "O que deve ser feito em caso de acidente fatal no canteiro de obras?",
     "alternativa1": "Contatar imediatamente o sindicato e isolar o local.",
     "alternativa2": "Realizar uma reunião com os trabalhadores.",
@@ -16552,7 +16552,7 @@ const questoes = [
     "gabaritoComentado": "É obrigatório comunicar o órgão competente e isolar o local, conforme item 10."
   },
   {
-    "tema": "NR 18",
+    "tema": "NR 18🏗️",
     "pergunta": "Qual é a proibição relacionada a plataformas de trabalho sobre cavaletes?",
     "alternativa1": "Uso em dias chuvosos.",
     "alternativa2": "Altura superior a 1,5m e largura inferior a 0,90m.",
@@ -16563,7 +16563,7 @@ const questoes = [
     "gabaritoComentado": "Plataformas sobre cavaletes não podem ter altura >1,5m e largura <0,90m, conforme item 8."
   },
   {
-    "tema": "NR 18",
+    "tema": "NR 18🏗️",
     "pergunta": "Qual é a finalidade do sistema de ventilação em tubulões escavados manualmente?",
     "alternativa1": "Reduzir o ruído.",
     "alternativa2": "Controlar a umidade.",
@@ -16574,7 +16574,7 @@ const questoes = [
     "gabaritoComentado": "Ventilação por insuflação de ar é obrigatória para garantir segurança, conforme item 6.2."
   },
   {
-    "tema": "NR 18",
+    "tema": "NR 18🏗️",
     "pergunta": "O que é exigido para a utilização de cadeiras suspensas?",
     "alternativa1": "Uso prioritário em todas as obras.",
     "alternativa2": "Capacitação do trabalhador em NR-35 e ponto de ancoragem independente.",
@@ -16585,7 +16585,7 @@ const questoes = [
     "gabaritoComentado": "A cadeira suspensa exige capacitação em NR-35 e ponto de ancoragem independente, conforme item 8.5."
   },
   {
-    "tema": "NR 18",
+    "tema": "NR 18🏗️",
     "pergunta": "Qual é a exigência para o tráfego próximo a escavações?",
     "alternativa1": "Desvio obrigatório ou redução de velocidade.",
     "alternativa2": "Uso de semáforos inteligentes.",
@@ -16596,7 +16596,7 @@ const questoes = [
     "gabaritoComentado": "O tráfego próximo deve ser desviado ou ter velocidade reduzida, conforme item 6.1."
   },
   {
-    "tema": "NR 18",
+    "tema": "NR 18🏗️",
     "pergunta": "O que é obrigatório em andaimes simplesmente apoiados móveis?",
     "alternativa1": "Rodízios com travas para evitar deslocamento acidental.",
     "alternativa2": "Sistema de refrigeração.",
@@ -16607,7 +16607,7 @@ const questoes = [
     "gabaritoComentado": "Andaimes móveis devem ter rodízios com travas, conforme item 8.1."
   },
   {
-    "tema": "NR 18",
+    "tema": "NR 18🏗️",
     "pergunta": "Qual é a altura mínima para anteparos rígidos de proteção contra quedas?",
     "alternativa1": "0,80 metros",
     "alternativa2": "1,00 metro",
@@ -16618,7 +16618,7 @@ const questoes = [
     "gabaritoComentado": "Anteparos rígidos devem ter altura mínima de 1,20m, conforme item 7."
   },
   {
-    "tema": "NR 18",
+    "tema": "NR 18🏗️",
     "pergunta": "O que é proibido em relação ao uso de copos em áreas de vivência?",
     "alternativa1": "Copos descartáveis.",
     "alternativa2": "Copos coletivos.",
@@ -16629,7 +16629,7 @@ const questoes = [
     "gabaritoComentado": "É vedado o uso de copos coletivos, conforme item 5."
   },
   {
-    "tema": "NR 18",
+    "tema": "NR 18🏗️",
     "pergunta": "Qual documento deve ser elaborado antes do início das atividades em uma obra?",
     "alternativa1": "Comunicação Prévia de Obras à SIT.",
     "alternativa2": "Relatório de Impacto Ambiental.",
@@ -16640,7 +16640,7 @@ const questoes = [
     "gabaritoComentado": "A Comunicação Prévia de Obras à SIT é obrigatória, conforme item 4."
   },
   {
-    "tema": "NR 18",
+    "tema": "NR 18🏗️",
     "pergunta": "Qual é a periodicidade da inspeção em escoramentos de escavações?",
     "alternativa1": "Semanal",
     "alternativa2": "Mensal",
