@@ -13965,7 +13965,7 @@ const questoes = [
     "gabaritoComentado": "A NR 12 não se aplica a máquinas manuais, máquinas expostas para fins históricos, eletrodomésticos e equipamentos estáticos (caldeiras, vaso de pressão, etc.)."
   },
   {
-    "tema": "NR 10",
+    "tema": "NR 10⚡",
     "pergunta": "De acordo com os excertos que abordam a Norma Regulamentadora nº 10 (NR 10), qual é o objetivo principal desta norma?",
     "alternativa1": "Garantir a gestão da integridade estrutural de caldeiras e vasos de pressão.",
     "alternativa2": "Estabelecer requisitos mínimos para a gestão de riscos psicossociais no trabalho.",
