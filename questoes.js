@@ -12007,7 +12007,7 @@ const questoes = [
     "gabaritoComentado": "A NR 17, no item 17.3, prevê a avaliação das situações de trabalho em duas etapas: AEP (inicial) e AET (aprofundamento). A AEP é o estágio qualitativo inicial, enquanto a AET é o estágio posterior, aprofundado, com mensuração sistematizada. A AEP pode utilizar abordagens qualitativas, semiquantitativas, quantitativas ou combinação."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "Conforme a NR 17, a Análise Ergonômica do Trabalho (AET) deve ser realizada em situações específicas. Assinale a alternativa que apresenta uma dessas situações.",
     "alternativa1": "Quando a organização possui certificação válida em sistema de gestão de SST, como a ISO 45.001:2018.",
     "alternativa2": "Quando as Microempresas (ME) ou Empresas de Pequeno Porte (EPP), enquadradas como graus de risco 1 e 2, não possuem acidentes relacionados ao trabalho.",
@@ -12029,7 +12029,7 @@ const questoes = [
     "gabaritoComentado": "As etapas da AET listadas na NR 17 (item 17.3.3) incluem análise da demanda, análise do funcionamento/processos/situações/atividade, descrição/justificativa de métodos, estabelecimento de diagnóstico, recomendações e restituição/validação/revisão com participação dos trabalhadores. A elaboração exclusiva de relatórios apenas para a gerência superior não é uma etapa prevista, e a participação dos trabalhadores é explicitamente requerida na restituição dos resultados."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "A participação dos trabalhadores é um elemento fundamental nas avaliações ergonômicas. De acordo com a NR 17, assinale a alternativa correta sobre a participação dos trabalhadores.",
     "alternativa1": "A participação dos trabalhadores na AET se limita à coleta de informações pelo analista, sem necessidade de validação das medidas de correção.",
     "alternativa2": "A avaliação das situações de trabalho, seja AEP ou AET, deve ser feita com a participação dos próprios trabalhadores a partir da observação de situações reais.",
@@ -12040,7 +12040,7 @@ const questoes = [
     "gabaritoComentado": "A avaliação das situações de trabalho (AEP ou AET) deve ser feita com a participação dos trabalhadores a partir da observação de situações reais. As medidas de correção da AET devem ser validadas e restituídas junto aos trabalhadores e partes interessadas na empresa. A solicitação justificada dos trabalhadores ou da CIPA é motivo para revisão da avaliação de riscos ocupacionais."
   },
   {
-    "tema": "ERGONOMIA",
+    "tema": "NR 17 - Ergonomia",
     "pergunta": "Sobre as Microempresas (ME) e Empresas de Pequeno Porte (EPP) no contexto da NR 17, assinale a alternativa correta.",
     "alternativa1": "ME e EPP, enquadradas como graus de risco 1 e 2, estão dispensadas de atender a todos os requisitos da NR 17.",
     "alternativa2": "O Microempreendedor Individual (MEI) é obrigado a elaborar a AET, independentemente de evidências de agravos à saúde.",
