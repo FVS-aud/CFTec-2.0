@@ -14977,7 +14977,7 @@ const questoes = [
     "gabaritoComentado": "O suplente tem a mesma garantia do titular, conforme a Súmula TST 339."
   },
     {
-    "tema": "NR 6 - EPI",
+    "tema": "NR 06 - EPI👷🏽‍♀️",
     "pergunta": "1. Conforme as disposições acerca dos Equipamentos de Proteção Individual (EPI), a principal função do Certificado de Aprovação (CA) é:",
     "alternativa1": "Garantir que o equipamento cumpra a função de proteção exigida para o uso proposto, após ser submetido a testes e aprovado.",
     "alternativa2": "Atestar a validade do EPI para fins de comercialização no mercado nacional.",
@@ -14988,7 +14988,7 @@ const questoes = [
     "gabaritoComentado": "O Certificado de Aprovação (CA) garante que o equipamento cumpra a função exigida para o uso proposto, significando que ele foi submetido a testes e aprovado pelo órgão nacional competente em matéria de SST."
   },
   {
-    "tema": "NR 6 - EPI",
+    "tema": "NR 06 - EPI👷🏽‍♀️",
     "pergunta": "2. No que tange às responsabilidades da organização em relação aos Equipamentos de Proteção Individual (EPI), assinale a opção correta.",
     "alternativa1": "A organização é responsável por adquirir EPI de qualquer fornecedor, desde que possua nota fiscal de compra.",
     "alternativa2": "A organização deve adquirir somente o EPI aprovado pelo órgão de âmbito nacional competente, em matéria de segurança e saúde no trabalho.",
@@ -14999,7 +14999,7 @@ const questoes = [
     "gabaritoComentado": "Conforme as fontes, a organização, em relação aos EPIs, é responsável por adquirir somente o aprovado pelo órgão de âmbito nacional competente, em matéria de segurança e saúde no trabalho."
   },
   {
-    "tema": "NR 6 - EPI",
+    "tema": "NR 06 - EPI👷🏽‍♀️",
     "pergunta": "3. Com base nos exemplos mencionados nas fontes, assinale a opção que apresenta um item que, quando utilizado como proteção individual no trabalho, é considerado EPI e necessita de Certificado de Aprovação (CA).",
     "alternativa1": "Boné simples para proteção solar.",
     "alternativa2": "Chapéu de palha para trabalho a céu aberto.",
@@ -15010,7 +15010,7 @@ const questoes = [
     "gabaritoComentado": "As fontes mencionam o exemplo da chamada 'touca árabe', enquadrada como 'capuz ou balaclava', que é considerada EPI e necessita de CA, em contraste com bonés ou chapéus de palha que não se encontram no Anexo I da NR 6 e, portanto, não são considerados EPI."
   },
   {
-    "tema": "NR 6 - EPI",
+    "tema": "NR 06 - EPI👷🏽‍♀️",
     "pergunta": "4. Dentre as responsabilidades do empregador no que se refere ao Equipamento de Proteção Individual (EPI), inclui-se:",
     "alternativa1": "Dispensar o treinamento sobre o uso adequado do EPI para trabalhadores com experiência comprovada.",
     "alternativa2": "Garantir que o empregado adquira seu próprio EPI, a ser reembolsado posteriormente.",
@@ -15021,7 +15021,7 @@ const questoes = [
     "gabaritoComentado": "Uma das responsabilidades da organização, conforme as fontes, é orientar e treinar o empregado sobre o uso adequado do EPI."
   },
   {
-    "tema": "NR 6 - EPI",
+    "tema": "NR 06 - EPI👷🏽‍♀️",
     "pergunta": "5. De acordo com as fontes consultadas, assinale a opção que apresenta uma responsabilidade do trabalhador em relação ao Equipamento de Proteção Individual (EPI).",
     "alternativa1": "Definir qual EPI é mais adequado para a sua atividade, buscando orientação técnica.",
     "alternativa2": "Adquirir e custear a manutenção do EPI, garantindo seu bom estado.",
@@ -15032,7 +15032,7 @@ const questoes = [
     "gabaritoComentado": "Uma das responsabilidades do trabalhador citada nas fontes é utilizar o EPI apenas para a finalidade a que se destina."
   },
   {
-    "tema": "NR 6 - EPI",
+    "tema": "NR 06 - EPI👷🏽‍♀️",
     "pergunta": "6. Sobre o fornecimento de Equipamentos de Proteção Individual (EPI) pela organização, assinale a afirmativa correta.",
     "alternativa1": "O EPI deve ser fornecido gratuitamente ao empregado, adequado ao risco, em perfeito estado de conservação e funcionamento.",
     "alternativa2": "O fornecimento gratuito do EPI é exigido apenas para atividades consideradas de alto risco.",
@@ -15043,7 +15043,7 @@ const questoes = [
     "gabaritoComentado": "As fontes indicam que a organização é responsável por fornecer, ao empregado, gratuitamente, EPI adequado ao risco, em perfeito estado e funcionamento."
   },
   {
-    "tema": "NR 6 - EPI",
+    "tema": "NR 06 - EPI👷🏽‍♀️",
     "pergunta": "7. No que diz respeito ao registro de fornecimento de Equipamentos de Proteção Individual (EPI) aos trabalhadores, a NR 6:",
     "alternativa1": "Exige, obrigatoriamente, a utilização de fichas individuais de controle, sendo vedado o uso de sistemas eletrônicos.",
     "alternativa2": "Permite que o modo de registro seja uma liberalidade da empresa, podendo adotar fichas, livros ou sistemas eletrônicos que permitam a extração de relatórios.",
@@ -15054,7 +15054,7 @@ const questoes = [
     "gabaritoComentado": "As fontes esclarecem que o modo de registro de fornecimento de EPI aos trabalhadores é uma liberalidade da empresa, que pode adotar fichas, livros ou sistemas eletrônicos, desde que este último permita a extração de relatórios."
   },
   {
-    "tema": "NR 6 - EPI",
+    "tema": "NR 06 - EPI👷🏽‍♀️",
     "pergunta": "8. A seleção de Equipamentos de Proteção Individual (EPIs) deve ser reavaliada pela organização, conforme as fontes, em situações específicas. Uma dessas situações ocorre:",
     "alternativa1": "A cada dois anos, independentemente de mudanças nas condições de trabalho.",
     "alternativa2": "Exclusivamente por determinação judicial ou recomendação do Ministério Público do Trabalho.",
@@ -15065,7 +15065,7 @@ const questoes = [
     "gabaritoComentado": "As fontes indicam que a seleção dos EPIs deve ser reavaliada nas 'situações previstas no subitem 1.5.4.4.6 da NR-01, quando couber', e uma dessas situações é 'após implementação das medidas de prevenção, para avaliação de riscos residuais'."
   },
   {
-    "tema": "NR 6 - EPI",
+    "tema": "NR 06 - EPI👷🏽‍♀️",
     "pergunta": "9. As normas de segurança e saúde no trabalho preveem a aplicação da NR 6 – Equipamentos de Proteção Individual – a diversas atividades laborais. No que se refere ao trabalho rural, conforme abordado nas fontes, a aplicação da NR 6:",
     "alternativa1": "É integralmente substituída pelas disposições específicas da NR 31.",
     "alternativa2": "Ocorre apenas para atividades rurais que utilizem máquinas e equipamentos sujeitos à NR 12.",
@@ -15076,7 +15076,7 @@ const questoes = [
     "gabaritoComentado": "As fontes explicam que, para as atividades da agricultura, pecuária, silvicultura, exploração florestal e aquicultura, aplica-se somente o disposto na NR-31, salvo algumas exceções previstas no próprio texto da NR-31. Uma das exceções é quando houver remissão expressa à aplicação de outras NRs, como acontece em relação aos EPIs, onde a NR-31 faz remissão expressa à NR-6, 'chamando' a aplicação de toda a NR-6 ao trabalho rural."
   },
   {
-    "tema": "NR 6 - EPI",
+    "tema": "NR 06 - EPI👷🏽‍♀️",
     "pergunta": "10. Caso um Equipamento de Proteção Individual (EPI) sofra dano ou seja extraviado, qual providência imediata a organização deve tomar, de acordo com as responsabilidades estabelecidas na NR 6?",
     "alternativa1": "Notificar o ocorrido ao sindicato da categoria.",
     "alternativa2": "Abrir um processo de investigação para apurar a responsabilidade do empregado.",
@@ -15087,7 +15087,7 @@ const questoes = [
     "gabaritoComentado": "Dentre as responsabilidades da organização listadas nas fontes, está a de substituir imediatamente o EPI quando danificado ou extraviado."
   },
   {
-    "tema": "NR 6 - EPI",
+    "tema": "NR 06 - EPI👷🏽‍♀️",
     "pergunta": "11. É dever do trabalhador, em relação ao Equipamento de Proteção Individual (EPI), conforme mencionado nas fontes:",
     "alternativa1": "Comunicar imediatamente ao empregador qualquer anomalia verificada no EPI.",
     "alternativa2": "Realizar a manutenção periódica do EPI, seguindo as orientações do fabricante.",
@@ -15098,7 +15098,7 @@ const questoes = [
     "gabaritoComentado": "As fontes listam, como uma responsabilidade do trabalhador, comunicar imediatamente ao empregador qualquer anomalia verificada no EPI."
   },
   {
-    "tema": "NR 6 - EPI",
+    "tema": "NR 06 - EPI👷🏽‍♀️",
     "pergunta": "12. Conforme o contexto apresentado nas fontes, o conceito de Equipamento Conjugado de Proteção Individual (EPI) refere-se:",
     "alternativa1": "Ao EPI que pode ser utilizado por mais de um trabalhador, mediante revezamento.",
     "alternativa2": "Ao equipamento composto por vários dispositivos de segurança que, utilizados em conjunto, protegem o trabalhador contra um ou mais riscos existentes no processo de trabalho.",
@@ -15109,7 +15109,7 @@ const questoes = [
     "gabaritoComentado": "Baseado na opção correta da Questão 113 apresentada nas fontes, o Equipamento Conjugado de Proteção Individual (EPI) é aquele composto por vários dispositivos de segurança que, utilizados em conjunto, protegem o trabalhador contra um ou mais riscos existentes no processo de trabalho."
   },
   {
-    "tema": "NR 6 - EPI",
+    "tema": "NR 06 - EPI👷🏽‍♀️",
     "pergunta": "13. A organização, ao fornecer Equipamentos de Proteção Individual (EPI) aos seus empregados, deve, entre outras medidas, inspecionar sua integridade. Assinale a opção correta sobre essa responsabilidade.",
     "alternativa1": "A inspeção da integridade do EPI é responsabilidade exclusiva do trabalhador usuário.",
     "alternativa2": "A inspeção da integridade do EPI é realizada apenas no momento da sua aquisição.",
@@ -15120,7 +15120,7 @@ const questoes = [
     "gabaritoComentado": "As fontes estabelecem como responsabilidade da organização inspecionar a integridade do EPI e informar o fabricante ou importador sobre irregularidades observadas."
   },
   {
-    "tema": "NR 6 - EPI",
+    "tema": "NR 06 - EPI👷🏽‍♀️",
     "pergunta": "14. Em relação ao registro de fornecimento de Equipamentos de Proteção Individual (EPI), há uma especificidade mencionada nas fontes para determinados tipos de EPIs. Qual é essa especificidade e para quais EPIs ela se aplica?",
     "alternativa1": "Para EPIs descartáveis ou cremes de proteção, o registro de fornecimento é dispensado.",
     "alternativa2": "Para capacetes de segurança e luvas, o registro deve ser feito exclusivamente em sistema eletrônico.",
@@ -15131,7 +15131,7 @@ const questoes = [
     "gabaritoComentado": "As fontes indicam que, no caso de EPI descartável ou cremes de proteção, o registro de fornecimento pode ser feito através de controle coletivo ou documento administrativo, após consulta aos empregados usuários e a CIPA (ou designado)."
   },
   {
-    "tema": "NR 6 - EPI",
+    "tema": "NR 06 - EPI👷🏽‍♀️",
     "pergunta": "15. O Equipamento de Proteção Individual (EPI), para ser considerado adequado e ter seu uso permitido, deve ser aprovado por qual entidade, segundo as fontes?",
     "alternativa1": "Pela Comissão Interna de Prevenção de Acidentes (CIPA) da empresa.",
     "alternativa2": "Pelo Serviço Especializado em Segurança e Medicina do Trabalho (SESMT) da empresa.",
@@ -15142,7 +15142,7 @@ const questoes = [
     "gabaritoComentado": "As fontes, ao tratar do CA e das responsabilidades da organização, referem-se ao 'órgão de âmbito nacional competente, em matéria de segurança e saúde no trabalho' como o responsável pela aprovação do EPI."
   },
   {
-    "tema": "NR 6 - EPI",
+    "tema": "NR 06 - EPI👷🏽‍♀️",
     "pergunta": "16. Além de utilizar o EPI para a finalidade a que se destina, o trabalhador possui outras responsabilidades, conforme as normas. Uma delas é:",
     "alternativa1": "Armazenar adequadamente o EPI, seguindo as orientações do empregador.",
     "alternativa2": "Realizar a limpeza e higienização do EPI, mesmo que exija procedimentos técnicos específicos.",
@@ -15153,7 +15153,7 @@ const questoes = [
     "gabaritoComentado": "As fontes listam, como uma responsabilidade do trabalhador, armazenar adequadamente o EPI."
   },
   {
-    "tema": "NR 6 - EPI",
+    "tema": "NR 06 - EPI👷🏽‍♀️",
     "pergunta": "17. A reavaliação da seleção de Equipamentos de Proteção Individual (EPIs) pela organização é exigida em diversas situações. Uma dessas situações, conforme a NR 1, à qual a NR 6 faz remissão, é:",
     "alternativa1": "Ao final de cada mandato da CIPA.",
     "alternativa2": "Após a ocorrência de acidentes ou doenças relacionadas ao trabalho.",
@@ -15164,7 +15164,7 @@ const questoes = [
     "gabaritoComentado": "As fontes indicam que a seleção dos EPIs deve ser reavaliada nas 'situações previstas no subitem 1.5.4.4.6 da NR-01, quando couber', e uma dessas situações é 'após inovações e modificações nas tecnologias, ambientes, processos, condições, quando acidentes ou doenças relacionadas ao trabalho ocorrerem'."
   },
   {
-    "tema": "NR 6 - EPI",
+    "tema": "NR 06 - EPI👷🏽‍♀️",
     "pergunta": "18. Com base nos exemplos apresentados nas fontes, assinale a opção que NÃO é considerada Equipamento de Proteção Individual (EPI) e, portanto, NÃO necessita de Certificado de Aprovação (CA).",
     "alternativa1": "Capuz ou balaclava.",
     "alternativa2": "Luvas de segurança para proteção contra agentes químicos.",
@@ -15175,7 +15175,7 @@ const questoes = [
     "gabaritoComentado": "As fontes mencionam que bonés ou chapéus de palha não se encontram no Anexo I da NR 6 e, logo, não podem ser considerados EPI, tampouco necessitam da emissão de CA, em contraste com o capuz ou balaclava, que é considerado EPI."
   },
   {
-    "tema": "NR 6 - EPI",
+    "tema": "NR 06 - EPI👷🏽‍♀️",
     "pergunta": "19. A organização, ao fornecer Equipamentos de Proteção Individual (EPI) aos seus empregados, tem a responsabilidade de:",
     "alternativa1": "Assegurar que o trabalhador decida livremente sobre o uso do EPI.",
     "alternativa2": "Delegar ao trabalhador a compra do EPI e o posterior reembolso.",
@@ -15186,7 +15186,7 @@ const questoes = [
     "gabaritoComentado": "Dentre as responsabilidades da organização listadas nas fontes, está a de exigir o uso do EPI pelo empregado."
   },
   {
-    "tema": "NR 6 - EPI",
+    "tema": "NR 06 - EPI👷🏽‍♀️",
     "pergunta": "20. Uma das responsabilidades do trabalhador, conforme as fontes, ao utilizar o Equipamento de Proteção Individual (EPI) é:",
     "alternativa1": "Adaptar o EPI para melhor conforto, mesmo que altere suas características originais.",
     "alternativa2": "Compartilhar o EPI com colegas, caso haja necessidade e o equipamento esteja limpo.",
@@ -15197,7 +15197,7 @@ const questoes = [
     "gabaritoComentado": "As fontes listam, como uma responsabilidade do trabalhador, cumprir as determinações do empregador sobre o uso adequado do EPI."
   },
   {
-    "tema": "NR 6 - EPI",
+    "tema": "NR 06 - EPI👷🏽‍♀️",
     "pergunta": "21. Assinale a opção que apresenta corretamente um conjunto de responsabilidades da organização relacionadas aos Equipamentos de Proteção Individual (EPI), conforme as fontes.",
     "alternativa1": "Adquirir somente EPI aprovado pelo órgão competente; fornecer gratuitamente ao empregado; orientar e treinar o empregado; exigir o uso.",
     "alternativa2": "Determinar que o empregado adquira o EPI; fiscalizar o uso; manter o registro de fornecimento.",
@@ -15208,7 +15208,7 @@ const questoes = [
     "gabaritoComentado": "As fontes listam como responsabilidades da organização: adquirir somente o aprovado pelo órgão competente; fornecer gratuitamente; orientar e treinar o empregado; e exigir o uso."
   },
   {
-    "tema": "NR 6 - EPI",
+    "tema": "NR 06 - EPI👷🏽‍♀️",
     "pergunta": "22. Assinale a opção que apresenta corretamente um conjunto de responsabilidades do trabalhador em relação aos Equipamentos de Proteção Individual (EPI), conforme as fontes.",
     "alternativa1": "Definir o tipo de EPI adequado; realizar a manutenção do EPI; comunicar irregularidades ao sindicato.",
     "alternativa2": "Utilizar o EPI apenas para o fim a que se destina; armazenar adequadamente; comunicar ao empregador qualquer anomalia verificada; cumprir determinações do empregador sobre uso adequado.",
@@ -15219,7 +15219,7 @@ const questoes = [
     "gabaritoComentado": "As fontes listam como responsabilidades do trabalhador: utilizar o EPI apenas para a finalidade a que se destina; armazenar adequadamente; comunicar imediatamente ao empregador qualquer anomalia verificada; e cumprir as determinações do empregador sobre o uso adequado."
   },
   {
-    "tema": "NR 6 - EPI",
+    "tema": "NR 06 - EPI👷🏽‍♀️",
     "pergunta": "23. A reavaliação da seleção de Equipamentos de Proteção Individual (EPIs) pela organização é um processo contínuo, conforme as fontes. Uma situação que exige essa reavaliação é:",
     "alternativa1": "A cada troca de turno de trabalho.",
     "alternativa2": "Somente quando houver solicitação direta da Inspeção do Trabalho.",
@@ -15230,7 +15230,7 @@ const questoes = [
     "gabaritoComentado": "As fontes indicam que a seleção dos EPIs deve ser reavaliada nas 'situações previstas no subitem 1.5.4.4.6 da NR-01, quando couber', e uma dessas situações é 'após inovações e modificações nas tecnologias, ambientes, processos, condições'."
   },
   {
-    "tema": "NR 6 - EPI",
+    "tema": "NR 06 - EPI👷🏽‍♀️",
     "pergunta": "24. Se a organização optar por utilizar sistemas eletrônicos para o registro de fornecimento de Equipamentos de Proteção Individual (EPI), qual é um requisito essencial para esse sistema, segundo as fontes?",
     "alternativa1": "Ser integrado ao sistema de folha de pagamento para desconto automático em caso de extravio.",
     "alternativa2": "Ser acessível diretamente pelos trabalhadores, sem a necessidade de intermediação do empregador.",
@@ -15241,7 +15241,7 @@ const questoes = [
     "gabaritoComentado": "As fontes esclarecem que, se a opção for por sistemas eletrônicos para registro de fornecimento de EPI, este deve permitir a extração de relatórios."
   },
   {
-    "tema": "NR 6 - EPI",
+    "tema": "NR 06 - EPI👷🏽‍♀️",
     "pergunta": "25. As fontes mencionam 'dispositivos de proteção pessoal' previstos em outras NRs, como a NR-31, que não possuem Certificado de Aprovação (CA). Qual a principal razão apontada para a ausência do CA para esses dispositivos?",
     "alternativa1": "Por serem de uso opcional e não obrigatório.",
     "alternativa2": "Por não serem considerados EPI, mesmo que protejam o trabalhador.",
@@ -15252,7 +15252,7 @@ const questoes = [
     "gabaritoComentado": "As fontes esclarecem que os dispositivos de proteção pessoal previstos na NR-31 (que não estão listados no Anexo I da NR 6) não possuem CA por não existir, atualmente, metodologia aplicável para os testes, aprovação e obtenção do CA para o uso prescrito nessa norma."
   },
   {
-    "tema": "NR 6 - EPI",
+    "tema": "NR 06 - EPI👷🏽‍♀️",
     "pergunta": "26. Conforme as responsabilidades da organização em relação aos EPIs, ao observar qualquer irregularidade no Equipamento de Proteção Individual, a organização deve:",
     "alternativa1": "Comunicar a irregularidade ao órgão de âmbito nacional competente, em matéria de segurança e saúde no trabalho.",
     "alternativa2": "Suspender imediatamente as atividades que exijam o uso do EPI em questão.",
@@ -15263,7 +15263,7 @@ const questoes = [
     "gabaritoComentado": "As fontes indicam que uma das responsabilidades da organização é comunicar ao órgão de âmbito nacional competente, em matéria de segurança e saúde no trabalho, qualquer irregularidade observada no EPI."
   },
   {
-    "tema": "NR 6 - EPI",
+    "tema": "NR 06 - EPI👷🏽‍♀️",
     "pergunta": "27. Além de comunicar as irregularidades observadas no EPI ao órgão competente, a organização também tem a responsabilidade de informar a irregularidade:",
     "alternativa1": "Ao sindicato da categoria profissional do trabalhador usuário.",
     "alternativa2": "Ao fabricante ou importador do EPI.",
@@ -15274,7 +15274,7 @@ const questoes = [
     "gabaritoComentado": "As fontes estabelecem como responsabilidade da organização inspecionar a integridade do EPI e informar o fabricante ou importador sobre irregularidades observadas."
   },
   {
-    "tema": "NR 6 - EPI",
+    "tema": "NR 06 - EPI👷🏽‍♀️",
     "pergunta": "28. Ao selecionar o Equipamento de Proteção Individual (EPI) para um empregado, a organização deve, obrigatoriamente, considerar que o EPI seja:",
     "alternativa1": "O mais barato disponível no mercado, desde que possua Certificado de Aprovação (CA).",
     "alternativa2": "De cor visível e padronizada para todos os empregados da mesma função.",
@@ -15285,7 +15285,7 @@ const questoes = [
     "gabaritoComentado": "As fontes listam como responsabilidade da organização fornecer, ao empregado, gratuitamente, EPI adequado ao risco."
   },
   {
-    "tema": "NR 6 - EPI",
+    "tema": "NR 06 - EPI👷🏽‍♀️",
     "pergunta": "29. Em linhas gerais, qual a finalidade primordial da utilização do Equipamento de Proteção Individual (EPI) no ambiente de trabalho?",
     "alternativa1": "Reduzir os custos operacionais da empresa com medidas de segurança coletiva.",
     "alternativa2": "Substituir integralmente as medidas de proteção coletiva e administrativas.",
@@ -15296,7 +15296,7 @@ const questoes = [
     "gabaritoComentado": "Embora as fontes não apresentem uma definição única e explícita da finalidade do EPI, o contexto geral das normas de segurança e saúde no trabalho e a própria natureza do EPI, que protege o trabalhador contra riscos, indicam que sua finalidade primordial é proteger a saúde e a integridade física do trabalhador."
   },
   {
-    "tema": "NR 6 - EPI",
+    "tema": "NR 06 - EPI👷🏽‍♀️",
     "pergunta": "30. No caso de Equipamentos de Proteção Individual descartáveis ou cremes de proteção, as fontes indicam uma particularidade em relação ao registro de fornecimento. Qual é essa particularidade?",
     "alternativa1": "O registro de fornecimento deve ser individualizado e assinado pelo trabalhador em cada entrega.",
     "alternativa2": "O registro é obrigatório e deve ser feito exclusivamente em meio eletrônico.",
