@@ -17641,7 +17641,7 @@ const questoes = [
     "gabaritoComentado": "Os escoramentos devem ser inspecionados diariamente, conforme item 6.1."
   },
   {
-    "tema": "NR 35 - TRABALHO EM ALTURA",
+    "tema": "NR 35 🧗",
     "pergunta": "O que deve ser feito com os elementos do Sistema de Proteção Individual Contra Quedas (SPIQ) que forem reprovados na inspeção por apresentarem defeitos ou deformações, de acordo com a NR-35?",
     "alternativa1": "Devem ser armazenados separadamente para possível reparo.",
     "alternativa2": "Devem ser inutilizados e descartados.",
@@ -17652,7 +17652,7 @@ const questoes = [
     "gabaritoComentado": "Elementos do SPIQ recusados por motivos de defeitos, degradação, deformação ou por motivo de terem sofrido impactos de queda, **devem ser inutilizados e descartados**."
   },
   {
-    "tema": "NR 35 - TRABALHO EM ALTURA",
+    "tema": "NR 35 🧗",
     "pergunta": "Qual a recomendação da NR-35 em relação ao posicionamento do talabarte e do trava-quedas em um SPIQ de retenção de queda?",
     "alternativa1": "Devem ser posicionados de forma a permitir a maior distância de queda livre possível.",
     "alternativa2": "Não há recomendações específicas sobre o posicionamento.",
@@ -17663,7 +17663,7 @@ const questoes = [
     "gabaritoComentado": "O talabarte e o dispositivo trava-quedas devem ser posicionados de modo a **restringir a distância de queda livre** e de forma que, em caso de ocorrência de queda, o trabalhador **não colida com estrutura inferior**."
   },
   {
-    "tema": "NR 35 - TRABALHO EM ALTURA",
+    "tema": "NR 35 🧗",
     "pergunta": "Quais são os tipos de inspeção que devem ser realizadas nos elementos do Sistema de Proteção Individual Contra Quedas (SPIQ), segundo a NR-35?",
     "alternativa1": "Inicial e final.",
     "alternativa2": "Inicial, rotineira e periódica.",
@@ -17674,7 +17674,7 @@ const questoes = [
     "gabaritoComentado": "A NR-35 define **3 (três) tipos de inspeções**: a inicial, a rotineira e a periódica."
   },
   {
-    "tema": "NR 35 - TRABALHO EM ALTURA",
+    "tema": "NR 35 🧗",
     "pergunta": "Quais são os três tipos de Sistemas de Proteção Individual Contra Quedas (SPIQ) mencionados na NR-35?",
     "alternativa1": "Retenção de queda, trava-quedas e linha de vida.",
     "alternativa2": "Retenção de queda, posicionamento no trabalho e acesso por cordas.",
@@ -17685,7 +17685,7 @@ const questoes = [
     "gabaritoComentado": "O SPIQ pode ser utilizado para **retenção de queda**, **posicionamento no trabalho** e **acesso por cordas**."
   },
   {
-    "tema": "NR 35 - TRABALHO EM ALTURA",
+    "tema": "NR 35 🧗",
     "pergunta": "Qual a exigência da NR-35 em relação à aptidão dos trabalhadores para trabalho em altura?",
     "alternativa1": "Apresentar atestado de bons antecedentes.",
     "alternativa2": "Não há exigências específicas além da experiência profissional.",
@@ -17696,7 +17696,7 @@ const questoes = [
     "gabaritoComentado": "A NR-35 exige que a organização avalie o **estado de saúde dos empregados** que exercem atividades de trabalho em altura, de acordo com o estabelecido na NR-07 (Programa de Controle Médico de Saúde Ocupacional), em especial pelo item 7.5.3, considerando as patologias que poderão ocasionar mal súbito e/ou queda de altura."
   },
   {
-    "tema": "NR 35 - TRABALHO EM ALTURA",
+    "tema": "NR 35 🧗",
     "pergunta": "De acordo com a NR-35, qual a condição para que uma atividade seja considerada trabalho em altura?",
     "alternativa1": "Atividade realizada acima de 2 metros do nível inferior onde haja risco de queda.",
     "alternativa2": "Toda atividade realizada acima de 1,5 metros do nível inferior.",
@@ -17707,7 +17707,7 @@ const questoes = [
     "gabaritoComentado": "A NR-35 define trabalho em altura como toda atividade executada acima de **2 (dois) metros** do nível inferior, onde houver risco de queda."
   },
   {
-    "tema": "NR 35 - TRABALHO EM ALTURA",
+    "tema": "NR 35 🧗",
     "pergunta": "Qual a condição para que um treinamento realizado há menos de dois anos possa ser aproveitado na mesma organização para trabalho em altura, conforme a NR-35 e a NR-1?",
     "alternativa1": "Se o treinamento anterior foi ministrado pelo mesmo instrutor.",
     "alternativa2": "Apenas se o trabalhador tiver a mesma função.",
@@ -17718,7 +17718,7 @@ const questoes = [
     "gabaritoComentado": "O treinamento realizado há menos de dois anos pode ser aproveitado na mesma organização desde que **o conteúdo e a carga horária requeridos no novo treinamento estejam compreendidos no treinamento anterior** e seja **validado pelo responsável técnico**."
   },
   {
-    "tema": "NR 35 - TRABALHO EM ALTURA",
+    "tema": "NR 35 🧗",
     "pergunta": "Quem deve ministrar os treinamentos para trabalho em altura, de acordo com a NR-35?",
     "alternativa1": "Instrutores com comprovada proficiência no assunto, sob responsabilidade de profissional qualificado ou legalmente habilitado em segurança do trabalho.",
     "alternativa2": "Bombeiros civis ou militares.",
@@ -17729,7 +17729,7 @@ const questoes = [
     "gabaritoComentado": "Os treinamentos para trabalho em altura devem ser ministrados por **instrutores com comprovada proficiência no assunto**, sob a responsabilidade de **profissional qualificado ou legalmente habilitado** em segurança do trabalho."
   },
   {
-    "tema": "NR 35 - TRABALHO EM ALTURA",
+    "tema": "NR 35 🧗",
     "pergunta": "Quem é o responsável por assegurar a realização da Análise de Risco (AR) e, quando aplicável, a emissão da Permissão de Trabalho (PT), conforme a NR-35?",
     "alternativa1": "A organização (empregador).",
     "alternativa2": "O profissional legalmente habilitado (PLH) em segurança do trabalho.",
@@ -17740,7 +17740,7 @@ const questoes = [
     "gabaritoComentado": "É responsabilidade da **organização** (empregador) assegurar a realização da Análise de Risco (AR) e, quando aplicável, a emissão da Permissão de Trabalho (PT)."
   },
   {
-    "tema": "NR 35 - TRABALHO EM ALTURA",
+    "tema": "NR 35 🧗",
     "pergunta": "Segundo a NR-35, qual deve ser a carga horária mínima do treinamento inicial e periódico para trabalho em altura?",
     "alternativa1": "8 horas.",
     "alternativa2": "Depende do nível de risco da atividade.",
@@ -17751,7 +17751,7 @@ const questoes = [
     "gabaritoComentado": "A NR-35 estabelece que a carga horária mínima tanto para o **treinamento inicial** quanto para o **periódico** é de **8 horas**."
   },
   {
-    "tema": "NR 35 - TRABALHO EM ALTURA",
+    "tema": "NR 35 🧗",
     "pergunta": "Qual a importância de se considerar o tempo de suspensão inerte do trabalhador em caso de queda durante o planejamento do resgate em trabalho em altura, conforme a NR-35 e o Manual?",
     "alternativa1": "Para calcular o custo total da operação de resgate.",
     "alternativa2": "Para determinar a cor da corda de resgate a ser utilizada.",
@@ -17762,7 +17762,7 @@ const questoes = [
     "gabaritoComentado": "Ficar pendurado pelo cinto de segurança pode ser perigoso devido à **prolongada suspensão**, sendo fundamental reduzir o tempo de suspensão inerte e realizar o resgate e tratamento o mais rápido possível."
   },
   {
-    "tema": "NR 35 - TRABALHO EM ALTURA",
+    "tema": "NR 35 🧗",
     "pergunta": "Qual a validade da Permissão de Trabalho (PT) para trabalho em altura, conforme a NR-35?",
     "alternativa1": "Uma semana.",
     "alternativa2": "Validade limitada à duração da atividade, restrita ao turno ou à jornada de trabalho.",
@@ -17773,7 +17773,7 @@ const questoes = [
     "gabaritoComentado": "A NR-35 dispõe que a **PT tem validade limitada à duração da atividade**, restrita ao turno ou à jornada de trabalho."
   },
   {
-    "tema": "NR 35 - TRABALHO EM ALTURA",
+    "tema": "NR 35 🧗",
     "pergunta": "Quais aspectos devem ser considerados na Análise de Risco (AR) para trabalho em altura, além dos riscos inerentes à atividade em altura?",
     "alternativa1": "Apenas o tipo de equipamento a ser utilizado.",
     "alternativa2": "Somente as condições climáticas.",
@@ -17784,7 +17784,7 @@ const questoes = [
     "gabaritoComentado": "Além dos riscos inerentes ao trabalho em altura, a AR deve considerar: o **risco de queda de materiais e ferramentas**; os **trabalhos simultâneos** que apresentem riscos específicos; os **riscos adicionais**; as **condições impeditivas**; as situações de emergência e o planejamento do resgate e primeiros socorros, entre outros."
   },
   {
-    "tema": "NR 35 - TRABALHO EM ALTURA",
+    "tema": "NR 35 🧗",
     "pergunta": "Qual a periodicidade mínima recomendada para a realização da inspeção periódica dos Sistemas de Proteção Individual Contra Quedas (SPIQ), conforme a NR-35?",
     "alternativa1": "A cada dois anos.",
     "alternativa2": "Mensalmente.",
@@ -17795,7 +17795,7 @@ const questoes = [
     "gabaritoComentado": "A inspeção periódica do SPIQ deve ser realizada, **no mínimo, uma vez a cada doze meses**, podendo o intervalo ser reduzido em função do tipo e frequência de uso ou exposição a agentes agressivos."
   },
   {
-    "tema": "NR 35 - TRABALHO EM ALTURA",
+    "tema": "NR 35 🧗",
     "pergunta": "O que deve ser considerado pelo fabricante ou importador de Equipamentos de Proteção Individual (EPI) para trabalho em altura em relação ao desempenho dos equipamentos, conforme a NR-35?",
     "alternativa1": "O preço de mercado dos equipamentos similares.",
     "alternativa2": "Apenas a durabilidade do material.",
@@ -17806,7 +17806,7 @@ const questoes = [
     "gabaritoComentado": "O fabricante ou o importador de EPI deve disponibilizar informações quanto ao desempenho dos equipamentos e os limites de uso, considerando a **massa total aplicada ao sistema (trabalhador e equipamentos)** e os demais aspectos relacionados, como a **distância de queda livre**, o **fator de queda** e a **zona livre de queda**."
   },
   {
-    "tema": "NR 35 - TRABALHO EM ALTURA",
+    "tema": "NR 35 🧗",
     "pergunta": "Qual é a regra geral para a utilização de Sistemas de Proteção Contra Quedas (SPQ) em trabalhos em altura, conforme a NR-35?",
     "alternativa1": "A escolha do sistema é livre, desde que atenda às normas técnicas.",
     "alternativa2": "Priorizar o Sistema de Proteção Coletiva Contra Quedas (SPCQ).",
@@ -17817,7 +17817,7 @@ const questoes = [
     "gabaritoComentado": "Para proteção contra o risco de queda, a regra é que se utilize um **Sistema de Proteção Coletiva Contra Quedas – SPCQ**, que deverá ser projetado por um Profissional Legalmente Habilitado."
   },
   {
-    "tema": "NR 35 - TRABALHO EM ALTURA",
+    "tema": "NR 35 🧗",
     "pergunta": "Segundo a NR-35, qual a prioridade a ser observada na adoção de medidas de proteção contra quedas?",
     "alternativa1": "Eliminação do risco de queda, sempre que possível.",
     "alternativa2": "Utilização de Equipamentos de Proteção Individual (EPI).",
@@ -17828,7 +17828,7 @@ const questoes = [
     "gabaritoComentado": "A NR-35 estabelece uma hierarquia das medidas de prevenção, sendo a prioridade **evitar o trabalho em altura**, sempre que existir meio alternativo de execução. Na impossibilidade, deve-se **eliminar o risco de queda** por meio de medidas de proteção coletiva."
   },
   {
-    "tema": "NR 35 - TRABALHO EM ALTURA",
+    "tema": "NR 35 🧗",
     "pergunta": "O que deve ser assegurado pela organização antes de permitir o início de qualquer trabalho em altura, conforme a NR-35?",
     "alternativa1": "Apenas a emissão da Permissão de Trabalho (PT).",
     "alternativa2": "Que todos os trabalhadores tenham experiência prévia na função.",
@@ -17839,7 +17839,7 @@ const questoes = [
     "gabaritoComentado": "Antes de o trabalhador iniciar a atividade em altura, a organização deve assegurar a realização de **avaliação prévia das condições no local do trabalho**, contemplando normas e regulamentos aplicáveis, Análise de Risco (AR) e condições impeditivas, riscos potenciais e medidas de prevenção e controle."
   },
   {
-    "tema": "NR 35 - TRABALHO EM ALTURA",
+    "tema": "NR 35 🧗",
     "pergunta": "Na organização do trabalho em altura, qual a importância da supervisão, segundo a NR-35?",
     "alternativa1": "Serve apenas para fiscalizar o tempo de execução da tarefa.",
     "alternativa2": "Não tem impacto na segurança da atividade.",
@@ -17850,7 +17850,7 @@ const questoes = [
     "gabaritoComentado": "Na fase da organização do trabalho em altura, uma **supervisão é fundamental e obrigatória**. A forma desta supervisão deve ser definida pela Análise de Risco (AR) ou pelo Procedimento Operacional (PO), de acordo com as peculiaridades da atividade."
   },
   {
-    "tema": "NR 35 - TRABALHO EM ALTURA",
+    "tema": "NR 35 🧗",
     "pergunta": "O que é um talabarte, utilizado em Sistemas de Proteção Individual Contra Quedas (SPIQ), conforme a NR-35 e a Figura 4 da fonte?",
     "alternativa1": "Um equipamento de proteção para a cabeça.",
     "alternativa2": "Um dispositivo de ancoragem fixo na estrutura.",
@@ -17861,7 +17861,7 @@ const questoes = [
     "gabaritoComentado": "Um talabarte é um **elemento de ligação entre o cinto de segurança e um ponto de ancoragem** [133, Figura 4]."
   },
   {
-    "tema": "NR 35 - TRABALHO EM ALTURA",
+    "tema": "NR 35 🧗",
     "pergunta": "Qual a definição de Análise de Risco (AR) para trabalho em altura, conforme o Manual da NR-35 citado na fonte?",
     "alternativa1": "Um inventário dos Equipamentos de Proteção Individual (EPIs) a serem utilizados.",
     "alternativa2": "Um procedimento para solicitar permissão para trabalho em altura.",
@@ -17872,7 +17872,7 @@ const questoes = [
     "gabaritoComentado": "Segundo o Manual da NR-35, AR é “**um método sistemático de exame e avaliação de todas as etapas e elementos de um determinado serviço que o trabalhador executará**”."
   },
   {
-    "tema": "NR 35 - TRABALHO EM ALTURA",
+    "tema": "NR 35 🧗",
     "pergunta": "Qual a importância de se prever situações de emergência e procedimentos de resgate na Análise de Risco (AR) para trabalho em altura, conforme a NR-35?",
     "alternativa1": "Para transferir a responsabilidade em caso de acidentes.",
     "alternativa2": "Para dificultar a investigação de acidentes.",
@@ -17883,7 +17883,7 @@ const questoes = [
     "gabaritoComentado": "Na Análise de Riscos devem ser previstos os possíveis cenários de situações de emergência e respectivos procedimentos, além de recursos necessários para as respostas de resgate e primeiros socorros, visando **reduzir o tempo da suspensão inerte do trabalhador** e realizar o resgate e tratamento o mais rápido possível."
   },
   {
-    "tema": "NR 35 - TRABALHO EM ALTURA",
+    "tema": "NR 35 🧗",
     "pergunta": "Segundo a NR-35, qual a responsabilidade do trabalhador em relação ao trabalho em altura?",
     "alternativa1": "Selecionar os Equipamentos de Proteção Individual (EPIs) que irá utilizar.",
     "alternativa2": "Apenas comparecer ao treinamento.",
@@ -17894,7 +17894,7 @@ const questoes = [
     "gabaritoComentado": "Embora a fonte não detalhe as responsabilidades do trabalhador na NR-35, é implícito que ele deve **cumprir as determinações e procedimentos de segurança** relacionados ao trabalho em altura, conforme as normas e orientações fornecidas."
   },
   {
-    "tema": "NR 35 - TRABALHO EM ALTURA",
+    "tema": "NR 35 🧗",
     "pergunta": "Em atividades de trabalho em altura classificadas como não rotineiras, qual documento é exigido pela NR-35 para autorizar sua execução?",
     "alternativa1": "Registro no livro de ocorrências.",
     "alternativa2": "Lista de presença dos trabalhadores.",
@@ -17905,7 +17905,7 @@ const questoes = [
     "gabaritoComentado": "Para atividades não rotineiras em altura, é necessária a autorização da sua execução por meio de um **documento escrito, contendo o conjunto de medidas de controle que visam ao desenvolvimento de trabalho em altura seguro, além de medidas de emergência e resgate**, que é a Permissão de Trabalho (PT)."
   },
   {
-    "tema": "NR 35 - TRABALHO EM ALTURA",
+    "tema": "NR 35 🧗",
     "pergunta": "Qual o objetivo principal do Sistema de Proteção Contra Quedas (SPQ), conforme a NR-35?",
     "alternativa1": "Facilitar a execução do trabalho em altura.",
     "alternativa2": "Reduzir os custos com segurança do trabalho.",
@@ -17916,7 +17916,7 @@ const questoes = [
     "gabaritoComentado": "O objetivo do Sistema de Proteção Contra Quedas (SPQ) é **impedir a ocorrência de quedas ou, caso ocorram, reduzir as suas consequências**."
   },
   {
-    "tema": "NR 35 - TRABALHO EM ALTURA",
+    "tema": "NR 35 🧗",
     "pergunta": "Em um Sistema de Proteção Individual Contra Quedas (SPIQ) de retenção de queda, qual o limite máximo de força de impacto que deve ser transmitido ao trabalhador em caso de queda, conforme a NR-35?",
     "alternativa1": "5 kN.",
     "alternativa2": "6 kN.",
@@ -17927,7 +17927,7 @@ const questoes = [
     "gabaritoComentado": "O SPIQ deve ser selecionado de forma que a força de impacto transmitida ao trabalhador seja de, no máximo, **6 kN**, quando de uma eventual queda."
   },
   {
-    "tema": "NR 35 - TRABALHO EM ALTURA",
+    "tema": "NR 35 🧗",
     "pergunta": "Qual a periodicidade mínima para a realização do treinamento periódico para trabalho em altura, conforme estabelece a NR-35?",
     "alternativa1": "Bienal (a cada dois anos).",
     "alternativa2": "A cada 18 meses.",
@@ -17938,7 +17938,7 @@ const questoes = [
     "gabaritoComentado": "A NR-35 define que o **treinamento periódico** deve ser realizado a cada **dois anos**."
   },
   {
-    "tema": "NR 35 - TRABALHO EM ALTURA",
+    "tema": "NR 35 🧗",
     "pergunta": "Segundo a NR-35, o que deve ser previsto pela organização em relação aos meios e recursos necessários para primeiros socorros em trabalhos em altura?",
     "alternativa1": "Apenas a comunicação com o serviço médico local.",
     "alternativa2": "Um plano de comunicação de acidentes.",
@@ -17949,7 +17949,7 @@ const questoes = [
     "gabaritoComentado": "A NR-35, em consonância com a NR-01, dispõe que a organização deve prever os **meios e recursos necessários para os primeiros socorros, encaminhamento de acidentados e abandono de área**."
   },
   {
-    "tema": "NR 35 - TRABALHO EM ALTURA",
+    "tema": "NR 35 🧗",
     "pergunta": "Qual documento é obrigatório ser elaborado para toda atividade de trabalho em altura, de acordo com a NR-35?",
     "alternativa1": "Análise de Risco (AR) e, quando aplicável, Permissão de Trabalho (PT).",
     "alternativa2": "Programa de Prevenção de Riscos Ambientais (PPRA).",
@@ -17960,7 +17960,7 @@ const questoes = [
     "gabaritoComentado": "A NR-35 determina que todo trabalho em altura deve ser precedido de **Análise de Risco (AR)** e, para atividades não rotineiras, também da **Permissão de Trabalho (PT)**."
   },
   {
-    "tema": "NR 35 - TRABALHO EM ALTURA",
+    "tema": "NR 35 🧗",
     "pergunta": "O Sistema de Proteção Contra Quedas (SPQ) deve ser selecionado de acordo com qual critério principal, segundo a NR-35?",
     "alternativa1": "A norma técnica internacional mais recente.",
     "alternativa2": "A Análise de Risco (AR) e adequado à tarefa a ser executada.",
