@@ -128,8 +128,8 @@ const questoes = [
 "alternativa3": "A Biomecânica Ocupacional foca na prevenção de lesões laborais pela análise mecânica do trabalho, enquanto a Fisiologia do Trabalho estuda as respostas adaptativas do corpo humano ao esforço decorrente da realização de atividades laborais.",
 "alternativa4": "A Biomecânica estuda os aspectos mecânicos de organismos vivos, subdividindo-se em Cinética, que foca na análise da forma e técnica do movimento, e Cinemática, que estuda as forças associadas ao movimento.",
 "alternativa5": "Os Distúrbios Osteomusculares Relacionados ao Trabalho (DORT) são uma realidade observada no Brasil, se restringindo a atividades de frigoríficos e construção civil.",
-"respostaCorreta": "D",
-"gabaritoComentado": "A alternativa (D) está correta. A fonte define Biomecânica como o estudo dos aspectos mecânicos de organismos vivos, subdividindo-se em Cinética (forma e técnica do movimento) e Cinemática (forças associadas ao movimento)."
+"respostaCorreta": "C",
+"gabaritoComentado": "A alternativa (C) está correta. (C) Biomecânica Ocupacional foca na análise mecânica para prevenção de lesões; Fisiologia do Trabalho estuda respostas adaptativas do corpo ao esforço laboral. (A) Incorreta, Fisiologia não é ramo da Biomecânica. (B) Inverte conceitos de Cinética (forças) e Cinemática (forma/sequência). (D) Inverte conceitos de Cinética e Cinemática. (E) DORTs ocorrem em várias atividades, não só frigoríficos/construção. (Apostila Vol III, pág. 51)."
 },
 {
 "tema": "SIMULASQUE 1 😱",
