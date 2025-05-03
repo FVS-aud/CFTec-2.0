@@ -18631,7 +18631,7 @@ const questoes = [
     "gabaritoComentado": "A fonte determina que o empregador disponibilize instalações sanitárias em todas as frentes de trabalho, compostas por vaso sanitário e lavatório."
   },
   {
-    "tema": "NR 33🕳️",
+    "tema": "NR 33 🕳️",
     "pergunta": "Conforme a NR 33, qual é o percentual mínimo de oxigênio aceitável para entrada em espaços confinados?",
     "alternativa1": "18,5%",
     "alternativa2": "19,5%",
@@ -18642,7 +18642,7 @@ const questoes = [
     "gabaritoComentado": "A NR 33 estabelece que o percentual mínimo de oxigênio aceitável para entrada em espaços confinados é 19,5%, desde que a causa da redução seja conhecida e controlada."
   },
   {
-    "tema": "NR 33🕳️",
+    "tema": "NR 33 🕳️",
     "pergunta": "Qual elemento NÃO compõe o pentágono da explosão de poeira combustível em espaços confinados?",
     "alternativa1": "Oxigênio presente no ar",
     "alternativa2": "Poeira combustível em dispersão",
@@ -18653,7 +18653,7 @@ const questoes = [
     "gabaritoComentado": "O pentágono da explosão inclui oxigênio, poeira combustível dispersa, ambiente confinado, fonte de ignição e concentração adequada. Vapor d'água não é um componente essencial."
   },
   {
-    "tema": "NR 33🕳️",
+    "tema": "NR 33 🕳️",
     "pergunta": "Qual é a obrigação do empregador em relação à Permissão de Entrada e Trabalho (PET)?",
     "alternativa1": "Emitir a PET apenas para espaços confinados ativos",
     "alternativa2": "Arquivar a PET por no mínimo 2 anos",
@@ -18664,7 +18664,7 @@ const questoes = [
     "gabaritoComentado": "A NR 33 exige que o empregador garanta o arquivamento da PET por no mínimo 5 anos e que seja rastreável."
   },
   {
-    "tema": "NR 33🕳️",
+    "tema": "NR 33 🕳️",
     "pergunta": "O que caracteriza um espaço confinado segundo a NR 33?",
     "alternativa1": "Projetado para ocupação humana contínua",
     "alternativa2": "Possui ventilação natural suficiente",
@@ -18675,7 +18675,7 @@ const questoes = [
     "gabaritoComentado": "Um espaço confinado é caracterizado por ter meios limitados de entrada e saída, entre outros requisitos."
   },
   {
-    "tema": "NR 33🕳️",
+    "tema": "NR 33 🕳️",
     "pergunta": "Qual medida é essencial para prevenir engolfamento em silos de grãos?",
     "alternativa1": "Uso de detectores de gases",
     "alternativa2": "Sistema de linha de vida e cabo guia",
@@ -18686,7 +18686,7 @@ const questoes = [
     "gabaritoComentado": "O uso de linha de vida e cabo guia é crucial para prevenir engolfamento durante o deslocamento sobre massa de grãos."
   },
   {
-    "tema": "NR 33🕳️",
+    "tema": "NR 33 🕳️",
     "pergunta": "Qual função é responsável por preencher e assinar a PET?",
     "alternativa1": "Vigia",
     "alternativa2": "Trabalhador autorizado",
@@ -18697,7 +18697,7 @@ const questoes = [
     "gabaritoComentado": "O supervisor de entrada é capacitado para preencher e assinar a PET, conforme a NR 33."
   },
   {
-    "tema": "NR 33🕳️",
+    "tema": "NR 33 🕳️",
     "pergunta": "O que deve conter o cadastro de espaços confinados?",
     "alternativa1": "Apenas a identificação do espaço",
     "alternativa2": "Número de trabalhadores autorizados",
@@ -18708,7 +18708,7 @@ const questoes = [
     "gabaritoComentado": "O cadastro deve incluir volume, aberturas, croqui, produtos armazenados e perigos existentes."
   },
   {
-    "tema": "NR 33🕳️",
+    "tema": "NR 33 🕳️",
     "pergunta": "Qual gás NÃO é comumente associado à atmosfera IPVS em espaços confinados?",
     "alternativa1": "Metano (CH4)",
     "alternativa2": "Monóxido de Carbono (CO)",
@@ -18719,7 +18719,7 @@ const questoes = [
     "gabaritoComentado": "Nitrogênio não é tóxico, mas pode causar asfixia por deslocamento de oxigênio. Os gases listados na NR 33 são CH4, CO, H2S e variações de O2."
   },
   {
-    "tema": "NR 33🕳️",
+    "tema": "NR 33 🕳️",
     "pergunta": "O que é obrigatório antes da entrada em espaço confinado?",
     "alternativa1": "Realização de teste de resposta (bump test) nos detectores",
     "alternativa2": "Treinamento opcional dos trabalhadores",
@@ -18730,7 +18730,7 @@ const questoes = [
     "gabaritoComentado": "O bump test é necessário para verificar a funcionalidade dos detectores de gases antes do uso."
   },
   {
-    "tema": "NR 33🕳️",
+    "tema": "NR 33 🕳️",
     "pergunta": "Qual é uma atribuição do vigia conforme a NR 33?",
     "alternativa1": "Entrar no espaço confinado para auxiliar",
     "alternativa2": "Emitir a PET",
@@ -18741,7 +18741,7 @@ const questoes = [
     "gabaritoComentado": "O vigia deve garantir que apenas trabalhadores autorizados na PET ingressem no espaço confinado."
   },
   {
-    "tema": "NR 33🕳️",
+    "tema": "NR 33 🕳️",
     "pergunta": "Qual medida previne explosões em espaços com poeira combustível?",
     "alternativa1": "Uso de equipamentos elétricos não certificados",
     "alternativa2": "Acúmulo de poeira em camadas",
@@ -18752,7 +18752,7 @@ const questoes = [
     "gabaritoComentado": "A limpeza contínua reduz poeiras em camadas, minimizando riscos de explosões secundárias."
   },
   {
-    "tema": "NR 33🕳️",
+    "tema": "NR 33 🕳️",
     "pergunta": "O que deve ser feito em caso de troca de turnos durante bloqueio de energias?",
     "alternativa1": "Manter os dispositivos anteriores",
     "alternativa2": "Substituir dispositivos e etiquetas",
@@ -18763,7 +18763,7 @@ const questoes = [
     "gabaritoComentado": "Os dispositivos e etiquetas devem ser substituídos a cada troca de turno para garantir a segurança."
   },
   {
-    "tema": "NR 33🕳️",
+    "tema": "NR 33 🕳️",
     "pergunta": "Qual documento comprova a aptidão física e mental para trabalhos em espaços confinados?",
     "alternativa1": "PET",
     "alternativa2": "Laudo técnico",
@@ -18774,7 +18774,7 @@ const questoes = [
     "gabaritoComentado": "O ASO, conforme a NR-07, atesta a aptidão física e mental do trabalhador."
   },
   {
-    "tema": "NR 33🕳️",
+    "tema": "NR 33 🕳️",
     "pergunta": "O que é considerado atmosfera IPVS?",
     "alternativa1": "Atmosfera com oxigênio acima de 23%",
     "alternativa2": "Qualquer atmosfera com risco imediato à vida ou saúde",
@@ -18785,7 +18785,7 @@ const questoes = [
     "gabaritoComentado": "Atmosfera IPVS é aquela que apresenta risco imediato à vida ou causa efeito debilitante à saúde."
   },
   {
-    "tema": "NR 33🕳️",
+    "tema": "NR 33 🕳️",
     "pergunta": "Qual é o objetivo do Plano de Resgate?",
     "alternativa1": "Substituir a PET",
     "alternativa2": "Garantir atendimento rápido em emergências",
@@ -18796,7 +18796,7 @@ const questoes = [
     "gabaritoComentado": "O Plano de Resgate visa garantir respostas eficazes em emergências, reduzindo tempo de exposição a riscos."
   },
   {
-    "tema": "NR 33🕳️",
+    "tema": "NR 33 🕳️",
     "pergunta": "Qual norma técnica complementa a NR 33 para prevenção de acidentes?",
     "alternativa1": "NBR 16577",
     "alternativa2": "NR-35",
@@ -18807,7 +18807,7 @@ const questoes = [
     "gabaritoComentado": "A NBR 16577 estabelece procedimentos e medidas de proteção para espaços confinados, complementando a NR 33."
   },
   {
-    "tema": "NR 33🕳️",
+    "tema": "NR 33 🕳️",
     "pergunta": "O que é necessário para a ventilação em espaços confinados?",
     "alternativa1": "Insufllação de ar externo sem análise",
     "alternativa2": "Dimensionamento conforme características do espaço",
@@ -18818,7 +18818,7 @@ const questoes = [
     "gabaritoComentado": "A ventilação deve ser dimensionada conforme características do espaço, como geometria e contaminantes."
   },
   {
-    "tema": "NR 33🕳️",
+    "tema": "NR 33 🕳️",
     "pergunta": "Qual é uma falha comum em acidentes de asfixia em espaços confinados?",
     "alternativa1": "Uso de detectores de gases",
     "alternativa2": "Emissão adequada da PET",
@@ -18829,7 +18829,7 @@ const questoes = [
     "gabaritoComentado": "A falta de avaliação atmosférica prévia é uma falha crítica que leva a acidentes de asfixia."
   },
   {
-    "tema": "NR 33🕳️",
+    "tema": "NR 33 🕳️",
     "pergunta": "Qual equipamento é usado para monitorar atmosferas perigosas?",
     "alternativa1": "Termômetro",
     "alternativa2": "Detector multigás",
@@ -18840,7 +18840,7 @@ const questoes = [
     "gabaritoComentado": "Detectores multigás monitoram O2, LIE, CO e H2S, essenciais para avaliar atmosferas perigosas."
   },
   {
-    "tema": "NR 33🕳️",
+    "tema": "NR 33 🕳️",
     "pergunta": "O que caracteriza engolfamento conforme a NR 33?",
     "alternativa1": "Queda de altura",
     "alternativa2": "Envolvimento por material particulado sólido",
@@ -18851,7 +18851,7 @@ const questoes = [
     "gabaritoComentado": "Engolfamento é o envolvimento por material sólido que pode levar à inconsciência ou morte."
   },
   {
-    "tema": "NR 33🕳️",
+    "tema": "NR 33 🕳️",
     "pergunta": "Qual é a função do Responsável Técnico?",
     "alternativa1": "Executar trabalhos no espaço confinado",
     "alternativa2": "Elaborar o cadastro de espaços confinados",
@@ -18862,7 +18862,7 @@ const questoes = [
     "gabaritoComentado": "O Responsável Técnico deve elaborar o cadastro de espaços confinados, entre outras atribuições."
   },
   {
-    "tema": "NR 33🕳️",
+    "tema": "NR 33 🕳️",
     "pergunta": "Qual ação previne acidentes em túneis com poeira combustível?",
     "alternativa1": "Acumular poeira em camadas",
     "alternativa2": "Usar equipamentos não certificados",
@@ -18873,7 +18873,7 @@ const questoes = [
     "gabaritoComentado": "Limpeza contínua reduz poeiras em camadas, prevenindo explosões secundárias."
   },
   {
-    "tema": "NR 33🕳️",
+    "tema": "NR 33 🕳️",
     "pergunta": "Qual é um requisito para o bloqueio de energias perigosas?",
     "alternativa1": "Uso de etiquetas não identificáveis",
     "alternativa2": "Bloqueio coletivo para toda a equipe",
@@ -18884,7 +18884,7 @@ const questoes = [
     "gabaritoComentado": "Cada trabalhador deve ter dispositivo de bloqueio individual, conforme a NR 33."
   },
   {
-    "tema": "NR 33🕳️",
+    "tema": "NR 33 🕳️",
     "pergunta": "O que é essencial no Plano de Resgate?",
     "alternativa1": "Ignorar simulados",
     "alternativa2": "Designação de equipe externa ou interna",
@@ -18895,7 +18895,7 @@ const questoes = [
     "gabaritoComentado": "O Plano de Resgate deve designar equipe de emergência, interna ou externa, conforme os riscos."
   },
   {
-    "tema": "NR 33🕳️",
+    "tema": "NR 33 🕳️",
     "pergunta": "Qual situação caracteriza um espaço confinado mesmo sem atmosfera perigosa?",
     "alternativa1": "Armazenamento de grãos com risco de engolfamento",
     "alternativa2": "Ambiente com ventilação adequada",
@@ -18906,7 +18906,7 @@ const questoes = [
     "gabaritoComentado": "Espaços com risco de engolfamento são considerados confinados mesmo sem atmosfera perigosa."
   },
   {
-    "tema": "NR 33🕳️",
+    "tema": "NR 33 🕳️",
     "pergunta": "Qual é uma medida de prevenção contra atmosferas IPVS?",
     "alternativa1": "Ignorar a ventilação",
     "alternativa2": "Monitoramento contínuo da atmosfera",
@@ -18917,7 +18917,7 @@ const questoes = [
     "gabaritoComentado": "O monitoramento contínuo é essencial para detectar alterações na atmosfera durante a permanência."
   },
   {
-    "tema": "NR 33🕳️",
+    "tema": "NR 33 🕳️",
     "pergunta": "Qual é a finalidade do 'bump test' em detectores de gases?",
     "alternativa1": "Calibrar o equipamento sem gases de teste",
     "alternativa2": "Verificar a funcionalidade dos sensores",
@@ -18928,7 +18928,7 @@ const questoes = [
     "gabaritoComentado": "O 'bump test' verifica se os sensores e alarmes do detector estão funcionando corretamente."
   },
   {
-    "tema": "NR 33🕳️",
+    "tema": "NR 33 🕳️",
     "pergunta": "O que deve constar na sinalização provisória durante entrada em espaço confinado?",
     "alternativa1": "Liberação ou não da entrada",
     "alternativa2": "Dados financeiros da empresa",
@@ -18939,7 +18939,7 @@ const questoes = [
     "gabaritoComentado": "A sinalização provisória deve indicar se a entrada está liberada ou não para trabalhadores autorizados."
   },
   {
-    "tema": "NR 33🕳️",
+    "tema": "NR 33 🕳️",
     "pergunta": "Qual é um risco associado a silos de grãos?",
     "alternativa1": "Queda de raios",
     "alternativa2": "Engolfamento e soterramento",
@@ -18950,7 +18950,7 @@ const questoes = [
     "gabaritoComentado": "Silos apresentam riscos de engolfamento e soterramento devido à movimentação da massa de grãos."
   },
   {
-    "tema": "NR 33🕳️",
+    "tema": "NR 33 🕳️",
     "pergunta": "O que é necessário para a capacitação dos trabalhadores?",
     "alternativa1": "Avaliação física e mental periódica",
     "alternativa2": "Treinamento apenas inicial",
@@ -18961,7 +18961,7 @@ const questoes = [
     "gabaritoComentado": "A capacitação inclui avaliação física e mental periódica, conforme a NR 33 e NR-07."
   },
   {
-    "tema": "NR 33🕳️",
+    "tema": "NR 33 🕳️",
     "pergunta": "Qual ação é proibida durante trabalho sobre massa de grãos?",
     "alternativa1": "Uso de linha de vida",
     "alternativa2": "Sistema de descarga em funcionamento",
@@ -18972,7 +18972,7 @@ const questoes = [
     "gabaritoComentado": "É proibido trabalhar sobre massa de grãos com o sistema de descarga em operação, devido ao risco de engolfamento."
   },
   {
-    "tema": "NR 33🕳️",
+    "tema": "NR 33 🕳️",
     "pergunta": "O que é considerado na classificação de áreas explosivas?",
     "alternativa1": "Presença de poeira combustível em suspensão",
     "alternativa2": "Ausência de oxigênio",
@@ -18983,7 +18983,7 @@ const questoes = [
     "gabaritoComentado": "Áreas explosivas são classificadas considerando a presença de poeira combustível em suspensão, entre outros fatores."
   },
   {
-    "tema": "NR 30 - SEGURANÇA E SAÚDE EM EMBARCAÇÕES COMERCIAIS ",
+    "tema": "NR 30 🚢",
     "pergunta": "De acordo com o item 30.2.3 da NR 30, quais Normas Regulamentadoras não se aplicam a embarcações classificadas de acordo com a Convenção SOLAS, desde que apresentados os certificados de classe?",
     "alternativa1": "NR 06, NR 10 e NR 13.",
     "alternativa2": "NR 10, NR 13 e NR 23.",
@@ -18994,7 +18994,7 @@ const questoes = [
     "gabaritoComentado": "Conforme o item 30.2.3 da NR 30, as embarcações classificadas de acordo com a Convenção SOLAS, cujas normas de segurança são auditadas pelas sociedades classificadoras, não precisam aplicar as Normas Regulamentadoras nº 10 (NR-10), 13 (NR-13) e 23 (NR-23), desde que apresentados os certificados de classe."
   },
   {
-    "tema": "NR 30 - SEGURANÇA E SAÚDE EM EMBARCAÇÕES COMERCIAIS ",
+    "tema": "NR 30 🚢",
     "pergunta": "Sobre o campo de aplicação da NR 30, considere as afirmações a seguir:\nI. A NR 30 aplica-se a embarcações comerciais de bandeira nacional.\nII. Embarcações de bandeira estrangeira que realizem transporte de mercadorias entre portos brasileiros (cabotagem) devem obedecer à NR 30.\nIII. A matéria de segurança e saúde no trabalho aquaviário é complementada pelas normas da autoridade marítima (NORMAM).\nEstá correto o que se afirma em:",
     "alternativa1": "I, apenas.",
     "alternativa2": "III, apenas.",
@@ -19005,7 +19005,7 @@ const questoes = [
     "gabaritoComentado": "A NR 30 se aplica a embarcações comerciais de bandeira nacional. Embarcações de bandeira estrangeira utilizadas no transporte de cargas ou passageiros no Brasil, como na cabotagem, também devem obedecer às leis brasileiras e, consequentemente, à NR 30. A segurança e saúde no trabalho aquaviário não se esgotam nas NRs, sendo complementada pelas normas da autoridade marítima (NORMAM)."
   },
   {
-    "tema": "NR 30 - SEGURANÇA E SAÚDE EM EMBARCAÇÕES COMERCIAIS ",
+    "tema": "NR 30 🚢",
     "pergunta": "Conforme a NR 30, a responsabilidade pelo fornecimento, conservação e higienização dos colchões e roupas de cama dos membros da tripulação é:",
     "alternativa1": "Da tripulação.",
     "alternativa2": "Do cozinheiro.",
@@ -19016,7 +19016,7 @@ const questoes = [
     "gabaritoComentado": "De acordo com o item 30.9.7 da NR 30, o empregador deve fornecer, conservar e higienizar os colchões, bem como fazer o mesmo com as roupas de camas dos membros da tripulação."
   },
   {
-    "tema": "NR 30 - SEGURANÇA E SAÚDE EM EMBARCAÇÕES COMERCIAIS ",
+    "tema": "NR 30 🚢",
     "pergunta": "Segundo a NR 30, nas embarcações com arqueação bruta (AB) superior a 3000 AB, devem ser instaladas salas de lazer. É correto afirmar que, em embarcações com arqueação bruta menor que 3000 AB, o refeitório:",
     "alternativa1": "É proibido de ser utilizado como sala de lazer.",
     "alternativa2": "Pode ser utilizado como sala de lazer, desde que haja mobiliário próprio para lazer.",
@@ -19027,7 +19027,7 @@ const questoes = [
     "gabaritoComentado": "O item 30.10.3 da NR 30 determina que embarcações maiores que 3000 AB devem ter salas de lazer com mobiliário próprio. O subitem 30.10.3.1 autoriza que o refeitório possa ser usado como sala de lazer em embarcações com arqueação bruta menor que três mil AB."
   },
   {
-    "tema": "NR 30 - SEGURANÇA E SAÚDE EM EMBARCAÇÕES COMERCIAIS ",
+    "tema": "NR 30 🚢",
     "pergunta": "Em relação à segurança na manutenção em embarcações, conforme a NR 30, atividades de manutenção realizadas enquanto a embarcação está em operação exigem a elaboração de Análise de Risco (AR) e a emissão de:",
     "alternativa1": "Registro de Manutenção.",
     "alternativa2": "Ordem de Serviço.",
@@ -19038,7 +19038,7 @@ const questoes = [
     "gabaritoComentado": "Segundo o item 30.14.5 da NR 30, atividades de manutenção realizadas com a embarcação em operação exigem a realização da Análise de Risco (AR) e a emissão da Permissão de Trabalho (PT)."
   },
   {
-    "tema": "NR 30 - SEGURANÇA E SAÚDE EM EMBARCAÇÕES COMERCIAIS ",
+    "tema": "NR 30 🚢",
     "pergunta": "Conforme a NR 30, sobre a aplicação de outras Normas Regulamentadoras em embarcações, é correto afirmar:",
     "alternativa1": "A NR 33 (Segurança e Saúde no Trabalho em Espaços Confinados) não se aplica em embarcações.",
     "alternativa2": "A NR 35 (Trabalho em Altura) aplica-se integralmente em embarcações, sem necessidade de providências adicionais.",
@@ -19049,7 +19049,7 @@ const questoes = [
     "gabaritoComentado": "O subitem 30.14.6 da NR 30 determina a aplicabilidade da NR 33 - Segurança e Saúde no Trabalho em Espaços Confinados na íntegra em embarcações."
   },
   {
-    "tema": "NR 30 - SEGURANÇA E SAÚDE EM EMBARCAÇÕES COMERCIAIS ",
+    "tema": "NR 30 🚢",
     "pergunta": "De acordo com a NR 30, a recertificação dos equipamentos de guindar e acessórios deve ocorrer com prazo limitado a:",
     "alternativa1": "Doze meses.",
     "alternativa2": "Dois anos.",
@@ -19060,7 +19060,7 @@ const questoes = [
     "gabaritoComentado": "Conforme o subitem 30.15.1.1 da NR 30, a recertificação dos equipamentos de guindar e acessórios deve ter prazo limitado a cinco anos."
   },
   {
-    "tema": "NR 30 - SEGURANÇA E SAÚDE EM EMBARCAÇÕES COMERCIAIS ",
+    "tema": "NR 30 🚢",
     "pergunta": "A NR 30 estabelece diferentes tipos de inspeções para equipamentos de guindar e acessórios. A inspeção realizada a cada jornada antes de iniciar qualquer movimentação é a inspeção:",
     "alternativa1": "Inicial.",
     "alternativa2": "Periódica.",
@@ -19071,7 +19071,7 @@ const questoes = [
     "gabaritoComentado": "Segundo o item 30.15.3.3 da NR 30, as inspeções diárias devem ser realizadas pelo operador do equipamento ou trabalhador capacitado a cada jornada antes de iniciar qualquer movimentação."
   },
   {
-    "tema": "NR 30 - SEGURANÇA E SAÚDE EM EMBARCAÇÕES COMERCIAIS ",
+    "tema": "NR 30 🚢",
     "pergunta": "De acordo com a NR 30, no que se refere às inspeções periódicas dos equipamentos de guindar, é correto afirmar que:",
     "alternativa1": "Devem ser realizadas exclusivamente por sociedades classificadoras.",
     "alternativa2": "O prazo entre elas deve ser de, no máximo, 24 meses.",
@@ -19082,7 +19082,7 @@ const questoes = [
     "gabaritoComentado": "O subitem 30.15.3.1 da NR 30 estabelece que as inspeções iniciais e periódicas podem ser realizadas por trabalhador qualificado, sob supervisão de profissional legalmente habilitado (PLH)."
   },
   {
-    "tema": "NR 30 - SEGURANÇA E SAÚDE EM EMBARCAÇÕES COMERCIAIS ",
+    "tema": "NR 30 🚢",
     "pergunta": "Conforme a NR 30, o preparo e a execução de refeições a bordo devem ser realizados por cozinheiro, em conformidade com a NORMAM e a legislação sanitária aplicável. Embarcações estão dispensadas de cozinheiro caso as singraduras sejam inferiores a um determinado período e trafeguem em área com apoio de alimentação em terra com condições higiênico-sanitárias garantidas. Qual é esse período?",
     "alternativa1": "Oito horas.",
     "alternativa2": "Dez horas.",
@@ -19093,7 +19093,7 @@ const questoes = [
     "gabaritoComentado": "O subitem 30.8.1.2.1 da NR 30 dispensa de cozinheiro as embarcações cujas singraduras sejam inferiores a doze horas e trafeguem em área onde seja possível o apoio de alimentação proveniente de facilidades em terra, garantidas condições higiênico-sanitárias."
   },
   {
-    "tema": "NR 30 - SEGURANÇA E SAÚDE EM EMBARCAÇÕES COMERCIAIS ",
+    "tema": "NR 30 🚢",
     "pergunta": "De acordo com a NR 30, para garantir o acesso seguro para embarque e desembarque em embarcações, as escadas de portaló que atendem à Convenção SOLAS devem ficar posicionadas em relação ao plano horizontal com ângulo de até:",
     "alternativa1": "45 graus.",
     "alternativa2": "50 graus.",
@@ -19104,7 +19104,7 @@ const questoes = [
     "gabaritoComentado": "Conforme o subitem 30.18.3.4.2 da NR 30, as escadas de portaló, atendendo à Convenção SOLAS, devem ficar posicionadas em relação ao plano horizontal com ângulo de até 55 graus, a menos que projetada e construída para uso em ângulos maiores e devidamente marcada."
   },
   {
-    "tema": "NR 30 - SEGURANÇA E SAÚDE EM EMBARCAÇÕES COMERCIAIS ",
+    "tema": "NR 30 🚢",
     "pergunta": "A NR 30 estabelece requisitos para os locais de vivência a bordo. Em embarcações com arqueação bruta (AB) inferior a 500 AB, o empregador deve propiciar meios para:",
     "alternativa1": "Instalação de sala de lazer com mobiliário próprio.",
     "alternativa2": "Lavagem e secagem de roupas de trabalho.",
@@ -19115,7 +19115,7 @@ const questoes = [
     "gabaritoComentado": "Embora não especificado explicitamente na numeração dos itens fornecida, a seção 'Camarotes' e 'Salões de Refeições e Locais de Recreio' mencionam critérios baseados em arqueação bruta. A questão refere-se a embarcações com menos de 500 AB e a necessidade de propiciar meios para lavagem e secagem de roupas de trabalho, um detalhe comum nas disposições sobre áreas de vivência em normas de segurança. Embora o texto fornecido não detalhe explicitamente esta obrigação para embarcações menores que 500 AB, o contexto geral das NRs que tratam de áreas de vivência, e a provável menção em outras partes da NR 30 não incluídas na fonte, sugere esta resposta como a mais plausível dentro do escopo típico da norma."
   },
   {
-    "tema": "NR 30 - SEGURANÇA E SAÚDE EM EMBARCAÇÕES COMERCIAIS ",
+    "tema": "NR 30 🚢",
     "pergunta": "Em relação ao armazenamento de recipientes de Gás Liquefeito de Petróleo (GLP) a bordo, a NR 30 exige que estes e suas conexões sejam certificados de acordo com as normas técnicas brasileiras ou internacionais aplicáveis. Além disso, os recipientes de GLP vazios e cheios devem ser armazenados:",
     "alternativa1": "Juntos, em local ventilado.",
     "alternativa2": "Separadamente, em local ventilado e protegido.",
@@ -19126,7 +19126,7 @@ const questoes = [
     "gabaritoComentado": "Conforme o item 30.11.2 da NR 30 e seus subitens, os recipientes de GLP devem ser certificados e instalados em local ventilado e protegido. Os subitens detalham que os recipientes vazios e cheios devem ser armazenados separadamente."
   },
   {
-    "tema": "NR 30 - SEGURANÇA E SAÚDE EM EMBARCAÇÕES COMERCIAIS ",
+    "tema": "NR 30 🚢",
     "pergunta": "Conforme a NR 30, para o acesso seguro à embarcação, é correto afirmar que:",
     "alternativa1": "O acesso por equipamentos de guindar é o método prioritário.",
     "alternativa2": "Redes de segurança são exigidas apenas para escadas quebra-peito.",
@@ -19137,7 +19137,7 @@ const questoes = [
     "gabaritoComentado": "A NR 30, no item 30.18.2, determina que as escadas e pranchas de acesso devem ser mantidas em bom estado de conservação e limpeza. O acesso por equipamentos de guindar é proibido, exceto em condições específicas. Redes de segurança são exigidas sob escada ou estrutura complementar. A colocação de extensões, mangueiras, etc., nas estruturas e corrimões é proibida. Os cabos do guincho da escada de portaló não devem criar obstáculos à circulação."
   },
   {
-    "tema": "NR 30 - SEGURANÇA E SAÚDE EM EMBARCAÇÕES COMERCIAIS ",
+    "tema": "NR 30 🚢",
     "pergunta": "Segundo a NR 30, o relatório de inspeção periódica de equipamentos de guindar de embarcações de bandeira estrangeira que iniciem a operação em águas jurisdicionais brasileiras:",
     "alternativa1": "Não é aceito, devendo ser realizada nova inspeção no Brasil.",
     "alternativa2": "É aceito inicialmente, mas a renovação deve atender aos requisitos de emissão de relatório da NR 30.",
@@ -19148,7 +19148,7 @@ const questoes = [
     "gabaritoComentado": "Conforme o item 30.15.3.1.3 da NR 30, no caso dos navios de bandeira estrangeira que iniciem a operação em águas jurisdicionais brasileiras, será aceito o relatório de inspeção do país de origem, devendo, em renovação, atender ao item 30.15.3.1.2.1 (que trata da emissão do relatório pelo PLH ou sociedade classificadora)."
   },
   {
-    "tema": "NR 30 - SEGURANÇA E SAÚDE EM EMBARCAÇÕES COMERCIAIS ",
+    "tema": "NR 30 🚢",
     "pergunta": "A NR 30 dispõe sobre as condições dos salões de refeições e locais de recreio em embarcações. É correto afirmar que os pisos desses locais devem ser:",
     "alternativa1": "De madeira polida, para facilitar a limpeza.",
     "alternativa2": "Cobertos por carpete, para maior conforto.",
@@ -19159,7 +19159,7 @@ const questoes = [
     "gabaritoComentado": "O item 30.10.1 da NR 30 determina que os pisos dos salões de refeições e locais de recreio devem ser de material antiderrapante."
   },
   {
-    "tema": "NR 30 - SEGURANÇA E SAÚDE EM EMBARCAÇÕES COMERCIAIS ",
+    "tema": "NR 30 🚢",
     "pergunta": "Conforme a NR 30, as anteparas nos salões de refeições e locais de recreio das embarcações não devem apresentar:",
     "alternativa1": "Cores vibrantes.",
     "alternativa2": "Decorações temáticas.",
@@ -19170,7 +19170,7 @@ const questoes = [
     "gabaritoComentado": "O item 30.10.1 da NR 30 estabelece que as anteparas nos salões de refeições e locais de recreio não devem apresentar irregularidades e depressões."
   },
   {
-    "tema": "NR 30 - SEGURANÇA E SAÚDE EM EMBARCAÇÕES COMERCIAIS ",
+    "tema": "NR 30 🚢",
     "pergunta": "Sobre as inspeções periódicas de equipamentos de guindar em embarcações, a NR 30 estabelece que o prazo entre elas deve ser não superior a:",
     "alternativa1": "Seis meses.",
     "alternativa2": "Doze meses.",
@@ -19181,7 +19181,7 @@ const questoes = [
     "gabaritoComentado": "Conforme o item 30.15.3.1.2 da NR 30, as inspeções periódicas de equipamentos de guindar devem ter prazo entre elas não superior a doze meses."
   },
   {
-    "tema": "NR 30 - SEGURANÇA E SAÚDE EM EMBARCAÇÕES COMERCIAIS ",
+    "tema": "NR 30 🚢",
     "pergunta": "Segundo a NR 30, qual das seguintes alternativas NÃO é uma condição que exige a realização de inspeção eventual em equipamentos de guindar?",
     "alternativa1": "Manutenção.",
     "alternativa2": "Reparo.",
@@ -19192,7 +19192,7 @@ const questoes = [
     "gabaritoComentado": "O item 30.15.3.2 da NR 30 define a inspeção eventual como aquela realizada quando da ocorrência de manutenção, reparo ou avaria que possa afetar a operação segura do equipamento, em conformidade com as recomendações do fabricante ou do órgão certificador. A alteração do operador não é uma condição listada para inspeção eventual."
   },
   {
-    "tema": "NR 30 - SEGURANÇA E SAÚDE EM EMBARCAÇÕES COMERCIAIS ",
+    "tema": "NR 30 🚢",
     "pergunta": "A NR 30 aborda a segurança e saúde no trabalho aquaviário em embarcações comerciais, que são aquelas utilizadas no transporte de cargas ou passageiros, incluindo aquelas usadas na prestação de serviços. Além das Normas Regulamentadoras, a segurança e saúde no trabalho aquaviário em embarcações é complementada, entre outras, pelas normas da autoridade marítima, publicadas pela:",
     "alternativa1": "Organização Internacional do Trabalho (OIT).",
     "alternativa2": "Agência Nacional de Transportes Aquaviários (ANTAQ).",
@@ -19203,7 +19203,7 @@ const questoes = [
     "gabaritoComentado": "O texto introdutório sobre a NR 30 menciona que a matéria de segurança e saúde no trabalho aquaviário é complementada pelas normas da autoridade marítima (NORMAM) publicadas pela Marinha do Brasil."
   },
   {
-    "tema": "NR 30 - SEGURANÇA E SAÚDE EM EMBARCAÇÕES COMERCIAIS ",
+    "tema": "NR 30 🚢",
     "pergunta": "Para embarcações com arqueação bruta (AB) superior a 500 AB, a NR 30 estabelece especificações adicionais para os:",
     "alternativa1": "Salões de refeições.",
     "alternativa2": "Áreas de carga.",
@@ -19214,7 +19214,7 @@ const questoes = [
     "gabaritoComentado": "O item 30.9.8 da NR 30 estabelece as condições de camarotes para embarcações com mais de quinhentos de arqueação bruta."
   },
   {
-    "tema": "NR 30 - SEGURANÇA E SAÚDE EM EMBARCAÇÕES COMERCIAIS ",
+    "tema": "NR 30 🚢",
     "pergunta": "Conforme a NR 30, na cozinha das embarcações, a captação de fumaças, vapores e odores deve ser feita mediante a utilização de:",
     "alternativa1": "Um sistema de climatização.",
     "alternativa2": "Exaustores individuais nos fogões.",
@@ -19225,7 +19225,7 @@ const questoes = [
     "gabaritoComentado": "O item 30.11.1 da NR 30 determina que a captação de fumaças, vapores e odores na cozinha deve ser feita mediante a utilização de um sistema de exaustão."
   },
   {
-    "tema": "NR 30 - SEGURANÇA E SAÚDE EM EMBARCAÇÕES COMERCIAIS ",
+    "tema": "NR 30 🚢",
     "pergunta": "De acordo com a NR 30, nas embarcações, os corredores, os camarotes, os refeitórios e as salas de recreação devem garantir segurança e proteção contra as intempéries e condições da navegação, bem como isolamento, exceto contra:",
     "alternativa1": "Calor excessivo.",
     "alternativa2": "Frio excessivo.",
@@ -19236,7 +19236,7 @@ const questoes = [
     "gabaritoComentado": "O item 30.19.1 da NR 30 determina que estes locais devem garantir segurança e proteção e isolamento do calor, do frio, do ruído excessivo, das vibrações e das emanações. A luminosidade excessiva não é mencionada como algo contra o qual deve haver isolamento nessa lista específica."
   },
   {
-    "tema": "NR 30 - SEGURANÇA E SAÚDE EM EMBARCAÇÕES COMERCIAIS ",
+    "tema": "NR 30 🚢",
     "pergunta": "A NR 30 estabelece requisitos para o acesso seguro às embarcações. No caso de escada de portaló que atende à Convenção SOLAS, é exigido que, sob ela ou estrutura complementar, seja montada:",
     "alternativa1": "Uma lona protetora.",
     "alternativa2": "Uma rede de segurança.",
@@ -19247,7 +19247,7 @@ const questoes = [
     "gabaritoComentado": "Conforme o item 30.18.2.4 da NR 30, é exigido que sob a escada ou estrutura complementar seja montada rede de segurança."
   },
   {
-    "tema": "NR 30 - SEGURANÇA E SAÚDE EM EMBARCAÇÕES COMERCIAIS ",
+    "tema": "NR 30 🚢",
     "pergunta": "Sobre a realização das inspeções periódicas de equipamentos de guindar, a NR 30 permite que sejam realizadas por sociedades classificadoras, desde que estas sejam:",
     "alternativa1": "Reconhecidas pelo fabricante do equipamento.",
     "alternativa2": "Credenciadas pelo Ministério do Trabalho e Emprego.",
@@ -19258,7 +19258,7 @@ const questoes = [
     "gabaritoComentado": "O subitem 30.15.3.1 da NR 30 estabelece que as inspeções iniciais e periódicas podem ser realizadas por sociedades classificadoras, desde que reconhecidas pela autoridade marítima e pela legislação nacional do país que a embarcação pertencer."
   },
   {
-    "tema": "NR 30 - SEGURANÇA E SAÚDE EM EMBARCAÇÕES COMERCIAIS ",
+    "tema": "NR 30 🚢",
     "pergunta": "De acordo com a NR 30, qual das seguintes é uma das informações que o relatório de inspeção de segurança de equipamentos de guindar deve conter?",
     "alternativa1": "Histórico de navegação da embarcação.",
     "alternativa2": "Lista de todos os tripulantes a bordo.",
@@ -19269,7 +19269,7 @@ const questoes = [
     "gabaritoComentado": "Conforme o subitem 30.15.3.1.2.1 da NR 30, o relatório de inspeção deve conter diversas informações, incluindo o parecer conclusivo quanto à integridade do equipamento até a próxima inspeção. As outras opções não são informações requeridas no relatório de inspeção pela NR 30."
   },
   {
-    "tema": "NR 30 - SEGURANÇA E SAÚDE EM EMBARCAÇÕES COMERCIAIS ",
+    "tema": "NR 30 🚢",
     "pergunta": "A NR 30 exige que os membros da tripulação disponham de camas individuais. O item 30.9.7 estabelece que o empregador é responsável por fornecer, conservar e higienizar os colchões. Além disso, ele também é responsável por fornecer, conservar e higienizar:",
     "alternativa1": "As redes de segurança.",
     "alternativa2": "Os equipamentos de proteção individual.",
@@ -19280,7 +19280,7 @@ const questoes = [
     "gabaritoComentado": "O item 30.9.7 da NR 30 determina que o empregador deve fornecer, conservar e higienizar os colchões, bem como fazer o mesmo com as roupas de camas."
   },
   {
-    "tema": "NR 30 - SEGURANÇA E SAÚDE EM EMBARCAÇÕES COMERCIAIS ",
+    "tema": "NR 30 🚢",
     "pergunta": "Em relação ao acesso seguro à embarcação, a NR 30 proíbe a colocação de certos itens nas estruturas e corrimões das escadas e pranchas de acesso. Qual das seguintes alternativas lista um desses itens proibidos?",
     "alternativa1": "Sinalização de segurança.",
     "alternativa2": "Redes de segurança.",
@@ -19291,7 +19291,7 @@ const questoes = [
     "gabaritoComentado": "O item 30.18.2.3 da NR 30 proíbe a colocação de extensões elétricas, mangueiras, mangotes e assemelhados nas estruturas e corrimões das escadas e pranchas de acesso das embarcações."
   },
   {
-    "tema": "NR 30 - SEGURANÇA E SAÚDE EM EMBARCAÇÕES COMERCIAIS ",
+    "tema": "NR 30 🚢",
     "pergunta": "Conforme a NR 30, quem é responsável pela realização das inspeções diárias dos equipamentos de guindar?",
     "alternativa1": "Profissional Legalmente Habilitado (PLH).",
     "alternativa2": "Sociedade classificadora.",
@@ -19302,7 +19302,7 @@ const questoes = [
     "gabaritoComentado": "O item 30.15.3.3 da NR 30 estabelece que as inspeções diárias devem ser realizadas pelo operador do equipamento ou trabalhador capacitado a cada jornada antes de iniciar qualquer movimentação."
   },
   {
-    "tema": "NR 30 - SEGURANÇA E SAÚDE EM EMBARCAÇÕES COMERCIAIS ",
+    "tema": "NR 30 🚢",
     "pergunta": "A NR 30 aplica-se a embarcações comerciais. Uma exceção à aplicação integral de algumas NRs ocorre para embarcações classificadas conforme a Convenção SOLAS, desde que apresentados os certificados de classe. Essa exceção se baseia no fato de que as normas de segurança dessas embarcações são auditadas por:",
     "alternativa1": "OIT.",
     "alternativa2": "Autoridade Marítima.",
@@ -19313,7 +19313,7 @@ const questoes = [
     "gabaritoComentado": "O item 30.2.3 da NR 30 e a explicação subsequente indicam que as embarcações classificadas de acordo com a Convenção SOLAS, cujas normas de segurança são auditadas pelas sociedades classificadoras, têm exceções na aplicação de certas NRs."
   },
   {
-    "tema": "NR 30 - SEGURANÇA E SAÚDE EM EMBARCAÇÕES COMERCIAIS ",
+    "tema": "NR 30 🚢",
     "pergunta": "A NR 30 trata da alimentação a bordo, especificando que o aprovisionamento de víveres e água potável deve observar, entre outros fatores, a duração e a natureza da viagem, o número de tripulantes e:",
     "alternativa1": "O tipo de carga transportada.",
     "alternativa2": "As condições meteorológicas previstas.",
