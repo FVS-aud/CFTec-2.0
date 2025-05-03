@@ -16970,7 +16970,7 @@ const questoes = [
     "gabaritoComentado": "O texto informa que a Convenção 29 (trabalho forçado) foi enviada ao Congresso em 2023."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "Qual é o objetivo principal da Norma Regulamentadora nº 13 (NR-13)?",
     "alternativa1": "Estabelecer diretrizes para a elaboração do Programa de Controle Médico de Saúde Ocupacional (PCMSO).",
     "alternativa2": "Normatizar as condições de segurança e saúde no trabalho na indústria da construção civil.",
@@ -16981,7 +16981,7 @@ const questoes = [
     "gabaritoComentado": "O objetivo principal da NR-13 é **estabelecer requisitos mínimos para a gestão da integridade estrutural de caldeiras, vasos de pressão, suas tubulações de interligação e tanques metálicos de armazenamento**, visando a segurança e saúde dos trabalhadores."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "Quais equipamentos estão no escopo de aplicação da NR-13?",
     "alternativa1": "Apenas caldeiras e vasos de pressão.",
     "alternativa2": "Caldeiras, vasos de pressão, suas tubulações de interligação e tanques metálicos de armazenamento.",
@@ -16992,7 +16992,7 @@ const questoes = [
     "gabaritoComentado": "A NR-13 abrange **caldeiras, vasos de pressão, suas tubulações de interligação e tanques metálicos de armazenamento**."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "O que é um 'Prontuário da Caldeira' conforme a NR-13?",
     "alternativa1": "Um registro das manutenções preventivas e corretivas realizadas na caldeira.",
     "alternativa2": "Um certificado de inspeção emitido por um profissional habilitado.",
@@ -17003,7 +17003,7 @@ const questoes = [
     "gabaritoComentado": "O Prontuário da Caldeira é um **conjunto de documentos, incluindo, dentre outros, o registro do teste hidrostático de fabricação e os dados dos dispositivos de segurança, além de dados, como o código de construção, o ano de edição, o ano de fabricação e a categoria da caldeira**."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "Qual documento deve informar todas as ocorrências importantes capazes de influir nas condições de segurança de uma caldeira?",
     "alternativa1": "Relatório de Inspeção de Segurança.",
     "alternativa2": "Manual de Operação.",
@@ -17014,7 +17014,7 @@ const questoes = [
     "gabaritoComentado": "O **Registro de Segurança** deve informar todas as ocorrências importantes capazes de influir nas condições de segurança da caldeira, as alterações de prazos de inspeção e a anotação das inspeções de segurança."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "Com que frequência mínima as caldeiras da categoria 'C' devem passar por inspeção de segurança periódica, segundo a NR-13?",
     "alternativa1": "Não há periodicidade definida para caldeiras da categoria 'C'.",
     "alternativa2": "A cada 18 meses.",
@@ -17025,7 +17025,7 @@ const questoes = [
     "gabaritoComentado": "Embora a fonte não detalhe especificamente a periodicidade para a categoria C, geralmente as inspeções periódicas para caldeiras ocorrem com **periodicidade máxima definida na NR-13**, sendo que a categoria influencia esse prazo."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "Em quais situações deve ser realizada uma inspeção de segurança extraordinária em uma caldeira?",
     "alternativa1": "Anualmente, antes do início do período de maior demanda de vapor.",
     "alternativa2": "Apenas quando houver alteração do Proprietário da caldeira.",
@@ -17036,7 +17036,7 @@ const questoes = [
     "gabaritoComentado": "A inspeção de segurança extraordinária deve ser realizada quando a **caldeira for danificada por acidente ou outra ocorrência, capaz de comprometer sua segurança**."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "Quem pode operar e controlar uma caldeira, de acordo com a NR-13?",
     "alternativa1": "Operador de caldeira que cumpra o disposto no Anexo I da NR-13.",
     "alternativa2": "Apenas o profissional legalmente habilitado (PLH).",
@@ -17047,7 +17047,7 @@ const questoes = [
     "gabaritoComentado": "Toda caldeira deve estar, obrigatoriamente, sob operação e controle de **operador de caldeira, cumprindo o disposto no item 1, do Anexo I, da NR 13**."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "Qual documento é similar ao 'Prontuário da Caldeira' e deve ser elaborado para vasos de pressão?",
     "alternativa1": "Prontuário do Vaso de Pressão.",
     "alternativa2": "Manual de Operação do Vaso de Pressão.",
@@ -17058,7 +17058,7 @@ const questoes = [
     "gabaritoComentado": "Os mesmos documentos devem ser elaborados para os vasos de pressão, exceto o projeto de instalação, incluindo o **prontuário do vaso**."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "Vasos de pressão enquadrados em quais categorias devem possuir manual de operação próprio?",
     "alternativa1": "Apenas categoria I.",
     "alternativa2": "Categorias I ou II.",
@@ -17069,7 +17069,7 @@ const questoes = [
     "gabaritoComentado": "Os vasos de pressão, enquadrados nas **categorias I ou II**, devem possuir manual de operação próprio."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "Quem deve cumprir as obrigações do item 2 do Anexo I da NR-13 em unidades de processo que contenham vasos de pressão da categoria I ou II?",
     "alternativa1": "O supervisor da área.",
     "alternativa2": "O técnico de segurança do trabalho.",
@@ -17080,7 +17080,7 @@ const questoes = [
     "gabaritoComentado": "Os **operadores de unidades de processo que contenham vasos de pressão da categoria I ou II** devem cumprir as obrigações do item 2, do Anexo I, da NR 13."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "Qual a periodicidade máxima admitida para a inspeção de segurança periódica de vasos de pressão, exceto em situações específicas?",
     "alternativa1": "24 meses.",
     "alternativa2": "12 meses.",
@@ -17091,7 +17091,7 @@ const questoes = [
     "gabaritoComentado": "De forma similar às caldeiras, os vasos de pressão devem ser submetidos a inspeções de segurança periódicas, sendo que a periodicidade máxima admitida é de **12 (doze) meses**, podendo haver exceções."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "O que deve constar obrigatoriamente na placa de identificação de um vaso de pressão?",
     "alternativa1": "Placa de identificação indelével e indicação da categoria do vaso de pressão, além do seu número ou código de identificação no corpo do equipamento.",
     "alternativa2": "Apenas o nome do fabricante e o ano de fabricação.",
@@ -17102,7 +17102,7 @@ const questoes = [
     "gabaritoComentado": "Todo vaso de pressão deve possuir, em local de fácil acesso e visível, **placa de identificação indelével e indicação da categoria do vaso de pressão, além do seu número ou código de identificação no corpo do equipamento**."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "A operação de quais equipamentos enquadrados na NR-13 sem os dispositivos de segurança é considerada item de risco grave e iminente?",
     "alternativa1": "Apenas caldeiras.",
     "alternativa2": "Apenas vasos de pressão.",
@@ -17113,7 +17113,7 @@ const questoes = [
     "gabaritoComentado": "Para **todos os equipamentos enquadrados na NR-13**, a **operação sem os dispositivos de segurança** é considerada item de risco grave e iminente."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "Quem deve ser o profissional legalmente habilitado (PLH) para as atividades relacionadas à NR-13?",
     "alternativa1": "Qualquer engenheiro com registro no conselho profissional.",
     "alternativa2": "Engenheiro de segurança do trabalho.",
@@ -17124,7 +17124,7 @@ const questoes = [
     "gabaritoComentado": "O PLH deve ser **engenheiro com habilitação no conselho profissional representativo no país, além de ter atribuição compatível com as operações de construção, operação, manutenção, inspeção e supervisão de inspeção de caldeiras, vasos de pressão, tubulações e tanques metálicos de armazenamento**."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "O que o PLH deve indicar no relatório de inspeção de um vaso de pressão quando não for possível realizar o exame interno devido a danos previsíveis?",
     "alternativa1": "Tal situação no relatório de inspeção e definir o(s) exame(s) substituto(s).",
     "alternativa2": "A impossibilidade de determinar a integridade do vaso.",
@@ -17135,7 +17135,7 @@ const questoes = [
     "gabaritoComentado": "O PH deve **indicar tal situação no relatório de inspeção e definir o(s) exame(s) substituto(s)** quando não for possível realizar o exame interno devido a danos previsíveis."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "Qual a periodicidade do exame externo para vasos criogênicos que operem em condições nas quais a experiência mostre que não ocorre deterioração?",
     "alternativa1": "A cada ano.",
     "alternativa2": "A cada 3 (três) anos.",
@@ -17146,7 +17146,7 @@ const questoes = [
     "gabaritoComentado": "Vasos de pressão criogênicos devem ser submetidos a **exame externo a cada 2 (dois) anos** em condições específicas."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "Qual é um dos requisitos de instalação para caldeiras em ambiente fechado, conforme a NR-13?",
     "alternativa1": "Pé-direito mínimo de 2 metros.",
     "alternativa2": "Isolamento térmico das paredes.",
@@ -17157,7 +17157,7 @@ const questoes = [
     "gabaritoComentado": "Um dos requisitos de instalação de caldeiras em ambiente fechado é **dispor de sensor para detecção de vazamento de gás, quando se tratar de caldeira a combustível gasoso**."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "O relatório de inspeção de segurança de uma caldeira deve ser elaborado em até quantos dias após a inspeção?",
     "alternativa1": "15 dias.",
     "alternativa2": "30 dias.",
@@ -17168,7 +17168,7 @@ const questoes = [
     "gabaritoComentado": "De forma geral, os relatórios de inspeção de segurança devem ser elaborados em até **60 (sessenta) dias**."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "Quais informações mínimas devem constar no relatório de inspeção de segurança de um vaso de pressão?",
     "alternativa1": "Apenas a data da inspeção e a assinatura do inspetor.",
     "alternativa2": "A categoria do vaso de pressão, o tipo de inspeção executada e o parecer conclusivo quanto à integridade.",
@@ -17179,7 +17179,7 @@ const questoes = [
     "gabaritoComentado": "O relatório de inspeção de segurança de um vaso de pressão deve conter informações mínimas, destacando-se a **categoria do vaso de pressão, o tipo de inspeção executada e o parecer conclusivo quanto à integridade**."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "O empregador deve registrar e implementar as recomendações decorrentes das inspeções de segurança, determinando os:",
     "alternativa1": "Custos e o setor responsável pela execução.",
     "alternativa2": "Prazos e os responsáveis pela execução.",
@@ -17190,7 +17190,7 @@ const questoes = [
     "gabaritoComentado": "As recomendações decorrentes das inspeções de segurança devem ser registradas e implementadas pelo empregador, com a **determinação dos prazos e dos responsáveis pela execução**."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "Qual a carga horária mínima do treinamento para operadores de caldeiras?",
     "alternativa1": "8 horas.",
     "alternativa2": "40 horas.",
@@ -17201,7 +17201,7 @@ const questoes = [
     "gabaritoComentado": "Conforme a referência, o **Certificado de Treinamento** para operadores de caldeiras menciona uma carga horária de **40h**."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "Além do treinamento, qual outra exigência é feita para operadores de unidades de processo que contenham vasos de pressão das categorias I e II?",
     "alternativa1": "Prática profissional supervisionada de 300 horas.",
     "alternativa2": "Participação em simulados anuais de emergência.",
@@ -17212,7 +17212,7 @@ const questoes = [
     "gabaritoComentado": "Esquema 6 indica que, para operador de unidades de processo (CAT I e II), além do treinamento de 40h, é necessária **Prática Profissional Supervisionada de 300h**."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "Em que situação um projeto alternativo de instalação para caldeiras deve ser elaborado pelo empregador?",
     "alternativa1": "Quando a caldeira for instalada em área externa.",
     "alternativa2": "Quando a caldeira possuir sistemas de controle automatizados.",
@@ -17223,7 +17223,7 @@ const questoes = [
     "gabaritoComentado": "Caso não seja possível o cumprimento de quaisquer alíneas dos subitens 13.4.2.3 e 13.4.2.4, o empregador deverá elaborar um **projeto alternativo de instalação**."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "Para caldeiras da categoria A, qual condição permite que a inspeção de segurança periódica seja realizada em até 24 meses?",
     "alternativa1": "Se a caldeira possuir certificação ISO 9001.",
     "alternativa2": "Se houver um programa de manutenção preventiva rigoroso.",
@@ -17234,7 +17234,7 @@ const questoes = [
     "gabaritoComentado": "Para caldeiras da categoria A, o prazo para inspeção periódica pode ser de até **24 (vinte e quatro) meses, desde que aos doze meses sejam testadas as pressões de abertura das válvulas de segurança**."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "O bloqueio de dispositivos de segurança em equipamentos da NR-13, sem a devida justificativa técnica, é considerado:",
     "alternativa1": "Uma não conformidade de grau leve.",
     "alternativa2": "Uma prática aceitável em situações de emergência.",
@@ -17245,7 +17245,7 @@ const questoes = [
     "gabaritoComentado": "A **ausência ou bloqueio de dispositivos de segurança, sem a devida justificativa técnica**, baseada em códigos, normas ou procedimentos formais de operação do equipamento, é um item de **risco grave e iminente** na NR 13."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "Para caldeiras de recuperação de álcalis de qualquer categoria, qual o prazo máximo para a inspeção de segurança periódica?",
     "alternativa1": "6 meses.",
     "alternativa2": "18 (dezoito) meses.",
@@ -17256,7 +17256,7 @@ const questoes = [
     "gabaritoComentado": "O prazo máximo para inspeção periódica de caldeiras de recuperação de álcalis de qualquer categoria é de **18 (dezoito) meses**."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "Qual das alternativas abaixo NÃO é uma informação mínima que deve constar no manual de operação atualizado de uma caldeira?",
     "alternativa1": "Procedimentos de partidas e paradas.",
     "alternativa2": "Procedimentos operacionais de rotina.",
@@ -17267,7 +17267,7 @@ const questoes = [
     "gabaritoComentado": "O manual de operação atualizado de toda caldeira deve conter **procedimentos de partidas e paradas, operacionais de rotina, situações de emergência e aqueles gerais de segurança, de saúde e de preservação do meio ambiente**, sendo a lista de operadores habilitados não um requisito do manual em si."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "Para caldeiras da categoria B com sistema de gerenciamento de combustão (SGC) que atendam ao Anexo IV da NR-13, qual o prazo máximo para a inspeção de segurança periódica?",
     "alternativa1": "12 meses.",
     "alternativa2": "30 (trinta) meses.",
@@ -17278,7 +17278,7 @@ const questoes = [
     "gabaritoComentado": "Para caldeiras de categoria B, com sistema de gerenciamento de combustão – SGC, que atendam ao disposto no Anexo IV, da NR 13, o prazo para inspeção periódica pode ser de até **30 (trinta) meses**."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "Em relação aos relatórios de inspeção de segurança de caldeiras e vasos de pressão, qual o prazo geral para sua elaboração após a inspeção?",
     "alternativa1": "Até 15 dias.",
     "alternativa2": "Até 30 dias.",
@@ -17289,7 +17289,7 @@ const questoes = [
     "gabaritoComentado": "De forma geral, os relatórios de inspeção de segurança de caldeiras e vasos de pressão devem ser elaborados em até **60 (sessenta) dias**."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "O registro de segurança de uma caldeira deve ser realizado:",
     "alternativa1": "Imediatamente após a inspeção de segurança da caldeira.",
     "alternativa2": "Anualmente pelo técnico de segurança do trabalho.",
@@ -17300,7 +17300,7 @@ const questoes = [
     "gabaritoComentado": "Tal registro [de segurança] deve ser realizado **imediatamente após a inspeção de segurança da caldeira**."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "Qual documento deve conter os procedimentos de partidas e paradas de uma caldeira?",
     "alternativa1": "Prontuário da Caldeira.",
     "alternativa2": "Registro de Segurança.",
@@ -17311,7 +17311,7 @@ const questoes = [
     "gabaritoComentado": "Toda caldeira deve possuir **manual de operação atualizado**, em língua portuguesa, contendo os procedimentos de partidas e paradas."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "Os vasos de pressão com temperatura de operação inferior a zero grau Celsius e que operem sem deterioração devem ser submetidos a exame interno:",
     "alternativa1": "Anualmente.",
     "alternativa2": "A cada dois anos.",
@@ -17322,7 +17322,7 @@ const questoes = [
     "gabaritoComentado": "Vasos de pressão com temperatura de operação inferior a zero grau Celsius devem ser submetidos a exame interno **quando exigido pelo código de construção ou a critério do PLH**."
   },
   {
-    "tema": "NR 13 - CALDEIRAS, VASOS DE PRESSÃO, TUBULAÇÕES E TANQUES METÁLICOS DE ARMAZENAMENTO",
+    "tema": "NR 13💨",
     "pergunta": "Qual a finalidade do registro do teste hidrostático de fabricação que consta no prontuário da caldeira?",
     "alternativa1": "Atestar a resistência da caldeira à pressão interna de projeto.",
     "alternativa2": "Verificar a eficiência energética do equipamento.",
