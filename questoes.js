@@ -1,7 +1,7 @@
 const questoes = [
   {
 "tema": "SIMULASQUE 1 😱",
-"pergunta": "Em relação à avaliação da exposição ocupacional e seus critérios de referência, assinale a opção correta.",
+"pergunta": "Em relação à avaliação da exposição ocupacional e seus critérios de referência, assinale a opção <b>correta<b>.",
 "alternativa1": "O Nível de Ação para o agente físico ruído é definido na NR-09 como correspondente a 50% do Limite de Tolerância estabelecido na NR-15.",
 "alternativa2": "A Avaliação Quantitativa utiliza medições com instrumentos para determinar a concentração ou intensidade dos agentes, enquanto a Avaliação Qualitativa baseia-se em percepções subjetivas sem metodologia definida.",
 "alternativa3": "As avaliações devem sempre abranger totalmente os trabalhadores expostos ao agente sob análise.",
