@@ -28,10 +28,16 @@ let temaOriginalAntesRefazer = 'todos';
 let modoRefazerErradas = false;
 const localStorageKeyBase = 'quizAFTProgresso_';
 const firebaseCollection = 'estatisticasUsuarios'; // Nome da coleção no Firestore
+const usuariosCollection = 'usuarios'; // Nome da coleção para dados dos usuários (nome, nº inscrição)
 
 // --- Elementos Globais do DOM (Definidos aqui para fácil acesso) ---
-let perguntaTexto, alternativasForm, responderBtn, proximaQuestaoBtn, pularBtn, resultadoDiv, mensagemResultado, gabaritoTexto, mensagemFim, filtroTema, questaoAtualSpan, totalQuestoesTemaSpan, temaAtualSpan, statusBateriaSpan, questoesResolvidasTemaSpan, acertosTemaSpan, incorretasTemaSpan, globRespondidasSpan, globAcertosSpan, globErrosSpan, aleatoriaQuestaoBtn, proximoTemaBtn, userEmailDisplaySpan, authMessageSpan, loginFormDiv, userInfoDiv, emailInput, passwordInput, loginBtn, registerBtn, logoutBtn, questoesErradasContainer, erradasContentDiv, numQuestoesErradasSpan, iniciarRefazerBtn, adminToggle, adminContent, adicionarQuestaoBtn, resetarProgressoBtn, carregarQuestoesBtn, arquivoQuestoesInput, mensagemCarregamentoDiv, formularioQuestaoDiv, tipoQuestaoSelect, temaInput, perguntaTextarea, alternativasMultiplaEscolhaDiv, alternativa1Input, alternativa2Input, alternativa3Input, alternativa4Input, alternativa5Input, alternativasCertoErradoDiv, respostaCorretaInput, gabaritoComentadoTextarea, salvarQuestaoBtn, cancelarQuestaoBtn, perguntaAutorDiv;
-// Removido: reportarErroLinkA - pois foi movido para o HTML e não precisa ser manipulado aqui para o link em si
+let perguntaTexto, alternativasForm, responderBtn, proximaQuestaoBtn, pularBtn, resultadoDiv, mensagemResultado, gabaritoTexto, mensagemFim, filtroTema, questaoAtualSpan, totalQuestoesTemaSpan, temaAtualSpan, statusBateriaSpan, questoesResolvidasTemaSpan, acertosTemaSpan, incorretasTemaSpan, globRespondidasSpan, globAcertosSpan, globErrosSpan, aleatoriaQuestaoBtn, proximoTemaBtn, userIdentifierDisplaySpan, authMessageSpan, loginFormDiv, userInfoDiv, inscricaoInput, passwordInput, nomeInput /* NOVO */, loginBtn, registerBtn, logoutBtn, questoesErradasContainer, erradasContentDiv, numQuestoesErradasSpan, iniciarRefazerBtn, adminToggle, adminContent, adicionarQuestaoBtn, resetarProgressoBtn, carregarQuestoesBtn, arquivoQuestoesInput, mensagemCarregamentoDiv, formularioQuestaoDiv, tipoQuestaoSelect, temaInput, perguntaTextarea, alternativasMultiplaEscolhaDiv, alternativa1Input, alternativa2Input, alternativa3Input, alternativa4Input, alternativa5Input, alternativasCertoErradoDiv, respostaCorretaInput, gabaritoComentadoTextarea, salvarQuestaoBtn, cancelarQuestaoBtn, perguntaAutorDiv;
+let welcomeMessageSpan, // Span para exibir a mensagem de boas-vindas
+    setNameModalDiv,    // Div do modal
+    nomeEscolhidoInput, // Input do nome no modal
+    formaTratamentoSelect, // Select da forma de tratamento no modal
+    saveNameBtn,        // Botão de salvar no modal
+    setNameMessageSpan; // Span de mensagem no modal
 
 function mapearElementosDOM() {
     perguntaTexto = document.getElementById('pergunta-texto');
@@ -56,12 +62,13 @@ function mapearElementosDOM() {
     globErrosSpan = document.getElementById('glob-erros');
     aleatoriaQuestaoBtn = document.getElementById('aleatoria-questao-btn');
     proximoTemaBtn = document.getElementById('proximo-tema-btn');
-    userEmailDisplaySpan = document.getElementById('user-email-display');
+    userIdentifierDisplaySpan = document.getElementById('user-identifier-display');
     authMessageSpan = document.getElementById('auth-message');
     loginFormDiv = document.getElementById('login-form');
     userInfoDiv = document.getElementById('user-info');
-    emailInput = document.getElementById('email');
+    inscricaoInput = document.getElementById('inscricao');
     passwordInput = document.getElementById('password');
+    nomeInput = document.getElementById('nome'); // NOVO
     loginBtn = document.getElementById('login-btn');
     registerBtn = document.getElementById('register-btn');
     logoutBtn = document.getElementById('logout-btn');
@@ -92,6 +99,13 @@ function mapearElementosDOM() {
     salvarQuestaoBtn = document.getElementById('salvar-questao-btn');
     cancelarQuestaoBtn = document.getElementById('cancelar-questao-btn');
     perguntaAutorDiv = document.getElementById('pergunta-autor');
+    // Mapeando elementos do modal que faltavam na lista global
+    welcomeMessageSpan = document.getElementById('welcome-message');
+    setNameModalDiv = document.getElementById('set-name-modal');
+    nomeEscolhidoInput = document.getElementById('nome-escolhido');
+    formaTratamentoSelect = document.getElementById('forma-tratamento');
+    saveNameBtn = document.getElementById('save-name-btn');
+    setNameMessageSpan = document.getElementById('set-name-message');
 }
 
 
@@ -111,45 +125,41 @@ async function salvarProgresso() {
     progressoGeral.questoesErradas = progressoGeral.questoesErradas || [];
     progressoGeral.ultimoIndicePorTema = progressoGeral.ultimoIndicePorTema || {};
     progressoGeral.estatisticasGerais = progressoGeral.estatisticasGerais || { respondidas: 0, acertos: 0, incorretas: 0, puladas: 0 };
-    progressoGeral.respostasUsuario = progressoGeral.respostasUsuario || {}; // Adicionado
-    progressoGeral.questoesAdicionadasUsuario = progressoGeral.questoesAdicionadasUsuario || []; // Mantido
+    progressoGeral.respostasUsuario = progressoGeral.respostasUsuario || {};
+    progressoGeral.questoesAdicionadasUsuario = progressoGeral.questoesAdicionadasUsuario || [];
 
-    // --- Salvar no Local Storage (MANTENHA como backup ou para anônimos) ---
+    // --- Salvar no Local Storage ---
     const dadosParaSalvarLocal = {
         ...progressoGeral,
-        questoesResolvidasIds: Array.from(progressoGeral.questoesResolvidasIds), // Salva como array
-        // Salva apenas IDs das erradas no Local Storage para consistência com o carregamento atual
-        questoesErradasIds: progressoGeral.questoesErradas.map(q => q.id).filter(id => id), // Garante que IDs existam
-        // Salva questões adicionadas no Local Storage também
+        questoesResolvidasIds: Array.from(progressoGeral.questoesResolvidasIds),
+        questoesErradasIds: progressoGeral.questoesErradas.map(q => q.id).filter(id => id),
         questoesAdicionadasUsuario: progressoGeral.questoesAdicionadasUsuario
     };
     localStorage.setItem(key, JSON.stringify(dadosParaSalvarLocal));
     // -----------------------------------------------------------------------
 
-    // --- Salvar no Firebase (Estado mais completo) ---
+    // --- Salvar no Firebase ---
     if (auth && auth.currentUser && db) {
         const userId = auth.currentUser.uid;
-        const dadosParaFirebase = {
-            // Dados que já eram salvos:
+        // Salva apenas as estatísticas do quiz na coleção 'estatisticasUsuarios'
+        const dadosEstatisticasParaFirebase = {
             temaSelecionado: progressoGeral.temaSelecionado,
             ultimoIndicePorTema: progressoGeral.ultimoIndicePorTema,
             estatisticasGerais: progressoGeral.estatisticasGerais,
-            // NOVOS dados para salvar no Firebase:
-            questoesResolvidasIds: Array.from(progressoGeral.questoesResolvidasIds), // Salva IDs resolvidos
-            questoesErradasIds: progressoGeral.questoesErradas.map(q => q.id).filter(id => id), // Salva IDs errados
-            respostasUsuario: progressoGeral.respostasUsuario, // Salva as respostas do usuário
-            // Salvar questões adicionadas pelo usuário no Firebase? (OPCIONAL, pode gerar documentos grandes)
-            // questoesAdicionadasUsuario: progressoGeral.questoesAdicionadasUsuario, // Descomente se desejar salvar isso online
-            lastUpdated: firebase.firestore.FieldValue.serverTimestamp() // Adiciona um timestamp
+            questoesResolvidasIds: Array.from(progressoGeral.questoesResolvidasIds),
+            questoesErradasIds: progressoGeral.questoesErradas.map(q => q.id).filter(id => id),
+            respostasUsuario: progressoGeral.respostasUsuario,
+            lastUpdated: firebase.firestore.FieldValue.serverTimestamp()
         };
         try {
-            // Use set com merge:true para atualizar ou criar o documento
-            await db.collection(firebaseCollection).doc(userId).set(dadosParaFirebase, { merge: true });
-            console.log("Progresso completo salvo no Firebase para:", userId); // Log de sucesso
+            // Atualiza ou cria o documento de estatísticas
+            await db.collection(firebaseCollection).doc(userId).set(dadosEstatisticasParaFirebase, { merge: true });
+            console.log("Progresso de estatísticas salvo no Firebase para:", userId);
         } catch (error) {
-            console.error("Erro ao salvar progresso COMPLETO no Firebase:", error);
+            console.error("Erro ao salvar estatísticas no Firebase:", error);
             if(authMessageSpan) authMessageSpan.textContent = "Erro ao salvar online. Progresso salvo localmente.";
         }
+        // Note que os dados do usuário (nome, nº inscrição) são salvos separadamente na coleção 'usuarios' durante o registro.
     }
     // -----------------------------------------------------------------------
 }
@@ -163,6 +173,7 @@ function resetarVariaveisDeEstadoQuiz(hardReset = false) {
         estatisticasGerais: { respondidas: 0, acertos: 0, incorretas: 0, puladas: 0 },
         temaSelecionado: 'todos',
         ultimoIndicePorTema: {},
+        // Mantém ou reseta questões adicionadas dependendo do hardReset
         questoesAdicionadasUsuario: hardReset ? [] : (progressoGeral.questoesAdicionadasUsuario || [])
     };
     indiceQuestaoAtual = 0;
@@ -176,16 +187,19 @@ function resetarVariaveisDeEstadoQuiz(hardReset = false) {
         localStorage.removeItem(key);
         if(authMessageSpan) authMessageSpan.textContent = 'Progresso local resetado.';
         if (auth && auth.currentUser && db) {
-            const userRef = db.collection(firebaseCollection).doc(auth.currentUser.uid);
-            userRef.delete()
+            // Reseta estatísticas
+            const statsRef = db.collection(firebaseCollection).doc(auth.currentUser.uid);
+            statsRef.delete()
                 .then(() => {
                     if(authMessageSpan) authMessageSpan.textContent = 'Progresso local e online resetado.';
-                    console.log("Progresso do Firebase resetado para:", auth.currentUser.uid);
+                    console.log("Estatísticas do Firebase resetadas para:", auth.currentUser.uid);
                  })
                 .catch(err => {
-                    console.error("Erro ao resetar progresso no Firebase:", err);
-                    if(authMessageSpan) authMessageSpan.textContent = 'Erro ao resetar progresso online.';
+                    console.error("Erro ao resetar estatísticas no Firebase:", err);
+                    if(authMessageSpan) authMessageSpan.textContent = 'Erro ao resetar estatísticas online.';
                  });
+            // Poderia resetar o documento do usuário na coleção 'usuarios' também, se desejado.
+            // Ex: db.collection(usuariosCollection).doc(auth.currentUser.uid).delete().catch(...)
         }
         // Recarrega as questões base e adicionadas (se houver)
          let baseQuestoes = typeof questoes !== 'undefined' ? [...questoes] : [];
@@ -217,64 +231,120 @@ function setupAuthListeners() {
         return;
     }
 
+    // --- LOGIN ---
     loginBtn.addEventListener('click', () => {
-        const email = emailInput.value;
-        const password = passwordInput.value;
-        if (!email || !password) {
-            if(authMessageSpan) authMessageSpan.textContent = 'Por favor, preencha email e senha.';
+        const inscricaoValue = inscricaoInput ? inscricaoInput.value.trim() : null;
+        const password = passwordInput ? passwordInput.value : null;
+
+        if (!inscricaoValue || !password) {
+            if(authMessageSpan) authMessageSpan.textContent = 'Por favor, preencha Nº Inscrição e Senha.';
             return;
         }
+        // Validação do formato do número de inscrição (COMO ANTES) ...
+        const inscricaoNumero = parseInt(inscricaoValue, 10);
+        if (isNaN(inscricaoNumero) || inscricaoNumero < 240000000 || inscricaoNumero > 2421999999 || (inscricaoValue.length !== 9 && inscricaoValue.length !== 10)) {
+             if(authMessageSpan) authMessageSpan.textContent = 'Nº de Inscrição inválido. Use o formato numérico entre 240000000 e 2421999999.';
+             return;
+        }
+
+        const emailFicticio = `${inscricaoValue}@inscricao.aft`;
         if(authMessageSpan) authMessageSpan.textContent = 'Entrando...';
-        auth.signInWithEmailAndPassword(email, password)
+
+        auth.signInWithEmailAndPassword(emailFicticio, password)
             .then((userCredential) => {
                 if(authMessageSpan) authMessageSpan.textContent = '';
-                console.log("Login bem-sucedido:", userCredential.user.email);
+                console.log("Login bem-sucedido para (email fictício):", userCredential.user.email);
+                // A atualização do display e verificação do nome/pronome será feita pelo onAuthStateChanged
             })
             .catch((error) => {
+                // Tratamento de erros (COMO ANTES) ...
                 console.error("Erro no login:", error);
-                if(authMessageSpan) authMessageSpan.textContent = `Erro no login: ${error.message}`;
+                let friendlyMessage = `Erro no login.`;
+                if (error.code === 'auth/user-not-found' || error.code === 'auth/wrong-password' || error.code === 'auth/invalid-credential') {
+                   friendlyMessage = "Número de Inscrição ou Senha inválidos.";
+                } else if (error.code === 'auth/invalid-email') {
+                    friendlyMessage = "Formato do Número de Inscrição inválido para login.";
+                } else {
+                    friendlyMessage += ` (${error.code})`;
+                }
+                if(authMessageSpan) authMessageSpan.textContent = friendlyMessage;
             });
     });
-
+    // --- REGISTRO ---
     registerBtn.addEventListener('click', () => {
-        const email = emailInput.value;
-        const password = passwordInput.value;
-         if (!email || !password) {
-            if(authMessageSpan) authMessageSpan.textContent = 'Por favor, preencha email e senha para registrar.';
+        const inscricaoValue = inscricaoInput ? inscricaoInput.value.trim() : null;
+        const password = passwordInput ? passwordInput.value : null;
+        // REMOVER: const nomeValue = nomeInput ? nomeInput.value.trim() : null; // NOME NÃO É MAIS PEGO AQUI
+
+        // Mudar validação para não exigir o campo nome aqui
+        if (!inscricaoValue || !password) {
+            if(authMessageSpan) authMessageSpan.textContent = 'Por favor, preencha Nº Inscrição e Senha para registrar.';
             return;
         }
-        if (password.length < 6) {
+        // Validação do formato da inscrição e senha (COMO ANTES) ...
+         const inscricaoNumero = parseInt(inscricaoValue, 10);
+        if (isNaN(inscricaoNumero) || inscricaoNumero < 240000000 || inscricaoNumero > 2421999999 || (inscricaoValue.length !== 9 && inscricaoValue.length !== 10)) {
+             if(authMessageSpan) authMessageSpan.textContent = 'Nº de Inscrição inválido para registro. Use o formato numérico entre 240000000 e 2421999999.';
+             return;
+        }
+         if (password.length < 6) {
              if(authMessageSpan) authMessageSpan.textContent = 'A senha deve ter no mínimo 6 caracteres.';
              return;
         }
+
+        const emailFicticio = `${inscricaoValue}@inscricao.aft`;
         if(authMessageSpan) authMessageSpan.textContent = 'Registrando...';
-        auth.createUserWithEmailAndPassword(email, password)
+
+        auth.createUserWithEmailAndPassword(emailFicticio, password)
             .then((userCredential) => {
-                if(authMessageSpan) authMessageSpan.textContent = 'Registro concluído! Logado automaticamente.';
-                console.log("Registro bem-sucedido:", userCredential.user.email);
+                console.log("Registro bem-sucedido para (email fictício):", userCredential.user.email);
+
+                // **Salva APENAS a inscrição no Firestore inicialmente**
                  if (db) {
-                    db.collection(firebaseCollection).doc(userCredential.user.uid).set({
-                        email: userCredential.user.email,
+                    db.collection(usuariosCollection)
+                      .doc(userCredential.user.uid)
+                      .set({
+                        emailFicticio: userCredential.user.email,
+                        numeroInscricao: inscricaoValue,
+                        // REMOVER: nomeEscolhido: nomeValue, // NOME SERÁ SALVO DEPOIS
+                        formaTratamento: '', // Inicializa forma de tratamento vazia
                         createdAt: firebase.firestore.FieldValue.serverTimestamp()
-                    }).catch(err => console.error("Erro ao criar doc inicial no Firestore:", err));
+                    }, { merge: true }) // Usa merge true para não sobrescrever se já existir algo
+                    .then(() => {
+                        console.log("Dados básicos do usuário (inscrição) salvos no Firestore para:", userCredential.user.uid);
+                        // **Após salvar dados básicos, CHAMA A FUNÇÃO PARA EXIBIR O MODAL**
+                        exibirModalDefinirNome(true); // Passa true para indicar que é pós-registro
+                    })
+                    .catch(err => console.error("Erro ao salvar dados básicos do usuário no Firestore:", err));
+                 } else {
+                     console.warn("Firestore (db) não está disponível para salvar dados básicos do usuário.");
+                     // Mesmo sem Firestore, exibir o modal localmente
+                     exibirModalDefinirNome(true);
                  }
+                 // A atualização do display será feita pelo onAuthStateChanged, mas o modal é exibido aqui
             })
             .catch((error) => {
-                console.error("Erro no registro:", error);
-                if(authMessageSpan) authMessageSpan.textContent = `Erro no registro: ${error.message}`;
+                // Tratamento de erros (COMO ANTES) ...
+                 console.error("Erro no registro:", error);
+                 let friendlyMessage = `Erro no registro: ${error.message}`;
+                 if (error.code === 'auth/email-already-in-use') {
+                     friendlyMessage = "Este Número de Inscrição já está registrado.";
+                 } else if (error.code === 'auth/invalid-email') {
+                     friendlyMessage = "Formato do Número de Inscrição inválido para registro.";
+                 }
+                if(authMessageSpan) authMessageSpan.textContent = friendlyMessage;
             });
     });
-
+    // --- LOGOUT --- (COMO ANTES) ...
     logoutBtn.addEventListener('click', () => {
-        // Salva o progresso ANTES de fazer logout
         salvarProgresso().then(() => {
              if(authMessageSpan) authMessageSpan.textContent = 'Saindo...';
              auth.signOut()
                 .then(() => {
                     if(authMessageSpan) authMessageSpan.textContent = 'Você saiu.';
                     console.log("Logout bem-sucedido.");
-                    // Após o logout, recarrega o progresso (que será o anônimo/local)
-                    carregarProgresso();
+                    if(setNameModalDiv) setNameModalDiv.style.display = 'none'; // Esconde modal no logout
+                    carregarProgresso(); // Recarrega em modo anônimo
                 })
                 .catch((error) => {
                     console.error("Erro no logout:", error);
@@ -282,45 +352,177 @@ function setupAuthListeners() {
                 });
         }).catch(err => {
             console.error("Erro ao salvar progresso antes do logout:", err);
-             // Tenta fazer logout mesmo se o salvamento falhar
              auth.signOut().catch(logoutErr => console.error("Erro no logout após falha no salvamento:", logoutErr));
         });
     });
-
-
-    auth.onAuthStateChanged((user) => {
+    // --- OBSERVADOR DE ESTADO DE AUTENTICAÇÃO ---
+    auth.onAuthStateChanged(async (user) => {
         const isAdminSectionOpen = adminContent && adminContent.style.display === 'block'; // Verifica se admin estava aberto
 
         if (user) {
-            console.log("Usuário logado:", user.email);
-            if(userEmailDisplaySpan) userEmailDisplaySpan.textContent = user.email;
+            console.log("Usuário logado (email fictício):", user.email);
             if(loginFormDiv) loginFormDiv.style.display = 'none';
             if(userInfoDiv) userInfoDiv.style.display = 'block';
-            // Mantém a seção admin aberta se estava antes, senão fecha
-             if(adminContent) adminContent.style.display = isAdminSectionOpen ? 'block' : 'none';
+
+            // **Verifica se precisa definir nome/tratamento**
+            await verificarNecessidadeModalNome(user.uid); // Função que busca dados no Firestore e decide se mostra modal ou welcome message
+
+            // Restaura estado da seção admin se necessário
+            if(adminContent) adminContent.style.display = isAdminSectionOpen ? 'block' : 'none';
              if(adminToggle) {
                 const iconSpan = adminToggle.querySelector('.toggle-icon');
                 if (iconSpan) iconSpan.textContent = isAdminSectionOpen ? '-' : '+';
              }
-            if(adicionarQuestaoBtn) adicionarQuestaoBtn.disabled = false;
-            carregarProgresso(); // Carrega o progresso do usuário logado
+             if(adicionarQuestaoBtn) adicionarQuestaoBtn.disabled = false; // Habilita botão de admin
+
+            carregarProgresso(); // Carrega o progresso (agora online)
+
         } else {
+            // Lógica para usuário deslogado (COMO ANTES, MAS GARANTE QUE MODAL SOME)
             console.log("Nenhum usuário logado.");
-            if(userEmailDisplaySpan) userEmailDisplaySpan.textContent = '';
+            if(welcomeMessageSpan) welcomeMessageSpan.innerHTML = ''; // Limpa welcome message
             if(loginFormDiv) loginFormDiv.style.display = 'block';
             if(userInfoDiv) userInfoDiv.style.display = 'none';
-            if(adminContent) adminContent.style.display = 'none'; // Fecha admin ao deslogar
-             if(adminToggle) { // Reseta ícone do admin
+            if(setNameModalDiv) setNameModalDiv.style.display = 'none'; // Esconde modal
+            if(adminContent) adminContent.style.display = 'none';
+             if(adminToggle) {
                 const iconSpan = adminToggle.querySelector('.toggle-icon');
                 if (iconSpan) iconSpan.textContent = '+';
              }
             if(adicionarQuestaoBtn) adicionarQuestaoBtn.disabled = true;
              if(authMessageSpan && authMessageSpan.textContent === 'Saindo...') authMessageSpan.textContent = 'Você saiu.';
-            carregarProgresso(); // Carrega o progresso anônimo/local
+            carregarProgresso(); // Carrega progresso local (anônimo)
         }
     });
+
+    // --- Listener para o botão Salvar no Modal ---
+    if (saveNameBtn) {
+        saveNameBtn.addEventListener('click', salvarNomeTratamento);
+    }
 }
 
+// --- Função para exibir a mensagem de boas-vindas ---
+function exibirMensagemBoasVindas(nome, formaTratamento) {
+    if (welcomeMessageSpan) {
+        let terminacao = '';
+        let artigo = ''; // Para tratar o caso de 'Prefiro não usar'
+
+        // Define a terminação baseada na forma de tratamento
+        switch (formaTratamento) {
+            case 'o': terminacao = 'o'; artigo = 'o'; break;
+            case 'a': terminacao = 'a'; artigo = 'a'; break;
+            case 'e': terminacao = 'e'; artigo = 'e'; break;
+            case 'x': terminacao = 'x'; artigo = 'x'; break;
+            case '@': terminacao = '@'; artigo = '@'; break;
+            case '': // Caso 'Prefiro não usar'
+            default:
+                terminacao = '';
+                artigo = '';
+                break;
+        }
+
+        // Constrói a mensagem
+        if (artigo) {
+             welcomeMessageSpan.innerHTML = `Seja bem-vind${artigo}, <b>${nome || 'Usuário'}</b>`;
+        } else {
+             welcomeMessageSpan.innerHTML = `Boas-vindas, <b>${nome || 'Usuário'}</b>`; // Mensagem alternativa
+        }
+
+    }
+    if (setNameModalDiv) setNameModalDiv.style.display = 'none'; // Esconde o modal após exibir a mensagem
+}
+
+
+// --- Função para exibir o modal de definir nome ---
+function exibirModalDefinirNome(isPosRegistro = false) {
+    if (setNameModalDiv) {
+        console.log("Exibindo modal para definir nome.");
+        setNameModalDiv.style.display = 'block';
+        if (isPosRegistro) {
+            if(setNameMessageSpan) setNameMessageSpan.textContent = 'Registro concluído! Defina seu nome e tratamento.';
+        } else {
+            if(setNameMessageSpan) setNameMessageSpan.textContent = ''; // Limpa mensagem se não for pós-registro
+        }
+    } else {
+        // Se o elemento do modal não foi encontrado (pode ser o erro original)
+        console.error("Modal #set-name-modal não encontrado no DOM.");
+        if(authMessageSpan) authMessageSpan.textContent = "Erro: Interface de usuário incompleta (modal).";
+    }
+}
+
+// --- Função para verificar se o usuário precisa definir nome/tratamento ---
+async function verificarNecessidadeModalNome(userId) {
+    if (!db) {
+        console.warn("Firestore não disponível, exibindo modal como fallback.");
+        exibirModalDefinirNome(false); // Exibe o modal se não conseguir verificar
+        return;
+    }
+    try {
+        const userDocRef = db.collection(usuariosCollection).doc(userId);
+        const userDoc = await userDocRef.get();
+
+        if (userDoc.exists) {
+            const userData = userDoc.data();
+            // Verifica se nomeEscolhido E formaTratamento (mesmo que vazia '') já existem
+            if (userData.hasOwnProperty('nomeEscolhido') && userData.hasOwnProperty('formaTratamento')) {
+                 // Se já definiu (mesmo que formaTratamento seja ''), exibe a mensagem
+                 console.log("Usuário já definiu nome e tratamento:", userData.nomeEscolhido, "|", userData.formaTratamento);
+                 exibirMensagemBoasVindas(userData.nomeEscolhido, userData.formaTratamento);
+            } else {
+                 // Se falta nome OU formaTratamento (ou ambos), exibe o modal
+                 console.log("Usuário precisa definir nome e/ou tratamento.");
+                 exibirModalDefinirNome(false);
+            }
+        } else {
+            // Documento do usuário não existe (pode acontecer em casos raros ou migrações)
+            console.warn("Documento do usuário não encontrado no Firestore. Exibindo modal.");
+            exibirModalDefinirNome(false);
+        }
+    } catch (error) {
+        console.error("Erro ao verificar dados do usuário no Firestore:", error);
+        // Fallback em caso de erro: exibe o modal
+        exibirModalDefinirNome(false);
+    }
+}
+
+
+// --- Função para salvar nome e tratamento do modal ---
+async function salvarNomeTratamento() {
+    if (!auth || !auth.currentUser || !db || !nomeEscolhidoInput || !formaTratamentoSelect) {
+        if(setNameMessageSpan) setNameMessageSpan.textContent = 'Erro: Não foi possível salvar. Tente novamente.';
+        console.error("Erro: Usuário não logado, Firestore indisponível ou elementos do modal não encontrados.");
+        return;
+    }
+
+    const userId = auth.currentUser.uid;
+    const nomeEscolhido = nomeEscolhidoInput.value.trim();
+    const formaTratamento = formaTratamentoSelect.value;
+
+    if (!nomeEscolhido) {
+        if(setNameMessageSpan) setNameMessageSpan.textContent = 'Por favor, insira um nome para exibição.';
+        return;
+    }
+
+    if(setNameMessageSpan) setNameMessageSpan.textContent = 'Salvando...';
+
+    try {
+        const userDocRef = db.collection(usuariosCollection).doc(userId);
+        await userDocRef.set({
+            nomeEscolhido: nomeEscolhido,
+            formaTratamento: formaTratamento
+        }, { merge: true }); // Usa merge: true para adicionar/atualizar apenas estes campos
+
+        console.log("Nome e tratamento salvos no Firestore para:", userId);
+        if(setNameMessageSpan) setNameMessageSpan.textContent = 'Salvo!';
+
+        // Exibe a mensagem de boas-vindas atualizada e esconde o modal
+        exibirMensagemBoasVindas(nomeEscolhido, formaTratamento);
+
+    } catch (error) {
+        console.error("Erro ao salvar nome/tratamento no Firestore:", error);
+        if(setNameMessageSpan) setNameMessageSpan.textContent = 'Erro ao salvar. Tente novamente.';
+    }
+}
 
 // --- Funções do Quiz e Lógica Principal ---
 
@@ -336,28 +538,23 @@ function carregarProgresso() {
         db.collection(firebaseCollection).doc(userId).get()
             .then((doc) => {
                 if (doc.exists) {
-                    console.log("Dados do Firebase encontrados para:", userId);
+                    console.log("Dados de estatísticas do Firebase encontrados para:", userId);
                     const dadosFirebase = doc.data();
-                    // Carrega TODO o progresso GERAL do Firebase
+                    // Carrega dados de ESTATÍSTICAS do Firebase
                     progressoGeral.temaSelecionado = dadosFirebase.temaSelecionado || 'todos';
                     progressoGeral.ultimoIndicePorTema = dadosFirebase.ultimoIndicePorTema || {};
                     progressoGeral.estatisticasGerais = dadosFirebase.estatisticasGerais || { respondidas: 0, acertos: 0, incorretas: 0, puladas: 0 };
                     progressoGeral.questoesResolvidasIds = new Set(dadosFirebase.questoesResolvidasIds || []);
                     progressoGeral.respostasUsuario = dadosFirebase.respostasUsuario || {};
 
-                    // Carrega questões adicionadas do Firebase (SE você decidiu salvar lá)
-                    // progressoGeral.questoesAdicionadasUsuario = dadosFirebase.questoesAdicionadasUsuario || [];
-
-                    // --- Carrega questões adicionadas do Local Storage (se não vieram do Firebase) ---
-                     if (!progressoGeral.questoesAdicionadasUsuario || progressoGeral.questoesAdicionadasUsuario.length === 0) {
-                          const progressoLocalSalvo = localStorage.getItem(key); // Usa a chave do usuário logado
-                          if (progressoLocalSalvo) {
-                              try {
-                                  const progressoLocal = JSON.parse(progressoLocalSalvo);
-                                  progressoGeral.questoesAdicionadasUsuario = progressoLocal?.questoesAdicionadasUsuario || [];
-                                  console.log("Questões adicionadas carregadas do Local Storage para usuário logado.");
-                              } catch(e) { console.error("Erro ao parsear LocalStorage para questões adicionadas (usuário logado):", e); }
-                          }
+                    // Carrega questões adicionadas do LOCAL STORAGE (não estão na coleção de estatísticas)
+                     const progressoLocalSalvo = localStorage.getItem(key);
+                     if (progressoLocalSalvo) {
+                         try {
+                             const progressoLocal = JSON.parse(progressoLocalSalvo);
+                             progressoGeral.questoesAdicionadasUsuario = progressoLocal?.questoesAdicionadasUsuario || [];
+                             console.log("Questões adicionadas carregadas do Local Storage para usuário logado.");
+                         } catch(e) { console.error("Erro ao parsear LocalStorage para questões adicionadas (usuário logado):", e); }
                      }
                     // -------------------------------------------------------------------------------
 
@@ -391,16 +588,12 @@ function carregarProgresso() {
 }
 
 function carregarDoLocalStorageInterno(key, isUserLoggedIn, dadosFirebasePrioritarios = null) {
-    // Se dadosFirebasePrioritarios NÃO for null, significa que o Firebase carregou com sucesso
-    // e a função principal `carregarProgresso` já cuidou disso. Não fazemos nada aqui.
     if (dadosFirebasePrioritarios) {
         console.log("Dados do Firebase já foram carregados, pulando carregamento do Local Storage.");
-        finalizarCarregamentoAplicandoDados(); // Apenas finaliza a aplicação dos dados
+        finalizarCarregamentoAplicandoDados();
         return;
     }
 
-    // Se chegou aqui, ou o usuário é anônimo, ou o carregamento do Firebase falhou.
-    // Tentamos carregar do Local Storage.
     const progressoLocalSalvo = localStorage.getItem(key);
     let progressoCarregadoLocal = null;
 
@@ -416,7 +609,6 @@ function carregarDoLocalStorageInterno(key, isUserLoggedIn, dadosFirebasePriorit
         console.log("Nenhum dado no Local Storage encontrado para a chave:", key);
     }
 
-    // Preenche o estado progressoGeral com dados locais, se existirem
     if (progressoCarregadoLocal) {
         progressoGeral.temaSelecionado = progressoCarregadoLocal.temaSelecionado || 'todos';
         progressoGeral.ultimoIndicePorTema = progressoCarregadoLocal.ultimoIndicePorTema || {};
@@ -425,21 +617,18 @@ function carregarDoLocalStorageInterno(key, isUserLoggedIn, dadosFirebasePriorit
         progressoGeral.respostasUsuario = progressoCarregadoLocal.respostasUsuario || {};
         progressoGeral.questoesAdicionadasUsuario = progressoCarregadoLocal.questoesAdicionadasUsuario || [];
 
-        // Reconstrói questões erradas a partir dos IDs do Local Storage
         const idsErradasLocal = progressoCarregadoLocal.questoesErradasIds || [];
         let baseQuestoes = typeof questoes !== 'undefined' ? [...questoes] : [];
         todasQuestoes = [...baseQuestoes, ...(progressoGeral.questoesAdicionadasUsuario || [])]; // Recalcula todasQuestoes AQUI
         progressoGeral.questoesErradas = todasQuestoes.filter(q => q && q.id && idsErradasLocal.includes(q.id));
 
-         if (isUserLoggedIn) { // Se era pra carregar do Firebase mas falhou e achou local
+         if (isUserLoggedIn) {
              if(authMessageSpan) authMessageSpan.textContent = 'Progresso local carregado (online falhou).';
-         } else { // Se é anônimo e achou local
+         } else {
              if(authMessageSpan) authMessageSpan.textContent = 'Progresso local (anônimo) carregado.';
          }
 
     } else {
-        // Se não achou nem no Firebase (ou falhou) E não achou no Local Storage
-        // O estado já foi resetado no início de carregarProgresso
         if (isUserLoggedIn) {
             if(authMessageSpan) authMessageSpan.textContent = 'Nenhum progresso encontrado (online ou local). Iniciando.';
         } else {
@@ -447,31 +636,24 @@ function carregarDoLocalStorageInterno(key, isUserLoggedIn, dadosFirebasePriorit
         }
     }
 
-    // Finaliza aplicando os dados carregados (do Local Storage ou estado zerado)
     finalizarCarregamentoAplicandoDados();
 }
 
 
 
 function finalizarCarregamentoAplicandoDados() {
-    // Garante que todasQuestoes inclua as adicionadas (sejam do Firebase ou Local Storage)
     let baseQuestoes = typeof questoes !== 'undefined' ? [...questoes] : [];
     todasQuestoes = [...baseQuestoes, ...(progressoGeral.questoesAdicionadasUsuario || [])];
     atualizarFiltroTemas();
 
-    // Aplica o tema selecionado e índice salvo (seja do Firebase ou Local Storage)
     temaSelecionado = progressoGeral.temaSelecionado || 'todos';
-    // Garante que o índice não seja maior que o número de questões filtradas após carregar
     const ultimoIndiceSalvo = progressoGeral.ultimoIndicePorTema?.[temaSelecionado] || 0;
 
     if (filtroTema) filtroTema.value = temaSelecionado;
 
-    // Filtra as questões COM BASE no tema carregado
-    filtrarEExibir(ultimoIndiceSalvo); // Passa o índice salvo para filtrarEExibir
+    filtrarEExibir(ultimoIndiceSalvo);
 
-    // Atualiza contadores GLOBAIS com base no estado carregado
     atualizarContadoresGlobais();
-    // Atualiza a exibição da seção de questões erradas
     exibirOpcaoRefazerErradas();
 
     console.log("Estado final após carregamento:", progressoGeral);
@@ -498,23 +680,20 @@ function limparAlternativas() {
         const label = input.closest('.alternativa-label');
         if (label) {
             label.classList.remove('correta', 'incorreta-usuario');
-            label.style.display = ''; // Garante que labels ocultas reapareçam
+            label.style.display = '';
         }
-         const span = label ? label.querySelector('span:not(.letra-alternativa)') : null; // Seleciona o span do TEXTO
-         if (span) span.innerHTML = ''; // Limpa o texto anterior (Importante se questão anterior era CE)
+         const span = label ? label.querySelector('span:not(.letra-alternativa)') : null;
+         if (span) span.innerHTML = '';
     });
     alternativasForm.classList.remove('alternativas-desabilitadas');
-    alternativasForm.style.display = 'block'; // Garante que o form esteja visível
+    alternativasForm.style.display = 'block';
 
-    // Adicione esta linha para limpar o estilo do gabarito
     if (gabaritoTexto) {
         gabaritoTexto.classList.remove('gabarito-resposta-incorreta');
-        // Se você criou uma classe para resposta correta, remova-a também:
-        // gabaritoTexto.classList.remove('gabarito-resposta-correta');
     }
 
     if (resultadoDiv) resultadoDiv.style.display = 'none';
-    if (responderBtn) responderBtn.disabled = true; // Desabilita ao limpar
+    if (responderBtn) responderBtn.disabled = true;
     if (proximaQuestaoBtn) proximaQuestaoBtn.style.display = 'none';
     if (mensagemFim) mensagemFim.style.display = 'none';
 }
@@ -539,24 +718,23 @@ function exibirQuestao() {
              mensagemFim.style.display = 'block';
         }
         if(alternativasForm) alternativasForm.style.display = 'none';
-         if(perguntaAutorDiv) perguntaAutorDiv.innerHTML = ''; // Limpa autor
+         if(perguntaAutorDiv) perguntaAutorDiv.innerHTML = '';
         questaoAtualObj = null;
         atualizarContador();
         return;
     }
 
-    // Valida o índice para evitar erros após carregar o progresso
     if (indiceQuestaoAtual < 0 || indiceQuestaoAtual >= questoesFiltradas.length) {
-         indiceQuestaoAtual = 0; // Reseta para a primeira se o índice salvo for inválido
+         indiceQuestaoAtual = 0;
          console.warn("Índice da questão inválido após filtragem, resetando para 0.");
          if (!modoRefazerErradas && progressoGeral.ultimoIndicePorTema) {
-             progressoGeral.ultimoIndicePorTema[temaSelecionado] = indiceQuestaoAtual; // Salva o índice corrigido
+             progressoGeral.ultimoIndicePorTema[temaSelecionado] = indiceQuestaoAtual;
              salvarProgresso();
          }
     }
 
 
-    if (indiceQuestaoAtual >= questoesFiltradas.length) { // Checa novamente após a correção potencial acima
+    if (indiceQuestaoAtual >= questoesFiltradas.length) {
          if (!modoRefazerErradas) {
             if (mensagemFim) {
                  mensagemFim.textContent = "Você concluiu todas as questões deste tema!";
@@ -567,15 +745,14 @@ function exibirQuestao() {
             if (proximoTemaBtn) proximoTemaBtn.style.display = 'block';
             if (proximaQuestaoBtn) proximaQuestaoBtn.style.display = 'none';
             if (alternativasForm) alternativasForm.style.display = 'none';
-             if(perguntaAutorDiv) perguntaAutorDiv.innerHTML = ''; // Limpa autor
+             if(perguntaAutorDiv) perguntaAutorDiv.innerHTML = '';
             questaoAtualObj = null;
          } else {
-            // Concluiu bateria de erradas
             if (mensagemFim) {
                  mensagemFim.textContent = "Você concluiu a bateria de questões erradas!";
                  mensagemFim.style.display = 'block';
             }
-             progressoGeral.questoesErradas = []; // Limpa as erradas após refazer
+             progressoGeral.questoesErradas = [];
              modoRefazerErradas = false;
              temaSelecionado = temaOriginalAntesRefazer;
              if(filtroTema) {
@@ -584,11 +761,11 @@ function exibirQuestao() {
              }
              if(document.getElementById('filtros-navegacao')) document.getElementById('filtros-navegacao').style.display = 'flex';
              if(statusBateriaSpan) statusBateriaSpan.textContent = "";
-             filtrarEExibir(); // Volta para o tema original
-             return; // Evita salvar progresso aqui, pois filtrarEExibir já salva
+             filtrarEExibir();
+             return;
          }
          atualizarContador();
-         exibirOpcaoRefazerErradas(); // Atualiza a exibição (deve mostrar 0 erradas)
+         exibirOpcaoRefazerErradas();
          salvarProgresso();
          return;
     }
@@ -596,39 +773,32 @@ function exibirQuestao() {
 
     questaoAtualObj = questoesFiltradas[indiceQuestaoAtual];
 
-     // Garante que a questão tenha um ID
      if (!questaoAtualObj.id) {
         const timestamp = Date.now();
         const randomPart = Math.random().toString(36).substring(2, 8);
         questaoAtualObj.id = `q_auto_${indiceQuestaoAtual}_${timestamp}_${randomPart}`;
-        // Tenta atualizar o ID na lista principal também, se encontrada
         const indexEmTodas = todasQuestoes.findIndex(q => q && q.pergunta === questaoAtualObj.pergunta && q.tema === questaoAtualObj.tema && !q.id);
         if (indexEmTodas > -1 && todasQuestoes[indexEmTodas]) {
              todasQuestoes[indexEmTodas].id = questaoAtualObj.id;
         } else {
-            // Se não encontrou na lista principal (pode ser uma questão adicionada),
-            // tenta encontrar e atualizar na lista de adicionadas no progressoGeral
             const indexAdicionadas = progressoGeral.questoesAdicionadasUsuario.findIndex(q => q && q.pergunta === questaoAtualObj.pergunta && q.tema === questaoAtualObj.tema && !q.id);
              if (indexAdicionadas > -1 && progressoGeral.questoesAdicionadasUsuario[indexAdicionadas]) {
                  progressoGeral.questoesAdicionadasUsuario[indexAdicionadas].id = questaoAtualObj.id;
              }
         }
         console.warn(`Questão sem ID detectada e ID gerado: ${questaoAtualObj.id}`);
-        salvarProgresso(); // Salva o progresso com o novo ID atribuído
+        salvarProgresso();
      }
 
     if (perguntaTexto) {
-        // O índice da questão atual no array (começa em 0), somamos 1 para ter a numeração correta
         const numeroDaQuestaoNoTema = indiceQuestaoAtual + 1;
-        // Define o conteúdo HTML do elemento da pergunta, prefixando com o número
         perguntaTexto.innerHTML = `<b>${numeroDaQuestaoNoTema}.</b> ${questaoAtualObj.pergunta}`;
     }
     if (perguntaAutorDiv) {
         perguntaAutorDiv.innerHTML = questaoAtualObj.autor ? `<span style="font-size:0.8em; color: #6c757d; display:block; margin-bottom: 8px;">Questão elaborada por: ${questaoAtualObj.autor}</span>` : '';
     }
-    // O link de reportar erro está agora no admin, não precisa ser manipulado aqui
 
-    const tipoQuestao = questaoAtualObj.tipo || (questaoAtualObj.alternativa3 || questaoAtualObj.alternativa4 || questaoAtualObj.alternativa5 ? 'ME' : 'CE'); // Determina tipo
+    const tipoQuestao = questaoAtualObj.tipo || (questaoAtualObj.alternativa3 || questaoAtualObj.alternativa4 || questaoAtualObj.alternativa5 ? 'ME' : 'CE');
 
     const labelA = document.getElementById('label-a');
     const labelB = document.getElementById('label-b');
@@ -658,7 +828,7 @@ function exibirQuestao() {
         if(labelC) labelC.style.display = 'none';
         if(labelD) labelD.style.display = 'none';
         if(labelE) labelE.style.display = 'none';
-    } else { // Múltipla Escolha (ME)
+    } else {
         if(labelA) labelA.style.display = questaoAtualObj.alternativa1 ? 'block' : 'none';
         if (letraA) letraA.textContent = 'A';
         if(altASpan) altASpan.textContent = questaoAtualObj.alternativa1 || '';
@@ -685,7 +855,7 @@ function exibirQuestao() {
     if (temaAtualSpan) temaAtualSpan.textContent = modoRefazerErradas ? "Questões Erradas" : (temaSelecionado === 'todos' ? 'Todas as Matérias' : questaoAtualObj.tema || temaSelecionado);
 
     if (responderBtn) responderBtn.style.display = 'block';
-    if (responderBtn) responderBtn.disabled = true; // Desabilita até uma opção ser selecionada
+    if (responderBtn) responderBtn.disabled = true;
     if (pularBtn) pularBtn.style.display = 'block';
     if (aleatoriaQuestaoBtn) aleatoriaQuestaoBtn.style.display = 'block';
     if (proximoTemaBtn) proximoTemaBtn.style.display = modoRefazerErradas ? 'none' : 'block';
@@ -695,16 +865,16 @@ function exibirQuestao() {
     if (alternativasForm) {
         const inputsRadio = alternativasForm.querySelectorAll('input[type="radio"]');
         inputsRadio.forEach(input => {
-            input.removeEventListener('change', habilitarResponder); // Remove listener antigo para evitar duplicação
-            input.addEventListener('change', habilitarResponder); // Adiciona novo listener
+            input.removeEventListener('change', habilitarResponder);
+            input.addEventListener('change', habilitarResponder);
         });
     }
 
-    atualizarContador(); // Atualiza contadores do tema
+    atualizarContador();
     if (!modoRefazerErradas && progressoGeral.ultimoIndicePorTema) {
-        progressoGeral.ultimoIndicePorTema[temaSelecionado] = indiceQuestaoAtual; // Salva o índice atual para este tema
+        progressoGeral.ultimoIndicePorTema[temaSelecionado] = indiceQuestaoAtual;
     }
-    salvarProgresso(); // Salva o estado atual (incluindo o último índice visitado)
+    salvarProgresso();
 }
 
 
@@ -717,35 +887,29 @@ function verificarResposta(event) {
     if (!questaoAtualObj || !alternativasForm) return;
 
     const alternativaSelecionadaInput = alternativasForm.querySelector('input[name="alternativa"]:checked');
-    if (!alternativaSelecionadaInput) return; // Não faz nada se nada foi selecionado
+    if (!alternativaSelecionadaInput) return;
 
     const respostaUsuario = alternativaSelecionadaInput.value.toUpperCase();
-    // Garante que a resposta correta exista e esteja em maiúsculas
     const respostaCorreta = questaoAtualObj.respostaCorreta ? questaoAtualObj.respostaCorreta.toUpperCase() : null;
     const questaoId = questaoAtualObj.id;
 
     if (!respostaCorreta || !questaoId) {
         console.error("Erro: Questão atual sem resposta correta ou ID definido.", questaoAtualObj);
-        // Poderia exibir uma mensagem para o usuário aqui
         return;
     }
 
     const jaResolvida = progressoGeral.questoesResolvidasIds.has(questaoId);
     let acertou = respostaUsuario === respostaCorreta;
 
-    // Atualiza estatísticas gerais apenas se a questão ainda não foi resolvida
     if (!jaResolvida) {
         progressoGeral.estatisticasGerais.respondidas++;
         if (acertou) {
             progressoGeral.estatisticasGerais.acertos++;
         } else {
             progressoGeral.estatisticasGerais.incorretas++;
-            // Adiciona à lista de erradas APENAS se NÃO estiver no modo de refazer
-            // e se ainda não estiver na lista (evita duplicatas)
             if (!modoRefazerErradas && !progressoGeral.questoesErradas.some(q => q.id === questaoId)) {
-                 // Certifique-se que o objeto da questão tem um ID antes de adicionar
                  if (questaoAtualObj.id) {
-                    progressoGeral.questoesErradas.push({...questaoAtualObj}); // Adiciona uma cópia para evitar referências
+                    progressoGeral.questoesErradas.push({...questaoAtualObj});
                  } else {
                      console.error("Tentativa de adicionar questão errada sem ID:", questaoAtualObj);
                  }
@@ -753,54 +917,44 @@ function verificarResposta(event) {
         }
         progressoGeral.questoesResolvidasIds.add(questaoId);
     } else if (modoRefazerErradas && acertou) {
-        // Se está refazendo erradas e acertou, remove da lista de erradas
         progressoGeral.questoesErradas = progressoGeral.questoesErradas.filter(q => q.id !== questaoId);
     }
-    // Sempre atualiza a última resposta do usuário para a questão
     progressoGeral.respostasUsuario[questaoId] = respostaUsuario;
 
-    // Estiliza as alternativas
     alternativasForm.querySelectorAll('.alternativa-label').forEach(label => {
         const input = label.querySelector('input[type="radio"]');
-        if (input) { // Verifica se o input existe
-             // Adiciona classe 'correta' à alternativa correta
+        if (input) {
             if (input.value.toUpperCase() === respostaCorreta) {
                 label.classList.add('correta');
             }
-            // Adiciona classe 'incorreta-usuario' à alternativa selecionada se estiver errada
             if (input.checked && !acertou) {
                 label.classList.add('incorreta-usuario');
             }
         }
     });
-    // Desabilita o formulário de alternativas
     alternativasForm.classList.add('alternativas-desabilitadas');
 
-    // --- Atualização do Feedback ---
     if (mensagemResultado) {
         mensagemResultado.textContent = acertou ? "Correto!" : "Incorreto.";
-        mensagemResultado.className = acertou ? 'feedback-acerto' : 'feedback-erro'; // Aplica classe para cor do texto
+        mensagemResultado.className = acertou ? 'feedback-acerto' : 'feedback-erro';
     }
     if (gabaritoTexto) {
         gabaritoTexto.innerHTML = `<b>Gabarito: ${respostaCorreta}</b>. <br>${questaoAtualObj.gabaritoComentado || ''}`;
-        // **MODIFICAÇÃO AQUI:** Adiciona/Remove classe para cor de fundo baseada na correção
         if (acertou) {
-            gabaritoTexto.classList.remove('gabarito-resposta-incorreta'); // Garante que remove se acertou
+            gabaritoTexto.classList.remove('gabarito-resposta-incorreta');
         } else {
-            gabaritoTexto.classList.add('gabarito-resposta-incorreta'); // Adiciona classe se errou
+            gabaritoTexto.classList.add('gabarito-resposta-incorreta');
         }
     }
-    // --- Fim da Atualização do Feedback ---
 
     if (resultadoDiv) resultadoDiv.style.display = 'block';
-    if (responderBtn) responderBtn.style.display = 'none'; // Esconde botão Responder
-    if (pularBtn) pularBtn.style.display = 'none'; // Esconde botão Pular
-    if (proximaQuestaoBtn) proximaQuestaoBtn.style.display = 'block'; // Mostra botão Próxima
+    if (responderBtn) responderBtn.style.display = 'none';
+    if (pularBtn) pularBtn.style.display = 'none';
+    if (proximaQuestaoBtn) proximaQuestaoBtn.style.display = 'block';
 
-    // Atualiza contadores e salva progresso
     atualizarContador();
     atualizarContadoresGlobais();
-    exibirOpcaoRefazerErradas(); // Atualiza a contagem de erradas visualmente
+    exibirOpcaoRefazerErradas();
     salvarProgresso();
 }
 
@@ -812,32 +966,28 @@ function proximaQuestao() {
 }
 
 function pularQuestao() {
-    if (!questaoAtualObj || !questaoAtualObj.id) return; // Precisa do ID da questão atual
+    if (!questaoAtualObj || !questaoAtualObj.id) return;
     const questaoId = questaoAtualObj.id;
 
-    // Marca como resolvida (pulada) apenas se ainda não foi resolvida
     if (!progressoGeral.questoesResolvidasIds.has(questaoId)) {
         progressoGeral.estatisticasGerais.respondidas++;
-        progressoGeral.estatisticasGerais.puladas = (progressoGeral.estatisticasGerais.puladas || 0) + 1; // Garante que puladas exista
+        progressoGeral.estatisticasGerais.puladas = (progressoGeral.estatisticasGerais.puladas || 0) + 1;
         progressoGeral.questoesResolvidasIds.add(questaoId);
-        // Não adiciona às erradas ao pular
-        salvarProgresso(); // Salva o progresso APÓS pular
+        salvarProgresso();
     } else {
         console.log(`Questão ${questaoId} já foi resolvida/pulada anteriormente.`);
     }
 
 
     indiceQuestaoAtual++;
-    exibirQuestao(); // Exibe a próxima questão
-    atualizarContadoresGlobais(); // Atualiza os contadores globais
-    exibirOpcaoRefazerErradas(); // Atualiza a exibição da seção de erradas
+    exibirQuestao();
+    atualizarContadoresGlobais();
+    exibirOpcaoRefazerErradas();
 }
 
 function exibirQuestaoAleatoria() {
-    // Usa a lista de questões JÁ FILTRADAS pelo tema atual
     if (questoesFiltradas && questoesFiltradas.length > 0) {
         let novoIndice;
-        // Garante que não repita a mesma questão se houver mais de uma
         if (questoesFiltradas.length === 1) {
             novoIndice = 0;
         } else {
@@ -848,7 +998,6 @@ function exibirQuestaoAleatoria() {
         indiceQuestaoAtual = novoIndice;
         exibirQuestao();
     } else {
-         // Se não há questões filtradas (talvez tema vazio ou todas resolvidas), busca em TODAS as questões
          if (todasQuestoes.length > 0) {
              let novoIndiceGeral;
              const idQuestaoAtual = questaoAtualObj ? questaoAtualObj.id : null;
@@ -858,7 +1007,6 @@ function exibirQuestaoAleatoria() {
              } else {
                  do {
                     novoIndiceGeral = Math.floor(Math.random() * todasQuestoes.length);
-                 // Evita repetir a questão atual, se houver uma
                  } while (idQuestaoAtual && todasQuestoes[novoIndiceGeral] && todasQuestoes[novoIndiceGeral].id === idQuestaoAtual);
              }
 
@@ -867,11 +1015,10 @@ function exibirQuestaoAleatoria() {
              if (questaoAleatoria && questaoAleatoria.tema) {
                  temaSelecionado = questaoAleatoria.tema;
                  if(filtroTema) filtroTema.value = temaSelecionado;
-                  // Filtra pelo novo tema e encontra o índice da questão aleatória dentro do novo filtro
-                 filtrarEExibir(); // Filtra pelo novo tema
+                 filtrarEExibir();
                  const indiceNaFiltrada = questoesFiltradas.findIndex(q => q.id === questaoAleatoria.id);
                  indiceQuestaoAtual = (indiceNaFiltrada !== -1) ? indiceNaFiltrada : 0;
-                 exibirQuestao(); // Exibe a questão encontrada
+                 exibirQuestao();
              } else {
                   if(perguntaTexto) perguntaTexto.textContent = "Erro ao selecionar questão aleatória (sem tema).";
              }
@@ -884,28 +1031,25 @@ function exibirQuestaoAleatoria() {
 
 function proximoTema() {
     if (!filtroTema) return;
-    const temas = Array.from(filtroTema.options).map(opt => opt.value).filter(val => val !== 'todos'); // Pega todos os temas, exceto 'todos'
-    if (temas.length === 0) return; // Não faz nada se só houver 'todos'
+    const temas = Array.from(filtroTema.options).map(opt => opt.value).filter(val => val !== 'todos');
+    if (temas.length === 0) return;
 
     const indiceTemaAtualNaLista = temas.indexOf(temaSelecionado);
 
     let proximoIndiceNaLista;
-    // Se está em 'todos', ou tema atual não está na lista (?), ou é o último tema, vai para o primeiro tema da lista
     if (temaSelecionado === 'todos' || indiceTemaAtualNaLista === -1 || indiceTemaAtualNaLista === temas.length - 1) {
         proximoIndiceNaLista = 0;
     } else {
-        // Senão, vai para o próximo tema da lista
         proximoIndiceNaLista = indiceTemaAtualNaLista + 1;
     }
 
     const proximoTemaValor = temas[proximoIndiceNaLista];
-    filtroTema.value = proximoTemaValor; // Seleciona o próximo tema no dropdown
-    filtroTema.dispatchEvent(new Event('change')); // Dispara o evento change para carregar o novo tema
+    filtroTema.value = proximoTemaValor;
+    filtroTema.dispatchEvent(new Event('change'));
 }
 
 function atualizarContador() {
     if (!progressoGeral.questoesResolvidasIds || !questoesFiltradas) {
-        // Zera os contadores do tema se não houver dados
         if(totalQuestoesTemaSpan) totalQuestoesTemaSpan.textContent = questoesFiltradas?.length || 0;
         if(questoesResolvidasTemaSpan) questoesResolvidasTemaSpan.textContent = 0;
         if(acertosTemaSpan) acertosTemaSpan.textContent = 0;
@@ -913,10 +1057,8 @@ function atualizarContador() {
         return;
     }
 
-    // Filtra as questões resolvidas que pertencem ao tema atual
     const resolvidasNesteTema = questoesFiltradas.filter(q => q && q.id && progressoGeral.questoesResolvidasIds.has(q.id));
 
-    // Conta acertos e erros DENTRO das resolvidas neste tema
     let acertosNesteTema = 0;
     let incorretasNesteTema = 0;
 
@@ -926,14 +1068,12 @@ function atualizarContador() {
             const respostaCorreta = q.respostaCorreta ? q.respostaCorreta.toUpperCase() : null;
              if (respostaCorreta && respostaUsuario === respostaCorreta) {
                 acertosNesteTema++;
-            } else if (respostaCorreta) { // Considera erro se a resposta não foi correta (exclui puladas implícitas)
+            } else if (respostaCorreta) {
                 incorretasNesteTema++;
             }
          }
-         // Não conta puladas explicitamente aqui, pois o foco são acertos/erros das respondidas
     });
 
-    // Atualiza os spans na interface
     if(totalQuestoesTemaSpan) totalQuestoesTemaSpan.textContent = questoesFiltradas.length;
     if(questoesResolvidasTemaSpan) questoesResolvidasTemaSpan.textContent = resolvidasNesteTema.length;
     if(acertosTemaSpan) acertosTemaSpan.textContent = acertosNesteTema;
@@ -942,28 +1082,23 @@ function atualizarContador() {
 
 
 
-function filtrarEExibir(indiceParaIniciar = 0) { // Aceita um índice inicial
+function filtrarEExibir(indiceParaIniciar = 0) {
     const filtroValor = modoRefazerErradas ? "__refazer_erradas__" : (filtroTema ? filtroTema.value : 'todos');
 
     if (filtroValor === "__refazer_erradas__") {
         questoesFiltradas = [...(progressoGeral.questoesErradas || [])];
-        // Sempre inicia do zero ao refazer erradas
         indiceQuestaoAtual = 0;
         if (statusBateriaSpan) statusBateriaSpan.textContent = "[Refazendo Erradas] ";
         if (document.getElementById('filtros-navegacao')) document.getElementById('filtros-navegacao').style.display = 'none';
     } else {
         temaSelecionado = filtroValor;
         if (temaSelecionado === 'todos') {
-            // Filtra para não incluir questões já resolvidas se essa opção for desejada no futuro
-            // Por enquanto, inclui todas:
             questoesFiltradas = [...todasQuestoes];
         } else {
             questoesFiltradas = todasQuestoes.filter(q => q.tema === temaSelecionado);
         }
 
-        // Usa o índice passado ou o último índice salvo para o tema, ou 0 se nenhum for válido
         indiceQuestaoAtual = indiceParaIniciar >= 0 ? indiceParaIniciar : (progressoGeral.ultimoIndicePorTema?.[temaSelecionado] || 0);
-        // Garante que o índice não seja maior que o número de questões filtradas
         if (indiceQuestaoAtual >= questoesFiltradas.length) {
              indiceQuestaoAtual = 0;
         }
@@ -972,14 +1107,11 @@ function filtrarEExibir(indiceParaIniciar = 0) { // Aceita um índice inicial
         if (statusBateriaSpan) statusBateriaSpan.textContent = "";
         if (document.getElementById('filtros-navegacao')) document.getElementById('filtros-navegacao').style.display = 'flex';
 
-        // Salva o tema selecionado no progresso
         progressoGeral.temaSelecionado = temaSelecionado;
-        // Não salva o índice aqui, pois exibirQuestao faz isso
     }
 
-    exibirQuestao(); // Exibe a questão no índice definido
-    exibirOpcaoRefazerErradas(); // Atualiza a seção de erradas
-    // Salvar progresso é chamado dentro de exibirQuestao e verificarResposta/pularQuestao
+    exibirQuestao();
+    exibirOpcaoRefazerErradas();
 }
 
 
@@ -992,23 +1124,14 @@ function exibirOpcaoRefazerErradas() {
     if (numErradas > 0) {
         numQuestoesErradasSpan.textContent = numErradas;
         iniciarRefazerBtn.disabled = false;
-        questoesErradasContainer.style.display = 'block'; // Mostra o container da seção
-        // Verifica se o conteúdo já está visível ou não (controlado pelo collapsible)
+        questoesErradasContainer.style.display = 'block';
          const isContentVisible = erradasContentDiv.style.display === 'block';
          if (!isContentVisible) {
-             // Pode optar por abrir automaticamente ou deixar o usuário clicar
-             // erradasContentDiv.style.display = 'block';
-             // if(document.getElementById('erradas-toggle')) {
-             //     const icon = document.getElementById('erradas-toggle').querySelector('.toggle-icon');
-             //     if(icon) icon.textContent = '-';
-             // }
+             // Opcional: abrir automaticamente
          }
     } else {
         numQuestoesErradasSpan.textContent = '0';
         iniciarRefazerBtn.disabled = true;
-        // Opcional: Esconder a seção inteira se não houver erradas
-        // questoesErradasContainer.style.display = 'none';
-        // Ou apenas garantir que o conteúdo esteja fechado
         erradasContentDiv.style.display = 'none';
          if(document.getElementById('erradas-toggle')) {
             const icon = document.getElementById('erradas-toggle').querySelector('.toggle-icon');
@@ -1024,22 +1147,20 @@ function iniciarBateriaRefazer() {
         return;
     }
     if (!modoRefazerErradas) {
-        temaOriginalAntesRefazer = temaSelecionado; // Salva o tema atual
+        temaOriginalAntesRefazer = temaSelecionado;
     }
     modoRefazerErradas = true;
-    if (filtroTema) filtroTema.disabled = true; // Desabilita seleção de tema
-    filtrarEExibir(); // Chama para filtrar e exibir as questões erradas
+    if (filtroTema) filtroTema.disabled = true;
+    filtrarEExibir();
 }
 
 function atualizarFiltroTemas() {
     if (!filtroTema) return;
 
     const valorSelecionadoAnteriormente = filtroTema.value;
-    // Guarda as opções existentes (exceto a primeira "Todos")
     const optionsToRemove = Array.from(filtroTema.options).slice(1);
     optionsToRemove.forEach(opt => filtroTema.remove(opt.index));
 
-    // Cria um Set para temas únicos, garantindo que não sejam nulos ou vazios, e ordena
     const temasUnicos = [...new Set(todasQuestoes.map(q => q?.tema).filter(Boolean))].sort((a, b) => a.localeCompare(b));
 
     temasUnicos.forEach(tema => {
@@ -1049,14 +1170,12 @@ function atualizarFiltroTemas() {
         filtroTema.appendChild(option);
     });
 
-    // Tenta restaurar a seleção anterior, se ainda existir na lista atualizada
     if (Array.from(filtroTema.options).some(opt => opt.value === valorSelecionadoAnteriormente)) {
         filtroTema.value = valorSelecionadoAnteriormente;
     } else {
-        // Se o tema anterior não existe mais (ex: foi de questão adicionada e resetou), volta para 'todos'
         filtroTema.value = 'todos';
-        temaSelecionado = 'todos'; // Atualiza a variável de estado
-         if (progressoGeral) progressoGeral.temaSelecionado = 'todos'; // Atualiza no progresso também
+        temaSelecionado = 'todos';
+         if (progressoGeral) progressoGeral.temaSelecionado = 'todos';
     }
 }
 
@@ -1083,19 +1202,15 @@ function ajustarFormAlternativas() {
         alternativasCertoErradoDiv.style.display = 'block';
         if(alternativa1Input) { alternativa1Input.value = 'Certo'; alternativa1Input.readOnly = true; }
         if(alternativa2Input) { alternativa2Input.value = 'Errado'; alternativa2Input.readOnly = true; }
-        // Limpa as outras alternativas que não são usadas em CE
         if(alternativa3Input) alternativa3Input.value = '';
         if(alternativa4Input) alternativa4Input.value = '';
         if(alternativa5Input) alternativa5Input.value = '';
-         // Define placeholder para resposta correta em CE
          if(respostaCorretaInput) respostaCorretaInput.placeholder = 'A (Certo) ou B (Errado)';
     } else { // ME
         alternativasMultiplaEscolhaDiv.style.display = 'block';
         alternativasCertoErradoDiv.style.display = 'none';
-        // Limpa e habilita edição para alternativas ME
         if(alternativa1Input) { alternativa1Input.value = ''; alternativa1Input.readOnly = false; }
         if(alternativa2Input) { alternativa2Input.value = ''; alternativa2Input.readOnly = false; }
-        // Placeholder padrão para resposta correta em ME
         if(respostaCorretaInput) respostaCorretaInput.placeholder = 'A, B, C, D ou E';
     }
 }
@@ -1124,15 +1239,11 @@ function salvarNovaQuestaoPeloUsuario() {
     }
 
     const alternativasValidasME = ['A', 'B', 'C', 'D', 'E'];
-    const alternativasValidasCE = ['A', 'B']; // A=Certo, B=Errado
+    const alternativasValidasCE = ['A', 'B'];
 
     if (tipoQuestao === 'ME') {
         if (!novaAlternativa1 || !novaAlternativa2 || !novaAlternativa3 || !novaAlternativa4 || !novaAlternativa5) {
-            // Permite adicionar questão ME mesmo sem todas alternativas preenchidas?
-            // A validação original exigia todas. Manteremos por enquanto.
             alert("Para Múltipla Escolha (A-E), preencha todas as alternativas.");
-            // Se quiser permitir menos alternativas, remova ou ajuste esta validação.
-             // Exemplo: if (!novaAlternativa1 || !novaAlternativa2) { alert("Preencha pelo menos A e B"); return; }
             return;
         }
         if (!alternativasValidasME.includes(novaRespostaCorreta)) {
@@ -1140,11 +1251,10 @@ function salvarNovaQuestaoPeloUsuario() {
             return;
         }
     } else { // CE
-        novaAlternativa1 = 'Certo'; // Define automaticamente
-        novaAlternativa2 = 'Errado'; // Define automaticamente
-        novaAlternativa3 = novaAlternativa4 = novaAlternativa5 = ''; // Limpa as não usadas
+        novaAlternativa1 = 'Certo';
+        novaAlternativa2 = 'Errado';
+        novaAlternativa3 = novaAlternativa4 = novaAlternativa5 = '';
 
-         // Permite que o usuário digite 'C' para Certo ou 'E' para Errado e converte para A/B
         if (novaRespostaCorreta === 'C') {
             novaRespostaCorreta = 'A';
         } else if (novaRespostaCorreta === 'E') {
@@ -1157,8 +1267,13 @@ function salvarNovaQuestaoPeloUsuario() {
         }
     }
 
+    // Tenta obter o identificador do usuário (nome ou número de inscrição)
+    let autorNome = 'Usuário Local';
+    if (auth && auth.currentUser && userIdentifierDisplaySpan) {
+        autorNome = userIdentifierDisplaySpan.textContent || (auth.currentUser.email || 'Usuário Logado');
+    }
+
     const novaQuestao = {
-        // Gera um ID único mais robusto
         id: `q_user_${auth && auth.currentUser ? auth.currentUser.uid.substring(0, 5) : 'anon'}_${Date.now()}_${Math.random().toString(16).slice(2, 8)}`,
         tema: novoTema,
         pergunta: novaPergunta,
@@ -1169,8 +1284,8 @@ function salvarNovaQuestaoPeloUsuario() {
         alternativa5: novaAlternativa5,
         respostaCorreta: novaRespostaCorreta,
         gabaritoComentado: novoGabaritoComentado,
-        autor: (auth && auth.currentUser) ? auth.currentUser.email : 'Usuário Local', // Pega email do usuário logado
-        tipo: tipoQuestao // Salva o tipo da questão
+        autor: autorNome, // Usa o nome/identificador buscado
+        tipo: tipoQuestao
     };
 
     todasQuestoes.push(novaQuestao);
@@ -1179,14 +1294,13 @@ function salvarNovaQuestaoPeloUsuario() {
     }
     progressoGeral.questoesAdicionadasUsuario.push(novaQuestao);
 
-    atualizarFiltroTemas(); // Atualiza o filtro para incluir o novo tema, se for novo
-    salvarProgresso(); // Salva o progresso com a questão adicionada
+    atualizarFiltroTemas();
+    salvarProgresso();
 
     alert("Questão adicionada com sucesso!");
     limparFormularioQuestao();
     if(formularioQuestaoDiv) formularioQuestaoDiv.style.display = 'none';
 
-     // Opcional: filtrar diretamente para o tema da questão adicionada
      if (filtroTema) {
          filtroTema.value = novoTema;
          filtroTema.dispatchEvent(new Event('change'));
@@ -1203,7 +1317,7 @@ function carregarQuestoesDeArquivoJSON(event) {
     }
      if (!arquivo.name.toLowerCase().endsWith('.json')) {
         if(mensagemCarregamentoDiv) mensagemCarregamentoDiv.textContent = 'Erro: O arquivo selecionado não é um JSON.';
-        if(arquivoQuestoesInput) arquivoQuestoesInput.value = ''; // Limpa seleção
+        if(arquivoQuestoesInput) arquivoQuestoesInput.value = '';
         return;
     }
 
@@ -1219,19 +1333,22 @@ function carregarQuestoesDeArquivoJSON(event) {
             let adicionadas = 0;
             let ignoradas = 0;
             let questoesInvalidas = [];
-            const autor = (auth && auth.currentUser) ? auth.currentUser.email : 'Importado Local';
+             // Tenta obter o identificador do usuário (nome ou número de inscrição)
+            let autorImport = 'Importado Local';
+            if (auth && auth.currentUser && userIdentifierDisplaySpan) {
+                autorImport = userIdentifierDisplaySpan.textContent || (auth.currentUser.email || 'Usuário Logado');
+            }
+
 
             novasQuestoes.forEach((nq, index) => {
-                // Validação básica da estrutura da questão
                  if (!nq || typeof nq !== 'object' || !nq.tema || !nq.pergunta || !nq.respostaCorreta) {
                     ignoradas++;
                     questoesInvalidas.push({index: index + 1, reason: "Estrutura básica inválida (falta tema, pergunta ou resposta)"});
-                    return; // Pula para a próxima questão
+                    return;
                  }
 
-                 // Determina o tipo e valida alternativas e resposta correta
                 const tipoInferido = (!nq.alternativa3 && !nq.alternativa4 && !nq.alternativa5 && nq.alternativa1 && nq.alternativa2) ? 'CE' : 'ME';
-                const tipoQuestao = nq.tipo || tipoInferido; // Usa o tipo do JSON ou infere
+                const tipoQuestao = nq.tipo || tipoInferido;
 
                 let questaoParaAdd = {
                     id: `q_import_${Date.now()}_${index}_${Math.random().toString(16).slice(2)}`,
@@ -1244,19 +1361,16 @@ function carregarQuestoesDeArquivoJSON(event) {
                     alternativa5: nq.alternativa5?.trim() || '',
                     respostaCorreta: nq.respostaCorreta.trim().toUpperCase(),
                     gabaritoComentado: nq.gabaritoComentado?.trim() || '',
-                    autor: nq.autor || autor,
+                    autor: nq.autor || autorImport, // Usa nome do usuário logado ou 'Importado Local'
                     tipo: tipoQuestao
                 };
 
-                // Validação e ajuste para tipo CE
                 if (tipoQuestao === 'CE') {
                     if (!questaoParaAdd.alternativa1 || !questaoParaAdd.alternativa2) {
                          ignoradas++;
                          questoesInvalidas.push({index: index + 1, reason: "Questão CE sem alternativa1 ou alternativa2"});
                          return;
                     }
-                     // Força alternativas A/B para Certo/Errado (ou usa as do JSON se fizer sentido)
-                     // Adotaremos A=Certo, B=Errado como padrão interno
                     questaoParaAdd.alternativa1 = 'Certo';
                     questaoParaAdd.alternativa2 = 'Errado';
                     questaoParaAdd.alternativa3 = '';
@@ -1272,9 +1386,7 @@ function carregarQuestoesDeArquivoJSON(event) {
                         return;
                     }
                 }
-                // Validação para tipo ME
                 else if (tipoQuestao === 'ME') {
-                     // Validação Mínima: Pelo menos A e B devem existir para ME
                      if (!questaoParaAdd.alternativa1 || !questaoParaAdd.alternativa2) {
                         ignoradas++;
                          questoesInvalidas.push({index: index + 1, reason: "Questão ME sem pelo menos alternativa A e B"});
@@ -1285,12 +1397,10 @@ function carregarQuestoesDeArquivoJSON(event) {
                          questoesInvalidas.push({index: index + 1, reason: `Resposta inválida (${nq.respostaCorreta}) para tipo ME`});
                         return;
                     }
-                    // Garante que alternativas vazias fiquem vazias
                     if (!nq.alternativa3) questaoParaAdd.alternativa3 = '';
                     if (!nq.alternativa4) questaoParaAdd.alternativa4 = '';
                     if (!nq.alternativa5) questaoParaAdd.alternativa5 = '';
                 }
-                // Se não for nem ME nem CE (tipo inválido ou inferência falhou)
                  else {
                      ignoradas++;
                       questoesInvalidas.push({index: index + 1, reason: `Tipo de questão inválido ou não reconhecido: ${tipoQuestao}`});
@@ -1298,7 +1408,6 @@ function carregarQuestoesDeArquivoJSON(event) {
                  }
 
 
-                // Se passou nas validações, adiciona
                 todasQuestoes.push(questaoParaAdd);
                 if (!progressoGeral.questoesAdicionadasUsuario) {
                     progressoGeral.questoesAdicionadasUsuario = [];
@@ -1310,7 +1419,7 @@ function carregarQuestoesDeArquivoJSON(event) {
 
             if (adicionadas > 0) {
                 atualizarFiltroTemas();
-                salvarProgresso(); // Salva as questões adicionadas
+                salvarProgresso();
                 if(mensagemCarregamentoDiv) {
                      mensagemCarregamentoDiv.textContent = `${adicionadas} questões carregadas com sucesso!`;
                       if (ignoradas > 0) {
@@ -1318,7 +1427,7 @@ function carregarQuestoesDeArquivoJSON(event) {
                          console.warn("Detalhes das questões ignoradas:", questoesInvalidas);
                       }
                 }
-                filtrarEExibir(); // Atualiza a exibição
+                filtrarEExibir();
             } else {
                 if(mensagemCarregamentoDiv) {
                     mensagemCarregamentoDiv.textContent = `Nenhuma questão válida encontrada no arquivo. ${ignoradas} ignoradas.`;
@@ -1330,17 +1439,17 @@ function carregarQuestoesDeArquivoJSON(event) {
             console.error("Erro ao processar o arquivo JSON:", err);
             if(mensagemCarregamentoDiv) mensagemCarregamentoDiv.textContent = `Erro ao ler ou processar o arquivo JSON: ${err.message}. Verifique o formato do arquivo.`;
         } finally {
-            if(arquivoQuestoesInput) arquivoQuestoesInput.value = ''; // Limpa o input de arquivo
+            if(arquivoQuestoesInput) arquivoQuestoesInput.value = '';
         }
     };
 
     leitor.onerror = function() {
         console.error("Erro ao ler arquivo:", leitor.error);
         if(mensagemCarregamentoDiv) mensagemCarregamentoDiv.textContent = `Erro ao ler o arquivo. Verifique as permissões ou o arquivo selecionado.`;
-        if(arquivoQuestoesInput) arquivoQuestoesInput.value = ''; // Limpa o input de arquivo
+        if(arquivoQuestoesInput) arquivoQuestoesInput.value = '';
     };
 
-    leitor.readAsText(arquivo); // Inicia a leitura do arquivo
+    leitor.readAsText(arquivo);
 }
 
 
@@ -1357,11 +1466,9 @@ function setupCollapsible(toggleId, contentId) {
     const iconSpan = toggleButton.querySelector('.toggle-icon');
     if (!iconSpan) {
          console.warn(`Ícone não encontrado dentro do toggle ${toggleId}.`);
-         // Continua sem o ícone se não achar
     }
 
 
-    // Define estado inicial baseado no estilo inline (se já estiver aberto)
     const isInitiallyOpen = contentDiv.style.display === 'block';
     if(iconSpan) iconSpan.textContent = isInitiallyOpen ? '-' : '+';
 
@@ -1370,11 +1477,8 @@ function setupCollapsible(toggleId, contentId) {
         contentDiv.style.display = isOpen ? 'none' : 'block';
         if(iconSpan) iconSpan.textContent = isOpen ? '+' : '-';
 
-        // Salva o estado de abertura/fechamento da seção admin no progressoGeral
         if (toggleId === 'admin-toggle' && progressoGeral) {
-            progressoGeral.adminOpen = !isOpen; // Salva o novo estado (aberto = true, fechado = false)
-            // Não precisa salvar o progresso aqui, pois o usuário pode abrir/fechar várias vezes
-            // O salvamento ocorrerá em outras ações (responder, pular, etc.)
+            progressoGeral.adminOpen = !isOpen;
         }
     });
 }
@@ -1383,18 +1487,16 @@ function setupCollapsible(toggleId, contentId) {
 // --- Função de Inicialização Geral ---
 function inicializarApp() {
     console.log("App AFTec Simulador - Inicializando...");
-    mapearElementosDOM(); // Garante que todos os elementos DOM estejam mapeados
+    mapearElementosDOM();
 
     if (typeof questoes === 'undefined' || !Array.isArray(questoes)) {
         console.error("Variável 'questoes' não definida ou não é um array. Verifique questoes.js");
         if (perguntaTexto) perguntaTexto.textContent = "Erro: Nenhuma questão base carregada. Verifique o arquivo 'questoes.js'.";
-        todasQuestoes = []; // Define como array vazio para evitar erros posteriores
-        // return; // Decide se quer parar a execução ou tentar continuar sem questões base
+        todasQuestoes = [];
     } else {
-         // Garante IDs únicos para as questões base iniciais
-         todasQuestoes = [...questoes]; // Começa com as questões base
+         todasQuestoes = [...questoes];
          todasQuestoes.forEach((q, index) => {
-            if (q && !q.id) { // Verifica se a questão existe e não tem ID
+            if (q && !q.id) {
                 const timestamp = Date.now();
                 const randomPart = Math.random().toString(36).substring(2, 8);
                 q.id = `q_base_${index}_${timestamp}_${randomPart}`;
@@ -1404,15 +1506,13 @@ function inicializarApp() {
 
 
     if (auth) {
-        setupAuthListeners(); // Configura listeners de autenticação SE o Firebase Auth estiver disponível
+        setupAuthListeners();
     } else {
         console.log("Firebase Auth não disponível, operando em modo local/anônimo.");
-        // Garante que a interface de login/usuário esteja no estado correto (deslogado)
         if(loginFormDiv) loginFormDiv.style.display = 'block';
         if(userInfoDiv) userInfoDiv.style.display = 'none';
         if(adminContent) adminContent.style.display = 'none';
-        if(adicionarQuestaoBtn) adicionarQuestaoBtn.disabled = true; // Desabilita adição de questões se não logado
-        // Carrega o progresso local/anônimo imediatamente se Auth não estiver disponível
+        if(adicionarQuestaoBtn) adicionarQuestaoBtn.disabled = true;
         carregarProgresso();
     }
 
@@ -1427,9 +1527,8 @@ function inicializarApp() {
         filtroTema.addEventListener('change', () => {
              if (!modoRefazerErradas) {
                  temaSelecionado = filtroTema.value;
-                 if (progressoGeral) progressoGeral.temaSelecionado = temaSelecionado; // Atualiza no estado
-                 filtrarEExibir(); // Filtra e exibe questões do novo tema
-                 // Salvar progresso é chamado dentro de exibirQuestao
+                 if (progressoGeral) progressoGeral.temaSelecionado = temaSelecionado;
+                 filtrarEExibir();
              }
         });
     }
@@ -1437,9 +1536,8 @@ function inicializarApp() {
     if (resetarProgressoBtn) {
         resetarProgressoBtn.addEventListener('click', () => {
             if (confirm('Tem certeza que deseja resetar TODO o progresso local e online (se logado)? Esta ação não pode ser desfeita.')) {
-                resetarVariaveisDeEstadoQuiz(true); // Hard reset
-                 // Após resetar, precisa recarregar as questões base e exibir a primeira
-                 filtrarEExibir(); // Exibe a primeira questão do tema 'todos'
+                resetarVariaveisDeEstadoQuiz(true);
+                 filtrarEExibir();
                  atualizarContadoresGlobais();
                  exibirOpcaoRefazerErradas();
             }
@@ -1448,11 +1546,9 @@ function inicializarApp() {
 
     if (iniciarRefazerBtn) iniciarRefazerBtn.addEventListener('click', iniciarBateriaRefazer);
 
-    // Configura seções retráteis
     if (adminToggle) setupCollapsible('admin-toggle', 'admin-content');
     if (document.getElementById('erradas-toggle')) setupCollapsible('erradas-toggle', 'erradas-content');
 
-    // Botões do formulário de adicionar questão
     if (adicionarQuestaoBtn) {
         adicionarQuestaoBtn.addEventListener('click', () => {
             limparFormularioQuestao();
@@ -1468,28 +1564,23 @@ function inicializarApp() {
     }
 
     if (salvarQuestaoBtn) salvarQuestaoBtn.addEventListener('click', salvarNovaQuestaoPeloUsuario);
-    if (tipoQuestaoSelect) tipoQuestaoSelect.addEventListener('change', ajustarFormAlternativas); // Listener para ajustar form CE/ME
+    if (tipoQuestaoSelect) tipoQuestaoSelect.addEventListener('change', ajustarFormAlternativas);
 
-     // Botão para carregar questões de arquivo JSON
      if (carregarQuestoesBtn && arquivoQuestoesInput) {
-        carregarQuestoesBtn.addEventListener('click', () => arquivoQuestoesInput.click()); // Abre o seletor de arquivo
-        arquivoQuestoesInput.addEventListener('change', carregarQuestoesDeArquivoJSON); // Processa o arquivo selecionado
+        carregarQuestoesBtn.addEventListener('click', () => arquivoQuestoesInput.click());
+        arquivoQuestoesInput.addEventListener('change', carregarQuestoesDeArquivoJSON);
      }
 
-    // Listener para o link de reportar erro (exemplo simples)
     const linkReportar = document.getElementById('link-reportar');
     if (linkReportar) {
         linkReportar.addEventListener('click', (event) => {
-            event.preventDefault(); // Previne a navegação padrão do link
+            event.preventDefault();
             if (questaoAtualObj && questaoAtualObj.id) {
-                // Aqui você pode implementar a lógica para reportar o erro.
-                // Exemplo: Abrir um formulário, enviar dados para um servidor, etc.
                 const tema = questaoAtualObj.tema || 'N/A';
                 const id = questaoAtualObj.id;
-                const pergunta = questaoAtualObj.pergunta.substring(0, 50) + "..."; // Pega início da pergunta
+                const pergunta = questaoAtualObj.pergunta.substring(0, 50) + "...";
                 const confirmReport = confirm(`Reportar erro na questão atual?\n\nTema: ${tema}\nID: ${id}\nInício: ${pergunta}`);
                 if (confirmReport) {
-                    // Lógica de reporte (ex: enviar para um formulário Google, API, etc.)
                     alert("Funcionalidade de reporte ainda não implementada. Por favor, anote o ID da questão e reporte manualmente.");
                     console.log("Reportar erro para questão ID:", id);
                 }
@@ -1503,4 +1594,5 @@ function inicializarApp() {
 }
 
 // --- Ponto de Entrada Principal ---
+// Garante que o DOM esteja carregado antes de executar o script principal
 document.addEventListener('DOMContentLoaded', inicializarApp);
