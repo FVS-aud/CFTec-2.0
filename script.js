@@ -1158,28 +1158,100 @@ function atualizarFiltroTemas() {
     if (!filtroTema) return;
 
     const valorSelecionadoAnteriormente = filtroTema.value;
-    const optionsToRemove = Array.from(filtroTema.options).slice(1);
-    optionsToRemove.forEach(opt => filtroTema.remove(opt.index));
 
-    const temasUnicos = [...new Set(todasQuestoes.map(q => q?.tema).filter(Boolean))].sort((a, b) => a.localeCompare(b));
+    // Limpa completamente o select, incluindo a opção "Todas as Matérias"
+    filtroTema.innerHTML = '';
+
+    // Recria a opção padrão "Todas as Matérias"
+    const todasMateriasOpt = document.createElement('option');
+    todasMateriasOpt.value = 'todos';
+    todasMateriasOpt.textContent = 'Todas as Matérias';
+    filtroTema.appendChild(todasMateriasOpt);
+
+    // --- MODIFICAÇÃO: Separa os temas em Simulados (#), NRs e Tópicos ---
+    const temasSimulados = [];
+    const temasNRs = [];
+    const temasTopicos = []; // Renomeado de temasOutros para temasTopicos
+    const temasUnicos = [...new Set(todasQuestoes.map(q => q?.tema).filter(Boolean))];
 
     temasUnicos.forEach(tema => {
-        const option = document.createElement('option');
-        option.value = tema;
-        option.textContent = tema;
-        filtroTema.appendChild(option);
+        if (tema.startsWith("#")) { // Identifica Simulados pelo '#'
+            temasSimulados.push(tema);
+        } else if (tema.startsWith("NR")) { // Identifica NRs
+            temasNRs.push(tema);
+        } else { // O restante são Tópicos Específicos
+            temasTopicos.push(tema);
+        }
     });
 
-    if (Array.from(filtroTema.options).some(opt => opt.value === valorSelecionadoAnteriormente)) {
+    // --- Ordenação (Opcional, mas recomendado) ---
+    temasSimulados.sort((a, b) => a.localeCompare(b)); // Ordena Simulados alfabeticamente
+    temasNRs.sort((a, b) => { // Ordena NRs numericamente
+        const numA = parseInt(a.match(/\d+/)?.[0] || 0);
+        const numB = parseInt(b.match(/\d+/)?.[0] || 0);
+        return numA - numB;
+    });
+    temasTopicos.sort((a, b) => a.localeCompare(b)); // Ordena Tópicos alfabeticamente
+
+    // --- Cria e adiciona os optgroups NA ORDEM DESEJADA ---
+
+    // 1. Grupo Simulados
+    if (temasSimulados.length > 0) {
+        const optgroupSimulados = document.createElement('optgroup');
+        optgroupSimulados.label = '--- Simulados ---'; // Título do grupo
+        temasSimulados.forEach(tema => {
+            const option = document.createElement('option');
+            option.value = tema;
+            option.textContent = tema;
+            optgroupSimulados.appendChild(option);
+        });
+        filtroTema.appendChild(optgroupSimulados);
+    }
+
+    // 2. Grupo Normas Regulamentadoras
+    if (temasNRs.length > 0) {
+        const optgroupNRs = document.createElement('optgroup');
+        optgroupNRs.label = '--- Normas Regulamentadoras ---'; // Título do grupo
+        temasNRs.forEach(tema => {
+            const option = document.createElement('option');
+            option.value = tema;
+            option.textContent = tema;
+            optgroupNRs.appendChild(option);
+        });
+        filtroTema.appendChild(optgroupNRs);
+    }
+
+    // 3. Grupo Tópicos Específicos
+    if (temasTopicos.length > 0) {
+        const optgroupTopicos = document.createElement('optgroup');
+        optgroupTopicos.label = '--- Tópicos Específicos ---'; // Título do grupo
+        temasTopicos.forEach(tema => {
+            const option = document.createElement('option');
+            option.value = tema;
+            option.textContent = tema;
+            optgroupTopicos.appendChild(option);
+        });
+        filtroTema.appendChild(optgroupTopicos);
+    }
+    // --- FIM DA CRIAÇÃO DOS GRUPOS ---
+
+    // Restaura a seleção anterior, se ainda existir
+    let valorEncontrado = false;
+    for (let i = 0; i < filtroTema.options.length; i++) {
+        if (filtroTema.options[i].value === valorSelecionadoAnteriormente) {
+            valorEncontrado = true;
+            break;
+        }
+    }
+
+    if (valorEncontrado) {
         filtroTema.value = valorSelecionadoAnteriormente;
     } else {
-        filtroTema.value = 'todos';
+        filtroTema.value = 'todos'; // Volta para o padrão se o valor antigo sumiu
         temaSelecionado = 'todos';
          if (progressoGeral) progressoGeral.temaSelecionado = 'todos';
     }
 }
-
-
 function limparFormularioQuestao() {
     if(temaInput) temaInput.value = '';
     if(perguntaTextarea) perguntaTextarea.value = '';
