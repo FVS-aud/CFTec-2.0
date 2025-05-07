@@ -1,45 +1,112 @@
 body {
     font-family: sans-serif;
-    margin: 20px;
+    margin: 0;
+    padding: 20px;
     background-color: #f4f4f4;
     color: #333;
+    line-height: 1.6;
 }
 
 .container {
-    max-width: 800px;
+    max-width: 850px;
     margin: 0 auto;
     background-color: #fff;
-    padding: 20px;
+    padding: 25px;
     border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
 }
 
-h1, h2 {
+/* Barra Superior com Logos e Login */
+.top-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 25px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #007bff;
+    flex-wrap: wrap; /* Permite quebra em telas menores */
+}
+
+.logos-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px; /* Espaço se quebrar linha */
+}
+
+#logo-principal-mikro {
+    height: 90px;
+    width: auto;
+    margin-right: 15px;
+}
+#logo-secundario-mikro {
+    height: 170px;
+    width: auto;
+}
+
+#auth-container {
+    text-align: right;
+    font-size: 0.9em;
+    flex-shrink: 0;
+    margin-bottom: 10px; /* Espaço se quebrar linha */
+}
+#auth-container input {
+    width: 130px;
+    display: inline-block;
+    margin-right: 5px;
+    padding: 5px;
+    font-size: 0.95em;
+}
+#auth-container #auth-message {
+    font-size: 0.9em;
+    color: red;
+    margin-left: 10px;
+    display: block;
+    margin-top: 5px;
+}
+
+/* Contadores Globais no Topo */
+#contadores-globais-topo {
     text-align: center;
-    color: #337ab7;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #e9ecef;
+    border-radius: 5px;
+    font-size: 0.95em;
+    border: 1px solid #dee2e6;
+}
+.contador-item {
+    margin: 0 15px;
+    color: #495057;
+}
+.contador-item strong {
+    font-size: 1.1em;
 }
 
-#admin-area, #main-content {
-    margin-bottom: 20px;
-    padding: 15px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    background-color: #f9f9f9;
+/* Títulos de Seção */
+h2 {
+    text-align: center;
+    color: #0056b3;
+    font-size: 1.3em;
 }
 
 label {
     display: block;
-    margin-bottom: 5px;
+    margin-bottom: 8px;
     font-weight: bold;
+    color: #495057;
 }
 
-input[type="text"], textarea, select {
-    width: calc(100% - 12px);
-    padding: 8px;
-    margin-bottom: 10px;
-    border: 1px solid #ccc;
+input[type="text"],
+input[type="email"],
+input[type="password"],
+textarea, select {
+    width: calc(100% - 22px); /* Considera padding e border */
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ced4da;
     border-radius: 4px;
-    box-sizing: border-box;
+    box-sizing: border-box; /* Importante */
+    font-size: 1em;
 }
 
 textarea {
@@ -47,151 +114,288 @@ textarea {
     min-height: 100px;
 }
 
-button {
+/* --- BOTÕES --- */
+button, .auth-btn, .btn-admin, .btn-nav, .btn-quiz, .btn-erradas {
     color: white;
-    padding: 10px 15px;
+    padding: 10px 18px;
     border: none;
-    border-radius: 4px;
+    border-radius: 5px;
     cursor: pointer;
     font-size: 1em;
-    margin-right: 10px;
-}
-
-button:hover {
-    opacity: 0.8; /* Diminui a opacidade no hover para feedback */
-}
-
-#alternativas label {
-    font-weight: normal;
+    margin-right: 8px;
     margin-bottom: 8px;
+    transition: background-color 0.2s ease, opacity 0.2s ease, transform 0.1s ease;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+button:hover, .auth-btn:hover, .btn-admin:hover, .btn-nav:hover, .btn-quiz:hover, .btn-erradas:hover { opacity: 0.85; }
+button:active, .auth-btn:active, .btn-admin:active, .btn-nav:active, .btn-quiz:active, .btn-erradas:active { transform: translateY(1px); box-shadow: 0 1px 2px rgba(0,0,0,0.1); }
+button:disabled { background-color: #adb5bd !important; cursor: not-allowed; opacity: 0.6; box-shadow: none; }
+
+/* Cores dos Botões */
+#adicionar-questao-btn { background-color: #007bff; }
+#resetar-progresso-btn { background-color: #ffc107; color: #212529;}
+#carregar-questoes-btn { background-color: #17a2b8; }
+#salvar-questao-btn { background-color: #28a745; }
+#cancelar-questao-btn { background-color: #dc3545; }
+
+/* Próximo Tema */
+#proximo-tema-btn.btn-nav {
+    background-color: #6c757d;
+    font-size: 0.85em;
+    padding: 8px 12px; /* Ligeiramente maior para alinhar melhor com select */
+    margin-left: 10px;
+}
+
+#responder-btn { background-color: #28a745; }
+#proxima-questao-btn { background-color: #007bff; }
+#pular-btn { background-color: #fd7e14; }
+#aleatoria-questao-btn { background-color: #6c757d; }
+#iniciar-refazer-btn { background-color: #0d6efd; }
+
+.auth-btn { padding: 6px 12px; font-size: 0.9em; margin-left: 5px; }
+#login-btn { background-color: #198754; }
+#register-btn { background-color: #0dcaf0; }
+#logout-btn { background-color: #6c757d; }
+
+/* Alternativas */
+#alternativas label.alternativa-label {
+    font-weight: normal;
+    margin-bottom: 1px; /* <<---- DISTÂNCIA REDUZIDA */
     display: block;
-}
-
-#resultado {
-    margin-top: 15px;
-    padding: 10px;
-    border: 1px solid #ddd;
+    background-color: #f8f9fa;
+    padding: 8px 15px; /* Padding vertical ligeiramente reduzido */
     border-radius: 5px;
+    border: 1px solid #e9ecef;
+    cursor: pointer;
+    transition: background-color 0.2s ease, border-color 0.2s ease;
+    line-height: 1.4; /* Ajuste para alinhar melhor o texto com o radio/letra */
 }
+#alternativas label.alternativa-label:hover { background-color: #e2e6ea; border-color: #dae0e5; }
+#alternativas input[type="radio"] { margin-right: 8px; vertical-align: middle; } /* Espaço após radio */
 
-.correta {
-    color: green;
+/* Estilo da Letra da Alternativa (A, B, C...) */
+.letra-alternativa {
     font-weight: bold;
+    margin-right: 8px; /* Espaço entre letra e texto */
+    display: inline-block; /* Permite margem */
+    min-width: 15px; /* Largura mínima para alinhamento */
+    text-align: center;
+    vertical-align: middle;
 }
 
-.incorreta {
-    color: red;
-    font-weight: bold;
+.alternativa-label.correta { background-color: #d4edda !important; border: 1px solid #c3e6cb !important; color: #155724 !important; }
+.alternativa-label.incorreta-usuario { background-color: #f8d7da !important; border: 1px solid #f5c6cb !important; color: #721c24 !important; }
+#alternativas.alternativas-desabilitadas .alternativa-label { cursor: default; opacity: 0.7; }
+#alternativas.alternativas-desabilitadas input[type="radio"] { pointer-events: none; }
+
+/* Resultado e Gabarito */
+#resultado { margin-top: 25px; padding: 20px; border-radius: 5px; background-color: #f0f9ff; border: 1px solid #bee5eb; }
+#resultado p { margin-bottom: 12px; }
+#mensagem-resultado.feedback-acerto { color: #155724; font-weight: bold;}
+#mensagem-resultado.feedback-erro { color: #721c24; font-weight: bold; }
+#gabarito { font-size: 0.95em; color: #495057; margin-top: 15px; background-color: #e9ecef; padding: 12px; border-radius: 4px; }
+
+/* Contador de Questões no Tema */
+.contador-tema { margin-top: 10px; margin-bottom: 20px; font-size: 0.95em; color: #6c757d; text-align: center; padding: 10px; background-color: #f8f9fa; border: 1px solid #e9ecef; border-radius: 5px; }
+#status-bateria { font-weight: bold; color: #007bff; margin-right:10px; }
+.status-resolvidas { color: #495057; }
+.status-acertos { color: #28a745; font-weight: bold; }
+.status-erros { color: #dc3545; font-weight: bold;}
+
+/* Seções Retráteis */
+#admin-container, #questoes-erradas-container {
+    margin-top: 30px;
+    margin-bottom: 25px;
+    padding: 0;
+    border: none;
+    background-color: transparent;
 }
 
-#contador {
-    margin-top: 20px;
+.collapsible-header {
+    cursor: pointer;
+    padding: 10px 15px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    margin-bottom: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: background-color 0.2s ease;
+    font-size: 1.05em;
+}
+.collapsible-header .toggle-icon { font-weight: bold; margin-left: 10px; font-size: 1.1em; }
+
+/* Estilo específico para Gerenciamento de Questões */
+.admin-header-style {
+    background-color: #e9ecef; /* Cinza claro */
+    color: #495057;
+    border-color: #dee2e6;
+}
+.admin-header-style:hover { background-color: #dee2e6; }
+
+/* Estilo Reportar Erro dentro do Admin */
+#admin-content #reportar-erro-link {
+    margin-top: 20px; /* Espaço acima, após outros botões/forms */
+    margin-bottom: 10px;
+    text-align: left;
     font-size: 0.9em;
 }
-
-/* Estilos para tornar o layout responsivo (para celulares) */
-@media (max-width: 600px) {
-    .container {
-        margin: 10px;
-        padding: 15px;
-    }
-
-    input[type="text"], textarea, select, button {
-        font-size: 0.9em;
-        padding: 8px;
-    }
+#admin-content #reportar-erro-link a {
+    color: #dc3545; /* Vermelho para indicar erro/reporte */
+    text-decoration: underline;
+}
+#admin-content #reportar-erro-link a:hover {
+    color: #a71d2a;
 }
 
-#contador {
-    margin-top: 20px;
-    font-size: 1em;
-    font-weight: bold;
-    color: #333;
-}
 
-.status-resolvidas {
-    color: #777;
-}
+/* Estilo padrão para outros cabeçalhos retráteis */
+#erradas-toggle.collapsible-header { background-color: #007bff; color: white; border-color: #0069d9; }
+#erradas-toggle.collapsible-header:hover { background-color: #0069d9; }
 
-.status-acertos {
-    color: green;
-}
+#admin-content, #erradas-content { padding: 20px; border: 1px solid #dee2e6; border-top: none; border-radius: 0 0 5px 5px; background-color: #f8f9fa; margin-top: -1px; }
 
-.status-erros {
-    color: red;
-}
-
-.fechar-resultado {
-    color: #aaa;
-    font-size: 1.2em;
-    font-weight: normal;
-    margin-left: 10px;
-    cursor: pointer;
-}
-
-/* Botões da área de administração */
-#adicionar-questao-btn {
-    background-color: #007bff; /* Azul: Adicionar/Criar */
-}
-
-#resetar-questoes-btn {
-    background-color: #ffc107; /* Amarelo: Atenção/Limpar */
-    color: #212529; /* Preto para melhor contraste em amarelo */
-}
-
-#carregar-questoes-btn {
-    background-color: #17a2b8; /* Ciano: Informação/Importar */
-}
-
-#salvar-questao-btn {
-    background-color: #28a745; /* Verde: Sucesso/Salvar */
-}
-
-#cancelar-questao-btn {
-    background-color: #dc3545; /* Vermelho: Erro/Cancelar */
-}
-
-/* Botões da área de questões */
-#responder-btn {
-    background-color: #28a745; /* Verde: Ação principal positiva */
-}
-
-#proxima-questao-btn {
-    background-color: #007bff; /* Azul: Navegação */
-}
-
-/* Botões de exclusão e refazer */
-.excluir-questao {
-    background-color: #dc3545; /* Vermelho: Ação destrutiva */
-}
-
-.refazer-questao {
-    background-color: #007bff; /* Azul: Ação secundária */
-}
-
-#questoes-erradas-container {
-    margin-top: 30px;
-    padding: 15px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    background-color: #fff;
-}
-
-.questao-errada {
-    margin-bottom: 10px;
-    padding: 10px;
-    border-bottom: 1px solid #eee;
-}
-
-.refazer-questao {
-    background-color: #007bff;
-    color: white;
-    border: none;
-    padding: 5px 10px;
-    cursor: pointer;
+/* Filtros e Navegação de Tema - AJUSTADO PARA MANTER NA CAIXA */
+#filtros-navegacao {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* Alinha verticalmente */
+    margin-bottom: 20px;
+    gap: 10px;
+    flex-wrap: nowrap; /* Impede que o botão quebre a linha */
+    padding: 10px; /* Adiciona padding interno para visualização */
+    background-color: #eef; /* Cor de fundo para debug visual (REMOVER DEPOIS) */
+    border: 1px solid #ccd; /* Borda para debug visual (REMOVER DEPOIS) */
     border-radius: 5px;
 }
 
-.refazer-questao:hover {
-    background-color: #0056b3;
+#filtros-navegacao .filtro-tema-container {
+    display: flex;
+    align-items: center;
+    flex-grow: 1; /* Permite que o container do select cresça */
+    min-width: 0; /* Importante para permitir que o select encolha se necessário */
 }
+#filtros-navegacao .filtro-tema-container label {
+    margin-bottom: 0;
+    margin-right: 8px;
+    white-space: nowrap; /* Evita que o label quebre linha */
+    flex-shrink: 0; /* Não deixa o label encolher */
+}
+#filtros-navegacao .filtro-tema-container select {
+    padding: 8px 10px;
+    font-size: 0.95em;
+    width: 100%; /* Ocupa o máximo de espaço POSSÍVEL dentro do seu container */
+    max-width: 400px; /* Limite máximo para o select (ajuste conforme necessário) */
+    min-width: 150px;
+    margin-bottom: 0;
+    box-sizing: border-box;
+    flex-grow: 1; /* Permite crescer DENTRO do seu container */
+    flex-shrink: 1; /* Permite encolher se necessário */
+}
+
+#filtros-navegacao .proximo-tema-container {
+    flex-shrink: 0; /* Impede que o container do botão encolha */
+}
+
+
+/* Rodapé */
+footer { margin-top: 50px; padding-top: 25px; border-top: 1px solid #ced4da; text-align: center; font-size: 0.8em; color: #6c757d; line-height: 1.6; }
+footer p { margin-bottom: 12px; }
+footer strong { color: #343a40; }
+footer u { text-decoration: underline; text-decoration-color: #007bff; }
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .container { padding: 15px; }
+    button, .auth-btn, .btn-admin, .btn-nav, .btn-quiz, .btn-erradas { padding: 8px 12px; font-size: 0.95em; }
+    .top-bar { flex-direction: column; align-items: center; gap: 15px; }
+    .logos-container { justify-content: center; }
+    #auth-container { width: 100%; text-align: center; }
+    #auth-container input { width: calc(50% - 10px); }
+    #auth-container button { width: auto; }
+
+    /* Ajuste para filtros em telas menores - permite quebra se necessário */
+    #filtros-navegacao {
+       flex-wrap: wrap;
+    }
+     #filtros-navegacao .filtro-tema-container {
+        min-width: 100%; /* Faz o container do select ocupar a largura */
+        margin-bottom: 10px; /* Espaço se quebrar */
+    }
+    #filtros-navegacao .filtro-tema-container select {
+        max-width: none; /* Remove o limite máximo em telas pequenas */
+    }
+     #filtros-navegacao .proximo-tema-container {
+         width: 100%; /* Faz o botão ocupar a largura */
+         text-align: center; /* Centraliza o botão */
+         margin-top: 5px;
+     }
+     #filtros-navegacao .proximo-tema-container button {
+         margin-left: 0; /* Remove margem esquerda */
+         width: auto; /* Botão com largura automática */
+         display: inline-block;
+     }
+}
+@media (max-width: 480px) {
+    body { padding: 10px; }
+    #auth-container input, #auth-container button.auth-btn { width: 100%; margin-bottom: 8px; margin-left: 0; }
+    .contador-item { display: block; margin: 5px 0; }
+    #alternativas label.alternativa-label {
+        display: flex; /* Usa flexbox para alinhar radio, letra e texto */
+        align-items: center; /* Alinha verticalmente */
+        padding: 8px 10px; /* Menor padding */
+    }
+     .letra-alternativa {
+        margin-right: 4px; /* Menor espaço */
+        min-width: 12px; /* Menor largura */
+    }
+    #alternativas input[type="radio"] {
+        margin-right: 2px; /* Menor espaço */
+    }
+    /* Garante que o texto da alternativa use o espaço restante */
+     #alternativas label.alternativa-label > span:last-child {
+        flex-grow: 1;
+    }
+}
+/* >>>>>>>> ADICIONADO: Container para alinhar os botões do quiz <<<<<<<< */
+.botoes-quiz-container {
+    display: flex;         /* Alinha botões horizontalmente */
+    flex-wrap: wrap;       /* Permite quebrar linha em telas pequenas */
+    gap: 1px;             /* Espaço entre os botões */
+    margin-top: 20px;      /* Espaço acima do container de botões (depois das alternativas) */
+    justify-content: flex-start; /* Alinha botões no início */
+}
+
+/* Remove margens padrão dos botões dentro deste container específico */
+.botoes-quiz-container .btn-quiz {
+     margin-bottom: 0;
+     margin-right: 0;
+}
+/* >>>>>>>> FIM DO CONTAINER DOS BOTÕES <<<<<<<< */
+/* Adicione esta nova regra ao final do seu arquivo style.css */
+
+/* Estilo para fundo verde da caixa de gabarito quando a resposta está INCORRETA */
+#gabarito.gabarito-resposta-incorreta {
+    background-color: #d4edda; /* Fundo verde claro (mesmo da alternativa correta) */
+    border: 1px solid #c3e6cb; /* Borda correspondente */
+    color: #155724; /* Texto verde escuro para melhor contraste no fundo verde claro */
+    margin-top: 15px; /* Mantém a margem original */
+    padding: 12px; /* Mantém o padding original */
+    border-radius: 4px; /* Mantém o border-radius original */
+    font-size: 0.95em; /* Mantém o tamanho da fonte original */
+}
+
+/* Garante que o estilo padrão seja aplicado quando a classe for removida */
+#gabarito {
+    font-size: 0.95em;
+    color: #495057; /* Cor padrão do texto */
+    margin-top: 15px;
+    background-color: #e9ecef; /* Cor de fundo padrão (cinza claro) */
+    padding: 12px;
+    border-radius: 4px;
+    border: 1px solid #dee2e6; /* Borda padrão */
+}
+
+/* Estilos existentes para a mensagem (Incorreto/Correto) - Já devem existir */
+#mensagem-resultado.feedback-acerto { color: #155724; font-weight: bold;}
+#mensagem-resultado.feedback-erro { color: #721c24; font-weight: bold; } /* Vermelho escuro */
