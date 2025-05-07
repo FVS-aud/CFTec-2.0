@@ -1201,8 +1201,11 @@ function atualizarFiltroTemas() {
         optgroupSimulados.label = '--- Simulados ---'; // Título do grupo
         temasSimulados.forEach(tema => {
             const option = document.createElement('option');
-            option.value = tema;
-            option.textContent = tema;
+            option.value = tema; // MANTÉM o '#' no valor interno
+            // --- MODIFICAÇÃO AQUI ---
+            // Remove o '#' (e espaço seguinte, se houver) apenas para exibição
+            option.textContent = tema.startsWith('#') ? tema.substring(1).trim() : tema;
+            // --- FIM DA MODIFICAÇÃO ---
             optgroupSimulados.appendChild(option);
         });
         filtroTema.appendChild(optgroupSimulados);
