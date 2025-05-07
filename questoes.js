@@ -1,6 +1,6 @@
 const questoes = [
   {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Em relação à avaliação da exposição ocupacional e seus critérios de referência, assinale a opção <b>correta<b>.",
 "alternativa1": "O Nível de Ação para o agente físico ruído é definido na NR-09 como correspondente a 50% do Limite de Tolerância estabelecido na NR-15.",
 "alternativa2": "A Avaliação Quantitativa utiliza medições com instrumentos para determinar a concentração ou intensidade dos agentes, enquanto a Avaliação Qualitativa baseia-se em percepções subjetivas sem metodologia definida.",
@@ -11,7 +11,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (D) está correta, pois os Limites de Exposição Ocupacional (LEO), como os da ACGIH, são frequentemente considerados referências tecnicamente mais atualizadas que os Limites de Tolerância (LT) da NR-15, que são vistos como defasados."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Considerando a hierarquia das medidas de controle no contexto da Higiene Ocupacional, julgue os itens a seguir.<br>I.   A ordem de prioridade das medidas de prevenção inicia-se pela eliminação dos fatores de risco, seguida pela minimização e controle com proteção coletiva, depois por medidas administrativas/organizacionais e, por último, pela adoção de proteção individual.<br>II.  Medidas como a substituição de um produto tóxico por um menos nocivo ou a alteração de um processo (ex: umedecer o corte de pedras) visam atuar na fonte ou na trajetória do risco, sendo consideradas prioritárias em relação ao uso de EPI.<br>III. O enclausuramento de uma operação ou o isolamento da fonte (ou dos trabalhadores) são exemplos de medidas de proteção coletiva que buscam, respectivamente, conter o contaminante ou reduzir o número de expostos.<br>IV.  A Ventilação Local Exaustora (VLE), que captura o contaminante na fonte antes que ele se disperse, e a Ventilação Geral Diluidora (VGD), que renova o ar para reduzir a concentração, são ambas classificadas como medidas de proteção coletiva.<br>V.   A manutenção preventiva de máquinas e equipamentos é citada como uma medida de proteção coletiva que pode contribuir para a redução de riscos físicos (ruído, vibrações) e químicos (vazamentos).<br>Assinale a opção correta.",
 "alternativa1": "Apenas as assertivas I e II estão corretas.",
 "alternativa2": "Apenas as assertivas III e V estão corretas.",
@@ -22,7 +22,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (E) está correta porque todas as assertivas (I, II, III, IV e V) apresentam informações que são suportadas pelo texto da fonte, descrevendo corretamente a hierarquia das medidas de controle e exemplos de aplicação na Higiene Ocupacional."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Acerca da classificação dos aerodispersóides, assinale a opção correta.",
 "alternativa1": "Poeiras são definidas como partículas sólidas formadas pela ruptura mecânica de um sólido, a exemplo da poeira gerada no corte de madeira por serra circular.",
 "alternativa2": "Fumos metálicos, comuns em processos de solda ou fundição, são classificados como partículas líquidas resultantes da condensação de vapores após aquecimento.",
@@ -33,7 +33,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (A) está correta, pois a fonte define poeiras como partículas sólidas formadas pela ruptura mecânica de um sólido, citando como exemplo a poeira gerada no corte de madeira."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Considerando a Classificação de Schilling para doenças relacionadas ao trabalho, assinale a opção correta.",
 "alternativa1": "A Categoria II de Schilling (Trabalho como fator contributivo) abrange as doenças em que o trabalho é a única causa, a exemplo das intoxicações agudas por agrotóxicos.",
 "alternativa2": "Doenças mentais e asma ocupacional são classificadas na Categoria I de Schilling, pois sua ocorrência depende exclusivamente da exposição a fatores de risco no trabalho.",
@@ -44,7 +44,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (D) está correta. A fonte afirma que doenças da Categoria I de Schilling (Trabalho como causa necessária), exemplificadas por intoxicações por metais pesados ou silicose, têm sua prevenção focada na eliminação do agente ou no controle rigoroso da exposição."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Considerando as definições e características das espécies de Nexo Técnico Previdenciário, conforme a Instrução Normativa INSS nº 31/2008, assinale a opção correta.",
 "alternativa1": "O Nexo Técnico Individual é estabelecido com base na significância estatística entre o código da doença (CID-10) e a atividade econômica da empresa (CNAE).",
 "alternativa2": "O Nexo Técnico Epidemiológico Previdenciário (NTEP) depende da emissão prévia da Comunicação de Acidente do Trabalho (CAT) pela empresa para ser caracterizado.",
@@ -55,7 +55,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (D) está correta. A fonte descreve o Nexo Técnico Profissional como fundamentado na associação entre a patologia do segurado e a exposição a agentes ou fatores de risco das listas A e B do Anexo II do Decreto nº 3.048/99."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "A Agência Internacional de Pesquisa em Câncer (IARC) classifica os agentes quanto ao seu potencial carcinogênico em grupos. Considerando os critérios para os Grupos 1, 2A, 2B e 3, assinale a alternativa correta.",
 "alternativa1": "O Grupo 1 (carcinogênico para humanos) exige evidências necessárias de carcinogenicidade tanto em estudos com humanos quanto com animais para ser classificado.",
 "alternativa2": "Para classificar um agente no Grupo 2B (possivelmente carcinogênico para humanos), a IARC exige que haja evidências limitadas de carcinogenicidade em humanos e, simultaneamente, evidências também limitadas ou inadequadas em animais experimentais.",
@@ -66,7 +66,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (C) está correta. A fonte descreve a classificação no Grupo 2A (provavelmente carcinogênico para humanos) como apropriada quando há evidência limitada de carcinogenicidade em humanos, mas evidência suficiente em animais experimentais."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Sobre as categorias de Indicadores biológicos de exposição, assinale a alternativa correta:",
 "alternativa1": "IB de Efeito (Tipo 1) buscam detectar alterações precoces e reversíveis no organismo (ex: Carboxi-hemoglobina para CO), enquanto IB de Dose Interna/Exposição (Tipo 2) quantificam a substância absorvida (ex: ácido metil-hipúrico para xileno).",
 "alternativa2": "IB de Dose Interna/Exposição (Tipo 2), como a dosagem de chumbo no sangue (plumbemia), refletem alterações bioquímicas ou fisiológicas que indicam possível adoecimento ou agravo à saúde.",
@@ -77,7 +77,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (A) está correta. A fonte distingue os Indicadores Biológicos de Efeito (Tipo 1), que buscam detectar alterações precoces e reversíveis (ex: Carboxi-hemoglobina para CO), dos IB de Dose Interna/Exposição (Tipo 2), que quantificam a substância absorvida (ex: ácido metil-hipúrico para xileno)."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Considerando as noções conceituais apresentadas, assinale a alternativa que descreve corretamente a inter-relação ou definição desses conceitos no âmbito da toxicologia ocupacional.",
 "alternativa1": "Risco é a efetivação do potencial de dano (perigo) de uma substância.",
 "alternativa2": "Efeito é a lesão física e/ou agravo à saúde das pessoas expostas, ao meio ambiente ou à propriedade, em decorrência da exposição ao risco.",
@@ -88,7 +88,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (E) está correta. A fonte correlaciona Perigo a um conceito qualitativo e Risco a um conceito quantitativo."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Considerando a Ergonomia de Concepção, a Ergonomia de Correção, a Avaliação Ergonômica Preliminar (AEP) e a Análise Ergonômica do Trabalho (AET), assinale a alternativa que descreve uma aplicação ou característica correta:",
 "alternativa1": "A Análise Ergonômica do Trabalho (AET) é a ferramenta utilizada na Ergonomia de Concepção para, através de métodos qualitativos e participativos, definir os requisitos iniciais de um novo posto de trabalho, antes mesmo da realização da AEP.",
 "alternativa2": "A Avaliação Ergonômica Preliminar (AEP) é uma etapa inicial, aplicável a situações existentes ou no planejamento, que pode usar métodos qualitativos ou quantitativos para identificar necessidades óbvias de melhoria.",
@@ -99,7 +99,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (B) está correta. A fonte descreve a Avaliação Ergonômica Preliminar (AEP) como uma etapa inicial aplicável a situações existentes ou no planejamento, utilizando métodos qualitativos ou quantitativos para identificar necessidades óbvias de melhoria."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Sobre as áreas chaves de aplicação da ergonomia, a interação homem-computador, a confiabilidade humana frente a situações de risco e incidentes, a formação e o estresse profissional, são aspectos estudados na:",
 "alternativa1": "Ergonomia Física.",
 "alternativa2": "Ergonomia Psicossocial.",
@@ -110,7 +110,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (C) está correta. A fonte associa a interação homem-computador, a confiabilidade humana frente a riscos/incidentes, a formação e o estresse profissional à Ergonomia Cognitiva."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Analise as seguintes afirmações sobre conceitos, regras e exceções da Ergonomia:<br>I. A NR-17 prevê situações de dispensa da elaboração da Análise Ergonômica do Trabalho (AET) para Microempresas (ME) e Empresas de Pequeno Porte (EPP) enquadradas nos graus de risco 1 e 2, bem como para o Microempreendedor Individual (MEI), embora ainda devam cumprir os demais requisitos da norma.<br>II. O objetivo fundamental da ergonomia consiste em adaptar as capacidades e limitações dos trabalhadores (físicas, mentais, emocionais) às demandas e exigências impostas pelos sistemas de trabalho e produção existentes.<br>III. De acordo com a NR-17, as pausas para recuperação psicofisiológica devem ser gozadas fora do posto de trabalho e não podem ser acompanhadas por aumento da cadência individual.<br>Está correto o que se afirma em:",
 "alternativa1": "I e III, apenas.",
 "alternativa2": "II, apenas.",
@@ -121,7 +121,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (A) está correta. A assertiva I menciona a dispensa da AET para ME/EPP (graus 1 e 2) e MEI, cumprindo outros requisitos. A assertiva III afirma que pausas para recuperação psicofisiológica devem ser fora do posto e sem aumento da cadência. A assertiva II descreve o objetivo fundamental da ergonomia como adaptar o trabalhador ao sistema, mas a combinação I e III corresponde ao gabarito."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Considerando os conceitos introdutórios de Biomecânica e Fisiologia do Trabalho, assinale a alternativa que descreve corretamente a aplicação ou definição desses termos:",
 "alternativa1": "A Fisiologia do Trabalho é um ramo da Biomecânica que utiliza os princípios da Cinemática para analisar os processos adaptativos do corpo em atletas de alto rendimento, com aplicação direta na prevenção de lesões ocupacionais.",
 "alternativa2": "A Cinemática dedica-se ao estudo das forças (internas e externas) associadas a um movimento, sendo a principal ferramenta da Fisiologia do Trabalho, enquanto a Cinética aborda a forma, sequência e cronologia do movimento, fundamentando a Biomecânica.",
@@ -132,7 +132,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (C) está correta. (C) Biomecânica Ocupacional foca na análise mecânica para prevenção de lesões; Fisiologia do Trabalho estuda respostas adaptativas do corpo ao esforço laboral. (A) Incorreta, Fisiologia não é ramo da Biomecânica. (B) Inverte conceitos de Cinética (forças) e Cinemática (forma/sequência). (D) Inverte conceitos de Cinética e Cinemática. (E) DORTs ocorrem em várias atividades, não só frigoríficos/construção. (Apostila Vol III, pág. 51)."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Com base nas informações sobre aspectos cognitivos e psicossociais, assinale a alternativa correta:",
 "alternativa1": "A magnitude e as consequências do estresse sobre um indivíduo dependem mais da valoração e do significado que ele atribui ao agente estressor do que da frequência, intensidade ou duração do próprio estressor.",
 "alternativa2": "Fatores como personalidade, carga genética e estrutura psicológica individual não alteram a suscetibilidade às consequências danosas do estresse.",
@@ -143,7 +143,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (A) está correta. A fonte indica que a magnitude e as consequências do estresse dependem mais da valoração e significado atribuído ao agente estressor do que de sua frequência, intensidade ou duração."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Com base nas informações sobre o Fundo de Amparo ao Trabalhador (FAT), assinale a alternativa correta:",
 "alternativa1": "O FAT é um fundo vinculado ao Ministério das Cidades, gerido pela Caixa Econômica Federal, cujos recursos provêm das multas rescisórias do FGTS e se destinam a financiar programas de infraestrutura urbana.",
 "alternativa2": "Os recursos do FAT são compostos essencialmente pelos depósitos mensais de 8% do FGTS e se destinam ao pagamento da Bolsa de Qualificação Profissional e ao financiamento de programas de microcrédito para empreendedores.",
@@ -154,7 +154,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (E) está correta. A fonte lista entre as competências do CODEFAT aprovar e acompanhar o plano anual e orçamento do seguro-desemprego e abono salarial, e propor melhorias na legislação."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Considerando as hipóteses e sistemáticas de movimentação da conta vinculada do FGTS, assinale a alternativa correta:",
 "alternativa1": "Em caso de extinção do contrato por acordo entre empregado e empregador, o trabalhador tem direito a movimentar o valor total (100%) dos depósitos existentes em sua conta vinculada do FGTS, além da multa de 20%.",
 "alternativa2": "Além das hipóteses ligadas ao término do contrato, a conta vinculada do FGTS também pode ser movimentada em caso de falecimento ou aposentadoria do trabalhador, ou se ele completar 70 anos e ficar 3 anos ininterruptos fora do regime do FGTS.",
@@ -165,7 +165,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (B) está correta. A fonte menciona que a conta vinculada do FGTS pode ser movimentada em caso de falecimento ou aposentadoria do trabalhador, ou se ele completar 70 anos e ficar 3 anos fora do regime do FGTS, além das hipóteses de término de contrato."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Com base nas informações sobre fiscalização, natureza jurídica e prescrição do FGTS, analise as seguintes afirmações:<br>I. Conforme entendimento consolidado do STF, a contribuição para o FGTS possui natureza jurídica sui generis, de caráter não tributário, refletindo suas dimensões trabalhista e social.<br>II. A legislação obriga o empregador a manter os documentos relativos às obrigações perante o FGTS à disposição da fiscalização pelo prazo prescricional trintenário (30 anos) após o fim de cada contrato de trabalho.<br>III. Caso a apuração de débitos pela fiscalização se baseie em declarações do empregador via escrituração eletrônica, o documento fiscal emitido constitui um ato administrativo meramente declaratório, pois a declaração já configura confissão da dívida.<br>Está correto o que se afirma em:",
 "alternativa1": "I, apenas.",
 "alternativa2": "I e III, apenas.",
@@ -176,7 +176,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (B) está correta. A assertiva I afirma a natureza jurídica sui generis não tributária da contribuição para o FGTS. A assertiva III menciona que, baseada em declarações eletrônicas, a apuração de débitos constitui ato declaratório, pois a declaração é confissão. A assertiva II, sobre o prazo trintenário, não é suportada pelo texto fornecido."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Sobre a revisão do processo de avaliação de riscos ocupacionais, conforme a NR-01 e detalhado no material de Gerenciamento de Riscos Ocupacionais, assinale a opção correta.",
 "alternativa1": "Na ausência de mudanças significativas ou outros eventos específicos, a NR 1 estabelece que a avaliação de riscos ocupacionais deve ser revisada obrigatoriamente a cada ano.",
 "alternativa2": "Uma vez implementadas as medidas de prevenção definidas no Plano de Ação, a revisão da avaliação de riscos correspondente torna-se dispensável até o próximo ciclo bienal ou trienal.",
@@ -187,7 +187,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (C) está correta. A fonte lista a identificação de inadequações nas medidas, ocorrência de acidentes/doenças ou solicitação justificada dos trabalhadores como situações que exigem revisão imediata da avaliação de riscos."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Com base nos conceitos de Perigo Ocupacional, Risco Ocupacional e Levantamento Preliminar de Perigos, conforme definidos na NR-01 e, julgue os itens a seguir.<br>I.   Perigo Ocupacional, segundo a NR-01, é a combinação da probabilidade de ocorrer uma lesão ou agravo à saúde e a severidade dessa lesão ou agravo.<br>II. Um Risco Ocupacional pode ser classificado como <b>\"tolerável\"<b> pela organização quando todas as medidas de prevenção exigidas pela legislação de SST aplicável já foram implementadas.<br>III. O Risco Ocupacional se manifesta mesmo quando não há qualquer interação ou exposição do trabalhador ao perigo ocupacional.<br>IV.  O Levantamento Preliminar de Riscos tem como principal objetivo realizar uma avaliação quantitativa detalhada de todos os riscos, incluindo os não evidentes, para compor o Inventário de Riscos.<br>Assinale a opção correta.",
 "alternativa1": "Apenas as assertivas I e III estão corretas.",
 "alternativa2": "Apenas a assertiva II está correta.",
@@ -198,7 +198,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (B) está correta. Apenas a assertiva II é suportada pela fonte, ao mencionar que um Risco Ocupacional pode ser classificado como \"tolerável\" quando todas as medidas de prevenção legais são implementadas."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Com relação à estrutura e documentação do Gerenciamento de Riscos Ocupacionais (GRO) e do Programa de Gerenciamento de Riscos (PGR), conforme a NR-01, assinale a opção correta.",
 "alternativa1": "O Gerenciamento de Riscos Ocupacionais (GRO) é a documentação que materializa o processo, enquanto o PGR representa o sistema de gestão contínuo.",
 "alternativa2": "O Plano de Ação tem como principal função registrar a caracterização dos processos, a identificação dos perigos e a avaliação dos níveis de risco.",
@@ -209,7 +209,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (E) está correta. A fonte indica que o GRO tem como finalidade a prevenção e não deve ser usado diretamente para caracterizar insalubridade/periculosidade, embora possa subsidiar tais avaliações."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Conforme a regra de transição da NR-9, na ausência de limites de tolerância estabelecidos na NR-15 para um determinado agente químico, qual referência deve ser utilizada pela organização para guiar a adoção de medidas de prevenção?",
 "alternativa1": "Os valores de referência publicados pela ACGIH (American Conference of Governmental Industrial Hygienists).",
 "alternativa2": "A avaliação qualitativa baseada exclusivamente na percepção de risco dos trabalhadores expostos.",
@@ -220,7 +220,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (A) está correta. A fonte, ao tratar da transição da NR-9, indica que na ausência de limites na NR-15 para um agente químico, a referência a ser usada são os valores publicados pela ACGIH."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Considerando os processos de gradação da severidade, gradação da probabilidade e determinação dos níveis de risco no âmbito do GRO, assinale a opção correta.",
 "alternativa1": "A gradação da severidade das possíveis lesões ou agravos à saúde deve, obrigatoriamente, seguir uma escala numérica padronizada de 1 (Leve) a 5 (Morte), conforme o modelo da ISO 45002.",
 "alternativa2": "A avaliação da conformidade com os requisitos de segurança de normas como NR 10 (Eletricidade), NR 12 (Máquinas), NR 33 (Espaços Confinados) e NR 35 (Trabalho em Altura) impacta mais diretamente a gradação da severidade das possíveis lesões decorrentes de eventos perigosos nessas áreas.",
@@ -231,7 +231,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (E) está correta. A fonte afirma que o estabelecimento do nível de risco ocupacional representa a conclusão da etapa de avaliação de risco no âmbito do GRO."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Ao definir como avaliar os riscos ocupacionais em seu estabelecimento, qual abordagem a organização deve seguir em relação às ferramentas e técnicas de avaliação, conforme a NR-1?",
 "alternativa1": "Adotar a metodologia definida pela norma ABNT NBR ISO/IEC 31010, por ser a referência técnica citada na NR-1.",
 "alternativa2": "Aplicar um método quantitativo para riscos físicos e um método qualitativo para riscos ergonômicos, conforme diferenciação na norma.",
@@ -242,7 +242,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (D) está correta. A fonte indica que a NR-1 não define um método padrão obrigatório para avaliação de riscos, permitindo que a organização selecione as ferramentas e técnicas que julgar adequadas."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Sobre os requisitos de instalações e dispositivos elétricos estabelecidos na  NR-12, assinale a alternativa correta:",
 "alternativa1": "Disjuntores e fusíveis são exemplos de Dispositivos de Proteção contra Surtos (DPS), destinados a proteger máquinas contra sobretensão de origem atmosférica ou da rede elétrica.",
 "alternativa2": "A NR-12 proíbe a utilização de chave geral como dispositivo de partida e parada, o uso de chaves tipo faca e a existência de partes energizadas expostas nos circuitos elétricos das máquinas.",
@@ -253,7 +253,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (B) está correta. A fonte afirma que a NR-12 proíbe o uso de chave geral como dispositivo de partida/parada, chaves tipo faca e partes energizadas expostas nos circuitos elétricos das máquinas."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Conforme a abordagem da NR-12 sobre segurança em máquinas e equipamentos, assinale a alternativa correta?",
 "alternativa1": "A NR-12 é aplicável a máquinas e equipamentos novos e usados, desde que sejam de uso não doméstico e movidos por força não humana, como exemplo, a força animal.",
 "alternativa2": "Para fins da NR-12, define-se equipamento estático como qualquer estrutura que não possua partes móveis, independentemente de ter ou não força motriz própria.",
@@ -264,7 +264,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (E) está correta. A fonte afirma que máquinas e equipamentos classificados como eletrodomésticos e equipamentos estáticos (como caldeiras, vasos de pressão, silos) não são abrangidos pela NR-12."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Em relação aos requisitos estabelecidos pela NR 12 para Manutenção, Inspeção, Procedimentos de Trabalho e Segurança, julgue os itens a seguir:<br>I.   O dispositivo de acionamento bimanual é uma medida de segurança que exige o uso simultâneo das duas mãos do operador, com o objetivo principal de manter as mãos fora da zona de perigo durante a operação.<br>II.  Procedimentos de trabalho e segurança, sinalização e capacitação dos trabalhadores são exemplos de medidas de proteção coletiva que devem ser implementadas prioritariamente em máquinas e equipamentos.<br>III. A autorização formal do empregador é um requisito adicional e indispensável para qualquer trabalhador que realize intervenções em máquinas, mesmo que este possua habilitação legal, qualificação comprovada ou capacitação específica, conforme estipulado pela NR 12.<br>IV. A inspeção rotineira pelo operador, no início do turno ou após nova preparação, é um requisito normativo, mas sua documentação formal (registro) é facultativa.<br>Estão corretos apenas os itens:",
 "alternativa1": "I e II.",
 "alternativa2": "I e III.",
@@ -275,7 +275,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (D) está correta. A assertiva I descreve corretamente o dispositivo bimanual. A assertiva III indica a necessidade de autorização formal do empregador para intervenções em máquinas. A assertiva IV afirma que a inspeção rotineira do operador é requisito normativo. A assertiva II, sobre procedimentos/sinalização/capacitação serem medidas de proteção coletiva, não é suportada como prioritária frente a medidas de controle na fonte/trajetória conforme a hierarquia geral."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Considerando as informações sobre o “Dispositivo de Intertravamento com Bloqueio”, assinale a alternativa que descreve corretamente sua função ou aplicação:",
 "alternativa1": "É um dispositivo opcional que pode ser adicionado a qualquer proteção móvel intertravada para permitir a abertura da proteção mesmo durante o ciclo de operação da máquina, agilizando intervenções rápidas.",
 "alternativa2": "Sua utilização é necessária em máquinas com inércia considerável, onde o movimento perigoso demora a cessar, pois sua função é impedir o acesso à zona de perigo antes da eliminação completa do risco durante a parada.",
@@ -286,7 +286,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (B) está correta. A fonte explica que o dispositivo de intertravamento com bloqueio é necessário em máquinas com inércia, impedindo o acesso à zona de perigo antes que o movimento perigoso cesse."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "A Norma Regulamentadora nº 10 (NR 10) estabelece requisitos e condições mínimas para garantir a segurança e a saúde dos trabalhadores que interagem com instalações elétricas. Com base nos conceitos e exigências apresentados, assinale a alternativa correta:",
 "alternativa1": "Tanto a Zona de Risco (ZR) quanto a Zona Controlada (ZC) exigem que o profissional seja autorizado, mas a ZR impõe a condição adicional de uso de técnicas e instrumentos de trabalho apropriados.",
 "alternativa2": "A aproximação a Zona de Risco (ZR) só é permitida a profissionais habilitados e com a adoção de técnicas e instrumentos apropriados de trabalho.",
@@ -297,7 +297,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (A) está correta. A fonte indica que tanto a Zona de Risco (ZR) quanto a Zona Controlada (ZC) exigem que o profissional seja autorizado, mas a ZR requer, adicionalmente, técnicas e instrumentos apropriados."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Analisando informações sobre acidentes de trabalho envolvendo eletricidade e seus fatores associados, conclui-se corretamente que:",
 "alternativa1": "A subnotificação elevada (estimada em 80%) e a frequente classificação errônea de acidentes elétricos limitam a acurácia dos dados originados de Comunicações de Acidentes de Trabalho (CAT).",
 "alternativa2": "A falta de treinamento adequado é classificada como um \"Fator Organizacional\" que contribui para acidentes elétricos.",
@@ -308,7 +308,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (A) está correta. A fonte menciona que a acurácia dos dados de acidentes elétricos das CATs é limitada devido à subnotificação elevada (estimada em 80%) e à classificação errônea."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Ao calcular a Taxa de Incidência de uma doença para medir a velocidade com que novos casos surgem, qual informação compõe o denominador dessa medida?",
 "alternativa1": "A população total estimada para a área geográfica no final do período considerado no estudo.",
 "alternativa2": "O número de casos novos da doença que foram identificados no início do período de observação.",
@@ -319,7 +319,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (C) está correta. A fonte indica que o denominador da taxa de incidência é a soma dos períodos de tempo durante os quais cada indivíduo esteve efetivamente livre da doença ('tempo-pessoa em risco')."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Considerando os diferentes Tipos de Estudos Epidemiológicos, assinale a alternativa que apresenta uma caracterização correta:",
 "alternativa1": "Estudos de Coorte analisam retrospectivamente grupos com e sem uma doença em um único ponto no tempo para avaliar exposições passadas, sendo ideais para doenças raras.",
 "alternativa2": "Ensaios Comunitários utilizam randomização individual para testar a eficácia de intervenções, como novos medicamentos, comparando um grupo tratado a um grupo placebo.",
@@ -330,7 +330,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (D) está correta. A fonte descreve Estudos Caso-Controle como adequados para identificar diferenças comparando a frequência de exposições anteriores entre indivíduos doentes e não doentes."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Com relação ao Programa de Controle Médico de Saúde Ocupacional (PCMSO) e conceitos relacionados, conforme a NR-7, assinale a alternativa correta:",
 "alternativa1": "A NR-7 exige que o PCMSO inclua tanto a vigilância ativa, como a demanda espontânea, quanto a passiva, como exames programados, da saúde dos trabalhadores expostos a riscos.",
 "alternativa2": "Empresas ME e EPP, por serem dispensadas da elaboração do PCMSO, também estão isentas de custear os exames médicos ocupacionais de seus empregados.",
@@ -341,7 +341,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (C) está correta. A fonte afirma que a legislação trabalhista (Art. 169 da CLT) exige a notificação de doenças profissionais e que uma diretriz do PCMSO é subsidiar essa comunicação via CAT."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Considerando a abordagem sobre trabalho prescrito (tarefa) e trabalho real (atividade), como Dejours (2011) define \"Trabalho\" nesse contexto específico?",
 "alternativa1": "Como a execução fiel e rigorosa das tarefas formais que foram detalhadas no manual de procedimentos da empresa.",
 "alternativa2": "Como o esforço físico e mental despendido pelo trabalhador com o objetivo de cumprir as metas de produção definidas pela organização.",
@@ -352,7 +352,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (C) está correta. A fonte, citando Dejours, define \"Trabalho\" como a atividade humana para lidar com o que não está previamente na prescrição da organização do trabalho."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Qual situação descreve melhor uma possível ausência do \"Julgamento de Beleza\" no processo de reconhecimento do trabalho, conforme Dejours?",
 "alternativa1": "Um empregado que, embora tecnicamente útil, não se sente pertencente ao coletivo de trabalho.",
 "alternativa2": "Um gerente que critica publicamente seu funcionário por não atingir metas de vendas.",
@@ -363,7 +363,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (A) está correta. Embora o texto não defina explicitamente \"Julgamento de Beleza\", o contexto das alternativas sugere que se relaciona ao reconhecimento social/coletivo do trabalho, o que falta na situação descrita em (A)."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Com relação às regras da NR 4 para os Serviços Especializados em Segurança e em Medicina do Trabalho (SESMT), analise as afirmativas a seguir:\<br>I.   A equipe do SESMT é composta exclusivamente por cinco categorias profissionais: Médico do Trabalho, Engenheiro de Segurança, Enfermeiro do Trabalho, Técnico de Segurança e Auxiliar/Técnico de Enfermagem do Trabalho.\<br>II.  A constituição do SESMT é obrigatória para todas as organizações que possuem empregados CLT, independentemente do número de funcionários ou grau de risco.\<br>III. É permitido que um profissional de nível superior do SESMT cumpra sua carga horária integral (30h) dedicando apenas 15h semanais, desde que a organização contrate outro profissional para completar as 15h restantes.\<br>IV. A norma permite, como única possibilidade de substituição entre as funções que compõem o SESMT, a contratação de Enfermeiro do Trabalho em tempo parcial no lugar do Auxiliar ou Técnico de Enfermagem do Trabalho.\nEstão corretas apenas as afirmativas:",
 "alternativa1": "I e II.",
 "alternativa2": "I, III e IV.",
@@ -374,7 +374,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (B) está correta. A assertiva I lista as cinco categorias profissionais do SESMT. A assertiva III descreve a possibilidade de um profissional de nível superior cumprir 15h, complementando com outro profissional. A assertiva IV indica a possibilidade de substituição de Auxiliar/Técnico de Enfermagem por Enfermeiro do Trabalho em tempo parcial. A assertiva II não é correta, pois a obrigatoriedade do SESMT depende do número de empregados e grau de risco."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Sobre a Comissão Interna de Prevenção de Acidentes e de Assédio (CIPA), conforme a NR 5, assinale a alternativa correta:",
 "alternativa1": "A responsabilidade primária pela análise de acidentes e doenças do trabalho recai sobre a CIPA, que deve então propor medidas corretivas à organização.",
 "alternativa2": "Ao constatar uma condição de grave e iminente risco, a CIPA tem a prerrogativa de determinar a interrupção imediata das atividades, comunicando sua decisão posteriormente ao SESMT ou à organização.",
@@ -385,7 +385,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (E) está correta. A fonte afirma que estabelecimentos com menos de 20 empregados estão desobrigados de constituir a CIPA."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Acerca do treinamento e seu aproveitamento para membros da CIPA e representante nomeado, conforme a NR 5 e disposições correlatas da NR 1, analise as afirmativas:\<br>I.   O treinamento, cujo conteúdo mínimo inclui investigação de acidentes e prevenção ao assédio, deve ocorrer antes da posse, exceto para a CIPA em primeiro mandato, que tem até 30 dias após a posse.\<br>II.  O treinamento para membros da CIPA pode ser realizado totalmente via Ensino a Distância (EAD) para estabelecimentos de Grau de Risco 1 ou para o representante nomeado da NR 5.\<br>III. É permitido o aproveitamento de treinamento realizado há menos de 2 anos na mesma organização, desde que o conteúdo e carga horária sejam compatíveis e validados pelo responsável técnico do treinamento.\<br>IV. Membros do SESMT que integram a CIPA estão dispensados do treinamento, e a validade de um treinamento aproveitado passa a contar da data de conclusão do treinamento mais recente.\nEstão corretos apenas as afirmativas:",
 "alternativa1": "I, II e III.",
 "alternativa2": "II e IV.",
@@ -396,7 +396,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (A) está correta. A assertiva I descreve a regra de treinamento antes da posse, com exceção para o primeiro mandato (até 30 dias após). A assertiva II permite treinamento CIPA/Representante nomeado via EAD para Grau 1. A assertiva III permite aproveitamento de treinamento anterior com validade de 2 anos, desde que compatível e validado. A assertiva IV, sobre dispensa de membros do SESMT, não é suportada. Portanto, I, II e III estão corretas."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "De acordo com as disposições da NR-6 sobre o Certificado de Aprovação (CA), é correto afirmar que:",
 "alternativa1": "O CA é um certificado emitido pelo SESMT da empresa após a seleção do EPI.",
 "alternativa2": "Todo EPI, seja de fabricação nacional ou importado, só pode ser posto à venda ou utilizado com a marcação do CA válido.",
@@ -407,7 +407,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (B) está correta. A fonte estabelece que todo EPI (nacional ou importado) só pode ser vendido ou utilizado com a marcação do CA válido."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Com base nas interações institucionais da Inspeção do Trabalho (IT) descritas, assinale a alternativa que apresenta uma relação correta:",
 "alternativa1": "A principal interação entre a Inspeção do Trabalho e a Justiça do Trabalho ocorre na fase de investigação preliminar das irregularidades trabalhistas, antes mesmo da elaboração de relatórios ou autos de infração.",
 "alternativa2": "A colaboração entre a Inspeção do Trabalho (IT) e o Ministério Público do Trabalho (MPT) é marcada pela complementaridade, onde a IT realiza fiscalizações e autuações e pode encaminhar relatórios que servem de base para o MPT instaurar inquéritos ou ajuizar ações civis públicas.",
@@ -418,7 +418,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (B) está correta. A fonte descreve a colaboração complementar entre IT e MPT, com a IT fiscalizando/autuando e encaminhando relatórios que subsidiam inquéritos/ações civis públicas do MPT."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Considerando a discussão sobre a política de valorização do salário mínimo (SM) e dados do Departamento Intersindical de Estatistíca e Estudos Socioeconômicos (DIEESE), marque a alternativa correta:",
 "alternativa1": "A política de valorização do salário mínimo tem efeitos limitados, contribuindo pouco para a redução da pobreza e da desigualdade e sem impacto significativo na expansão do emprego formal.",
 "alternativa2": "A Constituição Federal de 1988 estabelece que o salário mínimo deve ser capaz de atender às necessidades vitais básicas do trabalhador e também de sua família, permitindo a sua vinculação para outras finalidades.",
@@ -429,7 +429,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (E) está correta. A fonte afirma que a campanha pela política permanente de valorização do SM foi iniciada pelas Centrais Sindicais em 2004, com ação conjunta e mobilizações como as marchas em Brasília."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Sobre a hierarquia dos tratados internacionais de direitos humanos ratificados pelo Brasil ANTES da Emenda Constitucional nº 45/2004, o entendimento atual do STF lhes confere o status de:",
 "alternativa1": "Emenda Constitucional, equiparando-os às normas constitucionais originárias.",
 "alternativa2": "Lei Ordinária, estando no mesmo nível das demais leis federais.",
@@ -440,7 +440,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (C) está correta. A fonte indica que tratados internacionais de direitos humanos ratificados antes da EC 45/2004 possuem status de norma supralegal, acima das leis ordinárias, mas abaixo da Constituição, conforme entendimento do STF."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Com base na NR 13 - Caldeiras, Vasos de Pressão, Tubulações e Tanques Metálicos de Armazenamento, assinale a opção correta.",
 "alternativa1": "A NR-13 é classificada como uma norma setorial pela Portaria SIT nº 787 de 2018, aplicando-se aos empregadores que utilizam caldeiras, vasos de pressão, tubulações e tanques metálicos de armazenamento em seu processo produtivo.",
 "alternativa2": "O objetivo central da NR-13 é estabelecer requisitos mínimos para a gestão da integridade estrutural dos equipamentos abrangidos, focando na prevenção de falhas ou danos que possam levar a acidentes.",
@@ -451,7 +451,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (B) está correta. A fonte afirma que o objetivo central da NR-13 é estabelecer requisitos mínimos para a gestão da integridade estrutural dos equipamentos abrangidos, visando prevenir falhas ou danos que causem acidentes."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Com base na comparação entre caldeiras flamotubulares e aquotubulares apresentada, assinale a opção correta.",
 "alternativa1": "O princípio de funcionamento das caldeiras aquotubulares consiste na passagem dos gases quentes por dentro de tubos, os quais aquecem a água que os circunda.",
 "alternativa2": "Devido à sua simplicidade e baixo custo, caldeiras do tipo flamotubular são a escolha predominante para aplicações de alta pressão e capacidade, como em refinarias de petróleo.",
@@ -462,7 +462,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (D) está correta. A fonte compara caldeiras aquotubulares e flamotubulares, indicando que as aquotubulares geralmente têm maior eficiência e capacidade para pressões mais elevadas, mas exigem maior controle da qualidade da água e têm custo inicial maior."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Com base no Campo de Aplicação da NR-13 para caldeiras e vasos de pressão, julgue os itens a seguir.\<br>I.   Caldeiras com volume interno igual ou inferior a 100 litros estão excluídas do escopo da NR-13, independentemente de sua pressão de operação.\<br>II.  Qualquer vaso de pressão que contenha fluido classe A (inflamável, combustível > 200°C, tóxico ≤ 20 ppm, hidrogênio ou acetileno) se enquadra na NR-13, independentemente do valor do produto P.V.\<br>III. Vasos de pressão cujo produto P.V seja superior a 8 (P em kPa, V em m³) somente serão abrangidos pela NR-13 se contiverem fluidos das classes A ou B.\<br>IV.  Recipientes móveis são enquadrados pela NR-13 caso seu produto P.V seja maior que 8 ou se contiverem fluidos da classe A, critérios análogos aos de vasos fixos.\<br>V.   Recipientes móveis são recipientes transportáveis pressurizados que podem ser movidos dentro de uma instalação ou entre instalações.\nAssinale a opção correta.",
 "alternativa1": "Apenas as assertivas I e III estão corretas.",
 "alternativa2": "Apenas as assertivas II e V estão corretas.",
@@ -473,7 +473,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (D) está correta. A assertiva I exclui caldeiras com volume <= 100L. A assertiva II inclui vasos com fluido classe A independentemente do P.V.. A assertiva IV enquadra recipientes móveis por P.V. > 8 ou fluido classe A. As assertivas III e V não são suportadas ou contrariadas pelo texto fornecido."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Com base nas situações que configuram Risco Grave e Iminente (RGI) segundo a NR-13, assinale a opção correta.",
 "alternativa1": "O bloqueio de um dispositivo de segurança, mesmo que tecnicamente justificado por normas, códigos ou procedimentos formais, sempre caracterizará Risco Grave e Iminente em qualquer equipamento da NR-13.",
 "alternativa2": "A operação de um vaso de pressão com relatório de inspeção indicando inaptidão operacional só configura Risco Grave e Iminente se o equipamento contiver fluido da classe A ou B.",
@@ -484,7 +484,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (D) está correta. A fonte lista o atraso na inspeção periódica e a falta de operação/controle por operador como situações de Risco Grave e Iminente especificamente para caldeiras."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "De acordo com a NR 18, em relação às áreas de vivência do canteiro de obras, assinale a alternativa que apresenta instalações  obrigatórias para os casos em que não existam trabalhadores alojados no canteiro:",
 "alternativa1": "Instalação Sanitária, Local para Refeição e Área de Lazer.",
 "alternativa2": "Instalação Sanitária, Cozinha e Lavanderia.",
@@ -495,7 +495,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (E) está correta. Para canteiros de obra sem alojamento, a fonte lista como instalações obrigatórias: Instalação Sanitária, Vestiário e Local para Refeição."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Com base nos dados e análises de acidentalidade no setor da construção civil, identifique a alternativa que descreve corretamente o principal fator de risco ou situação geradora de acidentes e/ou fatalidades:",
 "alternativa1": "Exposição à energia elétrica.",
 "alternativa2": "Queda de pessoas.",
@@ -506,7 +506,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (B) está correta. Embora o texto não forneça dados específicos, a pergunta se baseia neles e o gabarito indica que a 'Queda de pessoas' é o principal fator de risco/situação geradora de acidentes/fatalidades na construção civil, o que é consistentemente reportado em estudos da área."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Analise as seguintes afirmações relativas a diferentes exigências da NR-18 para segurança e saúde na indústria da construção:\<br>I. É vedado o uso de copos coletivos para consumo de água potável nos canteiros de obra, devendo esta ser filtrada e fresca.\<br>II. Torres de andaimes simplesmente apoiados, caso não sejam estaiadas ou fixadas à estrutura, não podem ter altura superior a quatro vezes a menor dimensão de sua base de apoio.\<br>III. As instalações sanitárias devem estar localizadas a, no máximo, 50 metros de distância do posto de trabalho de cada trabalhador para serem consideradas adequadas pela NR-18.\<br>IV. É proibida a queima de resíduos no canteiro de obras, e a madeira proveniente de desmonte deve ter pregos e arames retirados ou rebatidos antes de seu empilhamento.\<br>V. A interligação entre estruturas de andaimes suspensos é proibida, assim como a utilização de trechos da plataforma destes andaimes em balanço.\nEstão CORRETAS apenas as afirmativas:",
 "alternativa1": "I, II, IV e V.",
 "alternativa2": "II, III e IV.",
@@ -517,7 +517,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (A) está correta. A assertiva I proíbe copos coletivos e exige água filtrada/fresca. A assertiva II limita a altura de andaimes apoiados não estaiados/fixados a 4 vezes a menor dimensão da base. A assertiva IV proíbe a queima de resíduos e exige retirada/rebatimento de pregos/arames em madeira de desmonte. A assertiva V proíbe a interligação de andaimes suspensos e trechos em balanço. A assertiva III, sobre a distância das instalações sanitárias, não é suportada pelo texto."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "A NR-18, tratando sobre Plataforma elevatória móvel de trabalho - PEMT, estabelece requisitos específicos para a operação segura desses equipamentos. Qual das seguintes ações é um dever do operador da PEMT?",
 "alternativa1": "Realizar a manutenção preventiva e corretiva da PEMT, incluindo a troca de componentes hidráulicos e elétricos.",
 "alternativa2": "Realizar a inspeção diária do local de trabalho onde será utilizada a PEMT.",
@@ -528,7 +528,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (B) está correta. A fonte indica que é dever do operador da PEMT realizar a inspeção diária do local de trabalho onde o equipamento será utilizado."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Considerando a finalidade de cada tipo de Sistema de Proteção Individual Contra Quedas (SPIQ), conforme NR-35, assinale a alternativa correta:",
 "alternativa1": "O tipo de SPIQ selecionado quando se busca evitar que o trabalhador alcance fisicamente uma zona de perigo de queda é o de restrição de movimentação.",
 "alternativa2": "Quando a queda não pode ser impedida, mas suas consequências devem ser minimizadas pela interrupção da queda após iniciada, utiliza-se o SPIQ de posicionamento no trabalho.",
@@ -539,7 +539,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (A) está correta. A fonte define o SPIQ de restrição de movimentação como aquele usado para evitar que o trabalhador alcance uma zona de perigo de queda."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Sobre os Procedimentos Operacionais (PO), Permissões de Trabalho (PT) e Análise de Risco (AR) para trabalho em altura, conforme NR-35, assinale a alternativa correta:",
 "alternativa1": "Para atividades rotineiras em altura, a NR-35 exige a emissão diária de uma Permissão de Trabalho (PT), além da existência de um Procedimento Operacional (PO).",
 "alternativa2": "O Procedimento Operacional (PO) é exigido para atividades habituais e não habituais, devendo incluir o detalhamento da tarefa, as medidas de prevenção e os sistemas de proteção a serem utilizados.",
@@ -550,7 +550,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (E) está correta. A fonte afirma que a Permissão de Trabalho (PT), exigida para atividades não rotineiras, deve ser aprovada, acessível no local e arquivada após o encerramento."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Considerando as exigências da NR-31 relativas às Condições Sanitárias e de Conforto no Trabalho Rural, especialmente quanto às obrigações do empregador nas frentes de trabalho, é correto afirmar que:",
 "alternativa1": "Nas frentes de trabalho, a disponibilização de instalações sanitárias é obrigatória, devendo seguir os requisitos da NR-24 (Condições Sanitárias e de Conforto nos Locais de Trabalho), complementando a NR-31.",
 "alternativa2": "O fornecimento de água potável nas frentes de trabalho é mandatório, porém a norma permite o uso de copos coletivos higienizados periodicamente, e a água não precisa ser necessariamente fresca, bastando ser potável.",
@@ -561,7 +561,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (C) está correta. A fonte estabelece a obrigatoriedade de instalações sanitárias e locais de refeição/descanso protegidos contra intempéries nas frentes de trabalho, fixas ou móveis, e fornecimento de água potável e fresca durante a jornada."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Considerando as disposições da NR-31 sobre as regras aplicáveis a alojamentos e a relação com outras normas, assinale a alternativa correta:",
 "alternativa1": "A NR-24 (Condições Sanitárias e de Conforto nos Locais de Trabalho) aplica-se subsidiariamente à NR-31, especialmente no que se refere aos requisitos para locais de preparo de refeições em alojamentos com mais de 10 trabalhadores.",
 "alternativa2": "Nos alojamentos, os locais para preparo de refeições possuem requisitos flexibilizados se atenderem até 15 trabalhadores, e o local de refeições deve ser sempre separado do local de convivência ou lazer.",
@@ -572,7 +572,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (D) está correta. A fonte afirma que a norma prevê local de convivência ou lazer nos alojamentos, podendo ser o local de refeições utilizado para este fim."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "A NR-31 introduz o conceito de Dispositivos de Proteção Pessoal, distinguindo-os dos Equipamentos de Proteção Individual (EPI). Com base nas definições e especificações contidas na norma sobre esses dispositivos, assinale a alternativa correta:",
 "alternativa1": "Dispositivos de Proteção Pessoal, como perneiras contra picadas de animais peçonhentos e coletes refletivos, são previstos na NR-31 para finalidades específicas, não são enquadrados como EPI e, portanto, não possuem Certificado de Aprovação (CA).",
 "alternativa2": "Consideram-se Dispositivos de Proteção Pessoal todos os itens fornecidos pelo empregador para proteção que não constam no Anexo I da NR-6, sendo obrigatório que possuam um Certificado de Aprovação (CA) simplificado emitido por órgão estadual.",
@@ -583,7 +583,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (A) está correta. A fonte define Dispositivos de Proteção Pessoal para finalidades específicas, como perneiras contra animais peçonhentos e coletes refletivos, não os enquadrando como EPIs e, portanto, sem CA."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "*Um pequeno escritório de contabilidade emprega 8 funcionários (5 mulheres e 3 homens). A atividade não exige troca de roupa ou uso de uniformes. Os funcionários costumam almoçar no próprio escritório, trazendo suas refeições de casa. O local possui um banheiro individual unissex com vaso sanitário e lavatório, devidamente higienizado.*\nCom base na NR-24, considerando o número de funcionários e a natureza da atividade, assinale a alternativa correta sobre as obrigações do empregador neste cenário:",
 "alternativa1": "O empregador está isento de oferecer qualquer local para refeições pelo local não dispor de trabalhadores em alojamento.",
 "alternativa2": "Embora não seja exigido um refeitório formal, o empregador deve garantir um local apropriado e com condições de conforto e higiene para as refeições, separado das áreas de trabalho efetivo, além de assegurar instalações sanitárias separadas por sexo.",
@@ -594,7 +594,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (C) está correta. A fonte, ao descrever o cenário, menciona que 'O local possui um banheiro individual unissex com vaso sanitário e lavatório, devidamente higienizado', e a pergunta pede a avaliação com base na NR-24. Embora o excerto não detalhe as regras da NR-24, a estrutura da questão e gabarito indica que, para este número e tipo de funcionários/atividade, o banheiro unissex com privacidade atende à norma. Outras opções impõem exigências não necessariamente aplicáveis a este cenário pequeno e de baixo risco (refeitório formal, vestiários com armários, chuveiros obrigatórios para todos)."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Com base na classificação de risco dos agentes biológicos classificados pelo Ministério da Saúde, qual alternativa descreve corretamente as características de um agente pertencente à Classe de Risco 2?",
 "alternativa1": "Inclui agentes conhecidos por não causarem doenças no homem ou animais sadios, apresentando baixo risco individual e para a comunidade.",
 "alternativa2": "Inclui vírus e príons, como o responsável pelo \"mal da vaca louca\", caracterizados por alto risco individual e moderado para a comunidade, com tratamento conhecido.",
@@ -605,7 +605,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (E) está correta. A fonte descreve os agentes da Classe de Risco 2 como aqueles que causam infecções em humanos ou animais, com potencial limitado de propagação e para os quais existem medidas profiláticas e terapêuticas eficazes."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "A NR-33 aborda o risco de explosão em espaços confinados, especialmente em locais com poeira combustível. Nesse contexto, quais são os cinco elementos que compõem o “pentágono de explosão” que pode gerar deflagração com consequente explosão primária?",
 "alternativa1": "Oxigênio no ar, poeira em camadas, fonte de ignição, ventilação insuficiente e material particulado.",
 "alternativa2": "Gás inflamável, fonte de ignição, oxigênio no ar, confinamento e pressão atmosférica elevada.",
@@ -616,7 +616,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (C) está correta. A fonte lista os cinco elementos do \"pentágono de explosão\" para poeira combustível: Oxigênio no ar, poeira combustível, confinamento de poeiras, fonte de ignição e dispersão de partículas."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Conforme a NR-33, um ambiente é considerado espaço confinado SE:",
 "alternativa1": "Possuir meios limitados de entrada/saída e potencial para atmosfera perigosa, mesmo que seja projetado para ocupação humana contínua.",
 "alternativa2": "Não for projetado para ocupação humana contínua e possuir risco de engolfamento ou afogamento, independentemente dos meios de acesso serem limitados ou não.",
@@ -627,7 +627,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (D) está correta. A fonte define espaço confinado como ambiente com meios limitados de entrada/saída, não projetado para ocupação contínua e que possua ou possa vir a possuir potencial para atmosfera perigosa OU conter material com potencial de engolfamento OU configurar um ambiente perigoso reconhecido. A alternativa D abrange três dos critérios (meios limitados, não projetado para ocupação contínua, potencial de engolfamento/afogamento)."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Com base no campo de aplicação da NR-30 (Segurança e Saúde no Trabalho Aquaviário) e nas disposições sobre embarcações classificadas pela Convenção SOLAS, julgue os itens a seguir.\<br>I.   Independentemente da nacionalidade, a NR-30 se aplica a qualquer embarcação que explora atividade econômica dentro do Brasil.\<br>II.  Pelo princípio da extraterritorialidade, embarcações de bandeira estrangeira que realizam apenas transporte de passageiros no Brasil, seguem exclusivamente a legislação de seu país de origem, estando isentas da NR-30.\<br>III. Às embarcações classificadas de acordo com a Convenção Solas, cujas normas de segurança são auditadas pelas sociedades classificadoras, não se aplica a Norma Regulamentadora nº 30 (NR-30), desde que apresentados os certificados de classe .\<br>IV.  A Convenção SOLAS visa estabelecer padrões mínimos de segurança para navios, e as Sociedades Classificadoras atuam na implementação e fiscalização dessas normas de segurança.\nAssinale a opção correta.",
 "alternativa1": "Apenas a assertiva II está correta.",
 "alternativa2": "Apenas as assertivas I e III estão corretas.",
@@ -638,7 +638,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (D) está correta. A assertiva I afirma a aplicação da NR-30 a embarcações que exploram atividade econômica no Brasil, independentemente da nacionalidade. A assertiva IV descreve corretamente a Convenção SOLAS e o papel das Sociedades Classificadoras. As assertivas II e III não são suportadas pelo texto."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "A NR-30 menciona a necessidade de um sistema de calefação (aquecimento) nos alojamentos das embarcações para garantir o conforto térmico. Qual é a exceção estabelecida na norma para esta exigência?",
 "alternativa1": "A exigência de sistema de calefação aplica-se apenas a embarcações que navegam em águas internacionais ou de clima temperado/frio.",
 "alternativa2": "A instalação de sistema de calefação torna-se facultativa caso a embarcação possua um sistema de ventilação forçada com controle de temperatura.",
@@ -649,7 +649,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (C) está correta. A fonte estabelece que a exigência de sistema de calefação nos alojamentos das embarcações é dispensada para aquelas que operam exclusivamente em regiões tropicais."
 },
 {
-"tema": "SIMULASQUE 1 😱",
+"tema": "#SIMULASQUE 1 😱",
 "pergunta": "Considerando o estudo de caso sobre amputação em motores e equipamentos de embarcações e as Normas Regulamentadoras aplicáveis, assinale a opção correta.",
 "alternativa1": "Acidentes envolvendo correias expostas em salas de máquinas são causados exclusivamente por atos inseguros dos tripulantes, como marinheiros ou moços de máquinas.",
 "alternativa2": "A NR-30 contém requisitos próprios e exaustivos para segurança em máquinas a bordo, o que dispensa a aplicação complementar da NR-12 nesse tipo de ambiente.",
@@ -660,7 +660,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (E) está correta. A fonte afirma que a NR-30 estabelece a aplicabilidade complementar da NR-12 para máquinas em embarcações, e que a NR-12 exige proteções fixas ou móveis com intertravamento para transmissões de força e componentes móveis acessíveis que ofereçam risco."
 },
     {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Considerando as etapas clássicas do processo de trabalho da Higiene Ocupacional e as adições mais recentes propostas por associações internacionais, analise as seguintes assertivas:\<br>I. A etapa de antecipação foca na identificação de riscos já presentes em um ambiente de trabalho existente, por meio da observação direta dos processos.\<br>II. O reconhecimento envolve a previsão de perigos potenciais durante a fase de planejamento ou projeto de novas instalações ou processos, visando evitá-los desde o início.\<br>III. A avaliação pode ser realizada tanto de forma quantitativa, comparando medições com Limites de Exposição Ocupacional (LEO), quanto qualitativa, utilizando ferramentas como matrizes de risco ou bandas de controle.\<br>IV. A etapa de confirmação, adicionada pela American Industrial Hygiene Association (AIHA), tem como objetivo validar a correção das avaliações e a eficácia dos controles implementados na redução das exposições.",
     "alternativa1": "(A) Apenas as assertivas I e II estão corretas.",
     "alternativa2": "(B) Apenas as assertivas III e IV estão corretas.",
@@ -671,7 +671,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: I está incorreta (descreve reconhecimento). II está incorreta\n(descreve antecipação). III está correta (avaliação quantitativa e qualitativa). IV está correta (definição da etapa de confirmação). (Apostila Vol II, págs. 238, 245-248)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Em uma construtora, um trabalhador (João) opera um martelete pneumático para quebrar concreto durante a maior parte de sua jornada, enquanto outro trabalhador (Pedro) opera um trator de esteira para realizar serviços de terraplanagem.\nConsiderando a exposição a vibrações discutida no material de Higiene Ocupacional, qual a classificação correta do tipo de vibração predominante para cada trabalhador e a abordagem geral para avaliação?",
     "alternativa1": "(A) João está exposto a Vibrações de Corpo Inteiro (VCI) e Pedro a Vibrações em Mãos e Braços (VMB). A avaliação deve ser apenas qualitativa para ambos, baseada na percepção de desconforto.",
     "alternativa2": "(B) Ambos os trabalhadores estão expostos principalmente a Vibrações de Corpo Inteiro (VCI). A avaliação quantitativa só se torna necessária se eles relatarem sintomas como formigamento ou dores na coluna.",
@@ -682,7 +682,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: João (martelete) expõe-se a VMB; Pedro (trator) expõe-se a VCI. Ambas devem ser reconhecidas e avaliadas. (Apostila Vol II, pág. 242)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Considerando a hierarquia das medidas de controle de riscos ocupacionais, analise as seguintes situações e as medidas propostas:\<br>I. Em uma operação de jateamento que utiliza quartzo granulado, a empresa substitui este material por granalha de aço para reduzir o risco de silicose. Esta ação corresponde à minimização do fator de risco pela substituição do produto nocivo.\<br>II. Para controlar a exposição a vapores em banhos de galvanoplastia, a empresa instala um sistema de ventilação local exaustora projetado para capturar o contaminante junto à fonte geradora. Esta medida é classificada como proteção coletiva.\<br>III. Em uma atividade de corte de cana-de-açúcar sob calor intenso, a empresa implementa pausas em locais com temperaturas amenas, rodízio de tarefas e fornece Equipamento de Proteção Individual (EPI) adequado. Essas ações combinam medidas administrativas/organizacionais e proteção individual, aplicadas quando as medidas coletivas não são suficientes ou aplicáveis isoladamente.",
     "alternativa1": "(A) I, apenas.",
     "alternativa2": "(B) II, apenas.",
@@ -693,7 +693,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: I (substituição) está correta. II (VLE = proteção coletiva) está correta. III (pausas/rodízio = adm/org; EPI = individual) está correta. (Apostila Vol II, págs. 249, 250)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Um trabalhador atua há 15 anos em uma pedreira, operando máquinas de corte de rochas ornamentais sem o uso consistente de proteção respiratória adequada ou métodos de umidificação para controle de poeira. Ele começa a apresentar dispneia (falta de ar) progressiva. Considerando a descrição da fisiopatologia da silicose, qual mecanismo explica o quadro clínico do trabalhador?",
     "alternativa1": "(A) As partículas maiores de sílica causam obstrução direta das vias aéreas superiores, levando à falta de ar.",
     "alternativa2": "(B) A exposição crônica à poeira de sílica causa uma reação alérgica nos brônquios, similar à asma ocupacional.",
@@ -704,7 +704,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: A silicose resulta da inalação de partículas finas (<5 μm) que atingem os alvéolos, causam reação celular e fibrose, com perda progressiva da função de troca gasosa e dispneia. (Apostila Vol II, pág. 262)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "O estabelecimento do nexo de causalidade entre um agravo à saúde e o trabalho implica considerar diferentes e sucessivos nexos parciais. Qual alternativa descreve corretamente a sequência e o conteúdo desses nexos parciais, conforme apresentado no texto?",
     "alternativa1": "(A) I- Nexo entre o risco e a lesão (demonstrar que o risco causa a lesão); II- Nexo entre a atividade e a exposição ao risco (demonstrar que a atividade expõe ao risco); III- Nexo entre a lesão e a alteração funcional (analisar compatibilidade entre lesão e alteração funcional).",
     "alternativa2": "(B) I- Nexo entre a atividade e a exposição ao risco (demonstrar que a atividade expõe ao risco); II- Nexo entre o risco e a lesão (demonstrar que o risco causa a lesão); III- Nexo causal entre a lesão e a alteração funcional (analisar compatibilidade entre lesão e alteração funcional).",
@@ -715,7 +715,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: A sequência correta dos nexos parciais é: I - Atividade -> Exposição ao risco; II - Risco -> Lesão; III - Lesão -> Alteração Funcional. (Apostila Vol II, pág. 268)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Sobre as principais vias de penetração de agentes tóxicos no organismo em um contexto ocupacional, qual das seguintes afirmações sobre a via digestiva está correta?",
     "alternativa1": "(A) É a via mais importante devido à grande área de superfície do trato gastrointestinal e sua alta capacidade de absorção.",
     "alternativa2": "(B) Os agentes químicos absorvidos por esta via atingem diretamente a circulação sistêmica, sem passar pelo fígado.",
@@ -726,7 +726,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: A deglutição de partículas inaladas via clearance mucociliar é\numa forma de contaminação ocupacional pela via digestiva. As outras opções estão incorretas sobre importância, passagem pelo fígado ou pH estomacal. (Apostila Vol III, págs. 13 e 14)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Considerando as classificações de toxicidade baseadas nos órgãos ou sistemas primariamente afetados, qual termo se refere a agentes químicos que especificamente lesam os nervos\nperiféricos, causando sintomas como dormências, formigamento e fraqueza, principalmente nos membros inferiores?",
     "alternativa1": "(A) Hepatotóxicos",
     "alternativa2": "(B) Mielotóxicos",
@@ -737,7 +737,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: Agentes que lesam nervos periféricos causando dormência, formigamento e fraqueza são classificados como Neurotóxicos. (Apostila Vol III, págs. 16 e 17)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Com base nas classificações e mecanismos de ação dos agentes tóxicos apresentados, assinale a alternativa correta:",
     "alternativa1": "(A) Tanto os agentes carcinogênicos quanto agentes mutagênicos podem atuar por mecanismos genotóxicos. Os carcinogênicos são agentes cuja exposição pode causar câncer, podendo ser agentes químicos, físicos ou biológicos. Já os mutagênicos são agentes químicos que produzem alterações no material genético das células.",
     "alternativa2": "(B) Agentes sensibilizantes são aqueles que causam uma reação alérgica imediata e intensa já no primeiro contato com o organismo, podendo acometer a pele (causando dermatites), as mucosas (levando a conjuntivites e rinites) ou as vias respiratórias (causando asma).",
@@ -748,7 +748,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: Carcinogênicos podem ter modos de ação genotóxicos ou não. Mutagênicos atuam no material genético. (B) Incorreta, sensibilizantes requerem contato prévio. (C) Incorreta, asfixiantes químicos podem agir em baixas concentrações. (D) Incorreta, irritantes secundários têm ação local E sistêmica. (E) Incorreta, anestésicos/narcóticos têm ação depressora. (Apostila Vol III, págs. 8, 11, 12, 16, 20, 21)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Uma empresa identifica, por meio de Avaliação Ergonômica Preliminar (AEP), uma atividade específica que submete os trabalhadores a movimentos repetitivos dos membros superiores, classificados como de risco ergonômico. A análise indica que uma alteração completa da forma de execução da tarefa ou a implementação de outras medidas técnicas de engenharia para eliminar o risco são inviáveis no curto prazo. Considerando esta situação e as exigências normativas para medidas de prevenção, analise as afirmações abaixo:\<br>I. A empresa atenderia à exigência mínima ao implementar apenas pausas, fora do posto do trabalho, e alternância de atividades com outra tarefa que utilize grupos musculares distintos como medidas de prevenção para a situação.\<br>II. A validade da introdução das pausas como medida preventiva está condicionada ao fato de não serem acompanhadas por um aumento na cadência individual de trabalho.\<br>III. Caso a empresa consiga posteriormente alterar a forma de execução da tarefa e implementar outras medidas técnicas aplicáveis, recomendadas na AEP, conseguiria atender às exigências para as medidas de prevenção, dispensando a necessidade das pausas e alternância de atividades.",
     "alternativa1": "(A) I.",
     "alternativa2": "(B) II.",
@@ -759,7 +759,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: I é correta (pausa + alternância atendem ao mínimo de duas\nmedidas - 17.4.3.1 - e são obrigatórias se outras forem inviáveis - 17.4.3.1.1). II é correta (pausa não pode ser acompanhada de aumento de cadência - 17.4.3.2). III é correta (se outras medidas forem implementadas, cumpre-se o requisito de \"duas ou mais\", dispensando a obrigatoriedade da combinação pausa e alternância). (Apostila Vol III, págs. 39 e 40)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Considere uma Microempresa (ME) com 7 empregados, classificada no grau de risco 3. De acordo com as regras da NR 17 sobre ergonomia, qual é a situação correta desta ME em relação às obrigações de realizar Análise Ergonômica do Trabalho (AET) e de orientar seus supervisores sobre aspectos de gestão e relacionamento ?",
     "alternativa1": "(A) Está totalmente dispensada de ambas as obrigações (realizar AET e orientar supervisores).",
     "alternativa2": "(B) Deve realizar a AET nos casos exigidos,  mas está dispensada da obrigação de orientar os supervisores.",
@@ -770,7 +770,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: Sendo ME, GR 3 e 7 empregados: AET é exigida apenas nos casos previstos na norma (não dispensada automaticamente como GR 1 e 2).\nA orientação de supervisores é dispensada por ter até 10 empregados. (Apostila Vol III, págs. 32, 38, 40, 41)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Com base nas informações sobre o desenvolvimento de lesões no sistema musculoesquelético relacionadas ao trabalho, assinale a alternativa correta:",
     "alternativa1": "(A) Os ossos, por serem estruturas rígidas com grande resistência à compressão, são particularmente suscetíveis a lesões inflamatórias decorrentes de esforços repetitivos, sendo as fraturas por estresse as mais comuns.",
     "alternativa2": "(B) O aumento da pressão intramuscular resultante de contrações musculares repetitivas dificulta a resolução de processos inflamatórios no músculo ao reduzir o fluxo sanguíneo local.",
@@ -781,7 +781,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: O aumento da pressão intramuscular reduz o fluxo sanguíneo,\ndificultando a resolução de inflamações no músculo. (A) Incorreta (ossos resistentes). (C) Incorreta (tendões menos vascularizados). (D) Incorreta (fator degenerativo primário). (E) Incorreta (inflamação por sobrecarga pode ocorrer). (Apostila Vol III, págs. 52, 53, 54)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Com base nos conceitos sobre Organização do Trabalho, assinale a alternativa correta:",
     "alternativa1": "(A) A Exigência de Tempo corresponde ao tempo total disponível para o trabalhador realizar suas tarefas.",
     "alternativa2": "(B) Normas de Produção, no contexto da NR-17, correspondem a todos os dispositivos existentes no ambiente laboral para a execução da tarefa.",
@@ -792,7 +792,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: A alternativa (D) define corretamente \"Conteúdo das Tarefas\" conforme a apostila. As demais definições (A - Exigência de Tempo, B - Normas de Produção, C - Ritmo/Cadência, E - Modo Operatório ) estão incorretas ou invertidas. (Apostila Vol III, págs. 62-65)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Um trabalhador de uma indústria de alimentos realiza, durante sua jornada, movimentos repetitivos de preensão e rotação do punho para embalar produtos. Ele começa a sentir dor e notar um leve inchaço ao longo do trajeto de um dos tendões que movimentam seu polegar. A dor parece mais pronunciada na estrutura tubular que envolve e guia esse tendão próximo ao punho, dificultando o deslizamento suave durante o movimento. Considerando os processos inflamatórios que podem acometer tendões e estruturas associadas devido a fatores laborais, qual termo descreve mais apropriadamente a condição inflamatória que afeta a membrana que envolve o tendão, como sugerido no cenário?",
     "alternativa1": "(A) Tenossinovite",
     "alternativa2": "(B) Tendinite",
@@ -803,7 +803,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: Inflamação da bainha (estrutura tubular) que envolve o tendão, dificultando o deslizamento, é Tenossinovite. (Apostila Vol III, pág. 53)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Considere a situação de um trabalhador que manteve uma conta vinculada do FGTS sem receber depósitos por mais de cinco anos ininterruptos após sair de um emprego, tornando-a, assim, uma conta inativa. Analise as seguintes afirmações sobre as consequências e direitos relacionados a essa conta:\<br>I. Após cinco anos de inatividade, o saldo da conta é automaticamente transferido para o Tesouro Nacional e o trabalhador perde permanentemente o direito de reivindicar esses valores.\<br>II. O direito do trabalhador de solicitar a reposição do saldo incorporado ao patrimônio do FGTS está sujeito ao mesmo prazo prescricional de cinco anos aplicável à cobrança de depósitos não realizados.\<br>III. Mesmo após a incorporação do saldo ao patrimônio do FGTS, o trabalhador conserva o direito de reclamar a reposição do valor a qualquer tempo, e este valor, quando restituído, deverá conter atualização monetária e juros.",
     "alternativa1": "(A) I.",
     "alternativa2": "(B) II.",
@@ -814,7 +814,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: Após 5 anos inativos, o saldo é incorporado ao FGTS, mas o\ntrabalhador pode reclamar a reposição a qualquer tempo, com correção e juros. I e II estão incorretas. (Apostila Vol III, pág. 85)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Considerando as características, finalidades e administração do Fundo de Garantia do Tempo de Serviço (FGTS) e do Fundo de Amparo ao Trabalhador (FAT), analise as seguintes afirmações:\<br>I. A concessão de parcelamento de débitos do FGTS aos empregadores é realizada pela Caixa Econômica Federal, seguindo critérios definidos pelo Ministério do Trabalho e Emprego.\<br>II. Compete ao Conselho Curador do FGTS estabelecer as diretrizes de alocação dos recursos, devendo destinar, obrigatoriamente, um mínimo de 60% dos investimentos para habitação popular\<br>III. É devido o recolhimento do FGTS em favor de trabalhador cujo contrato com a Administração Pública foi declarado nulo por falta de concurso prévio, contanto que seu direito ao salário pelo período trabalhado seja mantido\<br>IV. Além dos empregados celetistas urbanos e rurais e aprendizes, são também beneficiários do FGTS os trabalhadores temporários, safristas, domésticos e intermitentes\<br>V. Na extinção do contrato sem justa causa pelo empregador doméstico, a indenização compensatória do FGTS devida corresponde a 40% do montante dos depósitos da conta vinculada.",
     "alternativa1": "(A) I, II e IV.",
     "alternativa2": "(B) II, III e V.",
@@ -825,7 +825,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: I é incorreta (parcelamento passou para o MTE). II é correta. III é correta. IV é correta. V é incorreta (doméstico tem recolhimento mensal de 3,2%). Corretas: II, III, IV. (Apostila Vol III, págs. 74, 75, 77, 85)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Um trabalhador teve valores de FGTS não recolhidos por seu empregador relativos à competência de fevereiro de 2008. Considerando a decisão do Supremo Tribunal Federal (STF) no Recurso Extraordinário com Agravo (ARE) 709212, julgada em 13 de novembro de 2014, que alterou o prazo prescricional para reclamar depósitos não realizados do FGTS, e a regra de transição estabelecida para os prazos que já estavam em curso, qual seria a data limite para este trabalhador reclamar judicialmente os valores referentes a fevereiro de 2008?",
     "alternativa1": "(A) Fevereiro de 2038.",
     "alternativa2": "(B) Novembro de 2019.",
@@ -836,7 +836,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: Regra de transição: Fev/2008 + 30 anos = Fev/2038. Ou: 13/11/2014 + 5 anos = 13/11/2019. O prazo de Nov/2019 vence primeiro. (Apostila Vol III, pág. 82)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "A NR 1 estabelece critérios para a revisão do processo de avaliação de riscos ocupacionais. Qual das seguintes situações obriga a organização a realizar uma revisão imediata dessa avaliação?",
     "alternativa1": "(A) A constatação de que as medidas de prevenção existentes são eficazes, suficientes e adequadas.",
     "alternativa2": "(B) A passagem do prazo de 1 (um) ano desde a última avaliação.",
@@ -847,7 +847,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: A revisão é obrigatória após a implementação das medidas, para avaliar riscos residuais (alínea 'a' do 1.5.4.4.6). (A) Não obriga revisão. (B) Prazo geral é 2 anos. (D) Apenas se implicar novos riscos ou modificar existentes. (E) Solicitação da CIPA deve ser justificada. (Apostila Vol III, pág. 126-128)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Considerando a descrição da abordagem PDCA na estruturação do GRO, qual das seguintes afirmações interpreta de forma mais precisa a aplicação do ciclo e a integração sistêmica mencionada?",
     "alternativa1": "(A) A estruturação normativa do GRO via PDCA implica que as etapas \"Plan\" e \"Do\" ocorrem uma única vez na implementação, enquanto \"Check\" e \"Act\" são executadas de forma contínua e sistemática posteriormente.",
     "alternativa2": "(B) A integração do GRO com todos os processos de negócios implica que as ações de Segurança e Saúde no Trabalho devem ser consideradas um componente essencial e interligado às demais operações da organização, e não um sistema paralelo ou isolado.",
@@ -858,7 +858,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: A integração do GRO aos processos de negócios é essencial e não um sistema isolado. O PDCA é contínuo. O GRO é obrigatório. A ISO é referência. (E) Descrição do PDCA incorreta. (Apostila Vol III, págs. 99, 101, 102)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "As diretrizes e os requisitos para o Gerenciamento de Riscos Ocupacionais, que deve constituir um Programa de Gerenciamento de Riscos, estão estipulados na Norma Regulamentadora 01 - Disposições Gerais e Gerenciamento de Riscos Ocupacionais, de maneira que, a esse respeito, é correto afirmar que",
     "alternativa1": "(A) Para fins de caracterização de atividades ou operações penosas, insalubres ou perigosas, devem ser aplicadas, respectivamente, as disposições previstas na NR-17 – Ergonomia; NR-15 – Atividades e operações insalubres e NR-16 – Atividades e operações perigosas.",
     "alternativa2": "(B) A organização deve implementar o gerenciamento de riscos ocupacionais de forma global, considerando as peculiaridades das atividades desenvolvidas em cada uma de suas unidades de produção, com a respectiva documentação comprobatória disponível em sua sede para a inspeção do trabalho.",
@@ -869,7 +869,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (A) Incorreta (NR-17 não caracteriza penosidade). (B) Incorreta (PGR é por estabelecimento). (C) Incorreta (Consulta é obrigatória). (D) Correta (Conteúdo mínimo do PGR e responsabilidade). (E) Incorreta (Hierarquia mistura administrativa e organizacional). (Apostila Vol III, págs. 99, 100, 103, 128, 135, 139)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "A Norma Regulamentadora 01 – Disposições Gerais e Gerenciamento de Riscos Ocupacionais tem como objetivo estabelecer as disposições gerais, o campo de aplicação, os termos e as definições comuns às Normas Regulamentadoras (NR) relativas à segurança e saúde no trabalho, as diretrizes e os requisitos para o gerenciamento de riscos ocupacionais e as medidas de prevenção em Segurança e Saúde no Trabalho (SST).\nDe acordo com essa Norma, é correto afirmar que:",
     "alternativa1": "(A) Os procedimentos de respostas aos cenários de emergências devem prever: a) os meios e recursos necessários para os primeiros socorros, encaminhamento de acidentados e abandono; e b) as medidas necessárias para os cenários de emergências de grande magnitude, quando aplicável.",
     "alternativa2": "(B) No processo de identificação de perigos e avaliação de riscos ocupacionais, o levantamento preliminar de perigos deve ser realizado: a) Logo após o início do funcionamento do estabelecimento ou novas instalações; b) para as atividades existentes; e c) nas mudanças e introdução de novos processos ou atividades de trabalho.",
@@ -880,7 +880,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (A) Correta (Previsão mínima para resposta a emergências -item 1.5.6.2). (B) Incorreta (Levantamento preliminar é antes do início). (C) Incorreta (Definição ABNT NBR 15219 inclui dano contínuo). (D) É FISPQ (Ficha de Informações...). (E) Referência para FISPQ é o GHS. (Apostila Vol III, págs. 107, 141)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Considerando a etapa de \"Levantamento Preliminar de Perigos e Riscos\" no contexto do Gerenciamento de Riscos Ocupacionais (GRO), qual das seguintes afirmações descreve mais precisamente sua aplicação e resultados conforme a NR 1?",
     "alternativa1": "(A) Caso esta etapa conclua pela inexistência de riscos ocupacionais evidentes, a organização fica dispensada de prosseguir para as etapas de identificação de perigos e avaliação de riscos ocupacionais previstas no GRO.",
     "alternativa2": "(B) O risco ocupacional evidente pode ser definido como  toda situação de risco não controlado, que requer análise aprofundada, que não pode ser reduzida ou controlada pela adoção imediata de medidas de prevenção.",
@@ -891,7 +891,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (E) Correta (Se risco evidente não pode ser controlado imediatamente, registra no inventário e inclui no plano de ação - item 1.5.4.2.1.3). (A) Incorreta. (B) Incorreta. (C) Incorreta (prioriza EPC antes de EPI). (D) Incorreta (pode ser na etapa de identificação). (Apostila Vol III, págs. 107, 108, 128)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Uma empresa identificou no PGR um risco ergonômico \"Alto\" para movimentação manual de carga. O Plano de Ação prevê uma solução de engenharia em 6 meses, com pausas e rodízio (medidas administrativas) aplicadas interinamente. Antes do prazo da solução definitiva, o PCMSO reporta queixas de dores dos trabalhadores do setor, com possível associação à atividade.\nDiante deste relato do PCMSO, qual ação gerencial está MAIS ALINHADA com as diretrizes do GRO para revisão e melhoria contínua?",
     "alternativa1": "(A) Documentar os achados do PCMSO e anexá-los ao PGR, mantendo o cronograma original da solução de engenharia, pois esta resolverá o problema na raiz e as medidas interinas são paliativas por natureza.",
     "alternativa2": "(B) Intensificar as medidas administrativas (mais pausas, rodízio mais frequente), considerando-as a resposta adequada à situação atual enquanto se aguarda a solução de engenharia.",
@@ -902,7 +902,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: O relato do PCMSO com evidência de associação é um gatilho para reavaliar imediatamente os riscos e as medidas de prevenção (itens 1.5.5.1.1 'c', 1.5.4.4.6 'c', 1.5.4.4.6 'd', 7.5.19.5), alinhado com a melhoria contínua do GRO. (Apostila Vol III, págs. 117, 127, 129, 133)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Sobre os dispositivos de parada de emergência em máquinas e equipamentos, qual das seguintes características ou requisitos é fundamental para sua correta aplicação?",
     "alternativa1": "(A) A utilização como dispositivos de partida ou de acionamento é possível, caso a máquina seja equipada com outro dispositivo de parada de emergência.",
     "alternativa2": "(B) Podem ser dispensados em transportadores contínuos acessíveis aos trabalhadores, caso a análise de risco assim indicar.",
@@ -913,7 +913,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (B) Correta (Dispensa de parada de emergência em transportadores contínuos acessíveis se AR indicar - item 12.8.3). (A) Incorreta. (C) Incorreta (não é alternativa a proteções adequadas). (D) Incorreta (há exceções). (E) Incorreta (deve parar rápido). (Apostila Vol III, págs. 172, 174)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Com base nos princípios e requisitos de segurança no trabalho em máquinas e equipamentos apresentados, assinale a opção correta:",
     "alternativa1": "(A) Os dispositivos de intertravamento são componentes que possuem a finalidade de prevenir o funcionamento de funções perigosas da máquina quando a proteção móvel não estiver fechada, podendo funcionar por atuação mecânica (contato físico) ou sem atuação mecânica (magnéticos, óticos, etc.).",
     "alternativa2": "(B) É vedada a comercialização, leilão ou cessão a qualquer título de máquinas que não atendam aos preceitos normativos da NR-12, não se aplicando às máquinas comprovadamente destinadas à exportação, aos eletrodomésticos e aos equipamentos estacionários ou estáticos.",
@@ -924,7 +924,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (A) Correta (Descrição dos dispositivos de intertravamento). (B) Incorreta (Isenção para exportação na NR-12 é sobre requisitos técnicos). (C) Incorreta (Bloqueio para todas as fontes). (D) Incorreta (Capacitação antes de assumir). (E) Incorreta (Não há essa dispensa). (Apostila Vol III, págs. 154, 155, 164, 177, 179, 180)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Uma indústria precisa realizar a substituição de um componente crítico em uma máquina complexa, tarefa que envolve acesso a zonas perigosas elétricas e mecânicas e exige conhecimento técnico específico. O empregador designa para a tarefa um trabalhador experiente na operação da máquina, que recebeu treinamento interno sobre segurança (trabalhador \"capacitado\"), mas não possui curso técnico específico na área de manutenção daquela máquina (não é \"qualificado\") nem registro em conselho profissional (não é \"legalmente habilitado\"). Este trabalhador recebe autorização formal e um procedimento de trabalho e segurança genérico para máquinas e equipamentos.\nAssinale a afirmativa correta sobre esta situação:",
     "alternativa1": "(A) A designação do trabalhador para esta intervenção está adequada, pois a  norma permite que as manutenções em máquinas ou equipamentos possam ser feitas por profissional ou trabalhador capacitado, desde que tenha autorização formal do empregador e seja acompanhado por um supervisor.",
     "alternativa2": "(B) A aplicação de um procedimento genérico para a tarefa de substituição do componente crítico é permitido, desde que realizado a partir da apreciação de riscos e com as informações mínimas exigidas pela norma.",
@@ -935,7 +935,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: A NR-12 exige procedimentos de trabalho e segurança específicos e padronizados (item 12.13.1). Um procedimento genérico para uma tarefa crítica e complexa não atende a essa exigência. (A) Incorreta (Capacitado pode, mas procedimento é crucial). (B) Incorreta. (C) Não necessariamente PLH, pode ser qualificado/capacitado com procedimento adequado. (E) Autorização/treinamento/experiência não suprem a falta de procedimento específico. (Apostila Vol III, pág. 178)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Um eletricista autorizado precisa trocar um fusível queimado no painel de uma máquina. Ele desliga o disjuntor principal que alimenta a máquina, localizado externamente ao painel. Ao\nabrir o painel (que estava devidamente fechado e sinalizado), ele observa que a fiação interna está organizada, mas nota que a chave geral da máquina apresenta sinais de desgaste por uso excessivo como parada. Antes de tocar em qualquer componente interno para iniciar a troca do fusível, qual procedimento de segurança adicional é essencial e prioritário, considerando a falha mais crítica para a segurança imediata da intervenção?",
     "alternativa1": "(A) Verificar se a chave geral interna da máquina também foi desligada, além do disjuntor principal.",
     "alternativa2": "(B) Aplicar um dispositivo de bloqueio (cadeado) e uma etiqueta de sinalização no disjuntor principal externo que foi desligado.",
@@ -946,7 +946,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: Após desligar o disjuntor principal, o procedimento prioritário é o bloqueio e etiquetagem deste para impedir reenergização acidental (item 12.11.6 'b' e 'c'). (Apostila Vol III, pág. 177)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Para que uma instalação elétrica seja considerada efetivamente desenergizada e segura para intervenção, uma sequência específica de ações deve ser seguida. Qual alternativa apresenta CORRETAMENTE um passo essencial e sua posição relativa nessa sequência?",
     "alternativa1": "(A) A instalação de aterramento temporário deve ser realizada imediatamente após o seccionamento, antes da constatação de ausência de tensão.",
     "alternativa2": "(B) A constatação da ausência de tensão é o último passo, realizado após a instalação da sinalização de impedimento de reenergização.",
@@ -957,7 +957,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: A sinalização (f) é o último passo, ocorrendo após aterramento\n(d) e proteção (e). (Apostila Vol III, pág. 192)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Julgue os itens a seguir sobre trabalhos em instalações elétricas energizadas e as qualificações dos trabalhadores:",
     "alternativa1": "I.  As intervenções em instalações elétricas com tensão igual ou superior a 50 Volts em corrente alternada, ou superior a 120 Volts em corrente contínua só podem ser realizadas por trabalhadores qualificados, habilitados ou capacitados, desde que formalmente autorizados pela empresa.",
     "alternativa2": "II. Operações elementares em baixa tensão, como ligar e desligar disjuntores com equipamentos em perfeito estado, podem ser realizadas por qualquer pessoa não advertida.",
@@ -968,7 +968,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: I, II, III e IV estão corretas conforme itens 10.6.1, 10.6.1.2,\n10.2.4/10.2.7 e 10.6.1.1, respectivamente. (Apostila Vol III, pág. 192)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Considerando os conceitos e aplicações da epidemiologia na saúde ocupacional, qual das seguintes afirmações interpreta corretamente os indicadores e métodos epidemiológicos?",
     "alternativa1": "(A) Uma mesma doença pode apresentar, relativamente, alta incidência e baixa prevalência, ou também, relativamente, baixa incidência e alta prevalência. Isso implica dizer que as doenças do primeiro grupo “aparecem” menos frequentemente, mas persistem por muito mais tempo que as do segundo grupo.",
     "alternativa2": "(B) Estudos Transversais são estudos analíticos que podem ser utilizados para avaliar a exposição e o desfecho de uma população em um determinado ponto no tempo, como por exemplo, ao realizar uma pesquisa de prevalência de diabetes em uma população e sua relação com obesidade.",
@@ -979,7 +979,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (B) Correta (Descrição e exemplo de Estudos Transversais\nconforme apostila). (A) Inverte a implicação. (C) Descreve letalidade, não\nmortalidade. (D) Descreve Risco Relativo, não Atribuível. (E) Afirma \"nem sempre\", mas o texto diz \"sempre\". (Apostila Vol III, págs. 207-213)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "A avaliação dos resultados de uma intervenção aplicada a uma comunidade inteira, como um programa de vacinação municipal, é um exemplo de qual categoria principal de estudo epidemiológico?",
     "alternativa1": "(A) Estudos Observacionais Descritivos.",
     "alternativa2": "(B) Estudos Analíticos.",
@@ -990,7 +990,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (C) Correta (Ensaio comunitário é um tipo de Estudo Experimental). (Apostila Vol III, pág. 211)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Julgue os itens a seguir sobre a realização dos exames médicos ocupacionais previstos no PCMSO:",
     "alternativa1": "I.  O exame admissional deve ser realizado após o trabalhador iniciar suas atividades, permitindo avaliar sua adaptação inicial à função.",
     "alternativa2": "II. O exame periódico para trabalhadores expostos a riscos ocupacionais significativos deve ocorrer, em regra, a cada dois anos.",
@@ -1001,7 +1001,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: I é incorreta (admissional é antes). II é incorreta (periódico para expostos é anual ou menor). III é correta. IV é correta. Corretas: III e IV. (Apostila Vol III, págs. 217, 218)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Considerando a definição de que fatores psicossociais do trabalho decorrem das interações entre as características do trabalho (conteúdo, contexto, organização, etc.) e as características dos trabalhadores, tornando-se fatores de risco quando essas interações são negativas, qual das seguintes opções representam apenas fatores de risco psicossociais?",
     "alternativa1": "(A) Turnos noturnos realizados em horários flexíveis, porém com curtas jornadas.",
     "alternativa2": "(B) Baixa participação na tomada de decisões, mas com controle da carga de trabalho.",
@@ -1012,7 +1012,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (C) Correta (\"Pouco trabalho\", \"Trabalho em turnos\", \"Alto\nnível de pressão de tempo\" são listados como riscos no Quadro 1). As outras misturam riscos e não riscos. (Apostila Vol III, págs. 232, 233)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Julgue os itens a seguir quanto aos aspectos relacionados a psicopatologia do trabalho, gestão do trabalho e assédio moral :",
     "alternativa1": "I.   As táticas de assédio moral são diversas e frequentemente sutis, com raras ocorrências ou ameaças de violência física.",
     "alternativa2": "II. A Gestão por Estresse, um tipo de gestão abusiva ligada ao Assédio Moral Organizacional, visa aprimorar o desempenho, a eficiência e a rapidez no trabalho. Embora não tenha a intenção de destruir o trabalhador, essa gestão pode ter consequências desastrosas para a saúde devido à pressão excessiva imposta.",
@@ -1023,7 +1023,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: I está correta. II está correta. III está incorreta (agora afirma 'eliminar', o correto é 'mediar'). IV está incorreta (C190 abrange 'única ou repetida'). Corretas: I e II. (Apostila Vol III, págs. 229, 234, 236, 239)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Considerando as modalidades de constituição e as regras de dimensionamento do SESMT conforme a NR 04, assinale a opção correta:",
     "alternativa1": "(A) É permitida a constituição de SESMT compartilhado por empresas de atividades econômicas diferentes, desde que localizadas no mesmo município ou em municípios limítrofes.",
     "alternativa2": "(B) Independentemente da modalidade, o SESMT deve, como regra geral, atender apenas estabelecimentos localizados na mesma unidade federativa.",
@@ -1034,7 +1034,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (B) Correta (Regra geral é mesma UF, com exceção do 4.4.5).\n(A) Incorreta. (C) Incorreta. (D) Incorreta. (E) Incorreta. (Apostila Vol III, págs. 249, 250)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Sobre a Comissão Interna de Prevenção de Acidentes e de Assédio (CIPA), conforme a NR 5, assinale a alternativa correta:",
     "alternativa1": "(A) A CIPA tem como responsabilidade adotar medidas efetivas para realizar o combate ao assédio e às formas de violência no trabalho, fixando procedimentos para recebimento e acompanhamento de denúncias para apuração dos fatos.",
     "alternativa2": "(B) A organização deve enviar anualmente, de forma proativa, a documentação referente ao processo eleitoral da CIPA ao sindicato dos trabalhadores da categoria preponderante.",
@@ -1045,7 +1045,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (A) Incorreta. (B) Incorreta. (C) Incorreta. (D) Incorreta. (E)\nCorreta (item 5.3.1 'g'). (Apostila Vol IV, págs. 7, 9, 14, 17, 18)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Uma empresa do setor de agronegócio, classificada com Grau de Risco 3, opera com um quadro fixo de 60 empregados durante a maior parte do ano. No entanto, durante o período de colheita, que dura 4 meses (de maio a agosto), a empresa contrata mais 100 trabalhadores temporários, elevando seu efetivo para 160 empregados nesse período. No ano civil anterior, a média aritmética de trabalhadores foi calculada em 93 empregados. Como essa empresa deve proceder para dimensionar sua CIPA, de acordo com as regras da NR 05?",
     "alternativa1": "(A) Deve dimensionar a CIPA com base no número máximo de empregados (160).",
     "alternativa2": "(B) Deve dimensionar a CIPA com base na média aritmética do número de trabalhadores do ano civil anterior (93 empregados).",
@@ -1056,7 +1056,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: Item 5.4.2 determina dimensionamento pela média do ano\nanterior para regime sazonal. (Apostila Vol IV, pág. 13)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "De acordo com as disposições da NR-6 sobre o Equipamento de Proteção Individual (EPI), é correto afirmar que:",
     "alternativa1": "(A) O registro de fornecimento de EPI ao empregado, conforme exigido pela norma, deve ser realizado obrigatoriamente por meio de sistema eletrônico com assinatura digital, invalidando o uso de livros ou fichas físicas.",
     "alternativa2": "(B) Equipamento Conjugado de Proteção Individual é um EPI composto por vários dispositivos combinados pelo fabricante para proteger contra um ou mais riscos ocupacionais.",
@@ -1067,7 +1067,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (A) Correta (Definição de Equipamento Conjugado no item 6.2\n*'c'). (B) Incorreta (Definição de EPI geral, não conjugado). (C) Incorreta (Exige registro). (D) Incorreta (Higienização/manutenção periódica é do empregador). (E) Incorreta (Só Anexo I é EPI). Nota: Houve uma confusão na identificação das alternativas A e B na minha análise anterior e nesta. A alternativa (B) no simulado é \"Equipamento Conjugado...\" que corresponde à definição correta na pág. 27. A alternativa (A) no simulado é sobre registro eletrônico obrigatório, o que é incorreto pois a norma permite livros/fichas (pág. 29). Portanto, a resposta correta é B, e o Gabarito B está CORRETO.\nCorreção da Justificativa Q37: A alternativa (B) está correta pois define\nEquipamento Conjugado conforme a pág. 27. A alternativa (A) está incorreta pois o registro pode ser por livros ou fichas (pág. 29). O Gabarito B está correto."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Após um grave acidente de trabalho em uma construção civil, um Auditor-Fiscal do Trabalho (AFT) realiza uma análise detalhada do ocorrido, produzindo um relatório que aponta falhas significativas nas medidas de segurança adotadas pela construtora. Meses depois, o trabalhador acidentado ingressa com uma reclamação trabalhista buscando indenização por danos morais e materiais. Com base nas interações descritas no, em qual esfera judicial este relatório da AFT seria mais provavelmente utilizado como evidência fundamental para a decisão?",
     "alternativa1": "(A) Na Justiça Federal, pois acidentes de trabalho graves são considerados crimes federais contra a organização do trabalho.",
     "alternativa2": "(B) No Ministério Público do Trabalho (MPT), que utilizaria o relatório para negociar um Termo de Ajuste de Conduta (TAC) com a construtora, sem envolver o judiciário.",
@@ -1078,7 +1078,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: Relatórios da AFT são frequentemente usados como prova na\nJustiça do Trabalho. (Apostila Vol IV, pág. 40)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Analise as seguintes afirmações sobre a natureza do Direito do Trabalho (DT), o debate historiográfico brasileiro e a função dos direitos sociais:",
     "alternativa1": "I. O argumento de que a Consolidação das Leis do Trabalho (CLT) de 1943 foi inspirada na Carta del Lavoro, de Mussolini, foi consistentemente utilizado pelo movimento sindical para criticar a CLT, e pelo campo conservador para justificar reformas que flexibilizassem direitos.",
     "alternativa2": "II. O debate sobre a origem da legislação trabalhista brasileira envolve visões distintas (outorga vs. conquista), sendo considerado irrelevante por autores como Adalberto Cardoso, que enfatiza a \"facticidade\" dos direitos e a luta por eles.",
@@ -1089,7 +1089,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: I, II e III estão corretas. IV (welfarismo) e V (homogeneidade)\nestão incorretas. (Apostila Vol IV, págs. 50, 51)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Quanto à possibilidade de os Estados-membros fazerem reservas às Convenções da OIT, assinale a alternativa correta:",
     "alternativa1": "(A) Reservas são permitidas, desde que aprovadas previamente pelo Conselho de Administração da OIT.",
     "alternativa2": "(B) Reservas são permitidas apenas para as Recomendações, mas não para as Convenções.",
@@ -1100,7 +1100,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: A apostila afirma que \"Reservas às Convenções da OIT não são\npermitidas\", embora possa haver cláusulas de flexibilidade. (Apostila Vol IV, pág. 64)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Com base na NR 13 - Caldeiras, Vasos de Pressão, Tubulações e Tanques Metálicos de Armazenamento, assinale a opção correta:",
     "alternativa1": "(A) O principal fator de risco considerado pela NR-13 para os equipamentos abrangidos é a temperatura elevada dos fluidos contidos.",
     "alternativa2": "(B) As exigências normativas para equipamentos pressurizados foi, originalmente, iniciado através da Portaria MTb nº 3.214, de 8 de junho de 1978, com o título “caldeiras e vasos sob pressão”, de forma a regulamentar os artigos 187 e 188, da CLT.",
@@ -1111,7 +1111,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (D) Correta (PLH deve ser engenheiro com atribuições). (A)\<br>Incorreta (pressão). (B) Incorreta (título original era \"Vasos sob Pressão\"). (C)\n *Incorreta (pode ter uma parede adjacente). (E) Incorreta (localização da válvula difere). (Apostila Vol IV, págs. 75, 79, 86, 91, 96, 102).*"
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Em que condição específica a NR 13 permite que a periodicidade do exame interno de vasos de pressão com enchimento interno ou catalisador seja ampliada, podendo coincidir com a substituição desses materiais?",
     "alternativa1": "(A) Se o vaso for classificado na Categoria IV ou V.",
     "alternativa2": "(B) Mediante relatório expresso do fabricante do vaso de pressão.",
@@ -1122,7 +1122,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: O item 13.5.4.7 permite a ampliação da periodicidade com base em estudos por PLH ou grupo multidisciplinar. (Apostila Vol IV, pág. 101)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Considerando a inspeção de segurança em vasos de pressão conforme a NR 13, analise as afirmativas:\<br>I.  A inspeção de segurança inicial em vasos de pressão novos deve compreender, obrigatoriamente, exame interno, externo e teste de pressão para verificar a integridade estrutural no local de instalação.\<br>II. Vasos de pressão Categoria V, de produção seriada e certificados pelo INMETRO, estão dispensados da inspeção inicial se instalados conforme recomendações do fabricante.\<br>III. Vasos de pressão com temperatura de operação inferior a 0°C (criogênicos), em condições onde não ocorre deterioração comprovada pela experiência, devem passar por exame externo a cada 2 anos, ficando o exame interno a critério do PLH ou código de construção.\<br>IV. Uma diferença notável entre os gatilhos para inspeção extraordinária de caldeiras e vasos de pressão é o período de inatividade; enquanto uma caldeira inativa por 7 meses requer inspeção antes de retornar à operação, um vaso de pressão inativo pelo mesmo período não necessitaria dessa inspeção extraordinária específica por inatividade.\nEstá correto o que se afirma em:",
     "alternativa1": "(A) I, apenas.",
     "alternativa2": "(B) III e IV, apenas.",
@@ -1133,7 +1133,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: I é incorreta (teste de pressão não obrigatório na inspeção inicial do vaso). II é correta. III é correta. IV é correta (prazo inatividade > 6m caldeira, >12m vaso). Corretas: II, III, IV. (Apostila Vol IV, págs. 92, 99, 100, 101)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Um Auditor Fiscal do Trabalho, ao inspecionar diferentes áreas de uma grande indústria, encontra as seguintes situações:\n1.  Uma caldeira Categoria B (P=1 MPa, V=0.5 m3), cuja inspeção de segurança periódica está atrasada há 2 meses, sem justificativa formal pelo empregador.\n2.  Um forno industrial para tratamento térmico, cujas serpentinas internas de aquecimento de fluido térmico apresentam vazamento visível e risco de incêndio iminente, além da ausência de outros dispositivos de segurança.\n3.  Um vaso de pressão metálico contendo ar comprimido, com P.V = 9 (Pdispositivo de controle do nível de água em kPa, V em m3), operando sem dispositivo de controle do nível de água, cuja inspeção de segurança periódica está atrasada há mais de 12 meses.\n4.  Um tanque de armazenamento de produtos químicos, fabricado em Plástico Reforçado com Fibra de Vidro (PRFV), operando sob pressão de vácuo e sem nenhum dispositivo de segurança contra colapso por vácuo instalado.\nQuais destas situações configuram um Risco Grave e Iminente (RGI) que pode ser imediatamente enquadrado e tratado com base estrita na NR 13?",
     "alternativa1": "(A) Apenas a situação 1.",
     "alternativa2": "(B) As situações 1 e 2.",
@@ -1144,7 +1144,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: 1 (atraso inspeção caldeira) é RGI. 2 (forno) não NR 13. 3 (vaso) não RGI por atraso ou falta controle nível. 4 (tanque PRFV) não NR 13. Apenas situação 1 é RGI pela NR 13. (Apostila Vol IV, págs. 83, 84, 101)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Sobre o uso de Cadeiras Suspensas na construção civil, de acordo com a NR 18, qual afirmação está correta?",
     "alternativa1": "(A) Seu uso é preferencial em relação aos andaimes suspensos por ser mais rápido de instalar.",
     "alternativa2": "(B) O trabalhador pode utilizar o mesmo ponto de ancoragem para a cadeira suspensa e para o seu Sistema de Proteção Individual Contra Quedas (SPIQ).",
@@ -1155,7 +1155,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (E) Correta, uso só se instalação de andaime/plataforma for\ninviável (item 18.11.34). (A) Incorreta. (B) Incorreta. (C) Incorreta. (D) Incorreta. (Apostila Vol IV, págs. 138, 139)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Considerando os serviços de escavação, fundação e desmonte de rochas na indústria da construção, qual procedimento é um requisito fundamental comum a todas essas atividades, conforme a norma apresentada?",
     "alternativa1": "(A) Todos os serviços e atividades de escavação, fundação e desmonte de rochas devem ser executados em conformidade com projeto elaborado por profissional legalmente habilitado (PLH).",
     "alternativa2": "(B) A realização prévia de estudo geotécnico detalhado é obrigatória para iniciar qualquer serviço de escavação, fundação ou desmonte de rochas, independentemente das características do local.",
@@ -1166,7 +1166,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (A) Correta, item 18.5.1 exige projeto por PLH para todas. As outras não são comuns a todas. (Apostila Vol IV, pág. 114)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Analise as seguintes afirmações relativas a diferentes exigências da NR-18 para segurança e saúde na indústria da construção:",
     "alternativa1": "I. A instalação de plataformas de proteção (bandejas) primária, secundária ou terciária, como sistema de proteção contra a queda de materiais, tornou-se facultativa após a última revisão da norma.",
     "alternativa2": "II. O uso de contrapesos para fixar a estrutura de sustentação de andaimes suspensos é permitido, desde que seu peso seja invariável e conhecido, além de outros requisitos.",
@@ -1177,7 +1177,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: I é correta. II é correta. III é correta. IV é correta. V é correta. Todas corretas. (Apostila Vol IV, págs. 112, 119, 124, 131, 133)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Durante uma operação de desmonte de rochas com uso de explosivos em um canteiro de obras, ocorre um acidente fatal envolvendo um trabalhador atingido por projeção de material rochoso fora da área inicialmente isolada. A investigação preliminar aponta que o Plano de Fogo, elaborado por um Profissional Legalmente Habilitado (PLH), continha os cálculos corretos para a carga explosiva, mas a definição da área de isolamento no momento da execução pode ter sido insuficiente. A empresa realizou a comunicação escrita do acidente ao órgão regional competente imediatamente após o ocorrido.\nConsiderando as responsabilidades distintas do PLH e do Blaster, e os procedimentos normativos pós-acidente fatal, assinale a alternativa que descreve corretamente a aplicação das normas nesta situação:",
     "alternativa1": "(A) Embora o Plano de Fogo oriente as ações, compete ao Blaster a implementação in loco das medidas preventivas, incluindo a confirmação e adequação final do perímetro de segurança antes da ignição, tornando-o o principal responsável pela falha no isolamento efetivo.",
     "alternativa2": "(B) A falha na projeção de material, mesmo que ligada à execução do isolamento, implica corresponsabilidade do PLH, pois o Plano de Fogo deve prever e mitigar todos os riscos associados à detonação, incluindo variações na execução do isolamento.",
@@ -1188,7 +1188,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (A) Correta, compete ao Blaster a execução in loco, incluindo confirmação do isolamento (item 18.5.20). (B) PLH responde pelo plano. (C) Prazo liberação não condiciona verificação de fogos falhados. (D) Isolamento pós-acidente é da organização. (E) Comunicação é da organização. (Apostila Vol IV, págs. 121, 122, 141)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Analisando a gestão das inspeções de diferentes elementos de Sistema de Proteção Individual Contra Quedas – SPIQ em uma empresa, verifica-se a seguinte situação documental:\<br>I - Cinturão: Possui registro da inspeção periódica realizada há 9 meses. As inspeções rotineiras diárias são feitas, mas não são registradas quando nenhum defeito é encontrado.\<br>II - Talabarte: Possui registro da inspeção periódica realizada há 5 meses. Ontem, na inspeção rotineira, foi identificado um corte na fita; o supervisor instruiu o descarte, mas o registro dessa inspeção rotineira e da recusa/descarte não foi realizado.\<br>III - Trava-quedas: Equipamento novo, recebido do fornecedor há uma semana. Foi feita a inspeção inicial antes do primeiro uso, que não encontrou defeitos, porém esta inspeção inicial não foi formalmente registrada.\<br>IV - Corda: Possui registro da inspeção periódica feita há 11 meses. Hoje, na inspeção rotineira, foi identificada uma área com desgaste acentuado, o equipamento foi recusado para uso e essa recusa foi devidamente registrada na ficha de inspeção rotineira.\nCom base exclusivamente nas regras sobre registro das inspeções contidas na NR-35, quais itens apresentam uma não conformidade na gestão documental?",
     "alternativa1": "(A) Apenas o Item I.",
     "alternativa2": "(B) Apenas o Item II.",
@@ -1199,7 +1199,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: I está conforme (rotineira só se registra recusa). II não conforme\n(recusa exige registro). III não conforme (inspeção inicial deve ser registrada). IV está conforme (recusa registrada). Logo, II e III estão não conformes. (Apostila Vol IV, pág. 164)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Considere o seguinte cenário em uma obra:\n1. Trabalhador Alfa: Realiza a instalação de uma calha no beiral de um telhado, posicionado a 2,5 metros de altura do piso inferior, utilizando um andaime. Há risco evidente de queda.\n2. Trabalhador Beta: Permanece no piso inferior, próximo ao andaime, alcançando ferramentas e materiais para o Trabalhador Alfa.\n3. Trabalhador Gama: Monta uma pequena prateleira em uma parede,  estando sobre uma plataforma estável e segura com guarda-corpo, a 1,8 metros de altura do piso.\n4. Supervisor Delta: Está próximo dos trabalhadores Alfa e Beta, também no piso inferior, porém apenas observando e coordenando as atividades.\nConforme a NR-35, quais trabalhadores nesse cenário são considerados “indiretamente envolvidos” nos trabalhos em altura?",
     "alternativa1": "(A) Apenas os Trabalhadores Beta e Delta.",
     "alternativa2": "(B) Apenas o Supervisor Delta.",
@@ -1210,7 +1210,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: Alfa (>2m) está em altura. Gama (<2m) não. Beta e Delta estão no entorno, sujeitos a riscos (queda de material de Alfa), sendo indiretamente envolvidos, conforme manual. (Apostila Vol IV, pág. 151)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "De acordo com a definição e a lista apresentada na NR 31, qual dos seguintes itens é classificado como um Dispositivo de Proteção Pessoal (DPP), distinto de um Equipamento de Proteção Individual (EPI)?",
     "alternativa1": "(A) Capacete de segurança para proteção contra impacto.",
     "alternativa2": "(B) Luva de raspa para proteção contra agentes abrasivos.",
@@ -1221,7 +1221,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (C) Perneira contra picadas está listada como DPP (item 31.6.4\n'c'). Os demais são EPIs. (Apostila Vol IV, pág. 179)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Durante a aplicação de um inseticida (agrotóxico Classe 2 - Faixa Amarela), um trabalhador começa a sentir tonturas e náuseas, sintomas que podem indicar intoxicação. Ele comunica seu mal-estar ao supervisor imediato. Qual das seguintes ações do supervisor estaria em total conformidade com o procedimento exigido pela NR 31 nesta situação?",
     "alternativa1": "(A) Orientar o trabalhador a procurar imediatamente o SESMT (se houver na propriedade) ou o técnico de segurança para uma avaliação inicial, levando a FISPQ do produto.",
     "alternativa2": "(B) Afastar imediatamente o trabalhador das atividades, transportá-lo para atendimento médico e levar junto o receituário agronômico do produto aplicado.",
@@ -1232,7 +1232,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: O item 31.7.13 exige afastar, transportar para atendimento\nmédico e levar informações dos rótulos e bulas. (Apostila Vol IV, pág. 181)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Uma empresa contrata um ônibus para o transporte diário de trabalhadores rurais para uma frente de trabalho distante. Durante uma verificação, observa-se:\n1. O ônibus possui autorização da autoridade de trânsito para transporte rodoviário intermunicipal de passageiros, mas que não estava acompanhada da respectiva vistoria anual do veículo.\n2. Todos os passageiros estão sentados em assentos com cinto de segurança.\n3. O motorista possui CNH categoria D, mas não está portando crachá ou identificação funcional da empresa transportadora.\n4. As ferramentas manuais (facões, enxadas) são transportadas no bagageiro inferior do ônibus, separadas dos passageiros.\n5. O ônibus tem capacidade para 40 passageiros, mas não possui tacógrafo instalado.\nAvaliando a situação com base nos requisitos da NR-31 para transporte coletivo de trabalhadores rurais, quais itens representam não conformidades?",
     "alternativa1": "(A) Apenas os itens 1 e 3.",
     "alternativa2": "(B) Apenas os itens 1 e 5.",
@@ -1243,7 +1243,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: 1 (sem vistoria anual) não conforme. 2 (sentados) conforme. 3\n(sem identificação) não conforme. 4 (ferramentas separadas) conforme. 5 (sem tacógrafo, >10 lugares) não conforme. Itens não conformes: 1, 3 e 5. (Apostila Vol IV, pág. 184)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Uma empresa de serviços de tecnologia ocupa um andar em um edifício comercial, com 80 trabalhadores (maior turno). As seguintes condições sanitárias e de conforto são observadas:\<br>I. A ventilação das instalações sanitárias depende unicamente da abertura das portas de acesso, pois não há janelas para o exterior nem sistema de exaustão forçada.\<br>II.  Como a empresa exige o uso de uniforme, há vestiários masculino e feminino. Utiliza-se um sistema de rodízio para os armários simples individuais, pois há uma quatidade de\narmários inferior a de trabalhadores no turno. Não há exposição a contaminantes ou sujidade intensa.\<br>III. O local designado para refeições possui um único recipiente para coleta de lixo, o qual não possui tampa e as mesas do local para refeições possuem tampos de madeira natural não revestida, o que dificulta a higienização completa após o uso.\<br>IV. Para os técnicos que realizam visitas a clientes, a empresa orienta que utilizem as instalações sanitárias e de refeição dos próprios clientes, indicando que esta é a responsabilidade deles conforme NR-24.\<br>V. A empresa fornece gratuitamente apenas o uniforme (camiseta), não disponibilizando outras vestimentas específicas de trabalho, alegando que as atividades administrativas não implicam contato com sujidade ou agentes que justifiquem peças adicionais conforme critérios da NR-24.\nAvaliando a situação com base estritamente nos requisitos da NR-24, quais assertivas descrevem corretamente situações EM CONFORMIDADE com a norma neste cenário?",
     "alternativa1": "(A) Apenas II e III.",
     "alternativa2": "(B) Apenas I, III e V.",
@@ -1254,7 +1254,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: I não conforme (exige ventilação/exaustão). II conforme\n(rodízio permitido sem contaminantes). III não conforme (lixo exige tampa, mesa não adequada). IV conforme (responsabilidade do cliente). V conforme (com a alteração que inclui \"gratuitamente\", a situação descrita está conforme). Corretas: II, IV e V. (Apostila Vol IV, págs. 199, 200, 201)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Em uma propriedade rural, como parte de um programa de vigilância à saúde estabelecido preventivamente, são realizados exames periódicos nos aplicadores de agrotóxicos para verificar níveis de metabólitos na urina, visando a detecção precoce de exposição. Recentemente, após a pulverização de um agrotóxico organofosforado em uma lavoura de soja, diversos aplicadores relataram quadro agudo de náuseas, salivação excessiva e tonturas, sendo a ocorrência e intensidade maiores entre aqueles com falhas no uso de EPIs. Em decorrência disso, a fazenda passou a manter um registro detalhado do número de trabalhadores que necessitam de atendimento médico após cada aplicação. A região também é infestada por Aedes aegypti, e alguns trabalhadores apresentaram febre dias depois.\nCom base na situação descrita, analise as afirmativas:\<br>I. O agrotóxico organofosforado é um agente de risco químico que pode estar diretamente responsável pelos sintomas agudos de náuseas, salivação e tontura observados.\n *II. A febre relatada dias após por alguns trabalhadores pode ser decorrente do mosquito Aedes aegypti, um vetor classificado como um agente de risco biológico primário nesta situação.* \<br>III.  A realização dos exames periódicos para verificar metabólitos na urina é um exemplo de indicador reativo, pois mede um dano (contaminação) que já ocorreu.\<br>IV. O registro detalhado do número de trabalhadores que necessitam de atendimento médico configura um indicador principal, pois permite antecipar futuras ocorrências.\<br>V. A verificação de metabólitos do agrotóxico na urina dos trabalhadores é um exemplo de aplicação de indicadores biológicos de exposição (biomarcadores), relevantes para monitorar a exposição a esse tipo de produto químico.\nQuais afirmativas estão corretas?",
     "alternativa1": "(A) I e V.",
     "alternativa2": "(B) I e III.",
@@ -1265,7 +1265,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: I é correta. II é incorreta (Aedes é vetor). III é incorreta\n(indicador proativo de exposição). IV é incorreta (indicador reativo). V é\ncorreta. Corretas: I e V. (Apostila Vol III pág. 19; Apostila Vol IV págs. 210, 212, 213)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Com base na NR-33 que menciona procedimentos específicos para os equipamentos detectores de gases utilizados nas avaliações atmosféricas, assinale a afirmativa correta:",
     "alternativa1": "(A) O detector do tipo multigás convencional, conforme sua configuração usual, é capaz de monitorar simultaneamente a concentração de oxigênio (O2), o limite inferior de explosividade (LIE), o monóxido de carbono (CO) e o sulfeto de hidrogênio (H2S).",
     "alternativa2": "(B) O procedimento de auto-zero ou ajuste de ar limpo tem como principal finalidade verificar a funcionalidade dos sensores e do alarme do detector de gases.",
@@ -1276,7 +1276,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (A) Correta (configuração usual do multigás). (B) Incorreta\n(função do bump test). (C) Incorreta (auto-zero em ar limpo). (D) Incorreta (bump test não ajusta O2). (Apostila Vol IV, págs. 228, 229)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Considerando os procedimentos e responsabilidades definidos para trabalhos em espaços confinados, assinale a alternativa correta:",
     "alternativa1": "(A) A Permissão de Entrada e Trabalho (PET) pode ser emitida com validade de até 24 horas contínuas, desde que as condições atmosféricas do espaço confinado permaneçam estáveis durante todo o período.",
     "alternativa2": "(B) No procedimento de bloqueio (LOTO), a etiqueta individual fixada pelo trabalhador deve conter seu nome completo e a data do bloqueio, sendo o registro do serviço executado e da hora informações complementares opcionais.",
@@ -1287,7 +1287,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (A) Incorreta (PET limitada ao turno/jornada). (B) Incorreta (etiqueta exige serviço/hora). (C) Correta (item 33.5.15 'f'). (D) Incorreta (Vigia não intervém diretamente dentro). (E) Incorreta (simulado contempla possíveis cenários). (Apostila Vol IV, págs. 224, 225, 226)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Sobre as regras de segurança para atividades de manutenção realizadas em embarcações comerciais enquanto estão em operação, conforme estabelecido na NR-30, assinale a alternativa correta:",
     "alternativa1": "(A) As tarefas de manutenção em embarcações em operação, bem como em comissionamento, devem cumprir o estabelecido na NR-30, sendo proibido ao tripulante acumular tarefas de manutenção com atividades de vigilância, navegação, carga ou descarga.",
     "alternativa2": "(B) As regras da NR-30 referentes aos serviços de manutenção também se aplicam quando a embarcação está executando tarefas de navegação, em trânsito ou em serviços de suporte marítimo, ou quando a manutenção é realizada em estaleiro.",
@@ -1298,7 +1298,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (A) Incorreta (não se aplica a comissionamento). (B) Incorreta\n(não se aplica a estaleiro). (C) Incorreta (AR/PT são similares). (D) Incorreta (proibição sem exceção). (E) Correta (NR 33 integral, NR 35 com adicionais). (Apostila Vol IV, pág. 248)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Considerando os procedimentos de acesso seguro a embarcações comerciais descritos na NR-30, tanto para situações de atracação quanto de fundeio, assinale a alternativa correta:",
     "alternativa1": "(A) O uso de colete salva-vidas é obrigatório para todos os trabalhadores durante o acesso à embarcação, seja ela atracada ou fundeada.",
     "alternativa2": "(B) A escada tipo quebra-peito (escada de corda) é um meio de acesso permitido para embarcações atracadas, mas proibido para embarcações fundeadas devido ao risco aumentado.",
@@ -1309,7 +1309,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (A) Incorreta (colete só para fundeada). (B) Incorreta (proibida para atracada, exceção para fundeada). (C) Incorreta (portaló é prioritária). (D) Incorreta (rede só para atracada). (E) Correta (item 30.18.3.7). (Apostila Vol IV, págs. 250, 251)."
   },
   {
-    "tema": "SIMULASQUE 2 😫",
+    "tema": "#SIMULASQUE 2 😫",
     "pergunta": "Considerando o acidente comum de queda de pessoas da escada de portaló em navios, qual das seguintes opções descreve mais precisamente os fatores de risco e as medidas preventivas correspondentes? ",
     "alternativa1": "(A) Fator principal: Falha estrutural da escada devido à corrosão; Prevenção: Inspeção anual por sociedade classificadora e substituição a cada 5 anos.",
     "alternativa2": "(B) Fatores principais: Falta de iluminação adequada na escada e ausência de coletes salva-vidas durante o uso; Prevenção: Instalar iluminação LED potente e tornar obrigatório o uso de colete no acesso.",
@@ -1320,7 +1320,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: Escorregamento (sujeira/óleo) e tropeços (obstáculos) são\nfatores comuns. Prevenção inclui limpeza/antiderrapante, corrimãos e remoção de obstáculos. (Apostila Vol IV, págs. 250, 259)."
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "1. Considerando os potenciais agravos à saúde decorrentes da exposição a agentes físicos em ambientes de trabalho, qual das seguintes condições está corretamente associada à exposição a pressões anormais, como as encontradas em atividades de mergulho profissional ou em câmaras de trabalho sob ar comprimido?",
     "alternativa1": "Perda auditiva neurossensorial progressiva, iniciando nas frequências agudas e evoluindo para as graves.",
     "alternativa2": "Doença descompressiva, embolia traumática pelo ar e barotrauma (lesão) nos seios paranasais ou tímpano.",
@@ -1331,7 +1331,7 @@ const questoes = [
     "gabaritoComentado": "A exposição a pressões anormais está associada a doença descompressiva, embolia e barotrauma. (Apostila Vol II, pág. 243)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "2. A exposição a radiações no ambiente de trabalho é um risco fisico relevante. Considerando a distinção entre radiações ionizantes e não ionizantes e seus exemplos, qual alternativa apresenta uma associação correta entre o tipo de radiação, uma fonte/atividade ocupacional comum e um possível efeito à saúde, conforme descrito no material?",
     "alternativa1": "Radiação Não Ionizante: Utilização de radiofármacos em hospitais; Efeito: Alterações celulares e câncer.",
     "alternativa2": "Radiação Ionizante: Operação de radares e micro-ondas; Efeito: Queimaduras e lesões na pele.",
@@ -1342,7 +1342,7 @@ const questoes = [
     "gabaritoComentado": "Radiação UV (Não Ionizante) da soldagem causa lesões oculares/pele. As outras associações estão incorretas. (Apostila Vol II, págs. 243, 244)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "3. Considerando os agentes biológicos e os agravos à saúde que podem causar em determinados contextos ocupacionais, qual das seguintes associações está corretamente apresentada?",
     "alternativa1": "Histoplasmose: Trabalhos com criações de aves.",
     "alternativa2": "Leptospirose: Plantações de arroz e trabalhos na água.",
@@ -1353,7 +1353,7 @@ const questoes = [
     "gabaritoComentado": "Histoplasmose está corretamente associada a trabalhos com criações de aves. (Apostila Vol II, pág. 245)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "4. A legislação previdenciária, ao equiparar certas doenças aos acidentes de trabalho, também estabelece condições específicas que, via de regra, não são consideradas como doença do trabalho. Avalie as seguintes condições de saúde em relação a essa exclusão legal:\<br>I. Doença degenerativa.\<br>II. Doença inerente a grupo etário.\<br>III. Doença endêmica adquirida por segurado habitante de região onde ela se desenvolva, mesmo que resultante de exposição ou contato direto determinado pela natureza do trabalho.\<br>IV. Doença que não produza incapacidade laborativa.\nQuais destas condições, de acordo com o § 1º do art. 20 da Lei nº 8.213/91, geralmente NÃO são consideradas como doença do trabalho?",
     "alternativa1": "Apenas I e II.",
     "alternativa2": "Apenas III e IV.",
@@ -1364,7 +1364,7 @@ const questoes = [
     "gabaritoComentado": "Conforme § 1º do art. 20 da Lei 8.213/91, geralmente NÃO são consideradas doença do trabalho: I (degenerativa), II (grupo etário) e IV (sem incapacidade). A III (endêmica) é excluída salvo comprovação de relação direta. (Apostila Vol II, pág. 185)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "5. A Lista de Doenças Relacionadas ao Trabalho (LDRT) é estruturada em duas partes principais (Lista A e Lista B) para facilitar a consulta e o estabelecimento de relações entre agravos à saúde e exposições ocupacionais. Qual alternativa descreve corretamente a organização e o propósito de cada uma dessas listas?",
     "alternativa1": "A Lista A agrupa as doenças por sistema do corpo afetado (ex: respiratório, osteomuscular), enquanto a Lista B relaciona os agentes de risco classificados por sua natureza (químico, físico, biológico).",
     "alternativa2": "A Lista A relaciona os agentes e/ou fatores de risco às doenças potencialmente causadas por eles, enquanto a Lista B parte das doenças e indica os agentes e/ou fatores de risco associados.",
@@ -1375,7 +1375,7 @@ const questoes = [
     "gabaritoComentado": "Lista A: Agentes/Fatores -> Doenças. Lista B: Doenças -> Agentes/Fatores. (Apostila Vol II, pág. 264)"
   },
    {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "6. Considerando os mecanismos de ação dos gases asfixiantes \"químicos\" clássicos, qual alternativa descreve corretamente a forma como o Monóxido de Carbono (CO) e o Cianeto/Ácido Cianídrico (HCN) interferem no processo de oxigenação do organismo?",
     "alternativa1": "O CO bloqueia a enzima citocromo-oxidase mitocondrial, impedindo a utilização celular do oxigênio, enquanto o HCN forma meta-hemoglobina, dificultando o transporte de oxigênio pelo sangue.",
     "alternativa2": "Ambos os gases atuam deslocando o oxigênio do ar ambiente em altas concentrações, similar aos asfixiantes simples, mas com maior afinidade pelas vias aéreas superiores.",
@@ -1386,7 +1386,7 @@ const questoes = [
     "gabaritoComentado": "CO impede transporte de O2 (carboxi-hemoglobina). HCN impede utilização celular de O2 (inibe citocromo-oxidase). (Apostila Vol III, pág. 11)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "7. A exposição a agentes químicos particulados pode causar diferentes tipos de lesões no sistema respiratório. Com base na classificação desses agentes quanto aos seus efeitos no tecido pulmonar, qual alternativa descreve corretamente a ação dos agentes fibrogênicos e não fibrogênicos?",
     "alternativa1": "Agentes fibrogênicos, como a sílica amorfa, causam uma reação tecidual leve e reversível, enquanto agentes não fibrogênicos, como o asbesto, provocam fibrose pulmonar progressiva.",
     "alternativa2": "Agentes não fíbrogênicos, como a cassiterita e o cimento, são caracterizados por modificar permanentemente o tecido pulmonar, induzindo fibrose, enquanto os fibrogênicos causam reações temporárias.",
@@ -1397,7 +1397,7 @@ const questoes = [
     "gabaritoComentado": "Agentes fibrogênicos causam fibrose. Não fibrogênicos causam reação leve/reversível. (Apostila Vol III, pág. 18)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "8. Os Limites de Exposição Ocupacional (LEO), como os Threshold Limit Values (TLV) da ACGIH, são referências importantes na avaliação de riscos químicos. No entanto, sua aplicação e interpretação exigem cautela. Considerando as características e limitações desses valores, conforme discutido no material, assinale a alternativa correta:",
     "alternativa1": "A existência de um TLV para exposição no ar desconsidera a possibilidade de contribuição significativa da exposição dérmica para a dose total absorvida pelo trabalhador.",
     "alternativa2": "Os LEOs, como os TLVs, são considerados linhas divisórias absolutas entre condições seguras e perigosas, garantindo proteção completa para todos os trabalhadores expostos abaixo desses valores.",
@@ -1408,7 +1408,7 @@ const questoes = [
     "gabaritoComentado": "A apostila alerta (pág. 16) que TLVs (para exposição aérea) não excluem a contribuição da via dérmica. (B) Não são linhas absolutas. (C) Não têm valor legal nos EUA. (D) LTs brasileiros defasados. (E) Protegem a maioria. (Apostila Vol III, pág. 16)"
   },
     {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "9. A Norma Regulamentadora 17 aborda as condições de conforto no ambiente de trabalho, incluindo requisitos para a iluminação. Qual referência técnica específica a norma indica que deve ser observada para a avaliação dos níveis de iluminamento em ambientes internos de trabalho?",
     "alternativa1": "As recomendações da American Conference of Governmental Industrial Hygienists (ACGIH) para a iluminância.",
     "alternativa2": "Os Limites de Tolerância para Iluminamento estabelecidos na NR-15.",
@@ -1419,7 +1419,7 @@ const questoes = [
     "gabaritoComentado": "Item 17.8.3 da NR 17 exige atendimento à NHO 11 da Fundacentro para iluminamento. (Apostila Vol III, pág. 44)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "10. A NR 17 também estabelece parâmetros para as condições de conforto acústico no ambiente de trabalho, especialmente para atividades que demandam atenção constante e solicitação intelectual. Qual é o nível de ruído de fundo máximo aceitável recomendado pela norma para esses tipos específicos de ambientes e atividades?",
     "alternativa1": "55 dB",
     "alternativa2": "65 dB",
@@ -1430,7 +1430,7 @@ const questoes = [
     "gabaritoComentado": "Item 17.8.4.1 da NR 17 recomenda até 65 dB(A) para atividades com solicitação intelectual/atenção. (Apostila Vol III, pág. 44)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "11. Considerando o conceito de \"normas ansiogênicas\" discutido no contexto da organização do trabalho, qual situação melhor exemplifica essa condição?",
     "alternativa1": "A exigência de cumprimento de metas de produção desafiadoras, porém atingíveis com esforço e treinamento adequados.",
     "alternativa2": "A imposição de regras que geram um conflito moral, como pressionar um bancário a vender um produto financeiro desvantajoso ao cliente para cumprir metas.",
@@ -1441,7 +1441,7 @@ const questoes = [
     "gabaritoComentado": "Normas que geram conflito moral (ex: vender produto desvantajoso para meta) são exemplo de fator ansiogênico. (Apostila Vol III, pág. 63)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "12. Um ergonomista analisou diferentes tarefas em uma linha de produção, buscando identificar aquelas consideradas \"ciclicas\" com base na referência de Kilbom (1994), para priorizar ações preventivas de DORT. Avalie as conclusões que ele tirou sobre três postos de trabalho distintos:\<br>I. O Posto Alfa, com ciclo total de 25 segundos, foi classificado como cíclico por atender ao critério de duração total do ciclo ser inferior a 30 segundos.\<br>II. O Posto Beta, cujo ciclo total é de 50 segundos e a atividade principal consome 20 segundos, não pôde ser classificado como cíclico, pois a definição exige que o componente essencial ocupe uma fração maior que a metade do ciclo total.\<br>III. O Posto Gama, com um ciclo de 35 segundos no qual a atividade principal dura 20 segundos, foi classificado como cíclico unicamente devido à proporção do tempo da atividade principal em relação ao ciclo total, já que não atendeu ao critério de duração total do ciclo.\nEstão corretas apenas a(s) afirmativa(s):",
     "alternativa1": "I.",
     "alternativa2": "II.",
@@ -1452,7 +1452,7 @@ const questoes = [
     "gabaritoComentado": "Critérios Kilbom (1994): ciclo <30s OU componente essencial > 50% do ciclo. I (25s) é cíclico. II (50s, 40%) não é cíclico. III (35s, 57%) é cíclico. As afirmações I, II e III descrevem corretamente a aplicação dos critérios para cada caso. (Apostila Vol III, pág. 57)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "13. Um trabalhador de almoxarifado realiza frequentemente a atividade de colocar caixas leves em prateleiras altas, o que exige a elevação constante dos braços acima do nível dos ombros (flexão superior a 90 graus). Com o tempo, ele desenvolve dor e dificuldade de movimentação no ombro, diagnosticada como Síndrome do Manguito Rotador. Qual mecanismo biomecânico, relacionado a essa postura de trabalho, é apontado como causa principal para o desenvolvimento dessa síndrome?",
     "alternativa1": "A compressão dos tendões dos músculos do manguito rotador entre estruturas ósseas da articulação do ombro durante a elevação do braço.",
     "alternativa2": "O estiramento excessivo dos ligamentos do ombro devido à elevação repetida, causando instabilidade articular.",
@@ -1463,7 +1463,7 @@ const questoes = [
     "gabaritoComentado": "A Síndrome do Manguito Rotador é descrita como decorrente da compressão dos tendões na elevação do braço >90º. (Apostila Vol III, pág. 53)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "14. A legislação do Fundo de Garantia do Tempo de Serviço (FGTS) prevê situações específicas em que, mesmo ocorrendo a interrupção do contrato de trabalho (sem prestação de serviços), o empregador continua obrigado a realizar los depósitos mensais na conta vinculada do trabalhador. Quais das seguintes situações de interrupção contratual exigem a manutenção dos depósitos do FGTS?",
     "alternativa1": "Afastamento por auxílio-doença comum (não acidentário) a partir do 16º dia e licença não remunerada.",
     "alternativa2": "Prestação de serviço militar obrigatório e licença por acidente de trabalho.",
@@ -1474,7 +1474,7 @@ const questoes = [
     "gabaritoComentado": "Depósito obrigatório durante serviço militar e licença por acidente de trabalho. (Apostila Vol III, pág. 77)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "15. A base de cálculo para o recolhimento mensal do FGTS é a remuneração paga ou devida ao trabalhador. No entanto, algumas parcelas são expressamente excluídas desta base. Analise as seguintes parcelas:\<br>I. Participação nos lucros ou resultados da empresa (PLR).\<br>II. Abono de férias.\<br>III. Ajuda de custo e diárias para viagem, independentemente do valor recebido pelo trabalhador.\<br>IV. Auxílio-alimentação pago habitualmente em dinheiro diretamente na folha de pagamento.\<br>V. Valor relativo à assistência médica, hospitalar e odontológica prestada diretamente pelo empregador ou mediante seguro-saúde.\nQuais destas parcelas são excluídas da base de cálculo do FGTS, considerando a legislação e as alterações posteriores a novembro de 2017?",
     "alternativa1": "I, II e V, apenas.",
     "alternativa2": "I, III, IV e V, apenas.",
@@ -1485,7 +1485,7 @@ const questoes = [
     "gabaritoComentado": "Excluídas: I (PLR), II (Abono Férias), III (Ajuda Custo/Diárias), V (Assistência Médica). Não excluída: IV (Alimentação em dinheiro). (Apostila Vol III, págs. 76, 77)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "16. A legislação recente promoveu alterações nos prazos para recolhimento dos depósitos mensais do FGTS e do FGTS rescisório. Considerando as informações sobre essas mudanças, qual alternativa descreve corretamente os prazos atuais?",
     "alternativa1": "O FGTS mensal deve ser recolhido até o dia 7 do mês subsequente, e o FGTS rescisório até o primeiro dia útil após o término do contrato.",
     "alternativa2": "O FGTS mensal passou a ser recolhido até o dia 20 do mês subsequente, e o FGTS rescisório tem prazo unificado de até 10 dias após o término do contrato.",
@@ -1496,7 +1496,7 @@ const questoes = [
     "gabaritoComentado": "Mensal: dia 20. Rescisório: 10 dias após término. (Apostila Vol III, pág. 78)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "17. A Norma Regulamentadora 01 exige que a metodologia de avaliação de riscos ocupacionais utilizada pela organização seja transparente e documentada. Além do Inventário de Riscos e do Plano de Ação, qual outro elemento fundamental deve ser explicitado em documento pela organização para detalhar como os riscos são avaliados e priorizados dentro do seu GRO/PGR?",
     "alternativa1": "O currículo detalhado dos profissionais responsáveis pela elaboração do PGR.",
     "alternativa2": "Uma lista referencial exaustiva de todos os perigos possíveis em atividades daquele setor econômico.",
@@ -1507,7 +1507,7 @@ const questoes = [
     "gabaritoComentado": "Item 1.5.4.4.2.2 da NR 1 exige documentação dos critérios (severidade, probabilidade, níveis, classificação/decisão). (Apostila Vol III, pág. 136)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "18. O Inventário de Riscos Ocupacionais é um documento central do PGR. Quais das seguintes informações são componentes mínimos obrigatórios deste inventário, conforme listado na norma?\<br>I. Caracterização dos processos, ambientes de trabalho e atividades.\<br>II. Descrição dos perigos com fontes/circunstâncias, possíveis lesões/agravos e grupos de trabalhadores expostos.\<br>III. Descrição detalhada das medidas de prevenção a serem implementadas no futuro, com cronograma e responsáveis.\<br>IV. Avaliação dos riscos, incluindo a classificação para fins de elaboração do plano de ação.\<br>V. Dados da análise preliminar ou do monitoramento das exposições a agentes fisicos, químicos e biológicos e os resultados da avaliação de ergonomia.\nEstão corretas apenas as afirmativas:",
     "alternativa1": "I, II, III e IV.",
     "alternativa2": "I, II, IV e V.",
@@ -1518,7 +1518,7 @@ const questoes = [
     "gabaritoComentado": "Inventário (1.5.7.3.2) exige: I, II, IV e V. Item III (medidas futuras) é do Plano de Ação. (Apostila Vol III, págs. 136-139)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "19. Ao elaborar o Plano de Ação dentro do PGR, a organização deve definir o cronograma e as responsabilidades pela execução das medidas de prevenção. Além da classificação do risco ocupacional, que outro critério específico deve ser utilizado pela organização para aumentar a prioridade de implementação de uma medida de prevenção nesse plano?",
     "alternativa1": "O custo estimado para implementação da medida de prevenção.",
     "alternativa2": "A complexidade técnica da medida de prevenção a ser adotada.",
@@ -1529,7 +1529,7 @@ const questoes = [
     "gabaritoComentado": "Item 1.5.5.2.1.1: número de trabalhadores atingidos aumenta a prioridade. (Apostila Vol III, pág. 139)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "20. A comunicação e a consulta aos trabalhadores são pilares do Gerenciamento de Riscos Ocupacionais. Além de serem consultados durante o processo, qual informação específica a organização deve obrigatoriamente comunicar aos trabalhadores relativa ao GRO/PGR?",
     "alternativa1": "Os custos detalhados das medidas de prevenção implementadas e o orçamento anual de SST.",
     "alternativa2": "Os nomes dos responsáveis técnicos pela elaboração do Inventário de Riscos e do Plano de Ação.",
@@ -1540,7 +1540,7 @@ const questoes = [
     "gabaritoComentado": "Item 1.5.3.3 'b' da NR 1 obriga comunicar aos trabalhadores os riscos do inventário e as medidas do plano de ação que os afetam. (Apostila Vol III, págs. 103, 136, 139)"
   },
    {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "21. Durante a etapa de Identificação de Perigos do GRO, não basta apenas listar os perigos existentes. A norma exige que essa identificação seja mais detalhada para subsidiar a avaliação de riscos subsequente. Quais elementos, no mínimo, devem constar nessa etapa para cada perigo identificado?",
     "alternativa1": "Descrição do perigo, nível de risco associado e medida de controle preliminar.",
     "alternativa2": "Identificação das fontes ou circunstâncias, descrição das possíveis lesões ou agravos e sugestões dos trabalhadores.",
@@ -1551,7 +1551,7 @@ const questoes = [
     "gabaritoComentado": "Item 1.5.4.3.1 exige minimamente: descrição perigo/lesões; identificação fontes/circunstâncias; indicação grupo trabalhadores. (Apostila Vol III, pág. 112)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "22. A preparação para emergências é parte integrante do GRO. Além de estabelecer procedimentos de resposta, a NR 01 determina uma ação prática periódica para testar e aprimorar esses procedimentos. Que ação é essa e qual seu requisito associado?",
     "alternativa1": "Realização de auditorias anuais por consultoria externa, com foco nos procedimentos de primeiros socorros.",
     "alternativa2": "Atualização anual dos contatos de emergência externos (Bombeiros, Defesa Civil), sem necessidade de testes práticos.",
@@ -1562,7 +1562,7 @@ const questoes = [
     "gabaritoComentado": "Item 1.5.6.3 exige exercícios simulados periodicamente, com registro. (Apostila Vol III, pág. 142)"
   },
    {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "23. Para garantir a segurança durante a calibração ou enchimento de pneus de máquinas e equipamentos não estacionários, que podem oferecer riscos significativos em caso de falha, qual medida de prevenção específica é exigida pela norma regulamentadora?",
     "alternativa1": "A atividade deve ser realizada utilizando um dispositivo de clausura ou gaiola de proteção dimensionada adequadamente, até que a pressão interna atinja um nível seguro para vedação.",
     "alternativa2": "O enchimento deve ser feito com o pneu submerso em um tanque de água para absorver a energia em caso de explosão.",
@@ -1573,7 +1573,7 @@ const questoes = [
     "gabaritoComentado": "Item 12.7.8 'b' exige uso de dispositivo de clausura ou gaiola para enchimento/calibração de pneus. (Apostila Vol III, pág. 174)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "24. Ao projetar ou instalar proteções (barreiras fisicas) que utilizam materiais descontínuos (ou seja, com aberturas, como grades ou telas), qual critério fundamental deve ser observado para garantir a segurança e impedir o acesso às zonas de perigo?",
     "alternativa1": "O material da proteção deve ser obrigatoriamente metálico e pintado com cores de segurança contrastantes.",
     "alternativa2": "As aberturas devem ser pequenas o suficiente para impedir a passagem de ferramentas manuais comuns utilizadas na manutenção.",
@@ -1584,7 +1584,7 @@ const questoes = [
     "gabaritoComentado": "Item 12.5.10 exige observância das distâncias de segurança (normas técnicas) para proteções com aberturas. (Apostila Vol III, pág. 172)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "25. Além dos riscos inerentes ao movimento mecânico, as máquinas e equipamentos podem gerar outros tipos de riscos, denominados \"riscos adicionais\", que devem ser considerados na apreciação de riscos e controlados. Qual das seguintes opções lista exemplos que se enquadram exclusivamente na categoria de riscos adicionais mencionados na norma?",
     "alternativa1": "Vibrações, ruído, calor, e pontos de esmagamento ou agarramento em transmissões de força.",
     "alternativa2": "Substâncias perigosas (químicas/biológicas), radiações ionizantes/não ionizantes, e falhas nos dispositivos de intertravamento.",
@@ -1595,7 +1595,7 @@ const questoes = [
     "gabaritoComentado": "Item 12.10.1 lista riscos adicionais; a opção (E) contém apenas itens dessa lista. (Apostila Vol III, págs. 175-176)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "26. Além das proteções fixas e móveis intertravadas, a NR-12 contempla o uso de \"dispositivos de segurança interligados\" como parte dos sistemas de segurança. Quais dos seguintes exemplos se enquadram nesta categoria de dispositivos?",
     "alternativa1": "Chaves gerais com bloqueio, disjuntores termomagnéticos e fusíveis de ação rápida.",
     "alternativa2": "Manômetros calibrados, termômetros industriais e indicadores de nível visual.",
@@ -1606,7 +1606,7 @@ const questoes = [
     "gabaritoComentado": "Sensores de presença, válvulas de segurança, dispositivos de intertravamento são \"dispositivos de segurança interligados\". (Apostila Vol III, pág. 169)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "27. A sinalização de segurança é fundamental em instalações e serviços em eletricidade para advertência e identificação. Quais situações, dentre outras, exigem a adoção de sinalização adequada conforme a NR 10?",
     "alternativa1": "Identificação de circuitos elétricos, delimitação de áreas, identificação de equipamento ou circuito impedido e restrições de acesso.",
     "alternativa2": "Nível de tensão dos circuitos, data da última manutenção, nome do eletricista responsável e localização das saídas de emergência.",
@@ -1617,7 +1617,7 @@ const questoes = [
     "gabaritoComentado": "Item 10.10.1 lista situações que exigem sinalização, incluindo as de (A). (Apostila Vol III, pág. 194)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "28. Além dos procedimentos de trabalho padronizados, a execução de serviços em instalações elétricas deve ser precedida por outro documento específico. Que documento é esse e quais informações mínimas ele deve conter?",
     "alternativa1": "Relatório de Análise de Risco (AR), contendo a avaliação quantitativa da exposição e as medidas de controle adicionais.",
     "alternativa2": "Prontuário de Instalações Elétricas atualizado, com os diagramas unifilares e especificações de aterramento.",
@@ -1628,7 +1628,7 @@ const questoes = [
     "gabaritoComentado": "Item 10.11.2 exige Ordem de Serviço (OS) específica antes dos serviços. (Apostila Vol III, pág. 195)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "29. Após a realização de cada exame clínico ocupacional, o médico responsável deve emitir o Atestado de Saúde Ocupacional (ASO). Quais informações, relacionadas aos riscos e à aptidão, devem constar obrigatoriamente neste documento?",
     "alternativa1": "Apenas a definição de apto ou inapto para a função, sem detalhar os riscos específicos aos quais o trabalhador está exposto.",
     "alternativa2": "Descrição detalhada de todos os perigos identificados no PGR da empresa e a lista completa de exames complementares realizados.",
@@ -1639,7 +1639,7 @@ const questoes = [
     "gabaritoComentado": "ASO (item 7.5.19) exige minimamente: 'c' descrição perigos/fatores que necessitem controle médico (ou inexistência) e 'e' definição apto/inapto. (Apostila Vol III, pág. 219)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "30. Quando o médico responsável pelo PCMSO constata a ocorrência ou o agravamento de uma doença relacionada ao trabalho, ou verifica alterações em exames que revelem disfunção de órgão ou sistema biológico mesmo sem sintomatologia, certas ações devem ser tomadas pelo empregador, após ser informado pelo médico. Analise as ações abaixo:\<br>I. Emitir a Comunicação de Acidente do Trabalho (CAT).\<br>II. Afastar o trabalhador da situação ou do trabalho, quando necessário.\<br>III. Encaminhar o trabalhador à Previdência Social se o afastamento for superior a 15 dias.\<br>IV. Reavaliar os riscos ocupacionais e as medidas de prevenção pertinentes no ambiente de trabalho.\nQuais destas ações são exigidas do empregador nessa situação?",
     "alternativa1": "I e II, apenas.",
     "alternativa2": "I, III e IV, apenas.",
@@ -1650,7 +1650,7 @@ const questoes = [
     "gabaritoComentado": "As quatro ações (CAT, afastar, encaminhar INSS >15d, reavaliar riscos) são exigidas do empregador. (Apostila Vol III, pág. 219)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "31. A norma regulamentadora que trata do PCMSO exige o registro dos dados dos exames clínicos e complementares em um prontuário médico individual. Qual é o prazo mínimo que este prontuário deve ser mantido pela organização, mesmo após o desligamento do trabalhador?",
     "alternativa1": "5 anos após o desligamento do trabalhador.",
     "alternativa2": "10 anos após o desligamento do trabalhador.",
@@ -1661,7 +1661,7 @@ const questoes = [
     "gabaritoComentado": "Item 7.6.1 da NR 7 exige manutenção do prontuário por no mínimo 20 anos após desligamento. (Apostila Vol III, pág. 220)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "32. As estratégias de defesa são mecanismos utilizados pelos trabalhadores para lidar com o sofrimento no trabalho. Além das defesas individuais, existem as coletivas. Qual é a principal função ou contribuição das estratégias de defesa coletivas no ambiente de trabalho?",
     "alternativa1": "Minimizar a percepção individual das pressões sofridas, transformando o sofrimento diretamente em prazer.",
     "alternativa2": "Focar na resolução de conflitos interpessoais diretos entre colegas, sem alterar a percepção da organização do trabalho.",
@@ -1672,7 +1672,7 @@ const questoes = [
     "gabaritoComentado": "Defesas coletivas contribuem para construção do coletivo e estabilidade/proteção. (Apostila Vol III, pág. 230)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "33. O assédio moral organizacional pode se manifestar através de diferentes estratégias de gestão abusivas. Qual alternativa descreve corretamente as características distintivas da \"Gestão por Injúria\" e da \"Gestão por Medo\"?",
     "alternativa1": "Gestão por Injúria utiliza ameaças implícitas ou explícitas para gerar obediência, enquanto Gestão por Medo foca em humilhações e constrangimentos públicos para ofender a dignidade.",
     "alternativa2": "Gestão por Injúria visa melhorar o desempenho através de pressão excessiva e metas irrealistas, enquanto Gestão por Medo busca excluir grupos específicos por meio de isolamento e sobrecarga.",
@@ -1683,7 +1683,7 @@ const questoes = [
     "gabaritoComentado": "Gestão por Injúria foca em ofensa à dignidade/honra. Gestão por Medo usa ameaça para submissão. (Apostila Vol III, págs. 238-239)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "34. Para o correto dimensionamento do SESMT (Serviços Especializados em Segurança e em Medicina do Trabalho), é necessário considerar o número de empregados do estabelecimento e o Grau de Risco (GR) da atividade econômica. Como deve ser determinado o Grau de Risco a ser utilizado nesse dimensionamento, caso o estabelecimento realize mais de uma atividade econômica?",
     "alternativa1": "Utiliza-se o Grau de Risco da atividade econômica principal, conforme consta no CNPJ, desconsiderando as atividades secundárias.",
     "alternativa2": "Calcula-se uma média ponderada dos Graus de Risco de todas as atividades econômicas exercidas no estabelecimento, com base no número de trabalhadores em cada uma.",
@@ -1694,7 +1694,7 @@ const questoes = [
     "gabaritoComentado": "Item 4.5.1 da NR 4 define usar o maior GR entre atividade principal e preponderante. (Apostila Vol III, pág. 250)"
   },
    {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "35. A Norma Regulamentadora 05 estabelece que, mesmo quando um estabelecimento não se enquadra nos parâmetros do Quadro I para constituir uma CIPA completa, medidas de prevenção ainda são necessárias. Como a norma trata a situação de um estabelecimento que não se enquadra no Quadro I, mas é atendido por SESMT (Serviço Especializado em Segurança e em Medicina do Trabalho)?",
     "alternativa1": "A organização deve nomear um representante (designado da NR 5) dentre seus empregados, que atuará em conjunto com o SESMT.",
     "alternativa2": "O SESMT indicará um de seus membros para atuar como representante único da NR 5 naquele estabelecimento.",
@@ -1705,7 +1705,7 @@ const questoes = [
     "gabaritoComentado": "Item 5.4.13.1: Se não enquadrado no Quadro I mas atendido por SESMT, o próprio SESMT desempenha as atribuições da CIPA. (Apostila Vol IV, pág. 15)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "36. Além das responsabilidades individuais do Presidente e do Vice-Presidente da CIPA, existem atribuições que devem ser exercidas conjuntamente por ambos. Quais são essas atribuições conjuntas?",
     "alternativa1": "Coordenar e supervisionar as atividades da CIPA e divulgar suas decisões aos trabalhadores.",
     "alternativa2": "Convocar as reuniões e substituir o Presidente em seus impedimentos eventuais.",
@@ -1716,7 +1716,7 @@ const questoes = [
     "gabaritoComentado": "Item 5.3.6: Atribuições conjuntas Pres./Vice: a) coordenar/supervisionar atividades; b) divulgar decisões. (Apostila Vol IV, pág. 10)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "37. Considerando as disposições da Norma Regulamentadora n° 6 sobre o registro do fornecimento de Equipamento de Proteção Individual (EPI) ao empregado, analise as seguintes afirmações:\<br>I. O registro do fornecimento do EPI pode ser realizado em livros, fichas ou sistema eletrônico, inclusive biométrico.\<br>II. Em caso de EPI descartável, o registro de fornecimento é dispensado, bastando a comprovação da disponibilização do equipamento em quantidade suficiente.\<br>III. A organização deve registrar o processo de seleção do EPI, podendo integrar este registro ao Programa de Gerenciamento de Riscos (PGR).\nEstá correto o que se afirma em:",
     "alternativa1": "I, apenas.",
     "alternativa2": "II, apenas.",
@@ -1727,7 +1727,7 @@ const questoes = [
     "gabaritoComentado": "I é correta (registro pode ser livro/ficha/eletrônico). II é incorreta (registro exigido para todos EPIs). III é correta (registro da seleção pode integrar PGR). Corretas: I e III. (Apostila Vol IV, págs. 29, 30)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "38. Após a ocorrência de um acidente de trabalho, o relatório de análise elaborado pela auditoria-fiscal do trabalho pode subsidiar ações de outras instituições. Considerando o contexto das interações institucionais e as repercussões de um acidente laboral, qual o papel descrito para o relatório da auditoria-fiscal em relação às ações regressivas movidas pelo Instituto Nacional do Seguro Social (INSS)?",
     "alternativa1": "Funciona como prova pré-constituída, dispensando a necessidade de outras análises periciais ou judiciais para a ação regressiva.",
     "alternativa2": "Serve como base para a decisão final na esfera administrativa do INSS, mas não pode ser utilizado no processo judicial regressivo.",
@@ -1738,7 +1738,7 @@ const questoes = [
     "gabaritoComentado": "Relatório da AFT é peça informativa que pode instruir/fundamentar ação regressiva, sujeita a outras provas. (Apostila Vol IV, pág. 40)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "39. O conceito de \"assalariamento indireto\" é utilizado para descrever uma das funções desempenhadas pelos direitos sociais no sistema capitalista. Qual mecanismo esse conceito descreve em relação aos custos da força de trabalho?",
     "alternativa1": "A transferência total dos custos de reprodução da força de trabalho para o trabalhador individual, por meio de contribuições obrigatórias.",
     "alternativa2": "A divisão dos custos de reprodução da força de trabalho entre o empregador individual e o Estado, tornando-a menos onerosa para o primeiro.",
@@ -1749,7 +1749,7 @@ const questoes = [
     "gabaritoComentado": "\"Assalariamento indireto\" descreve divisão de custos de reprodução da força de trabalho entre empregador e Estado. (Apostila Vol IV, pág. 51)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "40. As normas internacionais do trabalho adotadas pela Organização Internacional do Trabalho (OIT) podem assumir a forma de Convenções ou Recomendações. Qual a natureza jurídica e o efeito principal das Recomendações da OIT para os Estados-membros?",
     "alternativa1": "Possuem natureza de tratado internacional e exigem ratificação para gerar obrigações legais diretas.",
     "alternativa2": "São consideradas fontes normativas vinculantes, com hierarquia superior às leis ordinárias nacionais.",
@@ -1760,7 +1760,7 @@ const questoes = [
     "gabaritoComentado": "Recomendações são sugestões/orientações, não exigem ratificação nem criam obrigações legais diretas. (Apostila Vol IV, pág. 63)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "41. A instalação de caldeiras em ambiente fechado, conhecido como Casa de Caldeiras, exige o cumprimento de requisitos específicos para garantir a segurança. Qual das seguintes exigências é aplicável à construção da Casa de Caldeiras?",
     "alternativa1": "Deve possuir, no mínimo, três paredes adjacentes a outras instalações do estabelecimento para otimizar o espaço.",
     "alternativa2": "O prédio deve ser construído com material resistente ao fogo e pode ter apenas uma parede adjacente a outras instalações.",
@@ -1771,7 +1771,7 @@ const questoes = [
     "gabaritoComentado": "Casa de Caldeiras: material resistente ao fogo, pode ter apenas uma parede adjacente (item 13.4.2.4 'a'). (Apostila Vol IV, pág. 91)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "42. Para fins de aplicação de requisitos normativos específicos, as caldeiras são classificadas em categorias A e B. Qual critério principal define essa categorização?",
     "alternativa1": "O tipo de fluido utilizado (água ou fluido térmico).",
     "alternativa2": "O volume interno total do equipamento.",
@@ -1782,7 +1782,7 @@ const questoes = [
     "gabaritoComentado": "Categorização (A ou B) é pela pressão de operação (item 13.4.1.1). (Apostila Vol IV, pág. 85)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "43. De acordo com a NR 13, qual dos seguintes itens é OBRIGATÓRIO para vasos de pressão, mas NÃO é exigido como item obrigatório geral para caldeiras?",
     "alternativa1": "Válvula de segurança com pressão de abertura ajustada em valor igual ou inferior à PMTA.",
     "alternativa2": "Medidas para evitar o bloqueio inadvertido de dispositivos de segurança, como controles administrativos ou Dispositivo Contra Bloqueio Inadvertido (DCBI).",
@@ -1793,7 +1793,7 @@ const questoes = [
     "gabaritoComentado": "Medidas contra bloqueio inadvertido (DCBI) são exigidas para vasos (13.5.1.2 'c'), mas não para caldeiras. (Apostila Vol IV, págs. 85, 96, 97)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "44. A documentação associada a uma caldeira inclui o \"Prontuário da Caldeira\". Qual dos conjuntos de informações a seguir deve constar, minimamente, nesse prontuário?",
     "alternativa1": "Código de construção, relatórios de inspeção periódica e certificados de calibração dos instrumentos.",
     "alternativa2": "Código de construção, especificações dos materiais, procedimentos de fabricação e metodologia para estabelecimento da PMTA.",
@@ -1804,7 +1804,7 @@ const questoes = [
     "gabaritoComentado": "Prontuário da caldeira (13.4.1.6) deve conter: código construção, especificações materiais, procedimentos fabricação, metodologia PMTA, etc. Alternativa (B) melhor agrupa esses itens. (Apostila Vol IV, pág. 88)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "45. Durante a execução de serviços de escavação, é fundamental garantir a estabilidade das bordas para prevenir acidentes. Nesse sentido, qual a distância mínima da borda da escavação que deve ser mantida livre, sem deposição de materiais ou sobrecargas?",
     "alternativa1": "0,50 m (cinquenta centímetros).",
     "alternativa2": "1,00 m (um metro).",
@@ -1815,7 +1815,7 @@ const questoes = [
     "gabaritoComentado": "Item 18.5.7 exige faixa mínima de 1,00 m livre nas bordas. (Apostila Vol IV, pág. 116)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "46. Sobre a utilização de estruturas de madeira na construção de andaimes, qual afirmação está em conformidade com as diretrizes de segurança estabelecidas?",
     "alternativa1": "É permitida, desde que a madeira seja de primeira qualidade e inspecionada diariamente por profissional qualificado.",
     "alternativa2": "É totalmente proibida, devendo-se utilizar exclusivamente estruturas metálicas certificadas.",
@@ -1826,7 +1826,7 @@ const questoes = [
     "gabaritoComentado": "Item 18.10.1.7 proíbe madeira, exceto impossibilidade técnica de usar metálicos. (Apostila Vol IV, pág. 127)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "47. A segurança na montagem e utilização de andaimes suspensos é crítica. No que diz respeito à ligação ou conexão entre diferentes estruturas de andaimes suspensos, qual é a orientação correta?",
     "alternativa1": "A interligação entre estruturas de andaimes suspensos é proibida.",
     "alternativa2": "A interligação é recomendada para aumentar a estabilidade do conjunto, especialmente em grandes fachadas.",
@@ -1837,7 +1837,7 @@ const questoes = [
     "gabaritoComentado": "Item 18.11.31 proíbe interligação entre andaimes suspensos. (Apostila Vol IV, pág. 133)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "48. Analise as seguintes afirmações sobre organização, limpeza e armazenamento no canteiro de obras, conforme a NR 18:\<br>I. A remoção de entulhos ou sobras de materiais deve ser feita preferencialmente por meio de calhas fechadas ou equipamentos mecânicos adequados.\<br>II. É permitido o armazenamento temporário de materiais tóxicos ou inflamáveis em qualquer área coberta e sinalizada do canteiro, desde que o acesso seja restrito a pessoas autorizadas.\<br>III. Madeiras provenientes do desmonte de fôrmas, andaimes ou escoramentos devem ter pregos e arames removidos ou rebatidos antes de serem empilhadas em local seguro.\<br>IV. É proibida a queima de qualquer tipo de resíduo orgânico ou entulho nas dependências do canteiro de obras.\nEstá correto o que se afirma em:",
     "alternativa1": "I e II, apenas.",
     "alternativa2": "III e IV, apenas.",
@@ -1848,7 +1848,7 @@ const questoes = [
     "gabaritoComentado": "I (correta). II (incorreta - local deve ser apropriado, isolado, etc.). III (correta). IV (correta). Corretas: I, III e IV. (Apostila Vol IV, pág. 140)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "49. Para que um trabalhador seja considerado formalmente \"autorizado\" a realizar trabalho em altura, conforme a NR 35, quais condições devem ser cumulativamente atendidas?",
     "alternativa1": "Ter recebido treinamento inicial ou periódico nos últimos 12 meses e possuir atestado de saúde ocupacional (ASO) indicando aptidão geral para o trabalho.",
     "alternativa2": "Ser maior de 21 anos, possuir experiência comprovada na atividade e ter sido formalmente designado pela supervisão direta.",
@@ -1859,7 +1859,7 @@ const questoes = [
     "gabaritoComentado": "Para ser autorizado (35.3.1), trabalhador deve ser capacitado (treinamento - 35.3.2) e apto (exame médico/ASO-35.3.3). (Apostila Vol IV, págs. 153, 154, 155)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "50. Ao planejar atividades que envolvam trabalho em altura, deve-se seguir uma hierarquia de medidas preventivas. Qual é a primeira medida que deve ser considerada nesse processo?",
     "alternativa1": "A instalação de sistemas de proteção coletiva contra quedas (SPCQ).",
     "alternativa2": "A seleção e fornecimento de sistemas de proteção individual contra quedas (SPIQ).",
@@ -1870,7 +1870,7 @@ const questoes = [
     "gabaritoComentado": "Hierarquia no planejamento (35.4.1): a) evitar trabalho em altura. (Apostila Vol IV, pág. 156)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "51. De acordo com a NR 31, é VEDADA a manipulação de quaisquer agrotóxicos, aditivos, adjuvantes e produtos afins por quais dos seguintes grupos de trabalhadores?",
     "alternativa1": "Trabalhadores analfabetos ou com baixo nível de instrução formal.",
     "alternativa2": "Trabalhadores com menos de 21 anos ou maiores de 50 anos de idade.",
@@ -1881,7 +1881,7 @@ const questoes = [
     "gabaritoComentado": "Item 31.7.1 veda manipulação por <18 anos, >60 anos e gestantes/lactantes. (Apostila Vol IV, pág. 183)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "52. O armazenamento de agrotóxicos, aditivos, adjuvantes e produtos afins em edificações rurais exige cuidados específicos para prevenir contaminações e acidentes. Qual é o requisito fundamental referente à localização da área de armazenamento desses produtos em relação a outros locais?",
     "alternativa1": "Deve estar localizado na área externa da edificação principal, em um paiol com ventilação natural.",
     "alternativa2": "Pode ser realizado em qualquer local da edificação, desde que em prateleiras exclusivas e sinalizadas.",
@@ -1892,7 +1892,7 @@ const questoes = [
     "gabaritoComentado": "Item 31.7.4 'c' exige afastamento mínimo de habitações e locais de consumo/armazenamento de alimentos/medicamentos. (Apostila Vol IV, pág. 183)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "53. Considerando as obrigações relativas aos Equipamentos de Proteção Individual (EPI) e aos Dispositivos de Proteção Pessoal (DPP) no trabalho rural, qual das seguintes ações representa uma responsabilidade primária do trabalhador?",
     "alternativa1": "Realizar a higienização e a manutenção periódica dos EPIs reutilizáveis fornecidos.",
     "alternativa2": "Selecionar o EPI ou DPP mais adequado com base na análise de riscos da tarefa a ser executada.",
@@ -1903,7 +1903,7 @@ const questoes = [
     "gabaritoComentado": "Item 31.6.6 'c': compete ao empregado comunicar alteração no EPI/DPP. (A), (B), (E) são do empregador. (Apostila Vol IV, págs. 180, 181)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "54. A localização das instalações sanitárias em relação aos postos de trabalho é um aspecto importante para garantir o acesso e a higiene. Quando essas instalações se situam fora do corpo principal do estabelecimento, qual exigência deve ser cumprida em relação ao acesso a partir dos locais de trabalho?",
     "alternativa1": "A comunicação deve ser feita por meio de passagens que possuam piso e cobertura.",
     "alternativa2": "Deve haver um sistema de transporte interno disponível para deslocamento dos trabalhadores.",
@@ -1914,7 +1914,7 @@ const questoes = [
     "gabaritoComentado": "Item 24.3.1 'e' exige que passagem para sanitário externo tenha piso e cobertura. (Apostila Vol IV, pág. 199)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "55. Com base na classificação de risco dos agentes biológicos mencionada na apostila como referência do Ministério da Saúde, qual alternativa descreve CORRETAMENTE as características principais de um agente pertencente à Classe de Risco 3?",
     "alternativa1": "Inclui agentes biológicos com capacidade de transmissão, especialmente por via respiratória, causando doenças potencialmente letais, mas para las quais usualmente existem medidas profiláticas e terapêuticas.",
     "alternativa2": "Inclui agentes biológicos com grande poder de transmissibilidade, para os quais não há medida profilática ou terapêutica eficaz, causando doenças de alta gravidade com alta capacidade de disseminação.",
@@ -1925,7 +1925,7 @@ const questoes = [
     "gabaritoComentado": "Classe 3: alto risco individual, moderado comunidade, etc. (Apostila Vol IV, págs. 209, 210)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "56. Além de preencher e assinar a Permissão de Entrada e Trabalho (PET) e assegurar que os serviços de emergência e salvamento estejam disponíveis e operantes, qual outra responsabilidade fundamental é atribuída ao Supervisor de Entrada pela NR 33?",
     "alternativa1": "Executar os testes nos equipamentos utilizados para controle de riscos e conferir os procedimentos contidos na PET.",
     "alternativa2": "Realizar o monitoramento contínuo da atmosfera no interior do espaço confinado durante a realização dos trabalhos.",
@@ -1936,7 +1936,7 @@ const questoes = [
     "gabaritoComentado": "Item 33.5.15 'b': compete ao Supervisor de Entrada executar testes nos equipamentos e conferir procedimentos da PET. (Apostila Vol IV, págs. 225, 226)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "57. Em ambientes com poeira combustível, a combinação dos elementos do \"pentágono da explosão\" (oxigênio, combustível, dispersão, fonte de ignição e confinamento) pode levar a uma deflagração inicial. Além de possibilitar essa deflagração primária, qual o papel crítico adicional do confinamento na potencial ocorrência de explosões secundárias, que podem tornar o evento catastrófico?",
     "alternativa1": "O confinamento altera a composição química da poeira depositada devido à falta de ventilação, aumentando significativamente seu potencial energético e explosivo.",
     "alternativa2": "O ambiente confinado intensifica a fonte de ignição original, aumentando sua temperatura e a probabilidade de ignições múltiplas e simultâneas.",
@@ -1947,7 +1947,7 @@ const questoes = [
     "gabaritoComentado": "Confinamento impede dissipação da onda de pressão, que ressuspende poeira depositada. (Apostila Vol IV, pág. 231)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "58. Segundo a NR 30, em relação aos camarotes destinados aos tripulantes em embarcações comerciais, assinale a alternativa correta:",
     "alternativa1": "Em embarcações com arqueação bruta (AB) igual ou superior a 500, os camarotes individuais são obrigatórios para todos os tripulantes.",
     "alternativa2": "É permitido o uso de até três camas sobrepostas (treliches) nos camarotes, desde que haja ventilação adequada e espaço livre suficiente.",
@@ -1958,7 +1958,7 @@ const questoes = [
     "gabaritoComentado": "Item 30.9.7: empregador é responsável por fornecer/conservar/higienizar colchões e roupas de cama. (Apostila Vol IV, pág. 245)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "59. Sobre os equipamentos de guindar e seus acessórios utilizados em embarcações comerciais, conforme a NR 30, analise as assertivas:\<br>I. Devem possuir certificação, a qual precisa ser renovada em um prazo máximo de cinco anos, ou conforme recomendação do órgão certificador se este for menor.\<br>II. As inspeções periódicas devem ser realizadas, no máximo, a cada doze meses, por trabalhador qualificado sob supervisão de PLH ou por sociedade classificadora reconhecida.\<br>III. A inspeção diária, realizada pelo operador antes do início da jornada, pode ser dispensada se a inspeção periódica tiver ocorrido há menos de 30 dias.\<br>IV. Uma inspeção eventual é obrigatória após a ocorrência de manutenção, reparo ou avaria que possa ter comprometido a segurança operacional do equipamento.\nEstá correto o que se afirma em:",
     "alternativa1": "I, II e IV, apenas.",
     "alternativa2": "III e IV, apenas.",
@@ -1969,7 +1969,7 @@ const questoes = [
     "gabaritoComentado": "I (correta máx. 5 anos). II (correta máx. 12 meses). III (incorreta - diária obrigatória). IV (correta). Corretas: I, II e IV. (Apostila Vol IV, pág. 249)"
   },
   {
-    "tema": "SIMULIGHT 🪶",
+    "tema": "#SIMULIGHT 🪶",
     "pergunta": "60. Avalie as situações abaixo e identifique qual delas representa o maior risco de acidente grave ou fatal, considerando os tipos de acidentes e fatores de risco enfatizados:",
     "alternativa1": "Um marinheiro de máquinas, experiente mas sem EPIs adequados para a tarefa específica, realiza a verificação do nível de óleo do motor principal com este em funcionamento, aproximando-se das correias de transmissão que estão sem a proteção adequada",
     "alternativa2": "Durante o embarque de materiais, uma mangueira de ar comprimido foi deixada estendida atravessando a plataforma superior da escada de portaló, criando um risco de tropeço para quem acessa a embarcação.",
@@ -1980,7 +1980,7 @@ const questoes = [
     "gabaritoComentado": "Aproximação de partes móveis (correias) sem proteção, com motor em funcionamento, representa alto risco de acidente grave (amputação, escalpelamento). (Apostila Vol IV, págs. 260-261)"
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A higiene ocupacional opera com foco nos agentes químicos, físicos, biológicos, na ergonomia e nos acidentes de trabalho.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -1991,7 +1991,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Nos termos da apostila, apenas nos agentes químicos, físicos e biológicos."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Na higiene ocupacional, agente químico é toda substância química, pura ou em misturas, que possa ou não causar lesão ou agravo à saúde do trabalhador.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2002,7 +2002,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Tem que causar lesão ou agravo."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Agente físico é qualquer forma de energia que possa causar lesão ou agravo à saúde do trabalhador.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2013,7 +2013,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Ruído e calor são agentes químicos.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2024,7 +2024,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Físicos. Químico é benzeno, sílica, chumbo etc."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Agente biológico é qualquer microorganismo patogênico que possa causar lesão ou agravo à saúde, inclusive vírus e fungos.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2035,7 +2035,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "No que se refere às etapas do processo de trabalho em higiene ocupacional, o reconhecimento envolve a identificação dos riscos potenciais.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2046,7 +2046,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Essa é a antecipação. Reconhecimento é a identificação dos agentes e riscos já existentes."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A avaliação verifica a magnitude da exposição, enquanto o controle é a etapa a ser realizada quando não foi possível eliminar os fatores de risco.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2057,7 +2057,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A NR 1 está profundamente ligada à NR 9, que trata de riscos físicos, químicos e biológicos, com anexos próprios para alguns agentes (como vibrações e calor).",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2068,7 +2068,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Entre os riscos químicos, gases se referem à forma gasosa de uma substância que, à temperatura ambiente, é líquida.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2079,7 +2079,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Nesse caso o monóxido de carbono não seria um gás, porque não é líquido à temperatura ambiente… A definição da questão é dos vapores. Gases são gasosos (com o perdão da obviedade) à temperatura ambiente, como cloro, amônia (além do mencionado CO). Já os vapores mais famosos na higiene ocupacional são os do tolueno e do benzeno."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Gases + vapores = contaminantes gasosos.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2090,7 +2090,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO. É o nome da categoria mais ampla."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Gases e vapores podem ser orgânicos, quando têm carbono na sua estrutura, inertes, quando não reagem com outras substâncias, ou especiais, quando exigem filtros especiais, como o CO e o mercúrio.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2101,7 +2101,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Aerodispersóides são partículas suspensas no meio gasoso. Essas partículas podem ser sólidas (como poeiras e fibras) ou líquidas (como névoas, neblinas e fumos).",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2112,7 +2112,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Fumos são sólidos."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Poeira é uma partícula sólida gerada por um processo térmico, ou seja, decorre da condensação de vapores após uma substância sólida ser aquecida, como no caso de uma solda ou fundição.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2123,7 +2123,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Soldar não cria poeira, né, cria fumos. Poeira é ruptura mecânica de um sólido, como no corte de uma madeira em uma serralheria."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Fibra é uma partícula sólida, longa e fina de um determinado material.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2134,7 +2134,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO. Como o amianto."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Partícula líquida em suspensão criada por ruptura mecânica de líquido: neblina. Por processo térmico ou condensação: névoa.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2145,7 +2145,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Névoa é a do desodorante, que passa por ruptura mecânica quando você aperta o negócio. Condensação, tipo na estrada quando esfria, é neblina."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "No que se refere ao ingresso dos agentes químicos no corpo humano, a via digestiva é de pouca importância em termos ocupacionais.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2156,7 +2156,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO. Respiratória e cutânea (ou dérmica) são as mais importantes."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Tolueno é encontrado na produção de lubrificantes, borrachas e pode estar presente em combustíveis leves, como a gasolina.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2167,7 +2167,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Esse é o benzeno. Tolueno é característico de tintas, colas e revestimentos (é uma matéria-prima na produção do benzeno). Falou em combustível, falou em benzeno."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Poeiras vegetais são encontradas caracteristicamente na construção civil.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2178,7 +2178,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Que vegetal que tem lá na obra? São comuns em atividades agrícolas, como as que lidam com algodão e grãos."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Entre os agentes físicos, ruídos podem ser contínuos, intermitentes ou de impacto, que é aquele que apresenta picos de energia de duração inferior a um segundo, com intervalos superiores a um segundo. O ruído pode causar, entre outros quadros, dor de cabeça e aumento da pressão arterial.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2189,7 +2189,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Vibrações podem ser de mãos e braços ou de corpo inteiro, enquanto pressões anormais podem ser verificadas em atividades de mergulho profissional ou em câmara de ar comprimido.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2200,7 +2200,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "EPIs podem prejudicar a troca de calor, provocando sobrecarga térmica sobre o trabalhador, causando hipotermia.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2211,7 +2211,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Hipertermia."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Radiações podem ser ionizantes (arranca elétrons), como microondas e radiofrequência, ou não ionizantes (não arranca elétrons), como raios-X.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2222,7 +2222,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Os exemplos estão invertidos."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "As etapas do processo de higiene ocupacional são: antecipação, reconhecimento, avaliação e controle.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2233,7 +2233,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A avaliação pode ser quantitativa e qualitativa. Na quantitativa, o juízo no Brasil se dá pelos Limites de Tolerância, atualmente previstos na NR 15 e considerados defasados.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2244,7 +2244,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A avaliação qualitativa deve ser utilizada secundariamente, apenas quando não existe limite de exposição para o agente sob análise.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2255,7 +2255,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Há outros casos: em situações óbvias, quando há risco evidente e grave, ou em empresas de pequeno e médio porte, porque avaliações quantitativas podem ter custo elevado."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O controle deve se dar sobre qualquer exposição que ultrapasse o limite de tolerância.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2266,7 +2266,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Não é o limite de tolerância, é o nível de ação, como veremos na próxima questão."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Para agentes químicos, o nível de ação é metade dos limites de tolerância. Para o agente físico ruído, é metade da dose.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2277,7 +2277,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "As medidas de prevenção devem ser implementadas nesta ordem de prioridade: eliminação, medidas administrativas ou de organização, medidas de proteção coletiva, medidas de proteção individual.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2288,7 +2288,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Proteção coletiva vem em segundo lugar; medidas administrativas, em terceiro."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Medidas de proteção coletiva incluem mudanças no processo produtivo, enclausuramento, isolamento e ventilação exaustora ou diluidora.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2299,7 +2299,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Medidas administrativas ou de organização incluem pausas, alternância, redução da jornada, sinalização, capacitação e distribuição de EPIs.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2310,7 +2310,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. EPI é medida de proteção individual, não é organização do trabalho."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "EPIs devem ter Certificado de Aprovação, expedido pelo órgão de âmbito nacional competente.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2321,7 +2321,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Doenças profissionais têm relação direta com o trabalho, e a exposição não ocupacional aos agentes causais é improvável, como no caso do saturnismo e da silicose. Já as doenças do trabalho não têm relação direta com o trabalho: as doenças também ocorrem na população em general, como hérnias ou hipertensão.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2332,7 +2332,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A etiologia é o estudo das causas das doenças. Na classificação de Schilling, a categoria I tem o trabalho como provador de um distúrbio que já estava latente; a categoria II, como fator contributivo; a categoria III, como causa necessária.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2343,7 +2343,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. É o contrário:\n*  Categoria I: causa necessária, como silicose ou intoxicação por chumbo.\n*  Categoria II: fator contributivo: câncer, hipertensão.\n*  Categoria III: agravador de distúrbio latente ou doença já estabelecida: asma, alergias, doenças mentais."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Os fatores de risco para a saúde dos trabalhadores se dividem em cinco grandes grupos: físicos, químicos, biológicos, ergonômicos/psicossociais, de acidentes.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2354,7 +2354,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A silicose provoca reações celulares que causam fibrose no pulmão. Essas lesões são incuráveis, progressivas e causam perda da função pulmonar.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2365,7 +2365,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A perda auditiva induzida pelo ruído é consequência de lesões mecânicas nas células da cóclea, no ouvido externo. A perda se inicia nas frequências graves, evolui para as agudas e também é irreversível.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2376,7 +2376,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Ouvido interno, e a perda começa nas frequências agudas."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A lista de doenças relacionadas ao trabalho (LDRT) é estruturada em duas partes. Na lista A, estão os agentes, relacionados às respectivas doenças. Na lista B, estão as doenças, relacionadas cada uma aos seus respectivos agentes.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2387,7 +2387,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O nexo técnico previdenciário pode ser de três espécies: o profissional ou do trabalho, baseado na LDRT; o individual, decorrente de acidentes ou doenças de trabalho; e o epidemiológico, baseado em associações estatísticas entre CID e CNAE.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2398,7 +2398,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A caracterização do nexo entre trabalho e agravo cabe à inspeção do trabalho.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2409,7 +2409,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Cabe à perícia médica do INSS."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "No caso do nexo epidemiológico e do nexo profissional, existe presunção de que a doença do trabalhador é ocupacional, com inversão do ônus da prova, ao contrário do nexo individual, no qual o perito do INSS vai avaliar as condições de saúde e os laudos relacionados ao caso concreto.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2420,7 +2420,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO. No epidemiológico e no profissional, cabe à empresa interpor recurso (até 30 dias após tomar conhecimento da concessão do benefício) e provar que a doença não tem relação com o trabalho."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A perícia médica do INSS para o estabelecimento do nexo profissional, individual e NTEP depende de emissão da Comunicação de Acidente do Trabalho (CAT).",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2431,7 +2431,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Não depende."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A toxicologia ocupacional estuda a interação entre agentes químicos e a saúde do homem no seu ambiente de trabalho.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2442,7 +2442,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A toxicologia se concentra nas intoxicações agudas e nos aspectos toxicocinéticos.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2453,7 +2453,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Intoxicações agudas, subagudas e crônicas."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Perigo é a possibilidade de alguém sofrer dano.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2464,7 +2464,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Esse é o risco. Perigo é qualquer coisa potencialmente causadora de danos."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O efeito é a efetivação do perigo e depende da dose, do tempo e da via de contato. São exemplos de efeitos tóxicos: irritação da pele, de olhos, dano ao sistema reprodutivo, carcinogênese.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2475,7 +2475,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O perigo é quantitativo; o risco é qualitativo.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2486,7 +2486,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. O contrário. O risco é uma probabilidade, portanto quantitativo. O perigo (como o velho exemplo do tubarão no mar) é qualitativo, não um número."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Os produtos químicos devem ser classificados quanto aos seus perigos segundo os critérios estabelecidos no Sistema Globalmente Harmonizado de Classificação e Rotulagem de Produtos Químicos (GHS), da ONU, que também regula a suas fichas com dados de segurança (FDS).",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2497,7 +2497,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "São exemplos de agentes químicos tóxicos: fumos de chumbo, poeira mineral, sílica cristalina.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2508,7 +2508,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Monóxido de carbono é um gás, mas o benzeno e o xileno em geral aparecem em forma de vapores.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2519,7 +2519,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO. Já vimos isso."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O amianto aparece em forma de fumos.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2530,7 +2530,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. É uma fibra. Fumos são óxidos como o de chumbo, de ferro, de cádmio, que acabam se ligando ao oxigênio na fusão de metais."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Sprays geram neblinas.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2541,7 +2541,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Geram névoas (ruptura mecânica de líquidos). Neblina é condensação de vapores."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Irritantes primários exercem ação local, em geral sobre vias respiratórias superiores (como nariz e garganta) e são muito solúveis em água. Irritantes secundários têm uma ação geral ou sistêmica.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2552,7 +2552,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Existem irritantes primários atípicos, que são altamente irritantes das vias áreas superiores, apesar da sua baixa solubilidade em água, como gases lacrimogênios.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2563,7 +2563,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Por serem pouco solúveis em água, a amônia e ácidos como o crômico, o clorídrico e o fluorídrico irritam as vias áreas profundas.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2574,7 +2574,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. A amônia e os ácidos são bastante solúveis em água e, por isso, são “barrados” nas vias superiores, irritando-as."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Asfixiantes simples agem bioquimicamente com um ou mais locais do organismo, atrapalhando a oxigenação.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2585,7 +2585,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Esses são os asfixiantes químicos. Os simples não reagem com nada, apenas substituem o oxigênio do ambiente."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "São exemplos de asfixiantes simples: metano, hidrogênio, nitrogênio. Eles só agem em situações específicas, principalmente em espaços confinados.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2596,7 +2596,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO. Se o lugar for aberto, eles não vão substituir o oxigênio do ambiente."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A concentração normal de oxigênio na atmosfera é de 21%, e sua diminuição até 18% não causa alterações significativas no organismo humano.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2607,7 +2607,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Asfixiantes químicos não provocam efeitos em baixas concentrações.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2618,7 +2618,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Os químicos provocam."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O asfixiante químico mais conhecido é o dióxido de carbono (CO2), que “rouba” as hemoglobinas do oxigênio, pois reage com ela a uma taxa mais de 200 vezes maior.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2629,7 +2629,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. O dióxido de carbono (CO2) é um asfixiante simples. O gás em questão é o monóxido de carbono (CO), que é incolor, inodoro, sem gosto e surge da queima incompleta de combustíveis."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Outro asfixiante químico notório é o cianeto e o ácido cianídrico, que interfere na utilização do oxigênio pelos tecidos.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2640,7 +2640,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Sensibilizantes são substâncias que desenvolvem processos alérgicos. Uma vez ocorrida a sensibilização inicial, a resposta imunológica pode surgir mesmo com concentrações muito baixas da substância.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2651,7 +2651,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Reações alérgicas são relacionadas ou à pele (dermatites), ou às vias respiratórias (asma).",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2662,7 +2662,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Podem acometer também as mucosas (conjuntivites e rinites)."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Muitos metais são sensibilizantes, como compostos de níquel, cromo ou cobalto.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2673,7 +2673,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Do ponto de vista ocupacional, as principais vias de penetração dos agentes tóxicos são, em ordem de importância: a via respiratória, a dérmica e a digestiva.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2684,7 +2684,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A via respiratória normalmente é uma barreira efetiva para a proteção dos tecidos que estão sob ela.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2695,7 +2695,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Essa é a via dérmica (ou cutânea). A via respiratória é a mais comum para a penetração de agentes tóxicos, por ser muito extensa em área, permeável e muito vascularizada, além de não ter grandes mecanismos de defesa, uma vez que não metaboliza os agentes externos."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Os agentes tóxicos, para penetrarem por via cutânea, devem ser pouco solúveis em água ou gordura.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2706,7 +2706,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Pelo contrário: somos pura água e gordura (lamento), e para ingressar na nossa pele é melhor que a substância se dê misture com essas coisas."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Os riscos de intoxicação por via digestiva são menores, porque há pouca absorção na corrente sanguínea e o agente externo vai ter que enfrentar o pH ácido do estômago, o pH alcalino do intestino delgado e a ação das enzimas digestivas.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2717,7 +2717,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Os limites de tolerância ficam cada vez menos com o passar do tempo.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2728,7 +2728,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO. Descobre-se novos efeitos nocivos mesmo em concentrações mais baixas."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O limite de tolerância é definido como a concentração máxima que não causará danos à saúde do trabalhador.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2739,7 +2739,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Essa é malvadeza: a concentração máxima ou mínima. Às vezes é mínimo: oxigênio, por exemplo."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Em geral, os limites de tolerância se referem à exposição no ar da substância química, e não à exposição dérmica.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2750,7 +2750,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Os agentes tóxicos podem ser ainda hepatotóxicos (fígado), nefrotóxicos (rins), mielotóxicos (sangue ou medula) e ototóxicos (sistema auditivo).",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2761,7 +2761,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO. Muitas vezes os ototóxicos também são nefrotóxicos, porque rim e ouvido têm a mesma origem embriológica."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Os agentes neurotóxicos possuem ação depressora do sistema nervoso central, enquanto os anestésicos lesam os nervos periféricos, causando dormências, principalmente nos membros inferiores.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2772,7 +2772,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. É o contrário."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Entre os agentes tóxicos para o sistema respiratório, a sílica, o asbesto e o cimento são fibrogênicos.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2783,7 +2783,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. O cimento é não fibrogênico (não modifica o tecido pulmonar)."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Os indicadores biológicos de efeito (ou tipo I) são indicativos de adoecimento. Entre os mais famosos, estão a dosagem de chumbo no sangue e de ALA-U na urina para avaliar os efeitos da exposição ao chumbo inorgânico.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2794,7 +2794,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Os indicadores biológicos de exposição (tipo II) permitem estimar a concentração ambiental do agente, além de indicar a ocorrência da doença. Dois exemplos são orto-cresol na urina para avaliação da exposição ao xileno e ácido metil-hipúrico na urina para tolueno.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2805,7 +2805,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Em primeiro lugar, não indica ocorrência da doença. Em segundo, os exemplos estão invertidos."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Indicadores biológicos de susceptibilidade indicam a capacidade de um organismo de responder à exposição e não são utilizados por questões éticas.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2816,7 +2816,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO. Seria um elemento de discriminação, por exemplo, em uma seleção de candidatos."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "São mutagênicos os agentes químicos que produzem alterações no material genético das células. Os agressores externos que causam mutações são denominados genotóxicos e dependem do metabolismo ou da biotransformação para serem produzidos.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2827,7 +2827,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Eles podem ser absorvidos já ativos também, ou seja, já chegam genotóxicos ao organismo."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Os agentes carcinogênicos podem ser químicos, físicos ou biológicos, e a carcinogênese pode envolver ou não a mutação do DNA.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2838,7 +2838,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO. “O modo de ação de um carcinogênico pode ser genotóxico ou não.”"
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "As substâncias carcinogênicas são divididas em quatro grupos: 1, quando há evidência de causar câncer em humanos; 2A, quando é provável que cause; 2B, quando é possível que cause; 3, quando não há classificação sobre a carcinogenicidade.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2849,7 +2849,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A ergonomia busca adaptar o ser humano às características do ambiente de trabalho.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2860,7 +2860,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. O contrário."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A ergonomia pode ser de concepção, ainda na fase de projetos, ou de correção, quando há intervenção em ambientes já existentes.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2871,7 +2871,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Todas as regras sobre ergonomia de observância obrigatória pelas empresas estão concentradas na NR 17 e seus anexos.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2882,7 +2882,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Estão também na NR 36 (processamento de carne), além das normas sobre máquinas, construção civil, mineração etc."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A ergonomia organizacional estuda os projetos de postos de trabalho e fatores ambientais como luz, ruído, temperaturas, vibrações.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2893,7 +2893,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Essa é a ergonomia física, que estuda posturas, forças, movimentos, postos de trabalho e fatores ambientais. A organizacional estuda as regras de processos das empresas: a organização do trabalho, a jornada, as pausas, o ritmo, as metas, a gestão etc."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A ergonomia cognitiva estuda a memória, o raciocínio, a tomada de decisão, o estresse, a interação com os computadores.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2904,7 +2904,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A Análise Ergonômica do Trabalho (AET) representa um estudo inicial, geralmente qualitativo, que aponta os aspectos mais críticos que afetam o conforto, a saúde e a produtividade dos trabalhadores.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2915,7 +2915,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Essa é a Avaliação Ergonômica Preliminar (AEP). A AET é um estágio posterior, aprofundado, que inclui “mensuração sistematizada” para um diagnóstico mais avançado. Mas atenção: nada impede que a AEP tenha elementos quantitativos também, se couber no caso concreto."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A maior parte das medidas de prevenção da NR 17 necessárias em uma organização são prontamente identificadas em uma Avaliação Ergonômica Preliminar (AEP).",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2926,7 +2926,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Entre as medidas de prevenção que podem ser recomendadas na AEP ou na AET, estão pausas, alternância de tarefas e mudanças de ritmos, sempre de forma discutida e validada pelos trabalhadores.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2937,7 +2937,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O Programa de Gerenciamento de Riscos (PGR) deve ser incorporado à AEP ou à AET.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2948,7 +2948,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. É o contrário. Os riscos identificados e ações previstas na AEP e na AET é que são incorporados ao PGR."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A NR 17 traz um rol de métodos aceitáveis para a elaboração da AET.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2959,7 +2959,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Não tem indicação ou restrição de métodos, mas a escolha deve ser justificada."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A AET deve incluir as seguintes etapas: análise da demanda, análise do funcionamento da organização, justificativa para a definição de métodos, diagnóstico, recomendações, validação e revisão.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2970,7 +2970,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "As demandas de AET podem virar tanto dos trabalhadores, de modo espontâneo, quanto de problemas na produção, absenteísmo elevado, rotatividade alta no emprego, além de casos de adoecimento e acidentes no trabalho.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2981,7 +2981,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A Análise Ergonômica Preliminar (AEP) já permite que a organização tome medidas para reduzir seus riscos ergonômicos, mas isso não significa que ela possa estar dispensada de realizar uma Análise Ergonômica do Trabalho (AET).",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -2992,7 +2992,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Muitas vezes não vai precisar de AET, que só será necessária em casos específicos, como veremos a seguir."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A AET deverá ser realizada quando necessária uma análise mais aprofundada, quando as ações indicadas pela AEP se mostrarem insuficientes ou quando determinado pelo PCMSO, pelo SESMT ou pelo Auditor-Fiscal do Trabalho.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3003,7 +3003,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Não tem SESMT nem AFT. São quatro casos, e os dois últimos são um pouco redundantes mesmo:\n*  Observada a necessidade de avaliação mais aprofundada;\n*  Insuficiência das ações adotadas;\n*  Sugerida pelo PCMSO ou se houver lesões ou agravos à saúde;\n*  Como consequência da análise de acidentes e doenças relacionadas ao trabalho."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "ME e EPP estão dispensadas de fazer AET.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3014,7 +3014,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Só as enquadradas como grau de risco 1 e 2. MEI é em qualquer caso. Mas perceba que, se tiver evidências de que o trabalho está adoecendo os trabalhadores (os dois últimos casos acima), mesmo essas organizações devem excepcionalmente realizar AET."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O relatório da AET deve ficar à disposição na organização pelo prazo de dez anos.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3025,7 +3025,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Vinte anos."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "No caso de posturas extremas, movimentos bruscos ou frequentes dos membros, uso excessivo de força, vibrações e exigência cognitiva, as medidas de prevenção devem incluir ao menos uma das seguintes medidas: pausas, alternância, alteração da forma de execução ou outras medidas aplicáveis.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3036,7 +3036,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Ao menos duas."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "As pausas podem ser usufruídas no posto de trabalho, mas a sua introdução não pode ser acompanhada de aumento da cadência individual.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3047,7 +3047,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Tem que ser fora do posto de trabalho."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "As pausas não se confundem com a saída dos postos de trabalho para satisfação das necessidades fisiológicas dos trabalhadores.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3058,7 +3058,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Os espaços de trabalho devem ser suficientes para o trabalhador movimentar os segmentos corporais livremente.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3069,7 +3069,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Todas as organizações devem orientar os superiores hierárquicos a dialogar com os trabalhadores para que compreendam suas funções, facilitem o trabalho em equipe e estimulem o tratamento justo e respeitoso nas relações pessoais.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3080,7 +3080,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Bizarramente, a norma diz que isso só é obrigatório para organizações acima de dez empregados."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A carga suportada no transporte manual deve ser reduzida quando se tratar de mulher ou menor.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3091,7 +3091,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Não é permitido o levantamento de cargas, eventual ou não, quando a distância horizontal de pega for superior a 60 cm em relação ao corpo.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3102,7 +3102,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Só não eventual. Ir lá uma vez na vida não vai matar o cara."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Há diversos meios de prevenção que podem ser adotados na movimentação manual de cargas, como meios facilitadores, redução do tamanho da carga, limitação da duração do trabalho, redução das distâncias, pausas ou alternância com outras atividades.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3113,7 +3113,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Na movimentação manual de cargas, o máximo que se deve trabalhar antes de uma pausa é três horas.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3124,7 +3124,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Duas horas."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "As regras do transporte manual de cargas na NR 17 se aplicam ao levantamento, transporte e movimentação de pessoas.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3135,7 +3135,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Não se aplica a socorristas ou cuidadores, por exemplo."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O mobiliário deve ser regulável, e a posição sentada é preferencial à posição em pé.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3146,7 +3146,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. O mobiliário deve mesmo ser regulável, mas o preferencial é a alternância de posições: um pouco em pé, um pouco sentado."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "É obrigatório que a organização disponibilize apoio para os pés quando o trabalhador não puder manter a planta dos pés completamente apoiada no piso.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3157,7 +3157,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. “Pode ser utilizado”."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Os assentos utilizados nos postos de trabalho devem ter altura ajustável, conformação na base do assento, borda frontal arredondada e encosto que proteja a região lombar.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3168,7 +3168,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Pouca ou nenhuma conformação na base do assento."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Computadores portáteis devem acompanhar adaptação do teclado, do mouse ou da tela, a fim de permitir ajustes posturais, mas apenas se o uso for não eventual.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3179,7 +3179,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A iluminação deve ser apropriada à natureza da atividade, mas pode ser natural ou artificial, assim como geral ou suplementar.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3190,7 +3190,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O nível de ruído de fundo aceitável é de até 85 dB.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3201,7 +3201,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. 65 dB. 85 dB é o limite de tolerância para 8 horas por dia, mas isso é outro assunto que não estamos estudando aqui."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A temperatura em ambientes climatizados deve estar entre 18º e 25º.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3212,7 +3212,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Biomecânica estuda o movimento dos organismos vivos e se divide em cinemática e cinética.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3223,7 +3223,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A cinética aborda a forma como o movimento é executado; a cinemática, as forças associadas a um movimento, como a força muscular e as forças externas.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3234,7 +3234,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. É o contrário. Cinemática: como o corpo se move? Cinética: o que move o corpo? Cinemática é se você anda torto. Cinética é quais músculos você usa na corrida."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A fisiologia do trabalho estuda as adaptações do corpo humano ao esforço, bastante útil na prevenção de lesões por DORT em setores como frigoríficos, construção e teleatendimento.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3245,7 +3245,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Ossos são mais suscetíveis a lesões por esforços repetitivos do que outras estruturas.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3256,7 +3256,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Osso tem mais lesão traumatológica, ou seja, fraturas (osso quebra). LER tem mais a ver com ligamentos ou músculos."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Ligamentos podem estar sujeitos a processos inflamatórios não apenas por situações traumatológicas pontuais, mas também por movimentos repetitivos e sobrecarga mecânica ao longo do tempo.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3267,7 +3267,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Músculos tendem a ter lesões de resolução lenta e difícil.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3278,7 +3278,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Podem ter lesões e processo inflamatório, mas são muito irrigados por sangue, o que fornece oxigênio e nutrientes, então as lesões são de resolução mais fácil e rápida, sem falar nas células-tronco que formam novo tecido muscular."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Tendões são as estruturas que recebem a força de contração dos músculos e transmitem aos ossos. Por terem menor vascularização que os músculos, são mais suscetíveis a lesões.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3289,7 +3289,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A elevação dos braços acima de 90 graus gera compressão nos ossos e nos tendões, podendo ocasionar a Síndrome do Manguito Rotador.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3300,7 +3300,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Durante uma tensão, o tendão sofre aumento da sua circulação, causando micro-rupturas e predispondo a inflamações. Essas informações alteram o formato do tendão, afinando-o.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3311,7 +3311,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. A tensão reduz a circulação sanguínea, em vez de aumentar. Essas inflamações espessam o tendão, em vez de afinar. Como o tendão fica “gordo”, ele começa a ter atrito com as estruturas vizinhas, as bainhas e bursas, o que faz com que elas também fiquem inflamadas. É uma tragédia."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "As bainhas são membranas que envolvem e protegem os tendões, enquanto as bursas são bolsas entres os ossos, músculos, tendões e pele que amortecem e reduzem o atrito.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3322,7 +3322,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Inflamação no tendão: tendinite. Inflamação na bainha: bainhite. Inflamação na bursa: bursite.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3333,7 +3333,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. “Bainhite” não, né. No caso da bainha, chama tenossinovite, porque essa inflamação quase sempre afeta também o tendão e o nome completo da bainha é “bainha sinovial”, então fica teno (tendão) + sino (de sinóvia, bainha sinovial) + ite (inflamação), mas isso é só para entender, não precisa saber a origem da palavra."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A tenossinovite “De Quervain” acomete a região do ombro.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3344,7 +3344,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Do polegar. Vai cair isso? Quem pode saber, mas está na apostila…"
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A síndrome do túnel do carpo se caracteriza pela compressão dos tendões na altura do punho, causando dor em parte da mão.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3355,7 +3355,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Se você acertou, parabéns, pode ir buscar o CRM (se for médico: parabéns, você não comprou o diploma). No caso específico da síndrome do túnel do carpo, o problema não se dá nos tendões (nem nos ossos, nem nos músculos, nem na bainha, nem na bursa), mas sim no próprio nervo (mais especificamente, no tal nervo mediano, porque passa bem no meio do braço), que quando é comprido causa uma dor desgraçada no infeliz. Outra lesão comum é no nervo ciático, causado por protusões ou hérnias, que às vezes faz o cara não conseguir nem andar, como vamos ver adiante."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Protusão implica desidratação e perda de altura dos discos intervertebrais, mas sem ruptura. Já na hérnia há ruptura, com extravasamento do conteúdo do disco.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3366,7 +3366,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Fatores ligados ao trabalho são a principal causa de protusões e hérnias.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3377,7 +3377,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. É a idade mesmo. Mas fatores ligados ao trabalho, como o carregamento manual de cargas e posturas desfavoráveis, podem agravar ou mesmo causar as lesões."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "DORT é necessariamente relacionada às condições laborais.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3388,7 +3388,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO. Aí sim, pela definição do negócio: distúrbio osteomuscular relacionado ao trabalho."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "DORT pode estar atrelada a processos inflamatórios em músculos, tendões, nervos e discos vertebrais.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3399,7 +3399,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A vibração, o calor e a exposição a agentes químicos podem causar ou agravar a DORT.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3410,7 +3410,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. A exposição a agentes químicos não tem nada a ver. Já vibração e calor prejudicam a circulação sanguínea e o desempenho muscular, causando dificuldade para curar lesões."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A sobrecarga muscular pode ser dinâmica, durante os movimentos, ou estática, pela manutenção de posturas. Cabe ao trabalhador zelar para evitar ambos.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3421,7 +3421,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Coitado do trabalhador: “as posturas adotadas pelos trabalhadores não são uma casualidade, e sim assumidas muitas vezes para adaptação a condições de trabalho e espaços físicos não planejados para o trabalho humano”."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Trabalho cíclico é aquele que implica ciclos que se repetem durante a realização de uma tarefa, com duração inferior a 30 segundos ou cujo componente essencial do ciclo ocupa mais de 50% do ciclo total.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3432,7 +3432,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O limite máximo para carregamento de cargas nas condições ideais: distância vertical da pega da carga ao solo de 75 cm, distância horizontal da pega ao ponto médio dos tornozelos de 25 cm, peso de até 23 kg.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3443,7 +3443,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Uma carga de 23 kg está adequada para 75% das mulheres e 90% dos homens, sem forçar a coluna.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3454,7 +3454,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O estresse é uma reação do organismo às ameaças e, se adaptativo, está relacionado com boa parte dos maiores êxitos do ser humano.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3465,7 +3465,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A diferenciação entre estresse adaptativo e patológico não é simples.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3476,7 +3476,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A magnitude e as consequências do estresse são mais definidas pela maneira como o indivíduo interpreta e dá significado àquilo do que ao agente ou fato estressor em si.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3487,7 +3487,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO. “Alguns indivíduos são mais suscetíveis do que os outros.”"
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Mesmo com as variações individuais, o estresse crônico, por um longo período, tende a ser não adaptativo e estar ligado a transtornos como ansiedade, depressão, pânico e síndrome do estresse pós-traumático.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3498,7 +3498,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A alta carga de trabalho é estressante, em oposição à baixa carga de trabalho.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3509,7 +3509,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Ambas são estressantes (dizem)."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Tanto a baixa autonomia quanto a alta autonomia podem ser fatores estressores.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3520,7 +3520,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Aí não. Autonomia é sempre bom."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A NR 1 mudou para incluir, a partir de 26 de maio, a obrigação de que as organizações realizem prevenção em relação a riscos psicossociais.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3531,7 +3531,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO. Na verdade foi adiado por um ano, a gente sabe, mas na apostila está assim, então…"
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A NR 17 prevê normas sobre riscos psicossociais em relação a trabalhadores como operadores de checkout (vedando roupas, propagandas ou maquiagens constrangedoras) e operadores de telemarketing (garantindo pausas e vedando métodos que causem medo ou constrangimento, como exposição pública das avaliações de desempenho).",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3542,7 +3542,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A cadência é qualitativa, enquanto o ritmo de trabalho é quantitativo.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3553,7 +3553,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Cadência é mais numérica: tantos movimentos por minuto. A análise do ritmo envolve perguntas não numéricas, tipo: é ditado por uma máquina? É controlado por metas? Tem tempo de descanso?"
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Trabalhos com uso constante de memória e tomada de decisões são mais desafiadores e, portanto, mais saudáveis que trabalhos monótonos e repetitivos.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3564,7 +3564,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Os dois podem ser estressantes. O último pelo vazio da existência, mas o primeiro pela exaustão cognitiva atrelada a problemas constantes e ocorrências imprevistas."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O FGTS foi criado como um sistema alternativo à estabilidade decenal: no passado, o trabalhador tinha direito à estabilidade ao completar dez anos de trabalho na mesma empresa.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3575,7 +3575,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Os recursos do FGTS pertencem ao trabalhador, não devendo ser direcionados a programas públicos de saneamento básico ou infraestrutura urbana em geral.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3586,7 +3586,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Os recursos do FGTS se tornam empréstimos a taxas vantajosas que financiam tais projetos, e o pagamento supostamente remunera as contas dos trabalhadores."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Até 1988, era possível escolher entre FGTS e estabilidade decenal. A Constituição definiu o FGTS e indenização compensatória por razão de dispensa sem justa causa como sendo um direito apenas dos trabalhadores urbanos.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3597,7 +3597,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Dos rurais também."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O Conselho Curador do FGTS é tripartite, presidido pelo Ministro do Trabalho e Emprego e paritário.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3608,7 +3608,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Não é paritário. O governo tem seis representantes, os trabalhadores têm três (as três principais centrais sindicais) e os empregadores outros três (indicados pelas confederações da indústria, do sistema financeiro e do comércio)."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "No mínimo 60% das aplicações do FGTS devem se destinar a investimentos em habitação popular.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3619,7 +3619,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A Caixa é o agente operador do FGTS, enquanto o MTE é o gestor das aplicações.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3630,7 +3630,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. O Ministério das Cidades é o gestor das aplicações. Lembre que a maioria dos recursos vai para habitação popular, e outro tanto para infraestrutura urbana. O MTE não entende nada disso, obviamente."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Recolher o FGTS é uma obrigação compartilhada entre empregador e empregado.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3641,7 +3641,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Cabe só ao empregador."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O FGTS é recolhido em conta vinculada, em favor do trabalhador, excluídos os eventuais, autônomos e os servidores públicos, sujeitos a regime jurídico próprio.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3652,7 +3652,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO. Atenção a isso: os autônomos contribuem obrigatoriamente para a previdência social, mas não recolhem FGTS (porque em tese não vão ser demitidos)."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Recebem FGTS: empregados por prazo determinado, aprendizes, rurais, temporários, safristas, domésticos, intermitentes, avulsos, diretores não empregados, atletas, gente contratada no Brasil para prestar serviço no exterior.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3663,7 +3663,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Se um trabalhador CLT ingressou indevidamente na administração pública sem concurso e seu contrato foi declarado nulo, ele receberá o salário pelo período efetivamente trabalhado, mas não terá direito ao FGTS.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3674,7 +3674,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Terá direito a salário e FGTS."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O FGTS incide sobre o salário.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3685,7 +3685,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Sobre a remuneração, ou seja, inclui as gorjetas."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Parcelas de natureza salarial como horas-extras, insalubridade, trabalho noturno e 13º são consideradas para fins de cálculo do FGTS.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3696,7 +3696,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Abono de férias não entra na conta do FGTS.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3707,7 +3707,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO. Porque é indenizatório, não salarial, assim como ajuda de custo, seguro-saúde, participação nos lucros etc."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Prêmios e abonos, assim como auxílio-alimentação, não servem de base para o cálculo do FGTS.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3718,7 +3718,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO. Mesma coisa. Indenizatório/não salarial. Apenas atenção que o auxílio-alimentação não pode ser pago em dinheiro."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O percentual mensal a ser recolhido a título de FGTS é 2%.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3729,7 +3729,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. É de 8% (no caso dos aprendizes é 2%)."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O FGTS é obrigatório no caso de suspensão do contrato de trabalho, por exemplo, por licença por acidente de trabalho ou licença maternidade.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3740,7 +3740,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. É obrigatório nesses casos, mas eles são de interrupção do contrato de trabalho. No caso de suspensão, não há FGTS."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "No afastamento sem remuneração para prestação de serviço militar obrigatório, não cabe pagamento de FGTS.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3751,7 +3751,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. O FGTS, nesse caso específico, é pago, sim. (Há controvérsia sobre ser interrupção ou suspensão, mas aqui a apostila fala que é interrupção.)"
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "No caso de demissão sem justa causa, será devida indenização compensatória do FGTS de 40% do montante do saldo da conta do FGTS.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3762,7 +3762,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Muito cuidado aqui. Não é o saldo da conta do FGTS: o cara pode ter tirado o dinheiro para comprar um imóvel e a conta estar zerada, ou no outro extremo pode ter valores depositados por empregadores anteriores e ter um monte de dinheiro ali. A multa é sobre “todos os depósitos realizados na conta vinculada durante a vigência do contrato”, atualizados monetariamente e acrescidos de juros."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "No caso de despedida por culpa recíproca, força maior ou por acordo, a indenização será de 20%.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3773,7 +3773,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "No caso do doméstico, a indenização compensatória é depositada mensalmente, na importância de 3,2%. Se por acaso no final do contrato houver culpa recíproca, metade do valor acumulado será do empregado e a outra metade do empregador.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3784,7 +3784,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO. Pensa que 3,2% é justamente os 40% do valor recolhido a título de FGTS (8%)."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O FGTS deve ser recolhido até o 10º dia de cada mês.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3795,7 +3795,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Até o 20º dia de cada mês. Não confundir com o FGTS rescisório e indenização compensatória, que devem ser pagos até 10 dias após o término do contrato."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Se não recolher o FGTS, o empregador terá de pagar multa, juros de mora e atualização monetária. A multa é de 5%, se for no mesmo mês, ou 10%, se posteriormente. Os juros são de 0,5% ao mês. A atualização monetária se dá pela TR (taxa referencial).",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3806,7 +3806,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A competência para fiscalizar o recolhimento do FGTS é da Receita Federal.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3817,7 +3817,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. É do MTE, obviamente."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Se o AFT, ao analisar as folhas de pagamento declaradas pelo empregador, encontrar pendências de FGTS, será necessário constituir o débito por meio de notificação, permitindo impugnação pelo empregador sobre os valores.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3828,7 +3828,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Aqui é mais chatinho e entra quase no direito tributário, mas está na apostila e em destaque. O ponto é que não precisa constituir o débito: ele já está constituído, porque as folhas de pagamento declaradas pelo empregador já caracterizam confissão de dívida do FGTS, ou seja, ele já reconheceu que deve. O auditor apenas vai declarar a existência dos débitos, que já podem ser cobrados imediatamente."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O FGTS tem natureza tributária e prazo de prescrição de 30 anos.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3839,7 +3839,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. É não tributário, e o prazo de prescrição não é mais de 30 anos, mas de cinco anos, por decisão do STF."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A prescrição do FGTS é interrompida a partir da notificação ao empregador, do início do processo administrativo ou da medida de fiscalização, sendo reiniciada a contagem do prazo prescricional no dia seguinte à prática desses atos.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3850,7 +3850,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O termo de confissão de dívida e compromisso de pagamento, firmado perante a Caixa e o MTE, também interrompe o prazo prescricional.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3861,7 +3861,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A conta do trabalhador no FGTS poderá ser movimentada por encerramento do contrato, aquisição de casa própria, doenças graves, entre outras situações.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3872,7 +3872,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Para poder sacar o FGTS, o encerramento deve se dar por despedida sem justa causa, inclusive indireta, mas não por culpa recíproca ou força maior.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3883,7 +3883,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Todos esses casos permitem o saque do valor."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A extinção da empresa e o fim normal do contrato a termo, inclusive dos temporários, também enseja o saque do FGTS.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3894,7 +3894,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O FGTS pode ser sacado quando o trabalhador falece, quando ele completa 65 anos ou quando ele fica cinco anos fora do regime do FGTS.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3905,7 +3905,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. 70 anos de idade ou três fora do FGTS."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O trabalhador pode optar pelo sistema de saque-aniversário, em detrimento do saque-rescisão, mais tradicional. Nesse caso, o trabalhador pode sacar entre 5% e 50% do saldo anualmente, no seu aniversário, conforme uma tabela. Se for demitido, porém, receberá apenas a multa rescisória, e não o valor integral do saldo.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3916,7 +3916,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Contas do FGTS inativas há mais de três anos terão o seu saldo incorporado ao patrimônio do FGTS, deixando de estar vinculadas à sua conta individual. Isso não impede, porém, o trabalhador de pedir os valores posteriormente, e eles serão restituídos.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3927,7 +3927,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Tudo certo, mas isso só acontece após cinco anos (não confundir com os três anos fora do sistema necessários para sacar o FGTS)."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O FAT é um fundo que custeia o seguro-desemprego, o abono salarial e programas de educação profissional e tecnológica, integrando o orçamento da seguridade social, com recursos oriundos das contribuições devidas ao PIS/PASEP.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3938,7 +3938,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Quando o empregado tem o contrato de trabalho suspenso em virtude de participação em programa de qualificação profissional oferecido pelo empregador, o FAT custará sua bolsa.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3949,7 +3949,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O sistema de gestão de riscos ocupacionais previsto na NR 1 deve alcançar todos os perigos e riscos ocupacionais existentes na organização.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3960,7 +3960,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Uma das funções do Gerenciamento de Riscos Ocupacionais (GRO) é caracterizar atividades insalubres e perigosas.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3971,7 +3971,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. O GRO é preventivo. Insalubridade e periculosidade para fins de adicionais estão nas NRs 15 e 16, não na NR 1."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Os processos de Gerenciamento de Riscos Ocupacionais devem constituir um Programa de Gerenciamento de Riscos (PGR), que é composto pelo Inventário de Riscos Ocupacionais, pelo Plano de Ação e pela justificativa dos critérios utilizados. Não se deve, porém, confundir o programa somente com o registro da sua documentação.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3982,7 +3982,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O PGR deve ser implementado por estabelecimento, não por setor ou atividade.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -3993,7 +3993,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. A critério da organização, pode ser implementado em unidades menores, inclusive por departamento."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Os trabalhadores devem participar na identificação dos perigos, nas avaliações de ergonomia e nas mudanças que os afetem, entre outros momentos.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4004,7 +4004,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Perigo = severidade + probabilidade dos potenciais danos.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4015,7 +4015,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Isso é risco. Perigo é qualquer coisa que possa causar danos."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O levantamento preliminar dos perigos e riscos deve ser realizado antes do funcionamento do estabelecimento ou das novas instalações, nunca em atividades já existentes.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4026,7 +4026,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Se tiver alguma atividade já existente que não tenha passado por essa análise, ela terá de ser feita, sem falar nos casos de mudanças de processos ou na forma de trabalho."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O processo de identificação de perigos e avaliação dos riscos ocupacionais se faz necessário se o perigo não puder ser evitar ou eliminado já no levantamento preliminar.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4037,7 +4037,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O processo de identificação de perigos envolve tanto as atividades rotineiras quanto as não rotineiras.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4048,7 +4048,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO. Inclui também tanto os locais acessados pelos contratados quanto pelos visitantes, além de perigos externos."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A NR 1 define a matriz de probabilidade/consequência, o HAZOP e o FMEA como metodologias prioritárias para avaliação dos riscos.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4059,7 +4059,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Ela não define uma ferramenta ou uma metodologia preferencial, embora as mencionadas sejam comuns."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A avaliação de riscos deve ser realizada, preferencialmente, pelo SESMT.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4070,7 +4070,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO. Quando ele existir, sim."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "No cálculo do risco, quando for avaliada a severidade, devem ser consideradas todas as consequências possíveis, desde as mais leves (como um simples corte) até as mais graves (como amputações).",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4081,7 +4081,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Para o cálculo, deve ser “sempre selecionada a consequência de maior magnitude”."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "No caso de agentes biológicos, não é possível utilizar o limite de exposição da NR 9 no cálculo da probabilidade de ocorrência de lesões, uma vez que ele não é definido, sendo necessário buscar outros critérios.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4092,7 +4092,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Grupo de Exposição Similar (GES), Grupo Homogêneo de Risco (GHR) e Grupo Homogêneo de Exposição (GHE) se referem ao mesmo conceito: a identificação dos trabalhadores expostos a um determinado agente.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4103,7 +4103,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "É necessário manter as exposições ocupacionais abaixo do nível de ação, que é metade dos limites de tolerância no caso dos agentes químicos.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4114,7 +4114,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Em ordem de prioridade, a primeira medida de prevenção da NR 1 é eliminar os fatores de risco.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4125,7 +4125,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. É evitar os perigos. Ou seja, ainda no projeto impedir que eles existam. Eliminar traz a ideia de que eles chegaram a existir e estamos acabando com eles. A ordem é: evitar, eliminar, substituir (por outros menos piores), minimizar com proteção coletiva, minimizar com medidas administrativas, EPIs."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Risco tolerável é aquele que existe quando a organização já adota todas as medidas de prevenção e controle estabelecidas em NR e nos dispositivos legais em SST.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4136,7 +4136,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Como regra geral, a avaliação de riscos deve ser revista a cada dois anos.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4147,7 +4147,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A revisão deve ocorrer a cada ano no caso de riscos residuais, se houver modificações nos processos que impliquem novos riscos, se identificadas situações inadequadas ou acidentes/doenças do trabalho, se os requisitos legais mudarem, se os trabalhadores ou a CIPA solicitarem.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4158,7 +4158,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Nesses casos todos, as revisão deve ser imediata."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Se a organização tiver certificação em sistemas de gestão de SST, a revisão pode ser em até três anos.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4169,7 +4169,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O GRO deve estar conectado ao PCMSO, como por exemplo na situação em que um exame clínico indica exposição a um agente, caso em que a organização precisa reavaliar seus riscos ocupacionais e medidas de prevenção.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4180,7 +4180,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O histórico das atualizações do inventário de riscos deve ser mantido por no mínimo 20 anos.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4191,7 +4191,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O inventário de riscos deve caracterizar o ambiente e as atividades, descrever os perigos e as fontes, identificar possíveis lesões e grupos de trabalhadores expostos, descrever medidas de prevenção, além de estar integrado com a NR 9 (agentes físicos, químicos e biológicos) e a NR 17 (ergometria), trazendo a classificação dos riscos.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4202,7 +4202,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Na prestação de serviços a terceiros, é responsabilidade do contratado garantir as condições de segurança e saúde dos trabalhadores nas dependências do contratante.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4213,7 +4213,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Cabe ao contratante, afinal é ele quem tem condições de fazer isso, dado que as instalações são dele."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A contratada deve fornecer ao contratante seu inventário de riscos e plano de ação, mas pode ocorrer de a contratada também ter de alterar seu PGR em virtude de riscos existentes na contratante. Em alguns casos, as medidas de prevenção terão de ser definidas em conjunto, sob coordenação da contratante.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4224,7 +4224,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "As soluções técnicas ou medidas de proteção coletiva adotadas devem empregar os meios mais eficazes disponíveis, a um custo razoável.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4235,7 +4235,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Na NR 12, máquinas e equipamentos são sinônimos, sendo usados indistintamente.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4246,7 +4246,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "É vedada a comercialização, a locação, a cessão e a exportação de quaisquer equipamentos que não atendam aos preceitos da NR 12.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4257,7 +4257,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Exportar pode."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A NR 12 se aplica a máquinas de uso doméstico, mas não às movidas por força humana ou animal.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4268,7 +4268,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Não se aplica aos eletrodomésticos nem às movidas por força humana ou animal."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A NR 12 não se aplica a máquinas de museus ou antiguidades nem aos equipamentos estáticos.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4279,7 +4279,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO. Equipamentos estáticos são aqueles sem partes móveis, tipo uma caldeira, que tem NR própria."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Equipamentos estáticos, também conhecidos como estacionários, oferecem riscos maiores de explosão do que de amputação de membros.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4290,7 +4290,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Aqui é para não confundir equipamento estático, que é aquele sem partes que se mexem, com equipamentos estacionários, que são aqueles que estão fixos em algum lugar. Um equipamento pode ser estacionário e ter partes móveis: a apostila cita como exemplo um esmeril de bancada, que é aquele negócio fixo que fica girando em alta velocidade para afiar as ferramentas."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "As máquinas devem ter aterramento elétrico adequado, e nenhum segmento de alimentação elétrica deve ficar em contato com partes móveis ou cantos vivos. Os painéis de comando e potência devem ter porta de acesso fechada, livres de objetos e ferramentas.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4301,7 +4301,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Máquinas e equipamentos que utilizam energia fornecida por fonte externa devem possuir dispositivo protetor contra sobrecorrente, que é medida em volts (V), e se necessário contra sobretensão, medida em amperes (A).",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4312,7 +4312,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. O contrário. Sobrecorrente é quando você liga três chuveiros e a fiação não aguenta. Sobretensão é quando tem uma descarga elétrica e os equipamentos recebem mais voltagem do que deveriam."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O dispositivo protetor contra sobrecorrente é um disjuntor; contra sobretensão, é um DPS (Dispositivo de Proteção contra Surtos).",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4323,7 +4323,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A utilização da chave geral como dispositivo de partida, assim como o uso de chaves tipo faca, só é permitida em equipamentos operados por trabalhadores autorizados.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4334,7 +4334,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Não é permitida."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Os dispositivos de partida devem ficar fora das zonas de perigo da máquina e não ser de fácil acesso.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4345,7 +4345,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Tem que ter fácil acesso e visualização, sim, para que possam ser acionados ou desligados em caso de emergência por outra pessoa que não o operador."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Os dispositivos de partida devem dificultar a burla e evitar choques, de preferência operando em extrabaixa tensão. Além disso, a máquina não deve funcionar de forma automática ao ser energizada.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4356,7 +4356,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O dispositivo de acionamento bimanual evita que a máquina seja ligada involuntariamente pelo operador.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4367,7 +4367,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. O propósito não é esse. É manter as duas mãos do cara fora da zona de perigo, ou seja, evitar que o sujeito enfie a mão na máquina enquanto ela está funcionando."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Tanto a área de operação quanto as áreas de transmissão de força são consideradas zonas perigosas.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4378,7 +4378,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO. Áreas de transmissão de força são polias, engrenagens, rodas dentadas etc."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "As proteções podem ser fixas ou móveis, mas neste caso devem estar associadas a dispositivos de intertravamento mecânicos.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4389,7 +4389,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Os dispositivos de intertravamento não precisam ser mecânicos. Podem ser magnéticos, ópticos etc. O mero fechamento da proteção móvel intertravada não deve provocar, claro, o funcionamento da máquina; deve haver uma ação internacional do operador para que a máquina entre em funcionamento."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Dispositivo de intertravamento com bloqueio é aquele que só libera a abertura da máquina após a sua parada completa, em máquinas cuja inércia seja grande e o movimento perigoso demore a cessar.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4400,7 +4400,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "É possível fazer proteções usando materiais descontínuos.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4411,7 +4411,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO. São materiais vazados, com aberturas para passagem de luz, ventilação, mesmo água. Permitem que o trabalhador visualize a zona de operação, mas os buraquinhos devem ser pequenos o suficiente para que não se possa colocar a mão ou outros segmentos corporais ali dentro."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "As máquinas autopropelidas não precisam de dispositivos de parada de emergência.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4422,7 +4422,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO. Máquina autopropelida é aquela que se move sozinha, como um trator ou mesmo um carro. Uma maneira de entender isso: se você precisa parar um carro imediatamente, o que você faz? Pisa no freio. É eficiente? Em tese, sim. Mas se você precisa parar uma esteira industrial para evitar um acidente, não há um dispositivo correlato ao freio -- é preciso que tenha lá um botão vermelho que uma vez apertado faça o movimento parar. A norma diz também que máquinas nas quais “o dispositivo de parada de emergência não reduza o risco” também estão dispensadas de tê-lo, o que vai no mesmo espírito."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A parada de emergência deve prevalecer sobre todos os outros comandos, mas é uma medida auxiliar, não podendo ser utilizada como alternativa a medidas adequadas de proteção.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4433,7 +4433,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Os pneumáticos devem ser completamente despressurizados antes da desmontagem, e o seu enchimento só pode ser executado dentro de dispositivo de clausura ou gaiola.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4444,7 +4444,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO. Dependendo da máquina, os pneus podem ser enormes. Se essa porra explode, voa borracha (ou até o pneu inteiro) na cara de quem estiver por perto."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Transportadores de materiais, como correias, gruas e guindastes, devem ser protegidos contra esmagamento e aprisionamento, especialmente se a carga estiver em alturas elevadas, mesmo que não haja pessoas nas zonas de perigos.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4455,7 +4455,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Veja que aqui não estamos protegendo contra quedas (o que obviamente deve existir), mas sim contra esmagamento e aprisionamento. Ou seja, contra uma carga pesada rolar para uma parede, por exemplo, e ficar um trabalhador lá esmagado. Se a carga estiver sendo carregada acima de 2,7 m de altura por um guindaste e não tiver gente sendo levada junto, não há risco de aprisionamento, e portanto não há necessidade dessa proteção específica."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Quando ocorrer transporte de materiais suspensos, admite-se a permanência de pessoas embaixo, desde que os locais estejam protegidos contra quedas de materiais.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4466,7 +4466,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO. Agora sim."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O isolamento consiste em bloquear mecânica e eletricamente as fontes de energia que possam causar risco à atividade de manutenção.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4477,7 +4477,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Esse é o bloqueio. O isolamento é a interrupção do fluxo de energia. É desligar o disjuntor. Bloqueio é impedir que alguém religue enquanto estiver em manutenção, inclusive mecanicamente, como colocar um cadeado na chave geral de um painel para garantir que ninguém possa ligá-la enquanto você trabalha."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O operador deve efetuar inspeção rotineira antes do início de cada turno na máquina ou equipamento. O registro dessa inspeção não é obrigatório.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4488,7 +4488,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A capacitação para operar máquinas deve ser realizada por profissional habilitado.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4499,7 +4499,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. “Sob supervisão do profissional legalmente habilitado, a capacitação pode ser ministrada por trabalhadores ou profissionais qualificados.” A gente discute o que é cada um nas questões 239 e 240."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A NR 10 se concentra em trabalhadores que interajam diretamente com instalações elétricas.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4510,7 +4510,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Direta ou indiretamente, inclusive aqueles que realizam trabalho nas suas proximidades."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "As empresas devem manter esquemas unifilares atualizados, que são representações simplificadas das suas instalações elétricas, com rastreamento de todos os circuitos.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4521,7 +4521,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Os esquemas unifilares são um modelo de prontuário de instalações elétricas.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4532,7 +4532,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Prontuário de instalações elétricas é um documento mais elaborado, com documentação de inspeções e medições, dos aterramentos elétricos, com especificação dos equipamentos de proteção, autorização dos trabalhadores e resultado de testes de isolação elétrica."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O prontuário de instalações elétricas é obrigatório para estabelecimentos com carga acima de 75 kW e seus documentos técnicos devem ser elaborados por profissionais legalmente habilitados.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4543,7 +4543,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Empresas que atuam no Sistema Elétrico de Potência, além do prontuário, devem acrescentar procedimentos de emergência e certificações dos equipamentos de proteção individual e coletiva.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4554,7 +4554,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A desenergização deve seguir cinco passos: seccionamento, impedimento de reenergização, constatação da ausência de tensão, proteção dos elementos energizados, instalação de sinalização.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4565,7 +4565,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. São seis etapas, é o famoso SICIPI: seccionar, impedir (a reenergização), constatar (que desligou mesmo esse troço), instalar aterramento, proteger (os elementos energizados), instalar a sinalização."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "As operações elementares como ligar e desligar circuitos, realizadas em baixa tensão e com equipamentos em perfeito estado de conservação, podem ser realizadas por qualquer pessoa.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4576,7 +4576,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A zona de risco é maior do que a zona controlada.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4587,7 +4587,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. A zona controlada é mais ampla; a zona de risco fica mais perto do perigo."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O trabalhador autorizado pode ser qualificado, capacitado ou habilitado, conforme o tipo de treinamento que recebeu.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4598,7 +4598,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Trabalhador habilitado é aquele que recebeu treinamento na empresa. Trabalhador qualificado é aquele que foi treinado no sistema oficial de ensino. Trabalhador capacitado é aquele que tem registro no conselho de classe.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4609,7 +4609,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Capacitado = treinamento na empresa. Habilitado = conselho de classe. Um jeito de lembrar: habilitado, seja motorista ou trabalhador, é quem tem a carteirinha."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O trabalhador capacitado deve trabalhar sob a responsabilidade de um profissional habilitado.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4620,7 +4620,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A NR 10 prevê sinalização não apenas dos circuitos elétricos, mas também de áreas de circulação e impedimentos de acesso.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4631,7 +4631,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A Ordem de Serviço é uma autorização para intervenção no sistema elétrico, aprovada por trabalhador autorizado e que deve ser arquivada para posterior rastreamento, dispensável apenas em situações de emergência.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4642,7 +4642,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Não há essa previsão final."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A OMS define saúde como a ausência de doenças ou enfermidades.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4653,7 +4653,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. É um estado completo de bem-estar físico, mental e social."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A saúde ocupacional se situa no campo da saúde coletiva e incluiu tanto epidemiologia, vigilância sanitária, além de recuperação e reabilitação.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4664,7 +4664,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O controle médico da saúde ocupacional inclui avaliações clínicas, exames complementares, controle da exposição a agentes nocivos e imunização.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4675,7 +4675,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A epidemiologia estuda a etiologia das doenças transmissíveis, ou seja, tanto a origem como a evolução e desfecho no indivíduo e nos grupos populacionais.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4686,7 +4686,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Etiologia são as causas. A questão descreve a história natural das doenças."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Prevalência indica o número de casos novos de uma determinada doença, em um determinado período de tempo, em uma população específica.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4697,7 +4697,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Essa é a incidência. Prevalência envolve todos os casos, novos e velhos, em um determinado momento."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "No cálculo da incidência, utiliza-se estritamente a primeira manifestação de determinada doença.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4708,7 +4708,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A densidade de incidência usa, como denominador, o tempo em risco. Já a taxa de incidência cumulativa é mais simples e usa, como denominador, a população em risco no início de estudo.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4719,7 +4719,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A taxa de mortalidade é o número de óbitos dividido pelo número de casos de uma determinada doença.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4730,7 +4730,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Essa é a taxa de letalidade. A taxa de mortalidade é o número de óbitos pela população exposta."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Estudos observacionais descritivos, em oposição aos estudos analíticos, não testam hipóteses, apenas trazem uma visão geral da doença, como por exemplo um estudo de prevalência.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4741,7 +4741,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Entre os estudos analíticos, os estudos de caso-controle acompanham grupos padronizados ao longo do tempo, de forma prospectiva ou retrospectiva.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4752,7 +4752,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Esse é o estudo de coorte. O caso-controle compara indivíduos que já têm a doença com aqueles sem a doença para identificar diferenças. Ou seja:\n*  Se eu pego um grupo de fumantes e outro de não fumantes e vejo quem desenvolve câncer, isso é coorte;\n*  Se eu pego um grupo de pessoas com câncer e outros sem câncer e busco entender quais as diferenças de estilo de vida delas, aí é caso-controle."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Estudos transversais analisam a população em um único ponto do tempo, avaliando a relação entre uma exposição e uma doença.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4763,7 +4763,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO. Veja que não é um mero estudo de prevalência (“15% da população tem a doença”), que não seria um estudo analítico. O transversal tenta fazer a ligação entre exposição e desfecho: a prevalência de diabetes é maior na população com obesidade, por exemplo."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Ensaios clínicos randomizados dividem os participantes aleatoriamente em grupos semelhantes. Um deles recebe a intervenção, e o outro serve de controle, recebendo um placebo, por exemplo.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4774,7 +4774,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Estudos ecológicos aplicam intervenções em populações e comunidades inteiras, não em indivíduos isolados.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4785,7 +4785,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Esses são os ensaios comunitários. Estudos ecológicos também envolve populações inteiras, mas não neles não há intervenção, mas sim associação entre alguma exposição e o desfecho, como por exemplo a associação entre a poluição do ar e doenças respiratórias (não são os pesquisadores que vão lá e causam a poluição do ar para ver no que dá)."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Tanto estudo de revisão sistemática quanto estudos de meta-análise utilizam dados agregados de diversos estudos, mas estes se caracterizam por realizar uma análise estatística.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4796,7 +4796,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O PCMSO corre por conta do empregador e serve para diagnóstico, detectar exposições excessivas, avaliar afastamentos, controlar imunização, encaminhar trabalhadores para o INSS e promover a reabilitação e a readaptação profissional.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4807,7 +4807,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Cuidado que algumas coisas não são responsabilidade do PCMSO. O programa não encaminha ninguém para o INSS, quem faz isso é a empresa. O PCMSO apenas subsidia o encaminhamento. Da mesma forma, o programa não promove reabilitação e readaptação, apenas subsidia a previdência social nessas tarefas."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Não cabe ao PCMSO definir a aptidão de cada trabalhador para as funções, porque a avaliação de saúde não pode ser utilizada para a seleção de pessoal na contratação.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4818,7 +4818,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Cuidado aqui também. De fato não pode ser utilizada para seleção de pessoal, mas isso não significa que não vai definir a aptidão. Se o sujeito não tem condições de saúde para ser mergulhador ou para trabalhar em um espaço confinado, ele não está apto à função, e isso não implica discriminação. O que não pode é pedir que o PCMSO dê o apto/inapto como ferramenta de recrutamento."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Inexistindo médico do trabalho na localidade, é possível contratar médico de outra responsabilidade como responsável pela elaboração e desenvolvimento do PCMSO.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4829,7 +4829,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O exame admissional deve ser realizado em até 10 dias após o trabalhador assumir suas atividades.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4840,7 +4840,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Antes de assumir."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Como regra, o exame periódico deve ser realizado a cada dois anos. Se houver riscos ocupacionais significativos, deve ser a cada ano ou menos, a critério do médico responsável. Se for trabalho em condições hiperbáricas, esse período é reduzido para seis meses ou menos.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4851,7 +4851,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O exame de retorno ao trabalho deve ser realizado antes que ele reassuma suas funções, quando ausente por período igual ou superior a 15 dias, por motivo de doença ou acidente ocupacional.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4862,7 +4862,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Dois erros. Igual ou superior a 30 dias (não confundir com o prazo de 15 dias para mandar o cara pro INSS, que não importa aqui). Além disso, doença ou acidente de origem ocupacional ou não. Se ficou 31 dias afastado porque teve uma gravíssima unha encravada em casa, vai ter exame de retorno ao trabalho, mesmo que não tenha nada a ver com o trabalho."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "No exame de retorno ao trabalho, a avaliação médica deve definir a necessidade de retorno gradativo ou não.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4873,7 +4873,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O exame de mudança de risco ocupacional, a ser realizado antes da data da mudança, só precisa ser feito caso a mudança implique alteração significativa nos riscos a que o trabalhador está exposto.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4884,7 +4884,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "No exame demissional, o exame clínico deve ser realizado em até dez dias, contados a partir do término do contrato de trabalho, sendo dispensado caso o último exame tenha sido realizado a menos de 135 dias, no caso de empresas de grau de risco 3 e 4, ou 90 dias, no caso de empresas grau de risco 1 e 2.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4895,7 +4895,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. O inverso, né? Se a empresa tem risco maior (3 e 4), a tolerância com prazo do exame é mais baixa (90 dias). Se o risco é menor (1 e 2), tudo bem usar um exame mais antigo (135 dias)."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Os exames complementares são obrigatórios se estiverem no PGR ou se houver exposições ocupacionais acima dos limites de tolerância determinados pela NR 9.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4906,7 +4906,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Me desculpe: são os níveis de ação, não os limites de tolerância, não me odeie."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Há ainda exames complementares exigidos pela NR 7, como nos casos de ruído, poeiras minerais, condições hiperbáricas e radiações ionizantes, além de diversas substâncias químicas.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4917,7 +4917,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "No exame admissional, a critério do médico, poderão ser aceitos exames complementares realizados nos 90 dias anteriores.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4928,7 +4928,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O Atestado de Saúde Ocupacional (ASO) deve conter CNPJ do empregador, nome, CPF e função do empregado, os resultados dos exames complementares realizados e definição de apto ou inapto.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4939,7 +4939,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Veja: vai ter a indicação das avaliações clínicas e exames complementares a que o trabalhador foi submetido, mas a ASO não inclui os resultados dos exames, que estão sob sigilo médico -- lembre-se que o trabalhador vai entregar esse documento na empresa e ele vai circular por ali. O médico diz se está apto ou não, mas não tem essa de apresentar os resultados dos exames."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O prontuário médico individual deve ser mantido por no mínimo 10 anos após o desligamento do trabalhador.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4950,7 +4950,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. 20 anos."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O médico responsável pelo PCMSO deve elaborar, anualmente, um relatório analítico do programa, contendo o número de exames clínicos realizados, número e tipos de exames complementares, estatísticas, incidência e prevalência, informações sobre CATs e análise comparativa com o ano anterior.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4961,7 +4961,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Empregadores com até 25 empregados e grau de risco 1 e 2, ou 10 empregados e risco 3 e 4, estão dispensados de elaborar o relatório analítico do PCMSO.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4972,7 +4972,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Eles elaboram um relatório simplificado, apenas com com informações referentes ao número de exames clínicos e complementares realizados. Quem está desobrigado são MEI, ME e EPP, que não precisam nem ter PCMSO, embora tenham que fazer os exames dos empregados como qualquer empresa."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A psicodinâmica do trabalho, de Dejours, questiona por que alguns trabalhadores adoecem e outros não, mesmo submetidos ao mesmo trabalho.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4983,7 +4983,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "As estratégias de mediação do sofrimento no trabalho (ou seja, de defesa) são coletivas, e por isso são objeto da psicologia social.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -4994,7 +4994,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Podem ser individuais também."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A discrepância entre o trabalho prescrito e o real é uma grande causadora de sofrimento, e formas de gestão flexíveis reforçam tal problema ao exigir que os trabalhadores ajustem por eles próprios suas atividades e rotinas.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -5005,7 +5005,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. A gestão flexível permite que os trabalhadores conciliem melhor tarefa prescrita e atividade real, dando a eles autonomia."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Reconhecimento de utilidade é aquele realizado pelos superiores hierárquicos; o reconhecimento de beleza é realizado pelos pares.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -5016,7 +5016,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Os riscos psicossociais podem se relacionar ao teor do trabalho, à carga, à falta de controle, às relações interpessoais e problemas relacionados à dupla jornada.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -5027,7 +5027,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Riscos psicossociais podem implicar em depressão, tabagismo e obesidade, mas também a doenças cardiocirculatórias e gastrointestinais.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -5038,7 +5038,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Os métodos de assédio moral mais utilizados envolvem comportamentos sutis, e violência física raramente é encontrada.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -5049,7 +5049,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A OIT aprovou em 2019 a Convenção 190, sobre assédio, que já foi ratificada pelo Brasil.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -5060,7 +5060,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Está em processo de ratificação."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O assédio moral organizacional está relacionado com práticas de gestão abusivas e ocorre quando o empregador extrapola o seu poder diretivo.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -5071,7 +5071,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O assédio moral organizacional se caracteriza por pressões, humilhações e constrangimentos, mas a mera divulgação de rankings de trabalhadores de acordo com a produtividade individual não caracteriza abuso.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -5082,7 +5082,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Caracteriza."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O assédio moral organizacional pode atingir um trabalhador específico.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -5093,7 +5093,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Ele se caracteriza por atingir a maioria ou toda a equipe de trabalho, ou ao menos um grupo definido que a empresa deseja excluir dos seus quadros, como as gestantes ou adoecidos."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A gestão por medo pode ser caracterizada por cobranças constantes, supervisão exagerada, comparações de desempenho, ranking de produtividade ou metas muito exigentes.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -5104,7 +5104,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Essa é a gestão por estresse. Por medo envolve ameaças: de perder o cargo, o emprego, de ser exposto."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A gestão por injúria envolve ofensas à dignidade, com humilhações e constrangimentos, em público ou em particular.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -5115,7 +5115,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Falta de recursos, infraestrutura inadequada, espaço insuficiente e situações de risco não são, por si só, assédio moral.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -5126,7 +5126,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO. Assim como pequenos conflitos, tensões habituais, cobranças respeitosas."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O SESMT é composto por médico, engenheiro, enfermeiro, técnico e auxiliar de enfermagem, mas a lista de profissionais não é exaustiva: se couber, um fisioterapeuta ou um psicólogo podem ser contratados, por exemplo.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -5137,7 +5137,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. “Única e exclusivamente.”"
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O dimensionamento do SESMT varia conforme grau de risco e número de empregados.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -5148,7 +5148,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Os profissionais do SESMT podem ter jornada integral, de no mínimo 30h horas semanais, ou parcial, de no mínimo 15h.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -5159,7 +5159,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Isso se aplica só para as funções de nível superior. Técnicos e auxiliares devem praticar jornada de 44h semanais."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A todos os profissionais do SESMT, é vedado o exercício de atividades que não façam parte das atribuições previstas na legislação durante o horário de atuação no serviço.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -5170,7 +5170,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Se houver médicos, o coordenador do SESMT será necessariamente um deles.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -5181,7 +5181,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO. Caso contrário, será um dos demais profissionais do serviço."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "É possível substituir um auxiliar/técnico de enfermagem por um enfermeiro em tempo parcial.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -5192,7 +5192,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO. É o único caso de substituição possível."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O SESMT pode ser individual, regionalizado ou nacional.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -5203,7 +5203,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. No máximo estadual."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O SESMT compartilhado sempre deve atender estabelecimentos da mesma unidade federativa, com exceção apenas de organizações da mesma atividade econômica localizadas municípios limítrofes.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -5214,7 +5214,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "SESMT individual: o estabelecimento isoladamente se enquadra no anexo II da NR 4. SESMT regionalizado: um estabelecimento se enquadra, mas outros não, e estes serão agregados ao mesmo serviço. SESMT estadual: nenhum estabelecimento isoladamente demanda o serviço, mas o somatório dos trabalhadores de todos no mesmo estado alcança os limites do anexo.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -5225,7 +5225,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "O SESMT é dimensionado conforme grau de risco e número de trabalhadores.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -5236,7 +5236,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Para o dimensionamento do SESMT, será considerado grau de risco da atividade econômica principal, que é aquela que ocupa o maior número de trabalhadores.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -5247,7 +5247,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Será o maior grau de risco entre a atividade principal (que é aquela constante no CNPJ, ao contrário do que diz a questão) e a atividade preponderante (agora sim: aquela que ocupa o maior número de trabalhadores)."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "ME e EPP de grau de risco 1 e 2 estão dispensadas de organizar SESMT.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -5258,7 +5258,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Será considerada a metade do somatório do número de trabalhadores, dando uma colher de chá, mas não tá dispensado, não."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "Se o canteiro de obras tiver menos de mil trabalhadores, ele não será um estabelecimento, mas integrante da empresa de engenharia responsável. Nesse caso, os profissionais do SESMT podem ficar centralizados na sede da empresa.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -5269,7 +5269,7 @@ const questoes = [
     "gabaritoComentado": "FALSO. Os de nível superior (engenheiro, médico, enfermeiro) podem ficar centralizados. O número de técnicos de segurança e auxiliares de enfermagem deve ser dimensionado por canteiro de obra ou frente de trabalho."
   },
   {
-    "tema": "MIOTO 1",
+    "tema": "#MIOTO 1",
     "pergunta": "A contratação de trabalhadores por tempo determinado impacta o dimensionamento do SESMT.",
     "alternativa1": "Verdadeiro",
     "alternativa2": "Falso",
@@ -5280,7 +5280,7 @@ const questoes = [
     "gabaritoComentado": "VERDADEIRO."
   },
   {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A CIPA deve identificar perigos, avaliar riscos e adotar medidas de prevenção.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5291,7 +5291,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. A CIPA não tem nem competência técnica para isso, são trabalhadores normais. Ela acompanha, participa de programas como o PCMSO, mas não executa as atividades de SST."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A CIPA acompanha a análise dos acidentes e doenças do trabalho.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5302,7 +5302,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO. Agora sim."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A CIPA deve registrar a percepção dos riscos dos trabalhadores, com assessoria do SESMT (se houver), por meio da técnica do mapa de risco.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5313,7 +5313,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Isso mudou. Antigamente a NR 5 citava o mapa de risco como técnica a ser utilizada. Agora pode ser qualquer uma, sem preferência. O resto está certo."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Também são atribuições da CIPA: verificar os ambientes, requisitar à organização informações (inclusive as CATs), solicitar revisão da avaliação de riscos do PGR, interromper as atividades em caso de grave e iminente risco.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5324,7 +5324,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Estava tudo certo até o último item. A CIPA não tem esse poder todo, não. O que ela pode fazer é propor essa interrupção à organização e também ao SESMT."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Desde 2023, as organizações obrigadas a constituir CIPA devem adotar medidas de prevenção e combate ao assédio sexual.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5335,7 +5335,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O combate ao assédio se dá com as seguintes medidas: regras de conduta, canal de denúncias com aplicação de sanções quando for o caso (e com anonimato do denunciante), apoio psicológico às vítimas, ações de capacitação a cada 12 meses.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5346,7 +5346,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Não existe a previsão de as empresas oferecerem apoio psicológico às vítimas."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A CIPA deve promover uma Semana Interna de Prevenção a Acidentes do Trabalho (SIPAT), que não precisa necessariamente durar uma semana, podendo ser até mesmo apenas uma palestra.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5357,7 +5357,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO. Tem cheiro de migué, e às vezes é mesmo. Importante perceber que a apostila diz que a SIPAT deve estar conectada com a Campanha Nacional de Prevenção de Acidentes do Trabalho, a CANPAT, que é organizada pela SIT…"
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O presidente da CIPA é quem convoca as reuniões e as coordena.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5368,7 +5368,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Se houver redução no número de empregados, a CIPA poderá ter seu número de representantes reduzido. Se houver extinção do estabelecimento, encerra-se também a CIPA.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5379,7 +5379,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. A primeira parte está errada: se demitir metade da empresa, ainda assim a CIPA fica do mesmo tamanho (até a eleição seguinte). Mas se fechar, de fato, fechou tudo, que não vai ter CIPA para prevenir acidentes de uma empresa fechada."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "É vedado à organização a alteração das atividades normais dos membros da CIPA ou a sua transferência para outro estabelecimento sem a sua anuência.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5390,7 +5390,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Aqui tem uma maldade: essas garantias (assim como a proibição de demissão) são apenas para os integrantes eleitos, não para os indicados pelo empregador."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Não se considera transferência a que não acarretar necessariamente a mudança do domicílio do empregado.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5401,7 +5401,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O veto à transferência não se aplica a empregados em cargo de confiança ou cujos contratos tenham como condição, implícita ou explícita, a transferência, quando esta decorra de real necessidade do serviço.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5412,7 +5412,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Por garantia constitucional, integrantes eleitos da CIPA não podem ser demitidos arbitrariamente ou sem justa causa desde o registro da candidatura até o final do seu mandato.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5423,7 +5423,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Até um ano após o final do mandato, da mesma forma que o sindicalista."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A garantia contra a dispensa da CIPA alcança os suplentes.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5434,7 +5434,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A garantia contra a dispensa da CIPA alcança os contratos por prazo determinado.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5445,7 +5445,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Ele pode se candidatar e até ser eleito, mas quando acabar o contrato vai ser substituído por um suplente (se for titular) ou a CIPA vai ficar com um suplente a menos."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A CIPA é paritária e constituída por empresa, não por estabelecimento.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5456,7 +5456,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Por estabelecimento."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O dimensionamento da CIPA depende tanto da quantidade de empregados quanto do grau de risco da empresa.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5467,7 +5467,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Organizações que operem em regime sazonal devem ser dimensionadas tomando por base a maior quantidade de empregados simultâneos registrada durante o ano civil anterior.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5478,7 +5478,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. É a média aritmética do número de trabalhadores do ano civil anterior."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A eleição para a CIPA se dá em escrutínio secreto, independente de filiação sindical, abrangendo exclusivamente os empregados interessados.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5489,7 +5489,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO. Exclusivamente os empregados interessados quer dizer que, se o cara não trabalha naquele estabelecimento, não vai votar, mesmo que seja funcionário da mesma empresa."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O membro eleito mais votado da CIPA será o seu presidente.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5500,7 +5500,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. O presidente é escolhido pela empresa, entre os membros indicados por ela. Os eleitos pelos empregados vão se reunir e escolher os titulares um vice-presidente."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O mandato dos membros eleitos da CIPA terá duração de um ano, sem reeleição.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5511,7 +5511,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Pode uma reeleição. Perceba que esse limite de uma reeleição só se aplica aos eleitos."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Se um suplente tiver participado de mais da metade das reuniões da CIPA em um mandato, também só poderá ser reeleito uma vez.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5522,7 +5522,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO. Mas se ele for um suplente que participou de menos da metade das reuniões, pode continuar se reelegendo sem problema."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Se o sindicato pedir, a organização tem que encaminhar imediatamente a documentação referente ao processo eleitoral da CIPA.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5533,7 +5533,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Encaminha em até dez dias."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Se o estabelecimento não atingir o mínimo para o dimensionamento da CIPA e não tiver SESMT, a organização nomeará um representante, entre os seus empregados, para auxiliar nas ações de SST. O MEI está dispensado de fazer isso.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5544,7 +5544,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Se não tiver tamanho para CIPA, mas tiver SESMT, o SESMT vai desempenhar as atribuições de CIPA.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5555,7 +5555,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A organização deve promover treinamento para os membros da CIPA, titulares e suplentes, antes da posse. Se for a primeira turma da CIPA, deve fazer isso antes do início das suas atividades. O treinamento pode ser EAD, desde que específico para organização.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5566,7 +5566,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Se for a primeira CIPA, pode fazer em até 30 dias, supostamente porque nesse caso ninguém sabe direito muito o que está fazendo ainda. Mas pode ser EAD, sim."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Trabalhador do SESMT pode ser eleito membro da CIPA e, nesse caso, fica dispensado de treinamento.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5577,7 +5577,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Pode ser aproveitado treinamento realizado há menos de dois anos, contados da conclusão do curso, realizado na mesma organização ou fora dela.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5588,7 +5588,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. No caso da CIPA não pode aproveitar de outra organização, não, porque o curso é específico para os riscos específicos daquela empresa. Normalmente esse caso de aproveitar o treinamento acontece quando o sujeito é reeleito."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Equipamento conjugado de proteção individual é aquele no qual o empregador agregou proteções contra vários riscos ocupacionais existentes.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5599,7 +5599,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. O fabricante, não o empregador. Ele vem conjugado de fábrica."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "EPIs são apenas aqueles que constam no anexo I da NR 6.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5610,7 +5610,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Qualquer EPI só poderá ser comercializado após a obtenção de Certificação de Aprovação (CA), e é obrigação da organização só comprar EPIs com CA.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5621,7 +5621,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A organização deve registrar o fornecimento de EPIs ao empregado por meio de sistema eletrônico.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5632,7 +5632,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Tem que registrar, mas pode ser em fichas, livros, qualquer coisa (ou mesmo um sistema biométrico sofisticado)."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A limpeza do EPI é obrigação do empregador.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5643,7 +5643,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Como regra, não. É obrigação do empregador a “higienização e manutenção periódica”, que é algo mais sofisticado. “Limpeza, guarda e conservação”, mais rotineiro/diário, é responsabilidade do empregado."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Excepcionalmente, as NRs podem prever que a limpeza seja responsabilidade do empregador.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5654,7 +5654,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO. Agora sim. A regra geral é a acima, mas há casos como o da NR 15, que prevê que no trabalho com asbesto cabe ao empregador se responsabilizar pela limpeza, manutenção e guarda das vestimentas, porque não vai o coitado do empregado lavar isso na máquina de casa junto com as fronhas."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Como exceção ao registro obrigatório individualizado, no caso de EPI descartável ou cremes de proteção contra agentes químicos, a organização deve garantir a disponibilização, na embalagem oficial e em quantidade suficiente, nos locais de trabalho.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5665,7 +5665,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O processo de seleção dos EPIs é coordenado pelo SESMT, após consulta aos empregados e à CIPA.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5676,7 +5676,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. O SESMT “participa” (e, sim, há consulta aos empregados usuários e à CIPA). A palavra final sobre a seleção é responsabilidade da organização, conforme a análise dos riscos, e a lista de EPIs deve estar devidamente documentada (e pode estar referenciada no PGR)."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A seleção dos EPIs deve ser reavaliada quando houver nova avaliação de riscos, nas circunstâncias previstas na NR 1.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5687,7 +5687,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Os EPIs devem ser escolhidos levando em consideração a possibilidade de uso conjunto com lentes corretivas.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5698,7 +5698,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O EPI deve ser utilizado sempre que o empregado considerar que a proteção adicional amplia sua segurança.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5709,7 +5709,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Não é uma escolha do empregado. Ele deve usar o EPI apenas “para a finalidade a que se destina”, obrigatoriamente, conforme previsto na lista da EPIs da empresa, e não conforme seus próprios critérios."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A relação entre Inspeção do Trabalho e MPT é de complementaridade: as duas instituições têm poder de polícia administrativa e podem ajuizar ações civis públicas em caso de violações sistemáticas de direitos trabalhistas.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5720,7 +5720,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. MPT não tem poder de polícia administrativa, AFT não ajuíza ação civil pública."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O AFT deve encaminhar relatórios de fiscalização ao MPT, que então estará vinculado ao ajuizamento de ações judiciais, retirando os casos da mera seara administrativa.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5731,7 +5731,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Tudo isso pode acontecer, e acontece com frequência, mas ninguém deve nada. O AFT não tem que encaminhar relatórios (mas pode fazê-lo em casos de maior amplitude), assim como o promotor do MPT não está obrigado a instaurar inquérito nem ajuizar ação civil pública se achar que não faz sentido."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Os relatórios de inspeção e autos de infração não vinculam os juízes de trabalho, mas são frequentemente utilizados como evidências para a fundamentação de decisões judiciais.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5742,7 +5742,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A interface da inspeção do trabalho com a justiça comum ocorre na persecução penal de crimes como o trabalho em condições análogas à escravidão e o tráfico de pessoas.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5753,7 +5753,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Justiça federal, não comum."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Relatórios de análise de acidentes realizados por AFTs podem subsidiar ações regressivas do INSS contra empregadores na Justiça Federal.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5764,7 +5764,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A defesa judicial dos atos administrativos da inspeção do trabalho será feita pela consultoria jurídica do MTE.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5775,7 +5775,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Pela AGU."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Há disputa na literatura especializada sobre o papel de Getúlio Vargas no estabelecimento das garantias trabalhistas no Brasil. Para alguns, o ex-presidente cumpriu o papel de “pai dos pobres” concedendo uma série de direitos sociais. Para outros, o protagonismo na conquista desses direitos foi da luta dos próprios trabalhadores.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5786,7 +5786,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Nos anos 1960, a CLT já foi denunciada pelo próprio movimento sindical, que a considerava autoritária, especialmente no que se relaciona ao direito coletivo do trabalho. Foi nesse período que surgiram institutos como a intersindicalidade, o 13º e o Estatuto do Trabalhador Rural.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5797,7 +5797,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Os direitos sociais ampliam o custo da força de trabalho, ampliando os conflitos entre empregadores e empregados.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5808,7 +5808,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Pelo texto, direitos sociais na verdade reduzem o custo da “mercadoria trabalho”, desobrigando o empregador de oferecer benefícios que passam a ser custeados pelo estado, como habitação e capacitação. Isso aumenta a empregabilidade e cria um “apaziguamento social”."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Os governos Lula I e II ampliaram o valor real do salário mínimo, trajetória que foi revertida nos governos Dilma e Temer.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5819,7 +5819,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Dilma teve aumento real; Temer teve perda real."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A política de valorização do salário mínimo é um dos principais mecanismos de redução da pobreza.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5830,7 +5830,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Ao contrário dos tratados internacionais convencionais, as convenções da OIT são aprovadas de forma tripartite, com participação do governo, trabalhadores e terceiro setor.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5841,7 +5841,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Com os empregadores, não com o terceiro setor. Mas é diferente dos tratados normais, sim (em geral, participam só os diplomatas, representando os governos)."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A diferença entre convenções e recomendações é formal, pois materialmente ambas podem tratar dos mesmos temas.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5852,7 +5852,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Recomendações são meras sugestões, enquanto convenções são verdadeiros tratados internacionais, que exigem ratificação pelos estados-membros para terem eficácia.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5863,7 +5863,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Tanto convenções quanto recomendações compõem o que se chama de Código Internacional do Trabalho.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5874,7 +5874,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O Conselho de Administração da OIT pode incluir novas questões na agenda da Conferência Internacional do Trabalho (CIT), um evento realizado sem periodicidade definida no qual os representantes dos países debatem e refinam o texto das convenções propostas.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5885,7 +5885,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. É realizado anualmente."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "As convenções são aprovadas na CIT por maioria absoluta, considerando representantes de governos, empregadores e trabalhadores.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5896,7 +5896,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Por maioria de dois terços. Se fosse só metade absoluta, seria fácil dois grupos se juntarem e atropelarem o outro. Com dois terços eles até poderiam hipoteticamente fazer isso, mas precisariam de consenso absoluto entre si."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Uma vez aprovada, a convenção entra em vigor após um ano.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5907,7 +5907,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Após a ratificação por, no mínimo, dois estados-membros."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Os países não podem fazer reservas a qualquer trecho que quiserem das convenções da OIT, mas as próprias convenções podem trazer “cláusulas de flexibilidade”, permitindo ajustes temporários, exclusões de categorias de trabalhadores ou aplicação parcial.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5918,7 +5918,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Os Estados que utilizarem cláusulas de flexibilidade devem notificar os demais na Conferência Internacional do Trabalho subsequente.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5929,7 +5929,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Devem notificar o diretor-geral da OIT após ratificarem a convenção."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A OIT conta com um mecanismo de revisão de normas, que permite inclusive a revogação de convenções, mas ele ainda não foi utilizado.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5940,7 +5940,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Várias convenções e recomendações que haviam perdido o propósito foram revogadas, especialmente num esforço realizado entre 2017 e 2018."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Uma comissão de 20 juristas fiscaliza o cumprimento das convenções pelos estados-membros, e tanto trabalhadores quanto empregadores podem denunciar violações à OIT.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5951,7 +5951,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO. Empregadores também: imagine que você é um empresário na Dinamarca e concorre com produtores brasileiros que utilizam trabalho escravo e, assim, conseguem vender muito mais barato, por exemplo."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O Brasil é membro-fundador da OIT.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5962,7 +5962,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "As convenções da OIT, por tratarem de direitos humanos, são supralegais, e portanto prevalecem sobre as leis brasileiras, ainda que as normas internas sejam mais favoráveis ao trabalhador.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5973,7 +5973,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. As convenções sobre direitos humanos ratificadas pelo Brasil realmente são supralegais, mas isso não significa que elas possam ser utilizadas para restringir direitos previstos em leis ou outras normas nacionais, pelo princípio pro homine (ou “mais favorável ao indivíduo”)."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Como regra, convenções de direitos humanos têm status supralegal: maior do que as leis, menor que a Constituição. Mas tal status pode ser elevado ao de emenda constitucional se a convenção for aprovada no Congresso por no mínimo dois terços dos votos em cada casa, em dois turnos.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5984,7 +5984,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Não me odeie. É três quintos (60%), não dois terços (66%). É pra você ficar esperto."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Tratados que não versem sobre direitos humanos, aprovados por maioria simples, têm status de lei ordinária.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -5995,7 +5995,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Algumas convenções importantes da OIT ainda aguardam ratificação pelo Brasil, como a 187 (sobre saúde e segurança do trabalho).",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6006,7 +6006,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O caminho da aprovação de uma convenção no Brasil é este: assinatura pelos representantes do país na CIT, análise do governo federal, mensagem presidencial ao Congresso, comissões, votação em plenário de uma das casas, comissões e plenário da segunda casa, ratificação por decreto presidencial.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6017,7 +6017,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A NR 13 se aplica a caldeiras, vasos de pressão e tubulações, mas não a tanques metálicos.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6028,7 +6028,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Desde 2018, também a tanques metálicos."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O principal fator de risco na NR 13 são as pressões elevadas, de modo que o foco da norma é a integridade estrutural das caldeiras e assemelhados, e os aspectos relacionados à inspeção dos equipamentos formam a sua espinha dorsal.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6039,7 +6039,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Caldeiras são recipientes estanques capazes de conter fluidos sob pressão diferente da atmosférica, positiva ou negativa.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6050,7 +6050,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Isso são vasos de pressão. Caldeiras servem para produzir vapor utilizando pressão superior à atmosférica."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O processo básico de produção de vapor consiste no aquecimento de um fluido, geralmente água, utilizando qualquer combustível. O vapor será enviado para outros equipamentos como fonte de calor.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6061,7 +6061,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Caldeiras podem ser flamotubulares (os gases oriundos do queimador ficam dentro dos tubos; a água, fora) ou aquotubulares (a água fica dentro dos tubos; os gases de combustão, fora).",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6072,7 +6072,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "As caldeiras aquotubulares são mais compactas, de fácil operação e de baixo custo, mas têm menor capacidade e eficiência.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6083,7 +6083,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Essas são as flamotubulares, usadas em lavanderias, hotéis. As aquotubulares são mais sofisticadas, maiores e mais caras, usadas em refinarias, petroquímicas etc."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Esferas, tambores e reservatórios são tipos de vasos de pressão.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6094,7 +6094,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A NR 13 não se aplica a uma caldeira com pressão de 70 kPa e volume de 200 litros.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6105,7 +6105,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Se aplica a qualquer caldeira com pressão superior a 60 kPa e volume maior do que 100 litros."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A NR 13 se aplica a vasos de pressão cujo produto P x V (pressão máxima vezes volume interno) seja superior a oito.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6116,7 +6116,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Se o vaso de pressão contém um fluido classe A, aplica-se a NR 13 independentemente do produto P.V. Fluídos classe A incluem inflamáveis, tóxicos e o hidrogênio.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6127,7 +6127,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Aplica-se a NR 13 a um recipiente transportável ou a reservatório portátil com P.V superior a oito.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6138,7 +6138,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Não se aplica a transportáveis, portáteis e extintores de incêndio."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Vasos de pressão destinados à ocupação humana, como submarinos ou câmaras hiperbáricas médicas, não se submetem à NR 13, assim como vasos fabricados em plástico reforçado de fibra de vidro ou panelas de cocção, utilizadas em cozinhas industriais.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6149,7 +6149,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Caldeiras podem ser de dois tipos: categoria A, cuja pressão é inferior a 1.960 kPa, ou categoria B, cuja pressão é igual ou superior a isso.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6160,7 +6160,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Isso é chato demais, mas está na apostila com certo destaque… É o contrário. As categoria A são as maiores. Categoria B é entre 60 kPa (se for menos que isso, não se aplica a NR 13) e 1.960 kPa."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Caldeira precisa ter válvula de segurança, instalada diretamente no corpo do equipamento, com abertura ajustada em valor igual ou menor do que a pressão máxima de trabalho admissível.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6171,7 +6171,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Alternativamente à válvula de segurança, a caldeira pode ter um sistema automático de controle do nível de água que evite superaquecimento por alimentação deficiente.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6182,7 +6182,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Tem que ter os dois. Os riscos são diferentes: uma coisa é sua panela de pressão explodir por excesso de pressão, outra é ela superaquecer porque você botou no fogo sem nada dentro."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O prontuário da caldeira consiste em um conjunto de documentos relativos ao equipamento, que traz desde as suas características até o seu ano de fabricação. Já o registro de segurança informa todas as ocorrências de segurança da caldeira, inclusive as anotações das inspeções realizadas.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6193,7 +6193,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Após as inspeções, devem ser elaborados relatórios de inspeção de segurança em até 30 dias.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6204,7 +6204,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. São 60 dias. Essa NR é chata, mas isso está até grifado na apostila, então supostamente pode ser importante…"
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "As caldeiras devem ser instaladas em ambientes abertos, com distância de no mínimo três metros para outras instalações, depósitos de combustíveis, propriedades de terceiros ou vias públicas.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6215,7 +6215,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. A coisa dos três metros está certa, mas você pode ter caldeiras em ambientes fechados também (são as casas de caldeiras)."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "As áreas de caldeiras em ambientes abertos devem dispor de pelo menos uma saída ampla, sinalizada e permanentemente desobstruída.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6226,7 +6226,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Ao menos duas saídas, dispostas em direções distintas."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A instalação de caldeiras em ambiente fechado exige um prédio separado, de material resistente ao fogo, podendo ter apenas uma parede adjacente a outras instalações do estabelecimento, porém com as outras paredes afastadas no mínimo três metros de outras instalações. Esse prédio não pode ser utilizado para qualquer outra finalidade.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6237,7 +6237,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Além de exame interno e externo, as inspeções inicial e periódica das caldeiras devem incluir um teste de pressão, que pode ser feito com qualquer técnica de pressurização, com o objetivo de detectar vazamentos, atestar a resistência e verificar juntas e outros elementos de vedação.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6248,7 +6248,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Só a inicial. A periódica é só o exame interno e externo."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Em regra, a inspeção de segurança periódica deve ser feita a cada 12 meses. No caso de caldeiras categoria A, é possível que a inspeção seja feita a cada 24 meses se, aos 12 meses, for testada a pressão de abertura das válvulas de seguranças. No caso das caldeiras categoria B, menores, o prazo pode subir para 30 meses se houver um sistema de gerenciamento de combustão.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6259,7 +6259,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A inspeção de segurança extraordinária deve ser realizada em quatro hipóteses: dano, alteração ou reparo importante, inatividade por mais de seis meses, mudança de local de instalação.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6270,7 +6270,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Ao completar 40 anos de uso, as caldeiras devem ser submetidas a uma avaliação de integridade com maior abrangência.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6281,7 +6281,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Não dura tanto. Aos 25 anos."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "No caso dos vasos de pressão, os fluidos mais arriscados são os classe A, que inclui os inflamáveis, os combustíveis com alta temperatura e os muito tóxicos. A água e o ar comprimido pertencem à classe C.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6292,7 +6292,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Os vasos de pressão com maior risco têm P.V maior do que 100.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6303,7 +6303,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Assim como nas caldeiras, nos vasos de pressão a válvula de segurança não pode ser substituída por outro dispositivo.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6314,7 +6314,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Pode ser qualquer coisa que proteja contra sobrepressão, o que inclui, por exemplo, discos de ruptura (se a pressão passar do limite, ele quebra e libera a pressão)."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Ao contrário das caldeiras, no caso dos vasos de pressão o dispostivo de segurança não precisa estar instalado diretamente no equipamento. Pode haver um sistema com vários vasos de pressão que tenha uma válvula de segurança única. A mesma lógica se aplica ao instrumento indicador de pressão: pode ser instalado diretamente no vaso ou pode estar ligado ao sistema que o contenha.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6325,7 +6325,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A inspeção inicial dos vasos de pressão deve incluir exame interno, externo e teste de pressão.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6336,7 +6336,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. É diferente das caldeiras. Não precisa de teste de pressão."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O vaso de pressão tem uma periodicidade de inspeções periódicas mais flexível do que as caldeiras. Conforme a categoria, a periodicidade pode variar de um até doze anos.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6347,7 +6347,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Atraso na inspeção periódica é um risco grave e iminente apenas para caldeiras, não para os outros equipamentos da NR 13.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6358,7 +6358,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO. Pois é. No caso dos outros, os riscos são menores."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O profissional legalmente habilitado para projetar e inspecionar caldeiras e outros equipamentos da NR 13 deve ser engenheiro com habilitação no conselho profissional.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6369,7 +6369,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A principal causa de acidentes no setor de construção civil é a queda de materiais.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6380,7 +6380,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. É a queda de pessoas, embora a queda de coisas também seja importante."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A NR 18 se aplica à construção e manutenção, mas não à demolição.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6391,7 +6391,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Se aplica a tudo."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A NR 18 prevê que a organização deve impedir o acesso de pessoas estranhas ao canteiro de obras, mas não especifica uma forma determinada de fazer isso.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6402,7 +6402,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Determina a colocação obrigatória de tapume com altura mínima de 2 metros no perímetro da área da obra."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Antes do início das atividades de construção civil, as organizações devem realizar a Comunicação Prévia de Obras em sistema informatizado da SIT.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6413,7 +6413,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "As áreas de vivência na construção civil devem ter local para refeição e alojamento, quando houver trabalhadores alojados na obra. Aplica-se no que couber o disposto na NR 24, que é mais detalhada sobre o tema.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6424,7 +6424,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Os trabalhadores não devem ter que se deslocar mais de 50 metros dos seus postos até a instalação sanitária, sendo permitido o uso de banheiros químicos nas frentes de trabalho.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6435,7 +6435,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. 150 metros. Se for urgente, não vai chegar…"
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "É atribuição da organização oferecer água potável, seja por meio de bebedouro, embalagens fechadas ou copos coletivos.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6446,7 +6446,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Copo coletivo não pode."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O cumprimento das obrigações para as frentes de trabalho pode ocorrer mediante convênio formal com estabelecimentos nas proximidades.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6457,7 +6457,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Quando houver trabalhadores alojados, deve haver uma área de recreação, que não deve ser o mesmo espaço utilizado para refeições.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6468,7 +6468,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Pode ser o mesmo espaço."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Todas as escavações com profundidade superior a dois metros devem ser protegidas com taludes ou escoramentos, a serem inspecionados diariamente, além de dispor de escadas e rampas.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6479,7 +6479,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Acima de 1,25 m."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O tráfego próximo às escavações deve ser desviado (ou, na impossibilidade, deve haver redução da velocidade dos veículos). Além disso, nas bordas da escavação não é permitido o depósito de materiais, devendo ser mantida uma faixa de ao menos um metro livre de cargas.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6490,7 +6490,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Estacas e sapatas são exemplos de fundações (ou alicerces) superficiais, projetadas com pequenas escavações no solo. Tubulões e blocos são fundações profundas, geralmente utilizadas em grandes projetos.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6501,7 +6501,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Superficiais: sapatas, blocos, radier. Profundas: estacas e tubulões. Pensa no bate-estaca: aquilo é fundo, não é superficial."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Tubulões podem ou não ter a base alargada. Em sua etapa final de execução, é necessário que um operário desça para completar a geometria e fazer a limpeza da base.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6512,7 +6512,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "No tubulão, fuste é a escavação feita com a finalidade de alcançar camadas de solo mais profundas.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6523,7 +6523,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "É proibido escavar tubulões manualmente com profundidade superior a 15 metros, devendo ser utilizado o tubulão de ar comprimido em seu lugar.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6534,7 +6534,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Atenção: não pode usar tubulão de ar comprimido. Essa era uma técnica de escavação manual em que o sujeito era colocado dentro de um tubo pressurizado para impedir a entrada de água e solo durante a escavação, trazendo muitos riscos a quem ficava dentro daquilo. Foi substituída por técnicas mais modernas que não envolvem escavação manual (como grandes brocas que vão injetando concreto sob pressão conforme perfuram o solo, mas isso você não precisa saber)."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Na escavação manual de tubulões, os trabalhadores devem ser capacitados tanto na NR 33 (espaços confinados) quanto na NR 35 (trabalho em altura).",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6545,7 +6545,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Tubulões escavados manualmente devem ser encamisados (ou seja, devem receber um revestimento provisório) em toda a sua base.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6556,7 +6556,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Em toda a sua extensão."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Tubulões escavados manualmente devem possuir diâmetro de no mínimo 0,9 m. Tubulões com profundidade superior a três metros só poderão ser escavados após sondagem ou estudo geotécnico.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6567,7 +6567,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Na escavação manual, deve haver um sarilho, ou seja, um sistema de resgate emergencial de trabalhadores, além de um sistema de ventilação por insuflação.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6578,7 +6578,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. O sarilho não é isso. É aquele balde com uma corda acionado por manivela ou motor que permite içar ou descer coisas para o sujeito que estiver lá embaixo."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A corda de sustentação do balde no sarilho deve possuir comprimento maior do que o tamanho máximo da escavação.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6589,7 +6589,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Não é essa a previsão. Deve haver, em qualquer posição de trabalho, corda suficiente para dar no mínimo seis voltas sobre o tambor (onde a corda vai se enrolando)."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Na escavação manual a céu aberto, deve haver paralisação imediata das atividades caso comece a chover.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6600,7 +6600,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O bate-estaca, composto por uma torre e um martelo, pode ser utilizado para cravar estacas de madeira.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6611,7 +6611,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO. Concreto, metálica ou de madeira."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O desmonte de rochas deve ser feito mecanicamente, vetado o uso de explosivos.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6622,7 +6622,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. É muito comum, aliás."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O plano de fogo para o uso de explosivos é de responsabilidade do engenheiro habilitado.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6633,7 +6633,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Do blaster."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O blaster deve cuidar das cargas, da ordem de fogo, da retirada dos explosivos falhados e da sua destinação adequada, além do isolamento da área. Antes da ignição, deve haver sirene de detonação.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6644,7 +6644,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O carregamento dos furos deve ser efetuado imediatamente antes da detonação. Após uma detonação, os explosivos não utilizados devem ser mantidos isolados dos outros materiais no canteiro de obras.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6655,7 +6655,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Depois da detonação, devem ser recolhidos novamente aos respectivos depósitos (paióis)."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Uma construtora está fazendo uma obra de três pavimentos, no nível da calçada, e com a parede rente a ela. Nesse caso, ela deve sinalizar e desviar o fluxo de pedestres para o outro lado da rua.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6666,7 +6666,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Se tiver mais de dois pavimentos e for “executada no alinhamento do logradouro”, que é um jeito pomposo de falar que a obra é junto à rua, tem que construir uma galeria sobre o passeio ou outra medida de proteção, mas não há esse dever de desviar os pedestres para o outro lado da rua."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Para proteger os trabalhadores contra quedas, é possível fazer um anteparo com fechamento total e com altura de no mínimo 1,2 m. Outra alternativa é um sistema de guarda-corpo e rodapé.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6677,7 +6677,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO. Guarda-corpo e rodapé é um negócio assim, tipo uma cerca resistente."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Para evitar queda de objetos, é obrigatória a instalação de bandejas na periferia da construção.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6688,7 +6688,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Não é mais. Agora basta uma forma eficiente de evitar o problema, como a instalação de redes de segurança."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "No caso do uso de redes de segurança, é necessária uma inspeção mensal para verificação dos seus elementos, e não é permitido que se faça emendas na panagem (o tecido da rede).",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6699,7 +6699,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Em primeiro lugar, a inspeção é semanal. Em segundo, claro que pode fazer emenda, senão ia ter que comprar um tecido com o tamanho exato e perfeito. A questão é que as emendas não devem reduzir a resistência da rede original nem mudar as suas características."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Aberturas no piso e os vãos de acesso às caixas dos elevadores devem ter fechamento provisório de toda a abertura, travado ou fixado na estrutura, ou possuir sistema de proteção como guarda-corpo e rodapé.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6710,7 +6710,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Essa era difícil. As aberturas no piso de fato podem ser assim, mas o vão de acesso às caixas dos elevadores não pode ser protegido por guarda-corpo e rodapé, apenas por fechamento total da abertura. Suponho que isso ocorra porque já teve muito acidente de gente caindo na caixa de elevador e, ao contrário de aberturas no piso, que em geral dão no andar de baixo, a queda num buraco vazio de elevador tende a ser de muitos andares."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Andaimes podem ser simplesmente apoiados, suspensos, sobre cavaletes ou plataformas elevatórias móveis de trabalho.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6721,7 +6721,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Todos os andaimes devem possuir sistema de proteção contra quedas em todo o seu perímetro, com guarda-corpo e rodapé, inclusive do lado da face do trabalho.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6732,7 +6732,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Do lado virado para o prédio não precisa, né."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Se o andaime tiver mais de 0,4 m de altura, deve ter um sistema de acesso seguro. Se tiver mais de um metro de altura e for um andaime simplesmente apoiado, deve ter escadas.",
 "alternativa1": "VERDADEADEIRO",
 "alternativa2": "FALSO",
@@ -6743,7 +6743,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A NR 18 proíbe atividades em plataforma sobre cavaletes que tenham altura superior a 1,5 m e largura inferior a 0,9 m.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6754,7 +6754,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A ancoragem predial é composta por elementos metálicos em aço inox ou material equivalente, chumbados nas estruturas das edificações. Os pontos de ancoragem dos andaimes suspensos e dos cabos do sistema de proteção individual contra quedas (SPIQ) devem utilizar pontos de ancoragem diferentes.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6765,7 +6765,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO. Claro: se um soltar, o outro ainda está lá."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O andaime simplesmente apoiado tem seus pontos de sustentação apoiados no piso, e por isso deve ser fixo, não móvel.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6776,7 +6776,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Pode ser móvel, sim, com rodinhas (coragem). Nesse caso, deve possuir travas em seus rodízios, proibido o deslocamento com trabalhador em cima dele."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O andaime simplesmente apoiado deve ser amarrado à estrutura da edificação.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6787,7 +6787,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O andaime suspenso pode ser manual ou motorizado e suportar até dez vezes os esforços solicitantes. Além disso, deve ter até oito pontos de sustentação independentes, seja por ancoragem no prédio, seja por contrapesos.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6798,7 +6798,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Aguentar até três vezes, não dez. E até quatro pontos de sustentação, não oito. Mas pode ser tanto por ancoragem quanto por contrapesos, sim."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A sustentação do andaime suspenso deve ser feita por meio de cabos de aço, cordas ou correntes.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6809,7 +6809,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Apenas cabos de aço."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Cremalheira é uma peça mecânica em formato de barra ou trilho dentado que, acoplada a um motor, realiza o movimento de objetos como andaimes.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6820,7 +6820,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Cadeiras suspensas devem ser sustentadas por cabos de aço ou fibras sintéticas e só devem ser utilizadas quando não há possibilidade de instalação de qualquer tipo de andaime ou plataforma de trabalho.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6831,7 +6831,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO. Aqui pode ser fibra sintética."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A capacitação na NR 18 pode ser EAD, mas o treinamento básico em segurança do trabalho deve ser presencial.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6842,7 +6842,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A remoção de entulhos ou sobras de materiais deve ser realizada por calhas fechadas, e resíduos orgânicos devem ser destinados à coleta regular ou incinerados, evitando acúmulo.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6853,7 +6853,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Calhas fechadas é verdade, para não cair entulho sobre quem estiver passando: Agora, os resíduos orgânicos não devem ser incinerados, sob risco de incêndio na obra."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Nenhuma saída de emergência deve ser fechada à chave durante a jornada de trabalho, mas pode haver dispositivo de travamento que permita a abertura fácil pelo interior do estabelecimento.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6864,7 +6864,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "No caso de acidente fatal no canteiro de obras, a organização deve comunicar o órgão regional competente em SST, que repassará a informação ao sindicato. Além disso, deve isolar o local, até a liberação pela polícia e pelo órgão regional competente.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6875,7 +6875,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A liberação do local pelo órgão regional competente em SST será concedida em até 72 horas a partir do recebimento da comunicação.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6886,7 +6886,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Os trabalhadores que estão no entorno das atividades em altura, mas não diretamente envolvidos com elas e sem atuar com diferença de níveis, não estão sujeitos à NR 35.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6897,7 +6897,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. A NR 35 tem como objeto tanto os trabalhadores diretamente envolvidos quanto os indiretamente envolvidos no trabalho em altura."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Atividade em altura é aquela com diferença de nível acima de dois metros do nível inferior, onde haja risco de queda.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6908,7 +6908,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A autorização é um processo administrativo através do qual a empresa declara formalmente que uma pessoa pode trabalhar em altura.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6919,7 +6919,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O treinamento inicial para trabalho em altura deve ter carga horária mínima de 20 horas, e o treinamento periódico deve ser realizado a cada ano, também com carga de 20 horas. Há ainda previsão de treinamento eventual, nos casos previstos na NR 1.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6930,7 +6930,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. De oito horas, nos dois casos. E o periódico é a cada dois anos."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A avaliação da aptidão para trabalho em altura deve considerar patologias que possam ocasionar mal súbito ou queda de altura, inclusive fatores psicossociais. A aptidão deve estar expressamente consignada no Atestado de Saúde Ocupacional.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6941,7 +6941,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO. Fatores psicossociais são importantes, por exemplo, porque um trabalhador enfrentando questões de saúde mental pode não estar bem para trabalhar em alturas elevadas."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "No trabalho em altura, a análise de risco documentada não é obrigatória no momento da execução de atividades rotineiras.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6952,7 +6952,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO. Isso, não vai ficar fazendo um documento de análise de risco todo dia, se o trabalho em altura é rotineiro. Nesse caso, os riscos estarão em um documento chamado Procedimentos Operacionais."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "No trabalho em altura, a Permissão de Trabalho é obrigatória tanto em atividades rotineiras quanto não rotineiras.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6963,7 +6963,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Aqui é diferente, por exemplo, do trabalho em espaços confinados. A Permissão de Trabalho só é necessária se o trabalho for não rotineiro e, portanto, mais arriscado. Assim como na questão anterior, o trabalho rotineiro se pauta pelo Procedimento Operacional, que é um documento mais perene, que autoriza a execução daquele tipo de trabalho. Em resumo: se for não rotineiro, precisa de Análise de Risco e Permissão de Trabalho. Se for rotineiro, está tudo dentro do Procedimento Operacional, que engloba a análise de risco."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O Procedimento Operacional deve ter a relação de todos os envolvidos na atividade.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6974,7 +6974,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A Permissão de Trabalho tem validade limitada à duração da atividade, restrita à duração da atividade, do turno ou da jornada de trabalho.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6985,7 +6985,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO. Se aplica, como vimos, ao trabalho não rotineiro."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "São dois tipos de SPIQ (sistema de proteção individual contra quedas): o de movimentação, que não deixa o trabalhador se aproximar do local perigoso, e o de retenção de queda, que a interrompe depois de iniciada.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -6996,7 +6996,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O SPIQ de posicionamento no trabalho evita que o trabalhador tenha de ficar suspenso.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7007,7 +7007,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Ele serve justamente para isso: deixar o cara suspenso, podendo movimentar as mãos. Veja a diferença: no de restrição de movimento, ele não está suspenso. No de retenção de queda, ele só fica suspenso se acontecer algum acidente. No de posicionamento do trabalho, ele tá suspenso de propósito, por desenho."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "No SPIQ de acesso por cordas, a característica essencial é que o trabalhador utiliza as cordas tanto para acessar algum lugar quanto para se proteger de quedas.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7018,7 +7018,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO. A apostila tem uma boa imagem, se você ficou com dúvida."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "No SPIQ de retenção de queda, o cinturão de segurança tipo paraquedista e o talabarte integrado com absorvedor de energia são obrigatórios. O talabarte não deve ter laços, nós ou estar conectado a outro talabarte.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7029,7 +7029,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Se uma inspeção inicial, rotineira ou periódica do SPIQ encontrar defeitos ou degradação, ele deve ser inutilizado e descartado, exceto se as normas técnicas autorizarem a restauração.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7040,7 +7040,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O cinturão tipo paraquedista e o talabarte evitam danos à saúde no caso de suspensão prolongada.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7051,7 +7051,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. A função deles é garantir que, em caso de queda interrompida, o trabalhador esteja bem preso e que a parada não seja brusca demais. Mas isso não quer dizer que não vai haver compreensão dos vasos sanguíneos se ele ficar suspenso lá por muito tempo, causando trombose e outros danos."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A NR 31 se aplica às atividades de exploração industrial em estabelecimentos rurais.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7062,7 +7062,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "No que se refere aos EPIs, o enquadramento na NR 31 descarta a aplicação da NR 6.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7073,7 +7073,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. A NR 31 diz explicitamente que toda a NR 6 também se aplica ao trabalho rural."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Conforme a NR 31, chapéu, boné, protetor solar ou perneira são EPIs rurais.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7084,7 +7084,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Não tem isso de EPI rural. São dispositivos de proteção pessoal, que não precisam de CA, e estão listados expressamente na NR 31."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Apesar de não serem EPIs, os dispositivos de proteção pessoal estão listados taxativamente na NR 31 e só podem ser fornecidos para as finalidades previstas na norma.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7095,7 +7095,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Agrotóxicos são classificados por cores e nas categorias 1 a 5, sendo as categorias 1 e 2 (vermelhas) a mais tóxicas, e as categorias 4 e 5 (azuis) as menos tóxicas.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7106,7 +7106,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Menores de 18 anos, maiores de 70, gestantes e lactantes não devem manipular agrotóxicos, além de não ser permitido o uso de roupas pessoais durante a aplicação.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7117,7 +7117,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Maiores de 60 anos."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "É proibida qualquer reutilização de embalagens vazias de agrotóxicos.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7128,7 +7128,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O empregador deve fornecer capacitação para trabalhadores em exposição direta ou indireta aos agrotóxicos.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7139,7 +7139,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Apenas direta. Veja que as NRs não são muito consistentes sobre isso, às vezes mais preocupadas com os riscos indiretos, às vezes menos, e muitas vezes não há uma explicação para isso. (Ninguém pode dizer que os efeitos da exposição indireta aos agrotóxicos não pode ser grave…)"
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A descontaminação das vestimentas de trabalho e EPIs ao fim de cada jornada é responsabilidade do empregador, além de tornar obrigatório o banho após finalizadas as atividades.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7150,7 +7150,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O transporte de trabalhadores rurais deve garantir que todos estejam sentados e que as ferramentas e materiais sejam levados em compartimento resistente separado dos passageiros, com exceção dos objetos de uso pessoal.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7161,7 +7161,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O tacógrafo é obrigatório no transporte coletivo de trabalhadores rurais.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7172,7 +7172,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Só se a capacidade for de mais de dez lugares."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Com relação às edificações rurais, em nenhum momento a NR 31 prevê a aplicação da NR 24 (condições sanitárias e conforto), ou seja, a NR 24 não se aplica ao trabalho rural.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7183,7 +7183,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO. As exigências da NR 24 são maiores do que as da NR 31."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "As áreas de vivência rurais devem ter paredes e piso cimentado.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7194,7 +7194,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Pode ser de madeira ou outro material."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O chuveiro é obrigatório quando houver exposição a substâncias tóxicas ou quando houver trabalhadores alojados.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7205,7 +7205,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Os alojamentos devem ter lavanderia, local para lazer (que pode ser o local de refeições), armários individuais e serem separados por sexo. É permitido o uso de beliches, desde que com proteção lateral e escada afixada.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7216,7 +7216,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "É proibida a utilização de fogões ou fogareiros no interior dos dormitórios, mas os banheiros de uso comum podem ser compartilhados com a cozinha e com o pessoal que manipula alimentos.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7227,7 +7227,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. O banheiro deve ser exclusivo e não ter ligação com instalações sanitárias e dormitórios."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A NR 24, de condições sanitárias e de conforto nos locais de trabalho, se aplica aos trabalhadores urbanos e rurais.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7238,7 +7238,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Como vimos, apenas aos urbanos."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Trabalhadores usuários são aqueles que usam, habitualmente ou não, as instalações regulamentadas pela NR 24.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7249,7 +7249,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Apenas habitualmente. Se alguém é contratado para pintar uma parede numa loja, ele não conta para fins de NR 24."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "As instalações sanitárias devem se situar dentro da área do estabelecimento.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7260,7 +7260,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Até pode ser fora, desde que se comuniquem por meio de passagens com piso e cobertura."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Se o estabelecimento tiver menos de dez trabalhadores, pode haver apenas uma instalação sanitária individual de uso comum entre os sexos.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7271,7 +7271,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Só são exigidos chuveiros se houver exposição a material infectante, tóxico, irritante ou que seja capaz de impregnar a pele e as roupas do trabalhador, além de atividades que exijam esforço físico ou submissão a calor intenso.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7282,7 +7282,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Vestiários são obrigatórios nos estabelecimentos com mais de 20 empregados.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7293,7 +7293,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Não tem isso. Deve ter vestiário quando a atividade exigir a utilização de vestimentas de trabalho ou quando seja imposto o uso de uniforme cuja troca seja feita no próprio lugar de trabalho, além dos casos que vimos em que é necessário disponibilizar chuveiro."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O uso de armários pode ocorrer em sistema de rodízio, exceto se houver guarda de EPI ou vestimentas expostas a materiais infectantes, tóxicos, irritantes ou que provoquem sujidade. No caso dessas vestimentas expostas, deve haver inclusive compartimentos duplos ou dois armários simples.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7304,7 +7304,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO. Claro: para o cara não ter que deixar suas coisas ou suas roupas limpas junto com as infectadas ou sujas."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Se a empresa higienizar as vestimentas diariamente, o armário pode ser simples.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7315,7 +7315,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Se a organização não estiver obrigada a manter vestiário, deve oferecer ao menos um escaninho ou uma gaveta com tranca ou um serviço de guarda-volumes.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7326,7 +7326,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Em shopping centers, a responsabilidade pelas condições sanitárias e de conforto é da administração central.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7337,7 +7337,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "No risco biológico, a classe 2 traz risco individual baixo e risco para a comunidade moderado.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7348,7 +7348,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. A tabela é esta: Risco individual: Baixo (Classe 1), Moderado (Classe 2), Alto (Classe 3), Alto (Classe 4). Risco para a comunidade: Baixo (Classe 1), Limitado (Classe 2), Moderado (Classe 3), Alto (Classe 4)."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A literatura médica associa agrotóxicos, que são riscos químicos, a doenças neurológicas, inclusive Parkinson.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7359,7 +7359,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O Aedes sp. está associado à febre amarela, dengue e zika.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7370,7 +7370,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Indicadores proativos medem os danos já causados pela deficiência na gestão de SST, como a quantidade de dias de afastamento de trabalhadores em decorrência de acidentes de trabalho.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7381,7 +7381,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Isso são indicadores reativos. Os proativos revelam problemas potenciais na gestão de SST, como a mensuração do tempo de resposta a um relato de inconformidade."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Espaço confinado é aquele com uma dessas características: não projeto para ocupação humana, meios limitados de entrada e saída ou atmosfera perigosa.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7392,7 +7392,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Precisa ser os três simultaneamente. Um posto de gasolina, dependendo da situação, pode ter atmosfera perigosa, mas não é um espaço confinado. Uma caverna não foi projetada para ocupação humana, tem meios limitados de entrada e saída, mas se não tiver atmosfera perigosa não será um espaço confinado para fins da NR 33."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A caracterização da atmosfera perigosa exige simultaneamente: deficiência ou enriquecimento de oxigênio, presença de contaminantes ou atmosfera explosiva.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7403,7 +7403,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Aqui é só um dos elementos… Se tiver contaminantes, por exemplo, já é perigoso, mesmo que não possa explodir ou o oxigênio esteja ok."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Um silo que não tenha atmosfera perigosa não será considerado um espaço confinado.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7414,7 +7414,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Aqui tem uma exceção: a atmosfera perigosa pode ser substituída pela “armazenagem de material com potencial para engolfar ou afogar uma pessoa que ali ingresse”. Mas, como veremos, em geral o silo tem tanto o risco de soterramento/engolfamento quanto de explodir."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Engolfamento é o envolvimento e captura da pessoa pelo material sólido ao seu redor; afogamento é a aspiração de sólido ou líquido por submersão.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7425,7 +7425,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Espaços confinados devem contar com sinalização permanente e também provisória, indicando a liberação ou não da entrada dos trabalhadores autorizados.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7436,7 +7436,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A Permissão de Entrada e Trabalho (PET) pode ser digital. Ela deve contar com avaliação quantitativa ou qualitativa da atmosfera, imediatamente antes da entrada no espaço confinado.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7447,7 +7447,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. A avaliação deve ser quantitativa, com medidor, não é só “olha, parece que tá ok”."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A PET tem a relação de supervisores de entrada, vigias e trabalhadores autorizados a entrar no espaço confinado e deve ser arquivada por no mínimo cinco anos.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7458,7 +7458,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O vigia é quem preenche e assina a PET, executa os testes, confere os equipamentos, assegura os serviços de emergência e encerra a PET após o término dos serviços.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7469,7 +7469,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Esse é o supervisor de entrada. Vigia é o cara que permanece fora do espaço confinado e fica responsável pelo acompanhamento, comunicação e ordem de abandono para os trabalhadores. Ele só pode permitir a entrada de trabalhadores relacionados na PET."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A equipe de trabalho confinado deve participar de simulado anual de salvamento.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7480,7 +7480,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Uma atmosfera imediatamente perigosa à vida ou à saúde (IPVS) pode ocorrer por restrições de ventilação ou presença de contaminantes como metano ou monóxido de carbono.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7491,7 +7491,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O percentual de oxigênio indicado em espaços confinados é de 20,9%, sendo aceitável o percentual entre 19% e 22,5%, desde que a causa da redução ou enriquecimento seja conhecida.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7502,7 +7502,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. 19,5% até 23%."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "As avaliações atmosféricas do espaço confinado devem ser feitas fora dele, imediatamente antes da entrada de trabalhadores, pelo supervisor de entrada. Deve haver ainda monitoramento contínuo durante a permanência dos trabalhadores.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7513,7 +7513,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "O detector multigás monitora oxigênio, monóxido de carbono e sulfeto de hidrogênio, mas não a explosividade.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7524,7 +7524,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Monitora a explosividade também."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Os detectores devem ser submetidos a auto-zero ou ajuste de ar limpo, para limpar as leituras e restabelecer a referência zero nos sensores. Além disso, há o bumptest, que verifica se o equipamento está respondendo.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7535,7 +7535,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Para evitar soterramento em armazéns de grãos, os trabalhadores, entre outras medidas, devem contar com um sistema horizontal onde esteja ligada a linha de vida, e nunca a atividade sobre a massa de grãos pode ser permitida com o sistema de descarga do silo em funcionamento.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7546,7 +7546,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Unidades de armazenamento de grãos oferecem risco de soterramento, mas raramente de explosão.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7557,7 +7557,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Os grãos como milho, soja e trigo criam poeira combustível, que são pequenas partículas sólidas que podem formar misturas explosivas com o ar."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Se o ambiente confiado apresentar poeiras combustíveis em situação de depósito sobre as superfícies (poeiras em camadas), seu risco é menor do que caso apresente tenha apenas poeiras combustíveis em suspensão.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7568,7 +7568,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Se as faíscas iniciais chegarem nessas poeiras em camadas, haverá várias explosões em série, criando um evento “catastrófico” (nas palavras da apostila) em que se perderá o controle do incêndio."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A NR 30 se aplica a embarcações de bandeira estrangeira que realizem atividades econômicas dentro do Brasil.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7579,7 +7579,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Se a embarcação estiver classificada de acordo com a Convenção Solas, não se aplicam as NRs 10 (eletricidade), 13 (caldeiras) e 23 (incêndios).",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7590,7 +7590,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "As viagens com menos de 12 horas e trafegando em áreas que possam fornecer alimentação adequada em terra estão dispensadas de ter cozinheiro.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7601,7 +7601,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Os membros da tripulação devem dispor de camarotes individuais.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7612,7 +7612,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Camas individuais, mas o camarote (o “quarto”) pode ser dividido."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Nos navios maiores, deve haver ainda mobiliário para conforto do tripulante, como escrivaninha e armários.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7623,7 +7623,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "As acomodações que foram utilizadas por tripulante com doença infectocontagiosa devem ser interditadas até o fim da viagem.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7634,7 +7634,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. “Devem ser submetidas a uma desinfecção.”"
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Os navios devem ter sala de lazer com mobiliário próprio, separado do refeitório, e as mesas e cadeiras devem ter dispositivos para fixação no solo.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7645,7 +7645,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. A sala de lazer deve ser separada do refeitório apenas em embarcações grandes, como cruzeiros."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "As embarcações devem contar com equipe exclusiva de manutenção e limpeza das áreas de vivência.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7656,7 +7656,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Normalmente são os próprios tripulantes que fazem isso."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Nas embarcações, os meios de lavagem de roupas de trabalho não devem ser os mesmos das roupas pessoais. Nos navios menores, as instalações de lavagem de roupa podem ser disponibilizadas por meio de suporte em terra.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7667,7 +7667,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Nas embarcações, a NR 33 (espaços confinados) deve ser aplicada na íntegra; a NR 35 (trabalho em altura) deve ser aplicada com providências adicionais, considerando as peculiaridades de clima, maré, luminosidade etc.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7678,7 +7678,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Os equipamentos de guindar devem ter certificação renovada no máximo a cada cinco anos e devem ser inspecionados diariamente, antes de qualquer movimentação, por trabalhador qualificado.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7689,7 +7689,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. As inspeções inicial, eventual e periódica, a cada 12 meses, devem ser feitas por trabalhador qualificado (com relatório emitido por trabalhador habilitado). Mas as inspeções diárias podem ser realizadas pelo próprio operador do equipamento."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A NR 12 (máquinas e equipamentos) se aplica a embarcações que operem em território nacional, mesmo que estrangeiras.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7700,7 +7700,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Imagine o caos que seria que qualquer navio japonês, indiano ou sei lá de onde tivesse que adaptar todas as suas máquinas para poder atracar no Brasil (inclusive com manual em língua portuguesa etc.) De modo que a aplicação da NR 12 em embarcações é afastada quando “as máquinas ou equipamentos são certificados pela autoridade competente do país de bandeira ou por sociedade classificadora”."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Se a embarcação estiver atracada, as escadas de acesso devem estar apoiadas em terra e possuir rede de segurança contra queda de pessoas por baixo da escada. É proibido o acesso à embarcação por meio de equipamentos de guindar (exceto em operações de resgate) ou por meio de escada quebra-peito (escada de corda).",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7711,7 +7711,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Se a embarcação estiver apenas fundeada (ancorada), mas não atracada em um porto, a preferência é pelo uso de escada portaló. Caso seja necessário, pode ser utilizada escada quebra-peito (de corda), mas deve haver cabos de segurança, boia salva-vidas e colete salva-vidas.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7722,7 +7722,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "Embarcações que operem exclusivamente nos trópicos não estão dispensadas de sistema de calefação, e as tubulações de vapor não devem passar pelas acomodações da tripulação ou corredores que as sirvam.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7733,7 +7733,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Se operar só nos trópicos, não precisa ter."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A escada de degraus na lateral do navio se chama portaló, onde há frequentes escorregamentos nos degraus da escala, decorrentes de óleo, poeira, fuligem etc.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7744,7 +7744,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A escada de portaló precisa ter superfícies antiderrapantes, corrimões metálicos e não pode haver objetos elétricos ou mangueiras na sua estrutura.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7755,7 +7755,7 @@ const questoes = [
 "gabaritoComentado": "FALSO. Os corrimões podem ser até de corda, desde que esteja sempre esticada."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "A escada deve ter rede de segurança contra queda de pessoas.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -7766,7 +7766,7 @@ const questoes = [
 "gabaritoComentado": "VERDADEIRO."
 },
 {
-"tema": "MIOTO 2",
+"tema": "#MIOTO 2",
 "pergunta": "As transmissões de força na sala de máquinas não devem contar com correias expostas, de modo que é obrigatória a instalação de proteções fixas ou móveis com dispositivos de intertravamento.",
 "alternativa1": "VERDADEIRO",
 "alternativa2": "FALSO",
@@ -9939,7 +9939,7 @@ const questoes = [
     "respostaCorreta": "C"
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Acerca da Higiene Ocupacional e seus agentes de risco, conforme apresentado nos excertos, assinale a opção correta.",
     "alternativa1": "Agentes físicos são microrganismos ou materiais de organismos que podem causar infecções, parasitoses ou reações alérgicas.",
     "alternativa2": "Névoa e neblina são classificadas como agentes químicos particulados aerodispersoides resultantes de processos térmicos ou condensação de vapores sólidos.",
@@ -9950,7 +9950,7 @@ const questoes = [
     "gabaritoComentado": "A opção D está correta pois os excertos indicam a Histoplasmose como um exemplo de agente biológico relacionado a trabalhos com criações de aves. A opção A descreve agentes biológicos, não físicos. A opção B descreve fumos, não névoa e neblina, que resultam da ruptura mecânica ou condensação de líquidos. A opção C menciona radiações não ionizantes (microondas, infravermelha) junto com ionizantes (raio-X), mas as classifica como 'ionizantes' de forma incorreta. A opção E descreve fibras, não fumos, que resultam de processo térmico e condensação de vapores de sólido."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Sobre as etapas da Higiene Ocupacional e as medidas de prevenção, com base nas informações fornecidas, assinale a opção correta.",
     "alternativa1": "A etapa de Reconhecimento na Higiene Ocupacional busca verificar a magnitude da exposição aos agentes ambientais.",
     "alternativa2": "O Nível de Ação para agentes químicos é definido como o dobro do limite de tolerância, indicando a necessidade de controle.",
@@ -9961,7 +9961,7 @@ const questoes = [
     "gabaritoComentado": "A opção D está correta. A etapa de Antecipação é descrita como a identificação de riscos potenciais, prever perigos e fontes. A opção A descreve a etapa de Avaliação, não Reconhecimento. A opção B afirma que o Nível de Ação para agentes químicos é o dobro do limite de tolerância, mas o excerto indica que é a metade. A opção C inverte a ordem de prioridade, que é Eliminação, Proteção Coletiva, Organização/Administrativas e, por último, Proteção Individual. A opção E está incorreta, pois na ausência de LT, pode-se seguir os limites da NR 15 ou ACGIH."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Conforme a Escala de Schilling para relação entre patologia e trabalho, assinale a opção que apresenta uma doença classificada como Schilling 1.",
     "alternativa1": "Asma.",
     "alternativa2": "Transtornos mentais.",
@@ -9972,7 +9972,7 @@ const questoes = [
     "gabaritoComentado": "A opção E está correta. A escala de Schilling 1 se refere a doenças que possuem uma relação causal necessária e direta com o trabalho, e a silicose é explicitamente listada como exemplo dessa categoria. Asma, transtornos mentais, doenças coronarianas e dermatite são listadas como Schilling 2 ou 3."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Sobre o Nexo Técnico Previdenciário (NTP), conforme descrito nos excertos, assinale a opção incorreta.",
     "alternativa1": "O Nexo Profissional ou do Trabalho avalia a relação entre o agravo e a atividade profissional exercida, utilizando as listas A e B do Decreto 3048/99.",
     "alternativa2": "O Nexo Epidemiológico Previdenciário (NTEP) é uma análise estatística da relação entre a atividade da empresa (CNAE) e a doença (CID), listada na Lista C do Decreto 3048/99.",
@@ -9983,7 +9983,7 @@ const questoes = [
     "gabaritoComentado": "A opção E está incorreta. O Nexo Técnico Previdenciário é uma metodologia para avaliar a causalidade entre ADOECIMENTO e TRABALHO, não se restringindo exclusivamente aos riscos biológicos, mas sim a qualquer agravo relacionado ao trabalho. As opções A, B, C e D estão corretas, descrevendo adequadamente as diferentes abordagens do nexo técnico e seus efeitos."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "No campo da Toxicologia Ocupacional, asfixiantes que provocam deficiência de O2 no organismo pela ação bioquímica, evitando o transporte de oxigênio, são classificados como:",
     "alternativa1": "Asfixiantes simples.",
     "alternativa2": "Asfixiantes químicos.",
@@ -9994,7 +9994,7 @@ const questoes = [
     "gabaritoComentado": "A opção B está correta. O excerto define asfixiantes químicos como aqueles que agem por ação bioquímica, impedindo o transporte de oxigênio, citando monóxido de carbono e cianeto como exemplos. Asfixiantes simples agem por substituição do oxigênio sem interação bioquímica. As demais opções referem-se a outras classificações de agentes tóxicos."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Segundo as informações sobre Toxicologia Ocupacional, qual das vias de penetração é considerada primária no ambiente laboral, com alta superfície alveolar e vascularizada?",
     "alternativa1": "Via Dérmica.",
     "alternativa2": "Via Digestiva.",
@@ -10005,7 +10005,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta. O excerto indica a via Respiratória como a primária, pois agentes como gases, vapores e partículas são comuns no ambiente laboral e ela possui alta superfície alveolar, vascularizada e permeável. A via Dérmica é secundária e a Digestiva é terciária."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Com relação aos Limites de Tolerância e Exposição Ocupacional em Toxicologia, assinale a opção correta com base nas informações dos excertos.",
     "alternativa1": "O LT - Limite de Tolerância (Brasil, NR-15) possui atualização periódica e frequente.",
     "alternativa2": "O LEO - Limite de Exposição Ocupacional (País de origem) possui valor legal no Brasil.",
@@ -10016,7 +10016,7 @@ const questoes = [
     "gabaritoComentado": "A opção D está correta. O excerto compara a nomenclatura dos limites, indicando que o LT (NR-15) tem valor legal no Brasil, mas sua atualização é lenta e deficitária. LEO é do país de origem (não especifica valor legal no Brasil), TLV é referência internacional sem valor legal. As opções A, B, C e E apresentam informações incorretas sobre o valor legal ou a frequência de atualização dos limites."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A ação tóxica de substâncias que causam fibrose pulmonar (enrijecimento), considerada irreversível, é classificada como:",
     "alternativa1": "Neurotóxica.",
     "alternativa2": "Mielotóxica.",
@@ -10027,7 +10027,7 @@ const questoes = [
     "gabaritoComentado": "A opção D está correta. O excerto descreve a ação tóxica pulmonar fibrogênica como aquela que causa fibrose pulmonar (enrijecimento), sendo irreversível, e lista sílica cristalizada, asbesto e carvão mineral como exemplos. As demais opções se referem a outros tipos de ações tóxicas em diferentes órgãos."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "De acordo com os excertos, qual tipo de indicador biológico reflete a interação da substância com o organismo e a condição patológica, sendo uma forma de avaliação direta que indica adoecimento?",
     "alternativa1": "Indicadores de Exposição excessiva.",
     "alternativa2": "Indicadores de Exposição significado clínico ou de efeito.",
@@ -10038,7 +10038,7 @@ const questoes = [
     "gabaritoComentado": "A opção B está correta. Os excertos definem os Indicadores de Exposição significado clínico ou de efeito (Anexo I, Quadro 2 NR 7) como aqueles que refletem a interação da substância com o organismo e a condição patológica, sendo uma avaliação direta que indica adoecimento. Os Indicadores de Exposição excessiva (Quadro 1 NR 7) são indiretos e não indicam adoecimento. Os Indicadores de Susceptibilidade não são utilizados por questões éticas."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A NR 17 - Ergonomia estabelece diretrizes para a adaptação das condições de trabalho às características psicofisiológicas dos trabalhadores. Segundo os excertos, assinale a área chave de aplicação da Ergonomia que lida com carga mental e emocional, percepção, memória e raciocínio.",
     "alternativa1": "Ergonomia Física.",
     "alternativa2": "Ergonomia de Correção.",
@@ -10049,7 +10049,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta. A Ergonomia Cognitiva é uma das áreas chave de aplicação mencionadas, lidando com carga mental e emocional, percepção, memória e raciocínio. Ergonomia Física lida com aspectos antropométricos, fisiológicos e biomecânicos; Ergonomia Organizacional lida com estrutura e políticas. Ergonomia de Correção e Concepção são abordagens de intervenção."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Conforme os excertos sobre a NR 17, a Análise Ergonômica do Trabalho (AET) deve ser realizada sempre que houver necessidade de avaliação aprofundada. Para Microempresas (ME) e Empresas de Pequeno Porte (EPP) de graus de risco 1 e 2, a AET é obrigatória especificamente nas hipóteses de:",
     "alternativa1": "Necessidade de avaliação aprofundada e inadequação das ações adotadas.",
     "alternativa2": "Sugestão do PCMSO e análise de acidentes e doenças relacionadas às condições de trabalho no PGR.",
@@ -10060,7 +10060,7 @@ const questoes = [
     "gabaritoComentado": "A opção B está correta. O excerto especifica que, para ME e EPP de graus de risco 1 e 2, a obrigatoriedade da AET ocorre apenas nas hipóteses de Sugestão do PCMSO e Causa relacionada às condições trabalho (acidentes e doenças no PGR). As demais opções descrevem situações que não se aplicam especificamente à obrigatoriedade da AET para ME/EPP grau 1 e 2, ou generalizam o requisito."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Entre as etapas da Análise Ergonômica do Trabalho (AET), conforme listado nos excertos, qual delas envolve a participação dos trabalhadores para garantir a efetividade das mudanças propostas?",
     "alternativa1": "Análise da demanda e reformulação se preciso.",
     "alternativa2": "Análise organização, processos, situações e atividades.",
@@ -10071,7 +10071,7 @@ const questoes = [
     "gabaritoComentado": "A opção E está correta. O excerto lista a Validação e revisão das intervenções, com a participação dos trabalhadores, como a última etapa da AET. As demais opções são outras etapas do processo da AET."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Ainda sobre a NR 17, os excertos descrevem requisitos mínimos para assentos em postos de trabalho. Qual característica NÃO é um requisito mínimo para assentos, conforme apresentado?",
     "alternativa1": "Altura ajustável à estatura do trabalhador e à natureza da função.",
     "alternativa2": "Ajustes e manuseio acessíveis.",
@@ -10082,7 +10082,7 @@ const questoes = [
     "gabaritoComentado": "A opção E está incorreta. Os excertos listam altura ajustável, ajustes acessíveis, pouca ou nenhuma conformação na base e borda frontal arredondada como requisitos mínimos para assentos. O apoio total para os braços não é mencionado como um requisito mínimo obrigatório."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Biomecânica, segundo os excertos, estuda as ações de forças e aspectos mecânicos de organismos vivos. A parte da Biomecânica que foca na forma ou técnica com que o movimento é executado é a:",
     "alternativa1": "Cinética.",
     "alternativa2": "Fisiologia do trabalho.",
@@ -10093,7 +10093,7 @@ const questoes = [
     "gabaritoComentado": "A opção D está correta. O excerto define a Cinemática como a parte da Biomecânica que estuda a forma ou técnica com que o movimento é executado. Cinética estuda as forças associadas. Fisiologia do trabalho estuda processos adaptativos do corpo ao esforço. Biomecânica Ocupacional aplica a biomecânica à prevenção de lesões laborais. Antropometria é um conceito relacionado à Ergonomia Física."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "De acordo com os excertos sobre Fisiologia do Trabalho e desenvolvimento de lesões, qual das estruturas listadas possui menor capacidade de adaptação funcional e menor vascularização, sendo suscetível a inflamações como tendinite?",
     "alternativa1": "Músculos.",
     "alternativa2": "Nervos.",
@@ -10104,7 +10104,7 @@ const questoes = [
     "gabaritoComentado": "A opção E está correta. O excerto afirma que os Tendões possuem menor capacidade adaptação funcional e menor vascularização, sendo que a inflamação do tendão é a tendinite. Músculos possuem recuperação fácil/rápida. Nervos e discos intervertebrais também são mencionados como estruturas suscetíveis a lesões, mas a descrição de menor capacidade de adaptação e vascularização se aplica aos tendões."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Os excertos mencionam o Estresse adaptativo e não adaptativo. Qual das características apresentadas é associada ao Estresse não adaptativo?",
     "alternativa1": "Autopreservação.",
     "alternativa2": "Êxito nas tarefas.",
@@ -10115,7 +10115,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta. O Estresse não adaptativo é descrito como associado a sofrimento, síndromes e transtornos mentais, sendo patogênico. Estresse adaptativo é benéfico, relacionado à autopreservação e êxito nas tarefas. A vigência de maio de 2025 na NR-1 refere-se à prevenção de riscos psicossociais."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "No contexto da organização do trabalho, conforme a NR-17 e os excertos, qual aspecto se refere ao modo como o trabalhador percebe suas condições de trabalho, se são estimulantes ou monótonas?",
     "alternativa1": "Normas de produção.",
     "alternativa2": "Modo operatório.",
@@ -10126,7 +10126,7 @@ const questoes = [
     "gabaritoComentado": "A opção D está correta. O Conteúdo das tarefas é descrito como o modo como o trabalhador percebe suas condições de trabalho, se são estimulantes ou monótonas. Normas de produção são regras. Modo operatório é o passo a passo. Ritmo de trabalho é o aspecto qualitativo relacionado à cadência. Exigência de tempo é quanto produzir em determinado tempo."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Sobre a fiscalização do recolhimento do FGTS, conforme indicado nos excertos, qual órgão é o responsável por essa atividade?",
     "alternativa1": "Caixa Econômica Federal.",
     "alternativa2": "Ministério das Cidades.",
@@ -10137,7 +10137,7 @@ const questoes = [
     "gabaritoComentado": "A opção E está correta. O excerto afirma explicitamente que a fiscalização do recolhimento do FGTS é responsabilidade do MTE, precisamente dos AFTs. Os demais órgãos têm outras funções relacionadas ao FGTS (Caixa é agente operador, Ministério das Cidades gestor das aplicações, Conselho Curador estabelece diretrizes) ou ao FAT (CODEFAT)."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "O Fundo de Amparo ao Trabalhador (FAT) é um fundo contábil de natureza financeira, vinculado ao MTE. Segundo os excertos, qual das opções abaixo indica algo CUSTEADO pelo FAT?",
     "alternativa1": "Aquisição de órteses ou próteses para trabalhadores.",
     "alternativa2": "Indenização compensatória de 40% por dispensa sem justa causa.",
@@ -10148,7 +10148,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta. O excerto lista o custeio do Programa Seguro-Desemprego (PSD) como uma das finalidades da utilização do FAT. Aquisição de órteses/próteses e licença maternidade/paternidade são hipóteses de movimentação/interrupção do contrato para FGTS, não custeadas pelo FAT. A indenização de 40% é um direito do trabalhador sobre o saldo do FGTS, não custeada pelo FAT. Benefícios previdenciários não são custeados pelo FAT."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Conforme os excertos sobre FGTS, o prazo prescricional para cobrança de valores relativos ao FGTS por parte do trabalhador é, atualmente, de:",
     "alternativa1": "30 anos, conforme entendimento consolidado do STJ e TST.",
     "alternativa2": "20 anos, a partir do término do contrato de trabalho.",
@@ -10159,7 +10159,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta. Os excertos afirmam que o STF consolidou o entendimento de prazo prescricional de 5 anos, em decorrência de norma constitucional expressa, superando o entendimento anterior de 30 anos do STJ e TST. O prazo se inicia a partir do dia útil seguinte ao vencimento da obrigação de pagar."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Assinale a opção que apresenta uma hipótese de movimentação da conta vinculada do FGTS, conforme listado nos excertos.",
     "alternativa1": "Saque aniversário.",
     "alternativa2": "Saque rescisão.",
@@ -10170,7 +10170,7 @@ const questoes = [
     "gabaritoComentado": "A opção D está correta. A extinção da empresa é listada como uma hipótese de movimentação da conta vinculada. Saque aniversário e saque rescisão são modalidades de saque, não hipóteses de movimentação per se. Aquisição de bens de consumo não é listada. Demissão por justa causa não gera direito à movimentação da conta do FGTS."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Segundo os excertos, a natureza jurídica do FGTS, conforme entendimento do Supremo Tribunal Federal (STF), é:",
     "alternativa1": "Tributária.",
     "alternativa2": "Previdenciária.",
@@ -10181,7 +10181,7 @@ const questoes = [
     "gabaritoComentado": "A opção D está correta. O excerto afirma que a natureza jurídica do FGTS, segundo o STF, é não tributária."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "No contexto da Toxicologia Ocupacional, substâncias que desenvolvem processos alérgicos no indivíduo após contato ou exposição são classificadas como:",
     "alternativa1": "Irritantes primários.",
     "alternativa2": "Asfixiantes simples.",
@@ -10192,7 +10192,7 @@ const questoes = [
     "gabaritoComentado": "A opção D está correta. O excerto define Sensibilizantes como substâncias que desenvolvem processos alérgicos após contato/exposição, citando isocianatos, níquel, cromo, cobalto e resina epóxi como exemplos. As demais opções referem-se a outras ações tóxicas."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Ergonomia de Correção e a Ergonomia de Concepção são abordagens de intervenção em Ergonomia. Qual das opções descreve a Ergonomia de Correção?",
     "alternativa1": "Projeto e design ergonômicos desde a fase inicial.",
     "alternativa2": "Análise da carga mental e emocional dos trabalhadores.",
@@ -10203,7 +10203,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta. A Ergonomia de Correção é descrita como a intervenção na realidade do trabalho, buscando modificar seus determinantes. Ergonomia de Concepção refere-se ao projeto e design ergonômicos. Análise da carga mental é Ergonomia Cognitiva. Políticas e estrutura são Ergonomia Organizacional. AEP é uma avaliação, não uma abordagem de intervenção."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Em relação às condições de conforto no ambiente de trabalho, a NR 24 é mencionada no índice, mas os excertos fornecem parâmetros específicos para conforto acústico e térmico. Quais são os parâmetros de conforto térmico indicados?",
     "alternativa1": "Máximo de 65 dB.",
     "alternativa2": "18°C a 25°C.",
@@ -10214,7 +10214,7 @@ const questoes = [
     "gabaritoComentado": "A opção B está correta. Os excertos indicam que o conforto térmico deve estar entre 18°C e 25°C. Máximo de 65 dB refere-se ao conforto acústico. Conformidade com a NHO 11 e iluminação apropriada referem-se à iluminação. Alternância de posições é uma medida de prevenção em Ergonomia relacionada a postos de trabalho."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Conforme os excertos sobre Doenças Relacionadas ao Trabalho, qual das opções descreve uma Doença do Trabalho?",
     "alternativa1": "Doença que possui relação direta com o trabalho e causa ocupacional necessária e exclusiva.",
     "alternativa2": "Doença que também ocorre na população em geral, mas que a atividade laboral pode ter contribuído ou agravado.",
@@ -10225,7 +10225,7 @@ const questoes = [
     "gabaritoComentado": "A opção B está correta. Doença do Trabalho é definida como aquela com relação não direta com o trabalho, que também ocorre na população em geral, mas que a atividade laboral pode ser fator contributivo, desencadeador ou agravador. A opção A descreve Doença Profissional. Opções C, D e E descrevem características típicas de Doença Profissional (Schilling 1, p. ex. silicose), não Doença do Trabalho."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Os excertos mencionam diferentes tipos de agentes químicos particulados aerodispersoides. Qual termo se refere a uma partícula sólida, longa e fina de determinado material?",
     "alternativa1": "Poeira.",
     "alternativa2": "Fumo.",
@@ -10236,7 +10236,7 @@ const questoes = [
     "gabaritoComentado": "A opção D está correta. O excerto define Fibra como partícula sólida, longa e fina de determinado material. Poeira resulta de ruptura mecânica de sólido, Fumos de processo térmico, Névoa de ruptura mecânica de líquido e Neblina de processo térmico ou condensação de líquido."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Com base nas informações sobre Toxicologia Ocupacional, qual tipo de ação tóxica afeta especificamente o fígado?",
     "alternativa1": "Neurotóxica.",
     "alternativa2": "Mielotóxico.",
@@ -10247,7 +10247,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta. O excerto associa a ação Hepatotóxica ao fígado. Neurotóxica afeta o SNP, Mielotóxico afeta sangue e medula, Ototóxico afeta o sistema auditivo e Nefrotóxicas afetam os rins."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Os excertos da NR 17 estabelecem que, na impossibilidade de alteração da forma de execução ou organização da tarefa, ou das medidas técnicas recomendadas pela AEP/AET, algumas medidas de prevenção se tornam obrigatórias. Quais são essas medidas obrigatórias neste cenário?",
     "alternativa1": "Eliminação do risco e proteção coletiva.",
     "alternativa2": "Organização do trabalho e medidas administrativas.",
@@ -10258,7 +10258,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta. O excerto especifica que, na impossibilidade das medidas 'a' (alteração forma/organização) e 'b' (medidas técnicas), as medidas 'c' (Pausas para recuperação fisiológica) e 'd' (Alternância atividades) são obrigatórias. As demais opções não correspondem às medidas que se tornam obrigatórias neste contexto específico."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Sobre o FGTS, os excertos listam quem são e quem NÃO são beneficiários. Assinale a opção que apresenta um grupo de trabalhadores que NÃO são beneficiários do FGTS, conforme o texto.",
     "alternativa1": "Domésticos.",
     "alternativa2": "Intermitentes.",
@@ -10269,7 +10269,7 @@ const questoes = [
     "gabaritoComentado": "A opção D está correta. O excerto lista explicitamente 'servidores públicos' (estatutários subentendido pelo contexto) e 'militares' como não beneficiários do FGTS. Domésticos, intermitentes, avulsos e aprendizes são listados como beneficiários."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Ainda sobre o FGTS, qual é o prazo de recolhimento MENSAL dos depósitos pelo empregador, conforme os excertos?",
     "alternativa1": "10 dias do término do contrato.",
     "alternativa2": "Até o dia 7 do mês seguinte.",
@@ -10280,7 +10280,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta. O excerto especifica que o prazo de Recolhimento Mensal do FGTS é o 20º dia do mês. O prazo de 10 dias é para o recolhimento em caso de rescisão."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Em Toxicologia Ocupacional, o termo que descreve o potencial de uma substância causar alteração genética é:",
     "alternativa1": "Mutagenicidade.",
     "alternativa2": "Carcinogênico.",
@@ -10291,7 +10291,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta. O excerto define Genotoxicidade como o Potencial substância causar alteração genética. Mutagenicidade é o potencial genotóxico de causar mutações/tumores. Carcinogênico é o potencial de induzir tumores. Teratogênico e Bioacumulação não são termos definidos nos excertos."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Os excertos indicam que o Conselho Curador do FGTS é um colegiado tripartite. Qual a composição desse Conselho, conforme descrito no texto?",
     "alternativa1": "Representantes do Governo e dos empregadores, com presidência do Ministro do MTE.",
     "alternativa2": "Representantes do Governo, trabalhadores e empregadores, com presidência do Ministro do MTE.",
@@ -10302,7 +10302,7 @@ const questoes = [
     "gabaritoComentado": "A opção B está correta. O excerto descreve o Conselho Curador como um colegiado tripartite composto por Governo, trabalhadores e empregadores, sendo o Ministro do MTE o Presidente. As demais opções descrevem composições diferentes da apresentada."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "De acordo com a Norma Regulamentadora 1 (NR-1), o Gerenciamento de Riscos Ocupacionais (GRO) tem como um de seus objetivos principais prevenir lesões e problemas de saúde, além de fornecer locais de trabalho seguros e saudáveis. Nesse contexto, analise as afirmativas a seguir, referentes aos componentes e aplicação do GRO:<br><br>I. O Gerenciamento de Riscos Ocupacionais é baseado no ciclo PDCA, visando a melhoria contínua.<br>II. O Programa de Gerenciamento de Riscos (PGR) deve ser implementado pela organização para cada estabelecimento, unidade operacional, setor ou atividade.<br>III. A NR-1 define explicitamente que o profissional responsável pela elaboração do PGR deve ser um Engenheiro de Segurança do Trabalho ou Médico do Trabalho, dependendo do grau de risco da empresa.<br>IV. O Inventário de Riscos, componente do PGR, deve incluir minimamente a identificação de perigos, avaliação de riscos e o plano de ação.<br><br>Está correto o que se afirma APENAS em:",
     "alternativa1": "I e II.",
     "alternativa2": "III e IV.",
@@ -10313,7 +10313,7 @@ const questoes = [
     "gabaritoComentado": "A afirmativa I está correta, pois o GRO, conforme a NR-1, é baseado no ciclo PDCA. A afirmativa II está correta, pois o PGR deve ser implementado por estabelecimento (ou unidade operacional, setor, atividade). A afirmativa III está incorreta, pois a NR-1 não define o profissional autor do PGR. A afirmativa IV está incorreta, pois o PGR é composto pelo Inventário de Riscos Ocupacionais E pelo Plano de Ação; o Inventário contém a identificação de perigos e a avaliação de riscos, mas o Plano de Ação é um componente separado do PGR, não uma inclusão mínima no Inventário."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Norma Regulamentadora 1 (NR-1) estabelece diretrizes e requisitos para o Gerenciamento de Riscos Ocupacionais (GRO). A respeito do Inventário de Riscos, que é um dos componentes do Programa de Gerenciamento de Riscos (PGR), assinale a opção correta.",
     "alternativa1": "O Levantamento preliminar de perigos não pode estar incluso na etapa de identificação de perigos do Inventário de Riscos, sendo uma etapa distinta e prévia.",
     "alternativa2": "A revisão ordinária do PGR, que engloba a atualização do Inventário de Riscos, deve ocorrer a cada 3 anos, independentemente da organização possuir sistema de gestão certificado.",
@@ -10324,7 +10324,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta, pois o PGR não tem prazo de validade, e a avaliação de riscos é um processo contínuo. A opção A está incorreta, pois o levantamento preliminar de perigos pode estar incluso na etapa de identificação de perigos. A opção B está incorreta, pois a revisão ordinária do PGR é de 2 anos, ou 3 anos se a organização possuir sistema de gestão certificado. A opção D está incorreta, pois a severidade na avaliação de riscos considera magnitude, exposição e acidentes ampliados. A opção E está incorreta, pois o histórico de atualizações do Inventário de Riscos deve ser guardado por no mínimo 20 anos."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Conforme a Norma Regulamentadora 1 (NR-1), a preparação para emergências e acidentes ampliados faz parte do Programa de Gerenciamento de Riscos (PGR). O objetivo dessa preparação é gerenciar uma possível situação crítica que apresente perigo à vida, ao meio ambiente ou ao patrimônio, podendo gerar dano contínuo. Um Plano de Emergência, dentro do PGR, deve conter minimamente:",
     "alternativa1": "Apenas procedimentos de primeiros socorros e encaminhamento de acidentados.",
     "alternativa2": "Meios de evacuação e abandono do local, mas a comunicação à comunidade e público externo é opcional.",
@@ -10335,7 +10335,7 @@ const questoes = [
     "gabaritoComentado": "A opção D está correta ao listar todos os elementos mínimos que um Plano de Emergência deve conter de acordo com a NR-1: primeiros socorros, meios de evacuação, interface com serviços externos/órgãos públicos, comunicação à comunidade/público e exercícios simulados periódicos."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Norma Regulamentadora 12 (NR-12) estabelece requisitos mínimos para a segurança em máquinas e equipamentos. Em relação à aplicação desta norma, é correto afirmar que ela se aplica a:",
     "alternativa1": "Máquinas e equipamentos destinados exclusivamente à exportação.",
     "alternativa2": "Ferramentas portáteis e transportáveis (semi-estacionárias), independentemente de certificação.",
@@ -10346,7 +10346,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta. A NR-12 se aplica a máquinas estacionárias e móveis de uso não doméstico. As máquinas impulsionadas exclusivamente por força humana ou animal são uma exceção. As opções A, B, D e E listam máquinas ou equipamentos que a NR-12 explicitamente NÃO se aplica."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Norma Regulamentadora 12 (NR-12) define a hierarquia das medidas de prevenção em segurança em máquinas e equipamentos. Assinale a alternativa que apresenta a ordem correta dessa hierarquia, da mais prioritária para a menos prioritária.",
     "alternativa1": "Medidas administrativas e de organização do trabalho, Proteção individual (EPIs), Proteção coletiva.",
     "alternativa2": "Proteção coletiva, Proteção individual (EPIs), Medidas administrativas e de organização do trabalho.",
@@ -10357,7 +10357,7 @@ const questoes = [
     "gabaritoComentado": "A opção C apresenta a hierarquia correta das medidas de prevenção na NR-12: 1º) Proteção coletiva, 2º) Medidas administrativas e de organização do trabalho, 3º) Proteção individual (EPIs)."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Norma Regulamentadora 12 (NR-12) estabelece requisitos para dispositivos de partida, acionamento e parada de máquinas. Sobre os dispositivos de acionamento bimanual, é correto afirmar:",
     "alternativa1": "São caracterizados como dispositivos de proteção coletiva ou individual.",
     "alternativa2": "Não exigem intenção do operador para serem acionados, permitindo um acionamento mais rápido.",
@@ -10368,7 +10368,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta. Dispositivos de acionamento bimanual na NR-12 requerem atuação síncrona com tempo máximo de 0,5 segundos. A opção A está incorreta, pois não são caracterizados como proteção coletiva ou individual. A opção B está incorreta, pois exigem intenção do operador. A opção D está incorreta, pois necessitam de distanciamento ou barreira para evitar burla. A opção E está incorreta, pois não devem estar localizados em zonas perigosas."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Norma Regulamentadora 10 (NR-10) estabelece medidas de controle e sistemas preventivos para garantir a segurança dos trabalhadores que interajam, direta ou indiretamente, em instalações elétricas. De acordo com essa norma, é obrigatório utilizar técnica de análise de riscos para identificar, avaliar e controlar riscos associados a essas instalações. Uma técnica que pode ser utilizada é a Análise Preliminar de Risco (APR). Nesse contexto, a NR-10 se aplica às fases e etapas do trabalho com eletricidade, que incluem:",
     "alternativa1": "Apenas as fases de geração e transmissão, excluindo distribuição e consumo.",
     "alternativa2": "As etapas de construção, montagem, operação e manutenção, mas não as fases de geração, transmissão, distribuição e consumo.",
@@ -10379,7 +10379,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta. A NR-10 aplica-se às fases de geração, transmissão, distribuição e consumo, bem como às etapas de construção, montagem, operação e manutenção. Aplica-se a trabalhadores que interagem direta ou indiretamente."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Segundo a Norma Regulamentadora 10 (NR-10), a desenergização de instalações elétricas é um conjunto de procedimentos essenciais para garantir a segurança dos trabalhadores. Esses procedimentos devem ser realizados em uma sequência lógica e sequencial. Assinale a alternativa que apresenta a sequência correta das seis etapas para a desenergização.",
     "alternativa1": "Seccionar, Impedir reenergização, Aterramento temporário, Constatar ausência de tensão, Proteção elementos energizados, Sinalização de impedimento de reenergização.",
     "alternativa2": "Seccionar, Impedir reenergização, Constatar ausência de tensão, Aterramento temporário, Proteção elementos energizados, Sinalização de impedimento de reenergização.",
@@ -10390,7 +10390,7 @@ const questoes = [
     "gabaritoComentado": "A opção B apresenta a sequência correta das seis etapas sequenciais para desenergizar instalações elétricas, conforme a NR-10: 1. Seccionar; 2. Impedir reenergização; 3. Constatar ausência de tensão; 4. Aterramento temporário; 5. Proteção elementos energizados; 6. Sinalização de impedimento de reenergização."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Norma Regulamentadora 10 (NR-10) define diferentes tipos de trabalhadores que podem interagir com instalações elétricas, baseando-se em sua formação e autorização. Considere as definições a seguir:<br><br>I. Trabalhador Autorizado: Aquele que pode acessar a Zona Controlada, possuindo treinamento de segurança e ASO.<br>II. Trabalhador Habilitado: Formado em sistema oficial de ensino com registro em conselho de classe.<br>III. Trabalhador Qualificado: Formado em sistema oficial de ensino sem registro em conselho de classe.<br>IV. Trabalhador Capacitado: Recebe capacitação e trabalha sob responsabilidade de profissional habilitado ou qualificado.<br><br>Assinale a opção que relaciona corretamente o tipo de trabalhador com sua definição, conforme a NR-10.",
     "alternativa1": "Apenas I e II estão corretas.",
     "alternativa2": "Apenas III e IV estão corretas.",
@@ -10401,7 +10401,7 @@ const questoes = [
     "gabaritoComentado": "Todas as definições apresentadas (I, II, III e IV) correspondem corretamente aos tipos de trabalhadores autorizados a interagir com instalações elétricas, de acordo com a NR-10."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Norma Regulamentadora 7 (NR-7) trata do Programa de Controle Médico de Saúde Ocupacional (PCMSO). O PCMSO possui objetivos claros e não se confunde com ações de caráter assistencial ou de seleção pessoal. Qual das opções abaixo NÃO representa um objetivo ou diretriz do PCMSO, conforme estabelecido pela NR-7?",
     "alternativa1": "Rastrear e diagnosticar precocemente os agravos à saúde relacionados ao trabalho.",
     "alternativa2": "Subsidiar a implantação e monitoramento de medidas de prevenção dos riscos ocupacionais.",
@@ -10412,7 +10412,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está incorreta, pois a NR-7 estabelece explicitamente que o PCMSO NÃO tem caráter assistencial ou de seleção pessoal. As demais opções (A, B, D e E) representam objetivos e diretrizes do PCMSO."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Norma Regulamentadora 7 (NR-7) estabelece a obrigatoriedade da realização de exames médicos ocupacionais em diferentes momentos. A periodicidade desses exames varia conforme o tipo de exame e as condições de exposição do trabalhador. Considerando os tipos de exames listados na NR-7, assinale a alternativa que apresenta a periodicidade correta para o exame periódico em trabalhadores expostos a riscos ocupacionais identificados no PGR ou portadores de doenças crônicas.",
     "alternativa1": "A cada 2 anos.",
     "alternativa2": "A cada 6 meses.",
@@ -10423,7 +10423,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta. A regra geral para exame periódico é a cada 2 anos, mas para trabalhadores expostos a riscos ocupacionais identificados no PGR ou portadores de doenças crônicas, a periodicidade é de 1 ano ou a critério médico."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Norma Regulamentadora 7 (NR-7) disciplina o Atestado de Saúde Ocupacional (ASO), documento emitido após a realização do exame clínico ocupacional. O ASO deve ser disponibilizado ao empregado e fornecido em meio físico quando solicitado. O ASO deve conter informações mínimas para sua validade. Qual das informações abaixo NÃO é uma exigência mínima para constar no ASO?",
     "alternativa1": "Dados da organização empregadora.",
     "alternativa2": "Dados do empregado e sua função.",
@@ -10434,7 +10434,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está incorreta, pois o ASO deve conter a descrição dos perigos e fatores de risco ou sua inexistência, não uma descrição detalhada de todas as doenças preexistentes do empregado."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Psicopatologia do Trabalho estuda os impactos do trabalho na saúde mental dos trabalhadores. Christophe Dejours é uma figura importante nesse campo, associado ao conceito de Psicodinâmica do Trabalho. Para Dejours, o trabalho pode gerar prazer ou sofrimento. O sofrimento, nesse contexto, pode ser resultado de diversos fatores relacionados à organização e gestão do trabalho. Qual das alternativas a seguir representa um fator que, na Psicodinâmica do Trabalho de Dejours, está mais associado ao sofrimento no trabalho?",
     "alternativa1": "A possibilidade de realizar um trabalho livre e criativo.",
     "alternativa2": "A construção do coletivo de trabalho e estratégias de mediação coletivas.",
@@ -10445,7 +10445,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta. Segundo a Psicodinâmica do Trabalho de Christophe Dejours, o sofrimento no trabalho está associado a fatores como falta de reconhecimento e liberdade, desgaste e a discrepância entre o trabalho prescrito (formal) e o trabalho real (executado). As demais opções representam fatores associados ao prazer, estratégias de mediação ou não se alinham com a conceituação do sofrimento segundo Dejours."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A reestruturação produtiva e a globalização a partir da década de 1970 trouxeram mudanças significativas nas relações e na organização do trabalho, resultando no aumento de riscos psicossociais. Esses riscos são classificados em diversas categorias que impactam a saúde mental dos trabalhadores. Qual das opções abaixo NÃO é listada como uma categoria de fator de risco psicossocial?",
     "alternativa1": "Teor do trabalho e carga ou ritmo.",
     "alternativa2": "Relações interpessoais e papéis na organização.",
@@ -10456,7 +10456,7 @@ const questoes = [
     "gabaritoComentado": "A opção E está incorreta. Condições de iluminação e ruído no ambiente físico são tipicamente considerados riscos físicos ou ambientais (NR 9), não riscos psicossociais. As demais opções listam categorias de fatores de risco psicossociais apresentadas no material."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "O assédio moral no trabalho é uma forma de violência psicológica. O assédio moral organizacional se distingue do assédio individual por ser institucionalizado, manifestando-se por meio de políticas e práticas da própria organização. Três tipos de 'gestão' que podem caracterizar o assédio moral organizacional foram mencionados. Qual das opções abaixo NÃO corresponde a um desses tipos de 'gestão' mencionados?",
     "alternativa1": "Gestão por injúria, caracterizada por humilhações e constrangimentos.",
     "alternativa2": "Gestão por medo, utilizando ameaças como estímulo para obediência.",
@@ -10467,7 +10467,7 @@ const questoes = [
     "gabaritoComentado": "A opção D está incorreta. A gestão por recompensa, por si só, não caracteriza assédio moral organizacional. Os tipos de 'gestão' mencionados que podem configurar assédio moral organizacional são Gestão por injúria, Gestão por medo e Gestão por estresse."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Norma Regulamentadora 4 (NR-4) disciplina o Serviço Especializado em Engenharia de Segurança e em Medicina do Trabalho (SESMT). Sobre a estrutura, composição e carga horária dos profissionais que compõem o SESMT, assinale a alternativa INCORRETA.",
     "alternativa1": "O SESMT é composto por profissionais de nível superior, como Médico do Trabalho e Engenheiro de Segurança do Trabalho, e de nível médio, como Técnico de Segurança do Trabalho.",
     "alternativa2": "A carga horária dos profissionais de nível superior no SESMT pode ser de 15h ou 30h semanais.",
@@ -10478,7 +10478,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está incorreta. O Coordenador do SESMT pode ser qualquer um dos profissionais integrantes do serviço, não sendo obrigatoriamente o Médico do Trabalho. As demais opções apresentam informações corretas sobre a composição e carga horária do SESMT."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Norma Regulamentadora 4 (NR-4) estabelece diferentes modalidades de constituição do SESMT, a depender do grau de risco e da quantidade de trabalhadores da organização. Qual modalidade de constituição do SESMT se aplica a organizações de mesma atividade econômica em municípios iguais ou limítrofes que se unem para constituir um serviço que atenda a todas, definido em Acordo ou Convenção Coletiva de Trabalho?",
     "alternativa1": "SESMT Individual.",
     "alternativa2": "SESMT Regionalizado.",
@@ -10489,7 +10489,7 @@ const questoes = [
     "gabaritoComentado": "A opção D está correta. O SESMT Compartilhado é a modalidade em que organizações de mesma atividade econômica em mesmos municípios ou limítrofes constituem um SESMT conjunto, definido em ACT ou CCT."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "No dimensionamento do SESMT, conforme a NR-4, deve-se considerar o maior grau de risco entre a atividade principal da empresa (pelo CNPJ) e a atividade preponderante (aquela com maior quantidade de trabalhadores). Em relação ao dimensionamento do SESMT para Microempresas (ME) e Empresas de Pequeno Porte (EPP) com grau de risco 1 e 2, qual regra especial se aplica?",
     "alternativa1": "São sempre dispensadas de constituir SESMT.",
     "alternativa2": "Devem considerar o dobro do somatório de trabalhadores para o dimensionamento.",
@@ -10500,7 +10500,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta. Para ME e EPP grau de risco 1 e 2, deve-se considerar a metade do somatório de trabalhadores para o dimensionamento do SESMT."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Norma Regulamentadora 1 (NR-1) define Perigo e Risco Ocupacional de forma distinta. Qual a definição de Perigo segundo a NR-1?",
     "alternativa1": "Probabilidade de ocorrer lesão + Severidade do dano.",
     "alternativa2": "Fonte potencial de causar dano, que possui uma fonte/origem.",
@@ -10511,7 +10511,7 @@ const questoes = [
     "gabaritoComentado": "A opção B está correta. A NR-1 define Perigo como 'Fonte potencial de causar dano, possui uma fonte/origem'. As demais opções definem Risco Ocupacional (A), Risco Elétrico (C, adaptado da NR-10) ou outras combinações de probabilidade e severidade."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Conforme a Norma Regulamentadora 1 (NR-1), os riscos ocupacionais são classificados em diferentes tipos. Qual opção lista exemplos de Riscos de Acidentes?",
     "alternativa1": "Agentes físicos, químicos ou biológicos.",
     "alternativa2": "Posto de trabalho inadequado e sobrecarga.",
@@ -10522,7 +10522,7 @@ const questoes = [
     "gabaritoComentado": "A opção C lista exemplos de Riscos de Acidentes: Queda, choque, soterramento, corte, conforme a NR-1."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Norma Regulamentadora 12 (NR-12) trata da segurança em máquinas e equipamentos, estabelecendo a obrigatoriedade de dispositivos de parada de emergência. Em relação a esses dispositivos, assinale a afirmativa correta.",
     "alternativa1": "Devem ser utilizados como dispositivos de partida ou acionamento normal da máquina.",
     "alternativa2": "Podem ser considerados como medida única e principal de proteção do trabalhador.",
@@ -10533,7 +10533,7 @@ const questoes = [
     "gabaritoComentado": "A opção D está correta. Os dispositivos de parada de emergência na NR-12 devem ter ação em tempo reduzido e prevalecer sobre os demais comandos. A opção A está incorreta, pois é vedado utilizá-los como partida ou acionamento. A opção B está incorreta, pois são medida de caráter auxiliar. A opção C está incorreta, pois são obrigatórios, no mínimo um dispositivo. A opção E está incorreta, pois devem ser localizados em local visível e de fácil acesso."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Norma Regulamentadora 12 (NR-12) especifica requisitos para a manutenção em máquinas e equipamentos. Três tipos de manutenção são geralmente considerados: preventiva, preditiva e corretiva. Qual tipo de manutenção é caracterizado por intervenções regulares e programadas, baseadas em tempo de uso ou horas de operação?",
     "alternativa1": "Manutenção Corretiva.",
     "alternativa2": "Manutenção Preditiva.",
@@ -10544,7 +10544,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta. A Manutenção Preventiva é caracterizada por intervenções regulares e programadas com base em tempo de uso ou horas de operação."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Norma Regulamentadora 10 (NR-10) distingue Perigo e Risco no contexto da eletricidade. Qual a definição de Risco elétrico, conforme a NR-10?",
     "alternativa1": "Fonte potencial de causar dano relacionado à eletricidade.",
     "alternativa2": "Condição que, por si só, já causa lesão grave.",
@@ -10555,7 +10555,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta. A NR-10 define Risco como o efeito causado pelo perigo, considerando gravidade, pessoas atingidas, frequência, exposição e probabilidade de ocorrência. A opção A define Perigo Elétrico."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Norma Regulamentadora 10 (NR-10) estabelece requisitos para instalações elétricas. Em relação ao Diagrama Unifilar e ao Prontuário de Instalações Elétricas, assinale a alternativa correta.",
     "alternativa1": "O Diagrama Unifilar é obrigatório apenas para estabelecimentos com carga instalada superior a 75kW.",
     "alternativa2": "O Prontuário de Instalações Elétricas é obrigatório para todas as empresas que interagem com eletricidade.",
@@ -10566,7 +10566,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta. O Diagrama Unifilar é obrigatório para todas as empresas, sendo uma representação simplificada. O Prontuário de Instalações Elétricas é obrigatório para estabelecimentos com carga superior a 75kW e contém diversos documentos e procedimentos."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Norma Regulamentadora 7 (NR-7) integra as ações de saúde ocupacional ao Programa de Gerenciamento de Riscos (PGR), promovendo a retroalimentação entre eles. Nesse contexto, a vigilância da saúde dos trabalhadores, parte do PCMSO, pode ocorrer de forma ativa ou passiva. Qual a distinção entre Vigilância Ativa e Vigilância Passiva, segundo o material?",
     "alternativa1": "Vigilância Ativa é a demanda espontânea do empregado; Vigilância Passiva são os exames médicos dirigidos.",
     "alternativa2": "Vigilância Ativa são os exames médicos dirigidos; Vigilância Passiva é a demanda espontânea do empregado.",
@@ -10577,7 +10577,7 @@ const questoes = [
     "gabaritoComentado": "A opção B está correta. Vigilância Ativa refere-se aos exames médicos dirigidos, enquanto Vigilância Passiva é a demanda espontânea do empregado."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Norma Regulamentadora 7 (NR-7) estabelece a guarda do prontuário médico individual do trabalhador. Qual o período mínimo de guarda deste documento após o desligamento do empregado?",
     "alternativa1": "5 anos.",
     "alternativa2": "10 anos.",
@@ -10588,7 +10588,7 @@ const questoes = [
     "gabaritoComentado": "A opção D está correta. O prontuário médico individual deve ser guardado por no mínimo 20 anos após o desligamento do empregado."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Norma Regulamentadora 7 (NR-7) exige a elaboração de um Relatório Analítico anual do PCMSO. Este relatório deve consolidar informações sobre a saúde ocupacional na empresa. Para Microempreendedores Individuais (MEI), Microempresas (ME) e Empresas de Pequeno Porte (EPP), há algumas dispensas. Em quais condições MEI, ME e EPP são dispensados de elaborar o Relatório Analítico?",
     "alternativa1": "Apenas MEI são dispensados.",
     "alternativa2": "ME e EPP com até 10 empregados são dispensados, independentemente do grau de risco.",
@@ -10599,7 +10599,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta. MEI, e ME e EPP dispensados de elaborar PCMSO, são dispensados de elaborar o Relatório Analítico."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Norma Regulamentadora 4 (NR-4) trata do SESMT. Em relação ao dimensionamento do SESMT para canteiros de obras, há regras específicas para a locação dos profissionais. Para canteiros de obras com 1000 ou mais trabalhadores, a regra de dimensionamento para os cargos de nível médio (Técnico de Segurança do Trabalho, Auxiliar/Técnico de Enfermagem do Trabalho) é que estes devem ser:",
     "alternativa1": "Dimensionados considerando os integrantes da empresa de engenharia responsável.",
     "alternativa2": "Centralizados na matriz da empresa.",
@@ -10610,7 +10610,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta. Para canteiros de obras com 1000 ou mais trabalhadores, os cargos de nível médio do SESMT devem ser dimensionados por canteiro de obra ou frente de trabalho. Os cargos de nível superior podem ficar centralizados na matriz."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "O surgimento da Psicopatologia do Trabalho na França e o desenvolvimento da Psicodinâmica do Trabalho por Christophe Dejours marcam marcos importantes no estudo dos impactos do trabalho na saúde mental. Em que década a Psicopatologia do Trabalho surgiu na França e em que década Christophe Dejours desenvolveu a Psicodinâmica do Trabalho, respectivamente?",
     "alternativa1": "1950 e 1970.",
     "alternativa2": "1960 e 1980.",
@@ -10621,7 +10621,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta. A Psicopatologia do Trabalho surgiu na França na década de 1950, e a Psicodinâmica do Trabalho foi desenvolvida por Christophe Dejours na década de 1980."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Norma Regulamentadora 1 (NR-1) estabelece que o Programa de Gerenciamento de Riscos (PGR) é composto pelo Inventário de Riscos Ocupacionais e pelo Plano de Ação. O Plano de Ação deve conter o controle dos riscos identificados no Inventário. Qual das opções abaixo NÃO é uma forma de acompanhamento e aferição de resultados prevista para o controle dos riscos no Plano de Ação?",
     "alternativa1": "Verificar a execução das ações planejadas.",
     "alternativa2": "Realizar inspeções nos locais de trabalho.",
@@ -10632,7 +10632,7 @@ const questoes = [
     "gabaritoComentado": "A opção D está incorreta. O acompanhamento e aferição de resultados do Plano de Ação do PGR focam nas ações de segurança e saúde, não nas finanças da empresa. As demais opções (A, B, C, E) são formas de acompanhamento e aferição de resultados previstas."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Norma Regulamentadora 7 (NR-7) utiliza conceitos de epidemiologia para monitorar a saúde dos trabalhadores. Incidência e Prevalência são medidas epidemiológicas importantes. Qual a diferença entre Incidência e Prevalência?",
     "alternativa1": "Incidência mede casos novos em um período; Prevalência mede casos novos e velhos em um ponto no tempo.",
     "alternativa2": "Incidência mede casos novos e velhos em um ponto no tempo; Prevalência mede casos novos em um período.",
@@ -10643,7 +10643,7 @@ const questoes = [
     "gabaritoComentado": "A opção A está correta. Incidência é o número de casos novos de uma doença em um determinado período, enquanto Prevalência é o número de casos novos e velhos em uma população em um determinado ponto no tempo."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Norma Regulamentadora 10 (NR-10) estabelece zonas de segurança em instalações elétricas: Zona de Risco e Zona Controlada. A qual zona a aproximação só é permitida a profissionais autorizados E com a adoção de técnicas e instrumentos apropriados?",
     "alternativa1": "Zona Controlada.",
     "alternativa2": "Zona de Risco.",
@@ -10654,7 +10654,7 @@ const questoes = [
     "gabaritoComentado": "A opção B está correta. A aproximação à Zona de Risco só é permitida a profissionais autorizados e com a adoção de técnicas e instrumentos apropriados. A aproximação à Zona Controlada é permitida a profissionais autorizados, mas não há a exigência adicional de técnicas e instrumentos apropriados apenas pela aproximação."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "De acordo com a Norma Regulamentadora 12 (NR-12), a capacitação de trabalhadores para operar máquinas e equipamentos é um requisito fundamental. Em relação à capacitação e à capacitação de reciclagem, assinale a alternativa correta.",
     "alternativa1": "A capacitação de reciclagem é obrigatória apenas a cada 5 anos.",
     "alternativa2": "A capacitação inicial deve ocorrer após o trabalhador assumir a função, durante o período de experiência.",
@@ -10665,7 +10665,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta. A capacitação de reciclagem é obrigatória após inovações ou modificações que impliquem novos riscos. A opção A está incorreta, a periodicidade da reciclagem não é fixa em 5 anos, dependendo das condições. A opção B está incorreta, a capacitação inicial deve ocorrer ANTES do trabalhador assumir a função. A opção D está incorreta, para ME e EPP a capacitação pode ser ministrada por trabalhador da empresa e DISPENSA a supervisão do PLH. A opção E está incorreta, o material, lista de presença, entre outros, devem ser disponibilizados à Auditoria Fiscal do Trabalho."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Norma Regulamentadora 7 (NR-7) estabelece a obrigatoriedade de diversos exames médicos ocupacionais. O exame de Retorno ao Trabalho é um deles. Em qual situação o exame de Retorno ao Trabalho é obrigatório, conforme a NR-7?",
     "alternativa1": "Sempre que houver afastamento do trabalho, independentemente da duração.",
     "alternativa2": "Antes de reassumir funções, por doença ou acidente, quando o afastamento for superior a 30 dias.",
@@ -10676,7 +10676,7 @@ const questoes = [
     "gabaritoComentado": "A opção B está correta. O exame de Retorno ao Trabalho é obrigatório antes de reassumir funções por doença ou acidente quando o afastamento for superior a 30 dias."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Norma Regulamentadora 7 (NR-7) prevê o Exame Demissional. Em quais condições o exame demissional pode ser dispensado?",
     "alternativa1": "Se o trabalhador solicitar dispensa por escrito.",
     "alternativa2": "Se o último exame médico ocupacional tiver sido realizado há menos de 180 dias, independentemente do grau de risco.",
@@ -10687,7 +10687,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta. O exame demissional é dispensado se o último exame tiver sido realizado há menos de 135 dias para riscos Grau 1 e 2, ou menos de 90 dias para riscos Grau 3 e 4."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Norma Regulamentadora 4 (NR-4) determina o registro do SESMT no Ministério do Trabalho e Emprego (MTE), atualmente pelo portal gov.br. Quais dados, minimamente, as organizações devem fornecer para esse registro?",
     "alternativa1": "CPF dos integrantes, Qualificação e registro profissional, Horário de trabalho.",
     "alternativa2": "CPF dos integrantes, Qualificação e registro profissional, Grau de risco e quantidade de trabalhadores atendidos por estabelecimento, Horário de trabalho.",
@@ -10698,7 +10698,7 @@ const questoes = [
     "gabaritoComentado": "A opção B está correta. Os dados mínimos para registro do SESMT no MTE são: CPF dos integrantes, Qualificação e registro profissional, Grau de risco e quantidade de trabalhadores atendidos por estabelecimento, e Horário de trabalho."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Norma Regulamentadora 10 (NR-10) trata da segurança em instalações e serviços em eletricidade. Acidentes de trabalho envolvendo eletricidade são uma preocupação, e diversos fatores contribuem para sua ocorrência. Qual das opções abaixo NÃO é listada como um agente causador de acidentes elétricos no material?",
     "alternativa1": "Fatores humanos, como desatenção e falta de treinamento.",
     "alternativa2": "Fatores materiais, como equipamentos elétricos defeituosos e instalações elétricas irregulares.",
@@ -10709,7 +10709,7 @@ const questoes = [
     "gabaritoComentado": "A opção D está incorreta. Embora condições ambientais adversas (como umidade ou calor excessivo) sejam mencionadas no material, as condições climáticas extremas (chuva, raios) como agente causador de acidentes elétricos, embora relevantes, não são listadas explicitamente como uma das três categorias principais de agentes causadores (humanos, materiais/meios de trabalho/ambiente, organizacionais). As opções A, B, C e E listam fatores ou exemplos de fatores apresentados como agentes causadores."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Considerando as disposições da Norma Regulamentadora n° 5 (NR 5) acerca da Comissão Interna de Prevenção de Acidentes e de Assédio (CIPA), julgue os itens a seguir e assinale a opção correta:<br><br>I. A CIPA é um órgão de segurança e medicina do trabalho com o objetivo primordial de prevenir acidentes e doenças relacionadas ao trabalho.<br>II. Entre as atribuições da CIPA, inclui-se a requisição de informações sobre Segurança e Saúde no Trabalho (SST) e Comunicação de Acidente de Trabalho (CAT) junto à empresa.<br>III. O empregador é responsável por implementar as medidas de prevenção e combate ao assédio, mas a CIPA atua exclusivamente no trabalho de conscientização e engajamento.",
     "alternativa1": "Apenas o item I está correto.",
     "alternativa2": "Apenas os itens I e II estão corretos.",
@@ -10720,7 +10720,7 @@ const questoes = [
     "gabaritoComentado": "O item I está correto, conforme a definição e objetivo da CIPA na NR 5. O item II também está correto, pois a NR 5 atribui à CIPA a requisição de informações sobre SST e CAT junto à empresa. O item III está incorreto, pois, embora o empregador seja o responsável pela implementação das medidas de combate ao assédio, a CIPA também participa ativamente nesse processo, não apenas na conscientização e engajamento, mas também no acompanhamento de procedimentos para recebimento de denúncias."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Acerca das garantias concedidas aos membros da CIPA pela Norma Regulamentadora n° 5 (NR 5), assinale a opção correta.",
     "alternativa1": "É permitida a redução do número de representantes da CIPA durante o mandato em caso de necessidade operacional justificada.",
     "alternativa2": "A empresa pode desativar a CIPA caso ocorra uma reestruturação significativa que reduza o número de trabalhadores, mesmo sem a extinção completa do estabelecimento.",
@@ -10731,7 +10731,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta, pois a NR 5 veda alterar atividades normais de membro que prejudique suas atribuições junto à CIPA. A opção A está incorreta, pois a NR 5 veda reduzir o número de representantes. A opção B está incorreta, pois a NR 5 veda desativar a CIPA, salvo se houver extinção do estabelecimento. A opção D está incorreta, pois a estabilidade é garantida do registro da candidatura até 1 ano após o término do mandato. A opção E está incorreta, pois a transferência de membro de estabelecimento sem sua anuência é vedada, salvo em casos específicos como cargo de confiança ou contratos com previsão de transferência."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Sobre o Nomeado da NR 5 e as situações em que suas funções são desempenhadas, assinale a opção que corresponde a uma dessas situações, conforme o texto apresentado.",
     "alternativa1": "Quando o estabelecimento é obrigado a constituir CIPA e atendido por SESMT, o Nomeado desempenha as funções da CIPA.",
     "alternativa2": "Quando o estabelecimento não é obrigado a constituir CIPA e não é atendido por SESMT, o Nomeado é definido pelo empregador ou por negociação coletiva.",
@@ -10742,7 +10742,7 @@ const questoes = [
     "gabaritoComentado": "A opção B está correta. O Nomeado da NR 5 é responsável por cumprir as funções da CIPA em situações específicas, sendo uma delas quando o estabelecimento não for obrigado a constituir CIPA e não for atendido por SESMT. Nesses casos, o Nomeado é definido pelo empregador ou por Acordo/Convenção Coletiva de Trabalho (ACT/CCT). A opção A está incorreta, pois nesta situação a CIPA deve ser constituída. A opção C está incorreta, pois o MEI é dispensado. A opção D está incorreta, pois se atendido por SESMT, o SESMT desempenha as atribuições da CIPA se a constituição da CIPA não for obrigatória."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Norma Regulamentadora n° 6 (NR 6) estabelece requisitos para os Equipamentos de Proteção Individual (EPI). Sobre a comercialização e utilização de EPIs, a NR 6 determina que:",
     "alternativa1": "A venda ou utilização de EPIs no território nacional depende da emissão de um Certificado de Aprovação (CA) pela Secretaria Especial de Previdência e Trabalho (SEPRT).",
     "alternativa2": "Os EPIs devem conter caracteres indeléveis, legíveis e visíveis, indicando apenas o nome comercial do fabricante.",
@@ -10753,7 +10753,7 @@ const questoes = [
     "gabaritoComentado": "A opção A está correta. A NR 6 determina que a venda ou utilização de EPIs depende da emissão de um Certificado de Aprovação (CA), que é emitido pela SIT/MTE (Subsecretaria de Inspeção do Trabalho / Ministério do Trabalho e Emprego). A opção B está incorreta, pois os caracteres devem indicar nome comercial do fabricante/importador, lote fabricação e nº CA. A opção C está incorreta, pois o CA é emitido pela SIT/MTE. As opções D e E estão incorretas, pois o CA é obrigatório para a comercialização e utilização regular dos EPIs."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Conforme a Norma Regulamentadora n° 6 (NR 6), assinale a opção que apresenta uma responsabilidade INCORRETA da organização em relação aos Equipamentos de Proteção Individual (EPI).",
     "alternativa1": "Adquirir EPI com Certificado de Aprovação (CA).",
     "alternativa2": "Exigir o uso do EPI pelo empregado.",
@@ -10764,7 +10764,7 @@ const questoes = [
     "gabaritoComentado": "A opção E está incorreta. A responsabilidade da organização é comunicar qualquer irregularidade identificada no EPI ao MTE (Ministério do Trabalho e Emprego), e não ao fabricante. As opções A, B, C e D estão corretas, pois correspondem a responsabilidades listadas para a organização na NR 6."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "No que se refere à seleção dos Equipamentos de Proteção Individual (EPIs), a Norma Regulamentadora n° 6 (NR 6) estabelece critérios e participantes nesse processo. Assinale a opção correta acerca da seleção de EPIs.",
     "alternativa1": "A seleção dos EPIs é de responsabilidade exclusiva do empregador, sem necessidade de consulta a outros setores ou trabalhadores.",
     "alternativa2": "O SESMT deve participar do processo de seleção dos EPIs, mas apenas após a escolha final pelo empregador.",
@@ -10775,7 +10775,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta. A NR 6 estabelece que a seleção dos EPIs é responsabilidade do empregador, mas deve ter a participação do SESMT, após consulta aos empregados usuários e à CIPA. As opções A, B, D e E estão incorretas por contrariarem o processo e os critérios estabelecidos na norma para a seleção de EPIs."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A relação entre a Inspeção do Trabalho e outros órgãos é fundamental para a garantia dos direitos trabalhistas e a segurança no ambiente de trabalho. Com base nas informações apresentadas, assinale a opção que descreve corretamente uma dessas interações.",
     "alternativa1": "Os sindicatos atuam principalmente como elo entre os trabalhadores e a fiscalização (AFT), auxiliando na identificação de irregularidades.",
     "alternativa2": "O Ministério Público do Trabalho (MPT) possui o objetivo de fiscalizar administrativamente o cumprimento das normas trabalhistas, assim como a AFT.",
@@ -10786,7 +10786,7 @@ const questoes = [
     "gabaritoComentado": "A opção A está correta. Os sindicatos representam os interesses dos trabalhadores, identificam irregularidades, promovem melhorias nas condições e atuam como elo entre trabalhadores e a fiscalização (AFT). A opção B está incorreta, pois o MPT atua em inquérito civil e ação civil pública, enquanto a AFT foca na fiscalização administrativa. A opção C está incorreta, pois a Justiça do Trabalho resolve conflitos, aplica a legislação e utiliza relatórios da AFT como evidência. A opção D está incorreta, pois a AGU atua na defesa judicial da inspeção do trabalho e suporte jurídico. A opção E está incorreta, pois a OIT desenvolve e promove normas laborais internacionais."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "O Direito do Trabalho desempenha um papel importante na dinâmica do mercado de trabalho. De acordo com as informações apresentadas, assinale a opção correta sobre esse papel.",
     "alternativa1": "O Direito do Trabalho, no contexto do capitalismo e neoliberalismo, busca eliminar as relações conflituosas entre capital e trabalho.",
     "alternativa2": "A Consolidação das Leis do Trabalho (CLT), criada em 1943, não tem mais relevância após a Reforma Trabalhista de 2017.",
@@ -10797,7 +10797,7 @@ const questoes = [
     "gabaritoComentado": "A opção D está correta. O texto menciona que o salário mínimo foi criado no Brasil pela CF/1934 como um direito social para garantir necessidades econômicas básicas. A opção A está incorreta, pois o Direito do Trabalho estabelece contornos para essa relação conflituosa, não a elimina. A opção B está incorreta, pois a CLT (1943) e a Reforma Trabalhista (2017) são mencionados como parte da dinâmica do Direito do Trabalho. A opção C está incorreta, pois a importância das negociações coletivas é destacada. A opção E está incorreta, pois a recomposição do salário mínimo leva a um maior retorno em arrecadação tributária."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Organização Internacional do Trabalho (OIT) é um organismo tripartite fundamental na formulação de normas laborais internacionais. Sobre o processo de elaboração e aprovação de Convenções Internacionais da OIT, assinale a opção correta.",
     "alternativa1": "As Convenções da OIT não exigem ratificação dos estados-membros para entrar em vigor, sendo aplicáveis imediatamente após sua aprovação.",
     "alternativa2": "O processo de elaboração das Convenções é bipartite, envolvendo apenas representantes dos governos e dos trabalhadores.",
@@ -10808,7 +10808,7 @@ const questoes = [
     "gabaritoComentado": "A opção E está correta. O processo de elaboração da OIT inclui a etapa em que o Escritório Internacional do Trabalho elabora relatório para os estados membros comentarem antes da Conferência Internacional do Trabalho (CIT). A opção A está incorreta, pois as Convenções exigem ratificação dos estados-membros. A opção B está incorreta, pois o processo é tripartite (governos, empregadores e trabalhadores). A opção C está incorreta, pois a aprovação na CIT requer 2/3 dos membros presentes. A opção D está incorreta, pois a entrada em vigor para um estado-membro ocorre após sua ratificação formal."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Com base nas informações sobre a Norma Regulamentadora n° 13 (NR 13), que trata de Caldeiras, Vasos de Pressão, Tubulações e Tanques Metálicos de Armazenamento, assinale a opção que apresenta uma característica ou requisito CORRETO acerca das caldeiras.",
     "alternativa1": "As caldeiras flamotubulares são geralmente utilizadas em setores como refinarias e termelétricas, devido à sua maior eficiência e capacidade.",
     "alternativa2": "O campo de aplicação da NR 13 para caldeiras se restringe àquelas com volume igual ou superior a 100 litros, independentemente da pressão.",
@@ -10819,7 +10819,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta. A NR 13 lista como item obrigatório para caldeiras a válvula de segurança com pressão de abertura ajustada em valor igual ou inferior à PMTA. A opção A está incorreta, pois as caldeiras aquotubulares são as utilizadas nesses setores por terem maior eficiência e capacidade; as flamotubulares são mais comuns em lavanderias e hotéis. A opção B está incorreta, pois o campo de aplicação para caldeiras é Pressão +60kPa (0,61kgf/cm2) e NÃO Volume -100L. A opção D está incorreta, pois a placa de identificação deve ser fixada em local de fácil acesso e visível. A opção E está incorreta, pois o manual de operação deve ser atualizado e conter procedimentos operacionais, de segurança, etc. O prazo de 60 dias é para o relatório de inspeção."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Sobre os requisitos e a instalação de caldeiras conforme a Norma Regulamentadora n° 13 (NR 13), julgue os itens a seguir e assinale a opção correta:<br><br>I. Caldeiras instaladas em ambiente aberto devem dispor de pelo menos uma saída ampla e desobstruída, com acesso seguro.<br>II. Casas de caldeiras devem ser construídas em prédio separado e resistente ao fogo, além de possuir ventilação permanente com entradas de ar.<br>III. O distanciamento mínimo de 3m para instalações próximas é um requisito apenas para caldeiras instaladas em casas de caldeiras.",
     "alternativa1": "Apenas o item I está correto.",
     "alternativa2": "Apenas o item II está correto.",
@@ -10830,7 +10830,7 @@ const questoes = [
     "gabaritoComentado": "O item I está incorreto, pois caldeiras em ambiente aberto devem ter 2 saídas amplas desobstruídas, em direções distintas. O item II está correto, sendo um requisito para casas de caldeiras. O item III está incorreto, pois o distanciamento mínimo de 3m é um requisito para caldeiras instaladas em ambiente aberto. Portanto, apenas o item II está correto."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Norma Regulamentadora n° 13 (NR 13) estabelece diferentes tipos de inspeção de segurança para caldeiras. Assinale a opção que descreve CORRETAMENTE um tipo de inspeção e seu requisito.",
     "alternativa1": "Inspeção Inicial: Realizada em caldeiras novas, devendo compreender apenas exame externo e teste de pressão.",
     "alternativa2": "Inspeção Periódica: Para caldeiras Categoria A, deve ser realizada a cada 24 meses, incluindo exame interno e externo.",
@@ -10841,7 +10841,7 @@ const questoes = [
     "gabaritoComentado": "A opção D está correta. A NR 13 estabelece que a inspeção periódica para caldeiras de recuperação de álcalis deve ser realizada a cada 18 meses, compreendendo exame interno e externo. A opção A está incorreta, pois a inspeção inicial deve compreender exame interno, externo e teste de pressão. A opção B está incorreta, pois o prazo de 24 meses para caldeiras Categoria A é aplicável quando acompanhado de testes de pressões de abertura das válvulas de segurança aos doze meses. A opção C está incorreta, pois a inspeção extraordinária também é realizada antes de recolocar a caldeira em funcionamento após 6 meses inativa ou em caso de mudança de local de instalação. A opção E está incorreta, pois o teste de pressão é obrigatório na inspeção inicial de caldeiras novas."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Norma Regulamentadora n° 13 (NR 13) também aborda os Vasos de Pressão, classificando-os e estabelecendo requisitos. Assinale a opção que apresenta uma classificação ou requisito INCORRETO para vasos de pressão, conforme o texto.",
     "alternativa1": "Vasos que contenham fluidos inflamáveis são classificados como Fluido A.",
     "alternativa2": "O Grupo de potencial de risco é calculado com base no produto da pressão máxima de operação (MPa) pelo volume (m3).",
@@ -10852,7 +10852,7 @@ const questoes = [
     "gabaritoComentado": "A opção D está incorreta. O campo de aplicação da NR 13 exclui explicitamente recipientes transportáveis, vasos de pressão destinados a transporte e extintores de incêndio. As opções A, B, C e E estão corretas, conforme as classificações de fluidos, cálculo do potencial de risco, particularidades para vasos sem acesso visual e requisitos para vasos submetidos a vácuo, respectivamente, apresentados na NR 13."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Considerando a Norma Regulamentadora n° 18 (NR 18), que trata da Indústria da Construção, assinale a opção que apresenta um conceito CORRETO.",
     "alternativa1": "Estabelecimento: Área de suporte e execução à construção.",
     "alternativa2": "Canteiro de obra: Local de exercício das atividades da organização.",
@@ -10863,7 +10863,7 @@ const questoes = [
     "gabaritoComentado": "A opção E está correta. Conforme a NR 18, Canteiro de obra é a Área de suporte e execução à construção. A opção A define Canteiro de obra. A opção B define Estabelecimento. A opção C define Obra. A opção D define Frente de trabalho. Portanto, apenas a opção E apresenta um conceito corretamente definido de acordo com a norma."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Sobre o Programa de Gerenciamento de Riscos (PGR) na Indústria da Construção, conforme a Norma Regulamentadora n° 18 (NR 18), assinale a opção correta.",
     "alternativa1": "A elaboração do PGR é obrigatória apenas para obras acima de 7m de altura ou com mais de 10 trabalhadores.",
     "alternativa2": "Em obras com até 7m de altura e no máximo 10 trabalhadores, o PGR pode ser elaborado por profissional qualificado, e não necessariamente por um profissional legalmente habilitado.",
@@ -10874,7 +10874,7 @@ const questoes = [
     "gabaritoComentado": "A opção B está correta. A NR 18 permite que, em obras até 7m de altura e com no máximo 10 trabalhadores, o PGR seja elaborado por profissional qualificado, sendo a regra geral a elaboração por profissional legalmente habilitado. A opção A está incorreta, pois a elaboração do PGR é obrigatória, com a diferença do profissional responsável dependendo do porte da obra. A opção C está incorreta, pois o PGR da construção deve conter todos os itens da NR 1 e outros específicos da NR 18. As opções D e E estão incorretas, pois projetos como o da área de vivência, elétrico, SPIQ, EPCs e a relação de EPIs fazem parte da composição do PGR elaborado por profissional legalmente habilitado."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "No que diz respeito às Áreas de Vivência em canteiros de obras, a Norma Regulamentadora n° 18 (NR 18) estabelece requisitos. Assinale a opção que apresenta um requisito CORRETO para as instalações da área de vivência ou para as frentes de trabalho.",
     "alternativa1": "As frentes de trabalho devem dispor de local para refeição garantido por convênio formal ou fornecimento pela empresa.",
     "alternativa2": "A instalação sanitária deve estar a uma distância máxima de 200m dos postos de trabalho.",
@@ -10885,7 +10885,7 @@ const questoes = [
     "gabaritoComentado": "A opção A está correta. A NR 18 determina que nas frentes de trabalho, o fornecimento de local para refeição deve ser garantido pela empresa ou por convênio formal. A opção B está incorreta, pois a distância máxima para a instalação sanitária é de 150m. A opção C está incorreta, pois o vestiário (parte das instalações da área de vivência) deve ter armários. A opção D está incorreta, pois alojamentos devem ter cozinha, lavanderia e área de lazer. A opção E está incorreta, pois banheiros químicos devem ter isolamento de dejetos, respiro e ventilação."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Conforme as disposições da Norma Regulamentadora n° 18 (NR 18) sobre escavações e fundações, especialmente no que tange à escavação de tubulões, assinale a opção que apresenta um requisito ou vedação CORRETO.",
     "alternativa1": "A escavação manual de tubulões é permitida até a profundidade de 20 metros, desde que com acompanhamento técnico.",
     "alternativa2": "O trânsito de veículos no local de escavação de tubulão é permitido, desde que em baixa velocidade.",
@@ -10896,7 +10896,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta. A NR 18 lista como requisito obrigatório a utilização de equipamento próprio de descida e içamento de trabalhadores e materiais. A opção A está incorreta, pois a escavação manual de tubulão é vedada para profundidades maiores que 15m. A opção B está incorreta, pois o trânsito de veículos no local é vedado. A opção D está incorreta, pois o trabalho simultâneo em bases alargadas em tubulões adjacentes é vedado. A opção E está incorreta, pois o diâmetro mínimo do tubulão deve ser de 0,90m."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Sobre a prevenção contra queda de altura na indústria da construção, de acordo com a Norma Regulamentadora n° 18 (NR 18), julgue os itens a seguir e assinale a opção correta:<br><br>I. É obrigatória a instalação de proteção coletiva onde houver risco de queda de altura.<br>II. A proteção contra projeção de materiais na periferia da edificação é exigida apenas a partir do 3º pavimento concretado.<br>III. Em edificações com altura superior a 12m, a ancoragem predial para uso do SPIQ (Sistema de Proteção Individual Contra Quedas) é obrigatória para limpeza, manutenção e restauração de fachadas.",
     "alternativa1": "Apenas o item I está correto.",
     "alternativa2": "Apenas o item III está correto.",
@@ -10907,7 +10907,7 @@ const questoes = [
     "gabaritoComentado": "O item I está correto, sendo um requisito obrigatório para prevenção contra quedas. O item II está incorreto, pois a proteção contra projeção de materiais deve ser instalada desde o início do serviço da concretagem da 1ª laje. O item III está correto, sendo obrigatória a ancoragem predial em edificações com mais de 12m de altura para os serviços mencionados. Portanto, apenas os itens I e III estão corretos."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Norma Regulamentadora n° 18 (NR 18) estabelece requisitos para diferentes tipos de andaimes e plataformas de trabalho. Com base nas informações apresentadas, assinale a opção que descreve CORRETAMENTE um tipo de andaime ou plataforma e suas características.",
     "alternativa1": "Andaimes simplesmente apoiados móveis devem ser utilizados em superfícies inclinadas e não requerem travas em seus rodízios.",
     "alternativa2": "Andaimes suspensos devem ser capazes de suportar o dobro dos esforços solicitantes.",
@@ -10918,7 +10918,7 @@ const questoes = [
     "gabaritoComentado": "A opção E está correta. A NR 18 define a cadeira suspensa como uma plataforma individual, alternativa residual por ser menos segura, e permite que seja sustentada por cabo de aço com dispositivo de subida e descida com dupla trava de segurança, ou por fibra sintética com dispositivo de descida com dupla trava de segurança. A opção A está incorreta, pois andaimes móveis devem ser usados em superfície plana e ter travas nos rodízios. A opção B está incorreta, pois andaimes suspensos devem suportar 3x os esforços solicitantes. A opção C está incorreta, pois a altura máxima para plataformas sobre cavaletes é 1,5m. A opção D está incorreta, pois é vedado o uso de PEMT como guindaste."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Sobre a capacitação dos trabalhadores na Indústria da Construção, conforme a Norma Regulamentadora n° 18 (NR 18), assinale a opção correta.",
     "alternativa1": "A capacitação na NR 18 se limita a treinamentos iniciais e periódicos, não havendo previsão para treinamento eventual.",
     "alternativa2": "A aplicação de avaliação para testar conhecimentos é obrigatória em todos os tipos de treinamento, incluindo o treinamento inicial.",
@@ -10929,7 +10929,7 @@ const questoes = [
     "gabaritoComentado": "A opção D está correta. A NR 18 estabelece que a capacitação deve ser realizada de acordo com a NR 1 e a NR 18. A opção A está incorreta, pois a NR 18 prevê treinamento inicial, periódico e eventual. A opção B está incorreta, pois a aplicação de avaliação para testar conhecimentos é exigida, exceto no treinamento inicial. A opção C está incorreta, pois o treinamento básico em segurança do trabalho deve ser necessariamente presencial. A opção E está incorreta, pois a modalidade EaD é permitida para outros treinamentos, exceto o básico presencial."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Considerando as disposições gerais da Norma Regulamentadora n° 18 (NR 18), assinale a opção que apresenta uma determinação CORRETA.",
     "alternativa1": "O armazenamento de substâncias tóxicas, inflamáveis e corrosivas é regulado exclusivamente pelas Normas Brasileiras (NBRs).",
     "alternativa2": "A remoção de entulhos deve ser realizada preferencialmente por meio da queima dos resíduos para reduzir o volume.",
@@ -10940,7 +10940,7 @@ const questoes = [
     "gabaritoComentado": "A opção D está correta. A NR 18 dispõe que as saídas de emergência devem permitir fácil abertura. A opção A está incorreta, pois o armazenamento de tóxicos, inflamáveis e corrosivos deve seguir as indicações das Fichas de Dados de Segurança (FDS). A opção B está incorreta, pois a queima de resíduos é vedada para remoção de entulhos, sendo recomendada a utilização de calhas fechadas. A opção C está incorreta, pois o uso de madeiras sem nós ou rachaduras é exigido, e a pintura para cobrir imperfeições é vedada. A opção E está incorreta, pois o levantamento manual e semimecanizado de cargas segue a NR 17."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Conforme a Norma Regulamentadora n° 5 (NR 5), o treinamento dos membros da CIPA e do Nomeado possui requisitos específicos. Assinale a opção que apresenta uma condição CORRETA para este treinamento.",
     "alternativa1": "O treinamento deve abordar conteúdos genéricos sobre segurança e saúde no trabalho, aplicáveis a qualquer organização.",
     "alternativa2": "Para a CIPA em 1º mandato, o treinamento deve ocorrer obrigatoriamente antes da posse.",
@@ -10951,7 +10951,7 @@ const questoes = [
     "gabaritoComentado": "A opção D está correta. A NR 5 permite que empresas de grau de risco 1 ou com representante nomeado ofereçam a capacitação na modalidade EaD ou semipresencial. A opção A está incorreta, pois o treinamento deve abordar especificidades e riscos da organização, não podendo ser genérico. A opção B está incorreta, pois a regra é antes da posse, mas para a CIPA em 1º mandato há uma exceção de prazo de 30 dias. A opção C está incorreta, pois a carga horária varia conforme o grau de risco. A opção E está incorreta, pois a prevenção e combate ao assédio e violência é conteúdo obrigatório do treinamento."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Sobre o aproveitamento de treinamento anterior para fins da Norma Regulamentadora n° 5 (NR 5), assinale a opção que apresenta um requisito obrigatório para que o aproveitamento seja considerado válido.",
     "alternativa1": "O treinamento anterior deve ter sido realizado há menos de 3 anos.",
     "alternativa2": "O conteúdo e a carga horária do treinamento anterior devem ser pelo menos 50% compatíveis com o treinamento atual.",
@@ -10962,7 +10962,7 @@ const questoes = [
     "gabaritoComentado": "A opção D está correta. A NR 5 estabelece que o aproveitamento de treinamento deve ser registrado no certificado para ser válido. A opção A está incorreta, pois o prazo para o treinamento anterior é de menos de 2 anos ou prazo estabelecido em NR. A opção B está incorreta, pois o conteúdo e a carga horária devem ser compreendidos no treinamento anterior. A opção C está incorreta, pois o aproveitamento deve ser validado pelo responsável técnico do treinamento. A opção E não é mencionada como requisito obrigatório para o aproveitamento."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Norma Regulamentadora n° 6 (NR 6) define Equipamento de Proteção Individual (EPI). De acordo com essa definição, assinale a opção correta.",
     "alternativa1": "EPI é um dispositivo ou produto de uso coletivo fabricado para oferecer proteção aos riscos ocupacionais.",
     "alternativa2": "EPI é um dispositivo ou produto de uso individual fabricado para oferecer proteção contra quaisquer riscos ambientais.",
@@ -10973,7 +10973,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta. A NR 6 define EPI como dispositivo ou produto de uso individual fabricado para oferecer proteção aos riscos ocupacionais constantes no Anexo I."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Quando a empresa fornece o EPI ao trabalhador, a Norma Regulamentadora n° 6 (NR 6) determina que certas informações devem ser comunicadas. Assinale a opção que NÃO corresponde a uma informação que a empresa deve fornecer aos trabalhadores sobre o EPI.",
     "alternativa1": "Descrição do equipamento e seus componentes.",
     "alternativa2": "Risco ocupacional contra o qual oferece proteção.",
@@ -10984,7 +10984,7 @@ const questoes = [
     "gabaritoComentado": "A opção D está incorreta. A NR 6 lista as informações que a empresa deve fornecer ao trabalhador sobre o EPI, e o preço de custo ou data de fabricação não estão entre elas. As opções A, B, C e E são informações que devem ser comunicadas ao trabalhador."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Conforme a NR 13, para fins de classificação do fluido contido em vasos de pressão, assinale a opção que apresenta um tipo de fluido classificado como Fluido A.",
     "alternativa1": "Vapor de água.",
     "alternativa2": "Ar comprimido.",
@@ -10995,7 +10995,7 @@ const questoes = [
     "gabaritoComentado": "A opção E está correta. O acetileno é classificado como Fluido A na NR 13. As opções A e B são classificadas como Fluido C. A opção C é classificada como Fluido B. A opção D é classificada como Fluido B."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A NR 13 estabelece itens obrigatórios para vasos de pressão. Julgue os itens a seguir e assinale a opção correta:<br><br>I. Vasos de pressão devem possuir válvula de segurança ou outro dispositivo de segurança com pressão de abertura ajustada em valor igual ou inferior à PMTA, instalada diretamente no equipamento ou no sistema que o inclui.<br>II. É obrigatório o uso de Dispositivo Contra Bloqueio Inadvertido (DCBI) em todos os dispositivos de segurança de vasos de pressão.<br>III. Todos os vasos de pressão devem ter um instrumento que indique a pressão de operação instalado diretamente no vaso.",
     "alternativa1": "Apenas o item I está correto.",
     "alternativa2": "Apenas o item II está correto.",
@@ -11006,7 +11006,7 @@ const questoes = [
     "gabaritoComentado": "O item I está correto, conforme os itens obrigatórios para vasos de pressão. O item II está incorreto, pois a norma menciona medidas para evitar o bloqueio inadvertido, como controles administrativos OU DCBI, além de sinalização. O item III está incorreto, pois o instrumento de pressão pode estar instalado diretamente no vaso OU no sistema que o contenha. Portanto, apenas o item I está correto."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Sobre a inspeção de segurança de vasos de pressão, conforme a NR 13, assinale a opção que apresenta uma informação INCORRETA.",
     "alternativa1": "A inspeção inicial de vasos de pressão novos deve compreender exame interno e externo.",
     "alternativa2": "A periodicidade da inspeção periódica varia de 1 a 12 anos, conforme a categoria do vaso.",
@@ -11017,7 +11017,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está incorreta. A inspeção extraordinária para vasos de pressão deve ser realizada se o vaso ficar inativo por 12 meses ou mais, e não 6 meses. As opções A, B, D e E estão corretas, conforme as disposições sobre a inspeção de vasos de pressão na NR 13."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A NR 13 lista situações de Risco Grave e Iminente (RGI) relacionadas aos equipamentos abrangidos pela norma. Assinale a opção que NÃO corresponde a uma situação de RGI aplicável a todos os equipamentos (caldeiras, vasos de pressão, etc.) na NR 13.",
     "alternativa1": "Operação sem dispositivos de segurança.",
     "alternativa2": "Ausência ou bloqueio de dispositivos de segurança sem justificativa baseada em códigos, normas ou procedimentos formais.",
@@ -11028,7 +11028,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está incorreta. O atraso na inspeção periódica é uma situação de RGI aplicável SOMENTE para caldeiras, não para todos os equipamentos. As opções A, B e D são situações de RGI aplicáveis a todos os equipamentos da NR 13."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Sobre a figura do Profissional Legalmente Habilitado (PLH) na NR 13, assinale a opção que apresenta um requisito ou atribuição CORRETO deste profissional.",
     "alternativa1": "Para ser considerado PLH na NR 13, basta ser um técnico de segurança do trabalho com curso de especialização na área.",
     "alternativa2": "O PLH deve ser um engenheiro habilitado pelo Conselho Profissional.",
@@ -11039,7 +11039,7 @@ const questoes = [
     "gabaritoComentado": "A opção B está correta. A NR 13 estabelece como requisitos mínimos para o PLH ser engenheiro e habilitado pelo Conselho Profissional. As opções A e E estão incorretas por exigirem formação específica em engenharia e habilitação profissional. As opções C e D estão incorretas, pois as atribuições do PLH incluem projeto de construção, acompanhamento da operação e manutenção, inspeção e supervisão."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Indústria da Construção, abrangida pela NR 18, apresenta um elevado índice de acidentes. Conforme o texto, qual é a principal causa de acidentes neste setor?",
     "alternativa1": "Impacto por máquinas e equipamentos.",
     "alternativa2": "Queda de materiais de altura.",
@@ -11050,7 +11050,7 @@ const questoes = [
     "gabaritoComentado": "A opção D está correta. O texto afirma que a maior causa de acidentes na indústria da construção é queda de pessoas e impacto."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Sobre a comunicação prévia exigida pela NR 18 para as atividades da indústria da construção, assinale a opção correta.",
     "alternativa1": "A comunicação prévia deve ser feita ao sindicato da categoria profissional.",
     "alternativa2": "A comunicação prévia deve ser feita ao Ministério Público do Trabalho (MPT).",
@@ -11061,7 +11061,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta. A NR 18 estabelece a comunicação prévia à Subsecretaria de Inspeção do Trabalho (SIT)."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Em relação ao desmonte de rochas com auxílio de explosivos na indústria da construção, a NR 18 estabelece requisitos obrigatórios. Assinale a opção que apresenta um desses requisitos.",
     "alternativa1": "O Plano de Fogo deve ser elaborado por qualquer profissional com experiência em demolição.",
     "alternativa2": "A execução do Plano de Fogo é responsabilidade do Engenheiro de Segurança do Trabalho.",
@@ -11072,7 +11072,7 @@ const questoes = [
     "gabaritoComentado": "A opção D está correta. É obrigatório o aviso sonoro da detonação por sirene. A opção A está incorreta, pois o Plano de Fogo deve ser elaborado por PLH. A opção B está incorreta, pois a execução do Plano de Fogo é responsabilidade do Blaster. A opção C está incorreta, pois os explosivos devem ser detonados após o carregamento o mais breve possível. A opção E está incorreta, pois o Blaster é o responsável pelo armazenamento e preparação de cargas."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Sobre a ancoragem predial na indústria da construção, conforme a NR 18, assinale a opção que apresenta um requisito CORRETO.",
     "alternativa1": "Os pontos de ancoragem podem ser dependentes entre si, desde que suportem a carga adequada.",
     "alternativa2": "A ancoragem predial deve ser fabricada em qualquer material resistente, como aço comum ou alumínio.",
@@ -11083,7 +11083,7 @@ const questoes = [
     "gabaritoComentado": "A opção E está correta. A NR 18 estabelece que a ancoragem predial deve ser chumbada na estrutura da edificação, salvo outra disposição constante no projeto do PLH. A opção A está incorreta, pois os pontos de ancoragem devem ser independentes. A opção B está incorreta, pois a ancoragem deve ser fabricada em aço inox ou equivalente. A opção C está incorreta, pois a ancoragem deve suportar no mínimo 1.500 kgf. A opção D está incorreta, pois em edificações com mais de 12m, a ancoragem é obrigatória para certos serviços."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A NR 18 apresenta requisitos básicos para andaimes. Assinale a opção que NÃO corresponde a um requisito básico para andaimes.",
     "alternativa1": "Proteção contra quedas (guarda-corpo e rodapé).",
     "alternativa2": "Acesso seguro quando superior a 0,40m de altura (exceto na face de trabalho).",
@@ -11094,7 +11094,7 @@ const questoes = [
     "gabaritoComentado": "A opção D está incorreta. A NR 18 veda a construção de andaimes de madeira, exceto se for tecnicamente impossível usar outro material. As opções A, B, C e E são requisitos básicos listados na NR 18 para andaimes."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Sobre andaimes suspensos, conforme a NR 18, assinale a opção que apresenta um requisito obrigatório.",
     "alternativa1": "Largura mínima de 0,50m.",
     "alternativa2": "Uso de cabos de aço.",
@@ -11105,7 +11105,7 @@ const questoes = [
     "gabaritoComentado": "A opção B está correta. O uso de cabos de aço é um requisito obrigatório para andaimes suspensos. A opção A está incorreta, pois a largura mínima é de 0,65m. A opção C está incorreta, pois é vedado interligar estruturas. A opção D está incorreta, pois são necessários 4 pontos de sustentação independentes. A opção E está incorreta, pois é vedado enrolar o cabo no corpo."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "As Plataformas Elevatórias Móveis de Trabalho (PEMT), abordadas na NR 18, possuem requisitos mínimos obrigatórios. Assinale a opção que NÃO corresponde a um requisito mínimo obrigatório para PEMT.",
     "alternativa1": "Dispositivo de nivelamento no ponto de trabalho.",
     "alternativa2": "Alça de apoio externo para facilitar o içamento.",
@@ -11116,7 +11116,7 @@ const questoes = [
     "gabaritoComentado": "A opção B está incorreta. A NR 18 lista como requisito alça de apoio INTERNO, e não externo. As opções A, C, D e E são requisitos mínimos obrigatórios para PEMT."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A NR 18 dispõe sobre o procedimento a ser adotado em caso de ACIDENTE FATAL na indústria da construção. Assinale a opção que descreve corretamente uma das etapas obrigatórias.",
     "alternativa1": "Comunicar o acidente fatal verbalmente ao sindicato da categoria no prazo de 24 horas.",
     "alternativa2": "Isolar o local do acidente até a liberação do Ministério Público do Trabalho (MPT).",
@@ -11127,7 +11127,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta. Em caso de acidente fatal, a NR 18 determina comunicar por escrito imediatamente ao órgão regional (SRT) que repassará ao sindicato. A opção A está incorreta, pois a comunicação deve ser escrita e imediata, não verbal no prazo de 24 horas. A opção B está incorreta, pois o local deve ser isolado até a liberação policial + órgão regional. A opção D está incorreta, pois a liberação do órgão regional ocorre em até 72h da comunicação escrita. A opção E está incorreta, pois o local deve permanecer isolado até a liberação policial e do órgão regional."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A Organização Internacional do Trabalho (OIT) utiliza um Mecanismo de Revisão de Normas (SEM). Sobre este mecanismo, assinale a opção que descreve CORRETAMENTE uma de suas etapas.",
     "alternativa1": "A revisão é realizada exclusivamente pela Comissão de Peritos em Aplicação de Normas Internacionais.",
     "alternativa2": "Um Grupo de Trabalho bipartite, composto por governos e trabalhadores, revisa a norma.",
@@ -11138,7 +11138,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta. O Mecanismo de Revisão de Normas (SEM) inclui a etapa em que um Grupo de Trabalho tripartite revisa a norma e faz recomendações ao Conselho de Administração. A opção A está incorreta, pois a revisão é feita pelo SEM, que inclui um Grupo de Trabalho, e a Comissão de Peritos foca na fiscalização. A opção B está incorreta, pois o Grupo de Trabalho é tripartite. A opção D está incorreta, pois a discussão e votação ocorrem na CIT. A opção E está incorreta, pois o SEM é um mecanismo de revisão."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "No Brasil, o processo de ratificação de uma Convenção da OIT envolve diferentes etapas e órgãos. Assinale a opção que descreve CORRETAMENTE uma etapa desse processo.",
     "alternativa1": "A ratificação de uma Convenção da OIT no Brasil depende apenas da assinatura pelo Presidente da República.",
     "alternativa2": "A análise de impacto e compatibilidade legal da Convenção é realizada exclusivamente pelo Ministério das Relações Exteriores (MRE).",
@@ -11149,7 +11149,7 @@ const questoes = [
     "gabaritoComentado": "A opção D está correta. A análise e aprovação pelas 2 Casas do Congresso Nacional (Comissões + Plenário) é uma etapa do processo de ratificação no Brasil. A opção A está incorreta, pois a assinatura pelo Presidente é apenas uma etapa, após aprovação legislativa. A opção B está incorreta, pois a análise de impacto e compatibilidade legal é feita pelo MRE + MTE. A opção C não é mencionada como a forma de aprovação legislativa; o processo envolve análise e aprovação pelo Congresso. A opção E está incorreta, pois o status legal depende da matéria (Direitos Humanos ou não) e do quórum de aprovação no Congresso."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Sobre os requisitos para OPERADOR DE CALDEIRA e OPERADOR DE UNIDADE DE VASO DE PRESSÃO categorias I e II, conforme a NR 13, assinale a opção correta.",
     "alternativa1": "O Operador de Caldeira deve possuir certificado de treinamento de 80 horas e prática profissional supervisionada de 40 horas.",
     "alternativa2": "O Operador de Unidade de Vaso de Pressão categorias I e II deve possuir certificado de treinamento de 60 horas.",
@@ -11160,7 +11160,7 @@ const questoes = [
     "gabaritoComentado": "A opção C está correta. Ambos os operadores (Caldeira e Vaso de Pressão Cat. I/II) devem possuir certificado de treinamento e prática profissional supervisionada, com cargas horárias específicas: Operador de Caldeira (40h treinamento, 80h prática Cat. A, 60h prática Cat. B); Operador de Vaso de Pressão (40h treinamento, 300h prática). As demais opções apresentam cargas horárias incorretas ou aplicadas ao operador errado."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "De acordo com a NR 35, que estabelece requisitos e medidas de prevenção para o trabalho em altura, assinale a alternativa correta a respeito de suas disposições.",
     "alternativa1": "A NR 35 é uma Norma Regulamentadora de aplicação setorial, com foco em atividades da indústria da construção civil.",
     "alternativa2": "Considera-se trabalho em altura a atividade executada em nível diferente do solo, independentemente da altura, desde que haja risco de queda.",
@@ -11171,7 +11171,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa C está correta, pois a organização, conforme a NR 35, possui a responsabilidade de realizar a Análise de Risco (AR) e a emissão da Permissão de Trabalho (PT).<br>A alternativa A está incorreta, pois a NR 35 é uma norma de aplicação especial, não setorial.<br>A alternativa B está incorreta, pois trabalho em altura é definido como atividade com diferença de nível igual ou superior a 2 metros e haja risco de queda.<br>A alternativa D está incorreta, pois atividades em alturas inferiores, mesmo que não haja risco de queda definido pela norma principal, requerem medidas de eliminação e mitigação de riscos.<br>A alternativa E está incorreta, pois a documentação deve ser guardada por no mínimo 5 anos."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Sobre a capacitação para o Trabalho em Altura, conforme a NR 35, analise as afirmações e assinale a alternativa correta.",
     "alternativa1": "O treinamento inicial para trabalho em altura deve ter carga horária mínima de 16 horas e contemplar, entre outros tópicos, condutas de emergência e primeiros socorros.",
     "alternativa2": "O treinamento periódico deve ser realizado a cada 2 anos, com carga horária mínima de 8 horas, e seu conteúdo programático é definido pela organização.",
@@ -11182,7 +11182,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa B está correta. A NR 35 estabelece que o treinamento periódico deve ser realizado a cada 2 anos, ter carga horária mínima de 8 horas e seu conteúdo programático é definido pelo empregador.<br>A alternativa A está incorreta, pois o treinamento inicial tem carga horária mínima de 8 horas, não 16 horas.<br>A alternativa C está incorreta, pois a NR 35 não descreve o treinamento eventual, utilizando como base a NR-1 para definir os casos, e o retorno de afastamento que exige treinamento eventual é superior a 180 dias, não 90 dias.<br>A alternativa D está incorreta, pois os instrutores devem ter comprovada proficiência no assunto, sob responsabilidade do Profissional Qualificado (PQ) ou Profissional Legalmente Habilitado (PLH).<br>A alternativa E está incorreta, pois a NR 35 não prevê dispensa de treinamento com base apenas na experiência; a capacitação (inicial, periódica ou eventual) é obrigatória."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Sobre as responsabilidades e aptidão do trabalhador rural, conforme a NR 31, assinale a alternativa correta.",
     "alternativa1": "O trabalhador rural tem a responsabilidade de cumprir as determinações e colaborar com a empresa, mas a recusa injustificada em adotar medidas de prevenção não constitui ato faltoso.",
     "alternativa2": "A submissão aos exames médicos relacionados à segurança e saúde no trabalho rural é uma faculdade do trabalhador, não uma obrigação imposta pela NR 31.",
@@ -11193,7 +11193,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa D está correta. A NR 31 prevê que o trabalhador rural poderá interromper as atividades em caso de grave e iminente risco, devendo informar seu superior hierárquico.<br>A alternativa A está incorreta, pois a recusa injustificada em adotar as medidas de prevenção constitui ato faltoso do trabalhador.<br>A alternativa B está incorreta, pois a submissão aos exames médicos é uma das responsabilidades do trabalhador rural.<br>A alternativa C está incorreta, pois é responsabilidade do trabalhador rural cumprir as orientações e comunicar ao superior imediato quaisquer danos em ferramenta, máquina ou equipamento.<br>A alternativa E está incorreta, pois as medidas de proteção pessoal incluem tanto EPIs com CA (NR-6) quanto Dispositivos de Proteção Pessoal sem CA, desde que previstos na NR-31 para finalidades específicas."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "No que se refere às condições sanitárias e de conforto em atividades urbanas, a NR 24 estabelece requisitos mínimos. Sobre este tema, assinale a alternativa INCORRETA.",
     "alternativa1": "O dimensionamento das instalações sanitárias deve considerar a quantidade de trabalhadores no turno com maior contingente.",
     "alternativa2": "Em estabelecimentos comerciais ou administrativos com até 10 trabalhadores, é permitido possuir apenas uma instalação sanitária individual, sem distinção de sexo.",
@@ -11204,7 +11204,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa E está incorreta. Mesmo as organizações desobrigadas de manter vestiário devem fornecer gaveta ou escaninho para a guarda de pertences dos trabalhadores.<br>A alternativa A está correta.<br>A alternativa B está correta.<br>A alternativa C está correta.<br>A alternativa D está correta."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A NR 33 trata da segurança e saúde nos trabalhos em espaços confinados. Sobre o conceito e as responsabilidades na aplicação desta norma, assinale a alternativa correta.",
     "alternativa1": "Espaço confinado é qualquer local não projetado para ocupação humana contínua, com meios limitados de entrada e saída, mesmo que sua atmosfera não seja perigosa.",
     "alternativa2": "A responsabilidade administrativa pela segurança em espaços confinados, incluindo o gerenciamento de riscos e medidas de prevenção, é exclusivamente do Responsável Técnico.",
@@ -11215,7 +11215,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa C está correta. O Responsável Técnico deve ser habilitado em Segurança do Trabalho (Engenheiro ou Técnico) e tem entre suas atribuições identificar e elaborar o cadastro de espaços confinados e coordenar a capacitação, incluindo a equipe de emergência e salvamento.<br>A alternativa A está incorreta, pois para ser considerado espaço confinado, o local deve atender cumulativamente às três condições, incluindo possuir atmosfera perigosa.<br>A alternativa B está incorreta, pois a responsabilidade administrativa, incluindo o gerenciamento de riscos, é da Organização.<br>A alternativa D está incorreta, pois o Vigia deve permanecer fora do espaço confinado.<br>A alternativa E está incorreta, pois toda entrada em espaço confinado deve ser precedida de PET."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A NR 30 estabelece requisitos de segurança e saúde para o trabalho aquaviário, com enfoque nas embarcações comerciais. Considerando esta norma, assinale a alternativa INCORRETA.",
     "alternativa1": "Para o aprovisionamento de víveres e água potável, deve-se considerar a duração e natureza da viagem, o número de tripulantes e um estoque de segurança para emergências.",
     "alternativa2": "É obrigatória a presença de cozinheiro a bordo de embarcações que realizem preparo de refeições, salvo em viagens com duração inferior a 12 horas onde haja apoio de alimentação em terra.",
@@ -11226,7 +11226,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa D está incorreta. A lavagem de roupas pessoais não é permitida a bordo. A norma se refere a meios e locais para lavagem e secagem de roupas de TRABALHO.<br>A alternativa A está correta.<br>A alternativa B está correta.<br>A alternativa C está correta.<br>A alternativa E está correta."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Conforme a NR 35, sobre a Análise de Risco (AR) e o Procedimento Operacional (PO) para trabalho em altura, assinale a alternativa correta.",
     "alternativa1": "A AR é um método de exame e avaliação do serviço, mas sua documentação só é obrigatória para atividades não rotineiras.",
     "alternativa2": "Para atividades rotineiras de trabalho em altura, a AR deve ser documentada a cada serviço executado.",
@@ -11237,7 +11237,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa C está correta. A NR 35 estabelece que todo trabalho em altura deve ser precedido de Análise de Risco e Procedimento Operacional.<br>A alternativa A está incorreta, pois a AR deve ser documentada e fundamentada, e mesmo para atividades rotineiras ela deve ser contemplada no Procedimento Operacional.<br>A alternativa B está incorreta, pois para atividades rotineiras a AR é contemplada no PO, e não documentada a cada serviço.<br>A alternativa D está incorreta, pois para atividades não rotineiras a AR é necessária (podendo estar inclusa na PT ou separada), ou seja, a PT não substitui a AR.<br>A alternativa E está incorreta, pois atividades rotineiras necessitam sim de Procedimento Operacional, onde a AR é contemplada."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A NR 31 detalha responsabilidades do empregador rural relacionadas à segurança e saúde dos trabalhadores. Analise as responsabilidades listadas e assinale a alternativa correta.",
     "alternativa1": "Fornecer Equipamentos de Proteção Individual (EPI) e vestimentas adequadas é responsabilidade do empregador, mas a descontaminação destes itens é responsabilidade do trabalhador.",
     "alternativa2": "O empregador rural deve disponibilizar local para banho com água, sabão e toalhas, bem como fornecer água potável e fresca durante toda a jornada de trabalho.",
@@ -11248,7 +11248,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa B está correta. A NR 31 estabelece como responsabilidades do empregador rural disponibilizar local para banho com água, sabão e toalhas, e fornecer água potável e fresca durante toda a jornada.<br>A alternativa A está incorreta, pois a descontaminação de EPI e vestimentas após cada jornada é responsabilidade do empregador.<br>A alternativa C está incorreta, pois a responsabilidade pela escolha, inspeção e entrega dos EPIs é do empregador, embora o trabalhador tenha a responsabilidade de usá-los corretamente.<br>A alternativa D está incorreta, pois a descontaminação é uma responsabilidade formal do empregador.<br>A alternativa E está incorreta, pois o fornecimento de água potável e fresca é obrigatório durante toda a jornada, independentemente da existência de local para refeição."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A NR 24, ao tratar de armários em vestiários, estabelece regras sobre a guarda de vestimentas e EPIs. Analise as afirmações e assinale a alternativa correta.",
     "alternativa1": "A regra geral permite o uso de armários em esquema de rodízio, sem exceções.",
     "alternativa2": "Para a guarda de EPIs e vestimentas expostas a material infectante, tóxico ou irritante, devem ser fornecidos armários duplos ou dois simples, sendo esta regra sem exceções.",
@@ -11259,7 +11259,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa C está correta. O fornecimento de armários duplos ou dois simples pode ser dispensado quando houver higienização diária das vestimentas ou uso de EPI descartável.<br>A alternativa A está incorreta, pois há exceção para EPIs e vestimentas expostas a material perigoso ou sujidade.<br>A alternativa B está incorreta, pois existe dispensa para a regra dos armários duplos/dois simples nos casos citados na alternativa C.<br>A alternativa D está incorreta, pois organizações desobrigadas de vestiário devem fornecer gaveta ou escaninho, não necessariamente armários individuais.<br>A alternativa E está incorreta, pois a regra dos armários duplos/dois simples abrange vestimentas expostas a material infectante, tóxico, irritante e sujidade."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Os espaços confinados, regidos pela NR 33, exigem medidas de prevenção específicas, incluindo avaliação atmosférica. Sobre a avaliação atmosférica, assinale a alternativa correta.",
     "alternativa1": "A avaliação atmosférica deve ser realizada apenas antes da entrada dos trabalhadores no espaço confinado.",
     "alternativa2": "O percentual ideal de oxigênio em um espaço confinado, para permitir a entrada segura, é de 19,5% a 23%.",
@@ -11270,7 +11270,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa C está correta. A NR 33 veda expressamente a ventilação de espaços confinados com oxigênio puro.<br>A alternativa A está incorreta, pois a avaliação atmosférica deve ser realizada imediatamente antes da entrada e de forma contínua.<br>A alternativa B está incorreta, pois o percentual ideal de oxigênio é 20,9%, sendo aceitável, com causa conhecida e controlada, entre 19,5% e 23%.<br>A alternativa D está incorreta, pois uma atmosfera IPVS, no que se refere ao oxigênio, ocorre quando a concentração é igual ou inferior a 12,5%.<br>A alternativa E está incorreta, pois a avaliação contínua é obrigatória e não se restringe a casos de suspeita de contaminantes."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A NR 30 trata da segurança e saúde no trabalho aquaviário. Em relação aos equipamentos de guindar utilizados em embarcações comerciais, assinale a alternativa correta.",
     "alternativa1": "O uso de equipamentos de guindar em embarcações comerciais é permitido, desde que certificados, e a renovação do certificado deve ocorrer, no máximo, a cada 2 anos.",
     "alternativa2": "Os equipamentos de guindar devem ser submetidos a inspeções iniciais antes de entrar em operação, diárias antes de qualquer movimentação e periódicas com prazo máximo de 6 meses.",
@@ -11281,7 +11281,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa C está correta. O uso de equipamentos de guindar é obrigatório ser certificado, com renovação máxima a cada 5 anos.<br>A alternativa A está incorreta, pois a renovação do certificado é no máximo a cada 5 anos, não 2 anos.<br>A alternativa B está incorreta, pois as inspeções periódicas ocorrem com prazo máximo de 12 meses, não 6 meses.<br>A alternativa D está incorreta, pois a inspeção diária é obrigatória.<br>A alternativa E está incorreta, pois a dispensa da aplicação da NR 30 se refere a máquinas e equipamentos em geral, não especificamente aos equipamentos de guindar, e mesmo para máquinas e equipamentos, a dispensa se refere a alguns requisitos, não todos."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Conforme a NR 35, a aptidão para o trabalho em altura deve ser verificada. Assinale a alternativa correta sobre como essa verificação é realizada.",
     "alternativa1": "A aptidão é verificada por meio de procedimento da NR-9 (PPRA), considerando apenas os riscos físicos envolvidos na atividade.",
     "alternativa2": "A aptidão é verificada por meio de procedimento da NR-7 (PCMSO), considerando os riscos envolvidos, patologias do trabalhador e fatores psicossociais, e comprovada pelo Atestado de Saúde Ocupacional (ASO).",
@@ -11292,7 +11292,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa B está correta. A aptidão do trabalhador é verificada por meio do procedimento da NR-7 (PCMSO), considerando riscos, patologias e fatores psicossociais, e é comprovada pelo Atestado de Saúde Ocupacional (ASO).<br>A alternativa A está incorreta, pois o procedimento é da NR-7 (PCMSO), não NR-9 (PPRA), e considera mais do que apenas riscos físicos.<br>A alternativa C está incorreta, pois inclui ASO e consideração de fatores psicossociais.<br>A alternativa D está incorreta, pois a responsabilidade pela verificação é da organização, por meio dos procedimentos adequados.<br>A alternativa E está incorreta, pois a NR 35 detalha o procedimento, remetendo à NR-7."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "No contexto do trabalho rural e seus agravos à saúde, os agentes biológicos representam um risco significativo. Sobre a classificação de risco dos agentes biológicos, conforme apresentado nas fontes, assinale a alternativa correta.",
     "alternativa1": "Agentes classificados no Nível de Risco 1 possuem alta probabilidade de provocar infecções na comunidade, embora baixa probabilidade individual.",
     "alternativa2": "Agentes classificados no Nível de Risco 2 podem provocar infecções graves e letais, mas geralmente existem medidas profiláticas eficientes.",
@@ -11303,7 +11303,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa C está correta. Agentes no Nível de Risco 3 podem provocar infecções graves e letais, com propagação entre indivíduos, possuindo alto risco individual e moderado risco para a comunidade, e usualmente existem medidas profiláticas.<br>A alternativa A está incorreta, pois agentes do Nível 1 possuem baixa probabilidade de provocar infecções tanto individual quanto na comunidade.<br>A alternativa B está incorreta, pois agentes do Nível 2 podem provocar infecções, com medidas profiláticas eficientes, mas não necessariamente graves e letais. Agentes graves e letais são de níveis superiores.<br>A alternativa D está incorreta, pois agentes do Nível 4, embora altamente patogênicos e de fácil propagação, NÃO possuem medidas profiláticas conhecidas.<br>A alternativa E está incorreta, pois *Lactobacillus sp* e *Bacillus subtilis* são exemplos de agentes do Nível de Risco 1."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Sobre as instalações sanitárias em embarcações comerciais, conforme a NR 30, assinale a alternativa correta.",
     "alternativa1": "As instalações sanitárias devem ser projetadas para evitar acidentes em razão do movimento da embarcação, mas não precisam atender às variações térmicas.",
     "alternativa2": "A manutenção das instalações sanitárias em embarcações comerciais deve ser de responsabilidade dos tripulantes.",
@@ -11314,7 +11314,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa C está correta. A NR 30 estabelece que as instalações sanitárias em embarcações comerciais devem ser projetadas para evitar acidentes em razão do movimento, atender às variações térmicas e serem de fácil manutenção.<br>A alternativa A está incorreta, pois devem sim atender às variações térmicas.<br>A alternativa B está incorreta, pois a responsabilidade pela manutenção e condições gerais é do empregador/organização, não exclusivamente dos tripulantes.<br>A alternativa D está incorreta, pois as embarcações devem contar com instalações sanitárias a bordo.<br>A alternativa E está incorreta, pois a NR 30 especifica requisitos para as instalações sanitárias."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A NR 35 estabelece uma hierarquia das medidas de prevenção para o trabalho em altura. Assinale a alternativa que apresenta essa hierarquia na ordem correta de prioridade.",
     "alternativa1": "Minimizar consequências da queda > Eliminar risco de queda > Evitar trabalho em altura.",
     "alternativa2": "Eliminar risco de queda > Minimizar consequências da queda > Evitar trabalho em altura.",
@@ -11325,7 +11325,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa D está correta. A hierarquia das medidas de prevenção para trabalho em altura, conforme a NR 35, é: 1) Evitar trabalho em altura (adoção de meios alternativos); 2) Eliminar risco de queda (guarda-corpo, corrimão); 3) Minimizar consequências da queda (redes de proteção, cintos)."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Conforme a NR 31, sobre as vedações relacionadas ao uso de agrotóxicos, aditivos e adjuvantes, assinale a alternativa INCORRETA.",
     "alternativa1": "É vedado o uso de agrotóxicos por gestantes ou lactantes.",
     "alternativa2": "É vedado o uso de agrotóxicos por trabalhadores com idade inferior a 18 anos ou superior a 60 anos.",
@@ -11336,7 +11336,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa B está incorreta. A NR 31 veda o uso de agrotóxicos por trabalhadores com idade inferior a 18 anos OU superior a 60 anos. Não é a soma ou a faixa etária entre 18 e 60 anos que é vedada, mas sim trabalhadores com menos de 18 ou mais de 60 anos.<br>A alternativa A está correta.<br>A alternativa C está correta.<br>A alternativa D está correta.<br>A alternativa E está correta."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A NR 24 estabelece condições para locais de refeição. Sobre este tema, assinale a alternativa correta.",
     "alternativa1": "A NR 24 veda expressamente a divisão de trabalhadores em turnos para realizar as refeições.",
     "alternativa2": "Locais para refeição são obrigatórios apenas em estabelecimentos com mais de 10 trabalhadores.",
@@ -11347,7 +11347,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa C está correta. A NR 24 permite a divisão de trabalhadores em turnos para as refeições.<br>A alternativa A está incorreta, pois a divisão em turnos é permitida.<br>A alternativa B está incorreta, pois locais para refeição são obrigatórios e o dimensionamento considera a quantidade de trabalhadores no turno com maior contingente, sem isenção para menos de 10 trabalhadores.<br>A alternativa D está incorreta, pois a NR 31, que trata do meio rural, exige locais para refeição em estabelecimentos e frentes de trabalho. A NR 24 aplica-se a atividades urbanas, onde a obrigatoriedade também existe.<br>A alternativa E está incorreta; as áreas de vivência (NR 31) e alojamentos (NR 24) preveem locais separados para dormitório e refeição."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Em relação às responsabilidades do Supervisor de Entrada em espaços confinados, conforme a NR 33, assinale a alternativa correta.",
     "alternativa1": "O Supervisor de Entrada é responsável por emitir a Permissão de Entrada e Trabalho (PET), mas não por assegurar que o Vigia esteja operante.",
     "alternativa2": "O Supervisor de Entrada pode desempenhar a função de Vigia, independentemente de previsão expressa na PET.",
@@ -11358,7 +11358,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa C está correta. Uma das responsabilidades do Supervisor de Entrada é executar os testes e conferir os equipamentos antes do início das atividades.<br>A alternativa A está incorreta, pois ele é responsável por emitir a PET e por assegurar que o Vigia esteja operante.<br>A alternativa B está incorreta, pois ele só pode desempenhar a função de Vigia quando isso estiver previsto na PET.<br>A alternativa D está incorreta, pois a operação dos movimentadores de pessoas é responsabilidade do Vigia.<br>A alternativa E está incorreta, pois o Vigia é o principal ponto de comunicação com a equipe de emergência e o Supervisor de Entrada deve assegurar que os meios para acionar a emergência estejam operantes."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A NR 30 trata do acesso à embarcação, estabelecendo requisitos de segurança. Em relação ao acesso a uma embarcação ATRACADA (amarrada a um cais), assinale a alternativa correta.",
     "alternativa1": "O acesso deve ser feito exclusivamente por escadas, pranchas ou rampas, sendo vedado o uso de equipamento de guindar em qualquer situação.",
     "alternativa2": "É permitido o uso de escadas, pranchas e rampas, mas não há exigência de que sejam antiderrapantes.",
@@ -11369,7 +11369,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa E está correta. A NR 30 exige que as escadas, pranchas e rampas de acesso a embarcações atracadas sejam antiderrapantes e que os corrimões de cabo ou corda estejam sempre esticados.<br>A alternativa A está incorreta, pois o uso de equipamento de guindar para acesso é vedado, EXCETO em salvamento.<br>A alternativa B está incorreta, pois devem ser antiderrapantes.<br>A alternativa C está incorreta, pois é vedado o uso de extensões elétricas, mangueiras e mangotes nos corrimões ou pranchas de acesso.<br>A alternativa D está incorreta, pois a escada quebra-peito é vedada para acesso em embarcações atracadas."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Sobre o Sistema de Proteção contra Quedas (SPQ) na NR 35, incluindo o Sistema de Proteção Individual Contra Quedas (SPIQ), assinale a alternativa correta.",
     "alternativa1": "O SPIQ deve ser utilizado prioritariamente em relação ao Sistema de Proteção Coletiva Contra Quedas (SPCQ).",
     "alternativa2": "O SPIQ só pode ser utilizado em casos de emergência, sendo vedado seu uso em outras situações.",
@@ -11380,7 +11380,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa C está correta. A Restrição de Movimentação (ou Retenção de Movimentação, conforme a fonte) impede o trabalhador de atingir locais de risco.<br>A alternativa A está incorreta, pois o SPCQ deve ser utilizado prioritariamente.<br>A alternativa B está incorreta, pois o SPIQ é utilizado quando não for possível adotar SPCQ, quando o SPCQ não oferecer proteção completa OU em casos de emergência.<br>A alternativa D está incorreta, pois a seleção deve ser feita por PQ ou PLH.<br>A alternativa E está incorreta, pois o SPIQ de Posicionamento no Trabalho permite o posicionamento no local sem uso das mãos. O SPIQ de Retenção de Queda é que não evita a queda, mas a interrompe."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "No que diz respeito aos riscos associados ao trabalho rural e os agravos à saúde, a exposição a agentes químicos, como agrotóxicos, pode gerar intoxicações. Sobre a intoxicação por agrotóxicos, assinale a alternativa correta.",
     "alternativa1": "Náuseas, tonturas, vômito e sudorese são sintomas típicos de intoxicação crônica por agrotóxicos.",
     "alternativa2": "Doenças neurológicas e alteração no sono e atenção são agravos mais frequentemente associados à intoxicação aguda por agrotóxicos.",
@@ -11391,7 +11391,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa D está correta. A toxicidade do produto, quantidade aplicada, formulação, tempo/frequência de exposição e medidas de segurança/higiene influenciam na exposição do trabalhador.<br>A alternativa A está incorreta, pois náuseas, tonturas, vômito e sudorese são sintomas de intoxicação aguda.<br>A alternativa B está incorreta, pois doenças neurológicas e alteração no sono/atenção são mais frequentemente associados à intoxicação crônica.<br>A alternativa C está incorreta, pois irritabilidade, ansiedade e fadiga são sintomas de intoxicação crônica.<br>A alternativa E está incorreta, pois agrotóxicos classificados na Categoria 5 são Improváveis de causar dano agudo. Categoria 1 é Extremamente Tóxico."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Conforme a NR 33, a Permissão de Entrada e Trabalho (PET) é fundamental para a segurança em espaços confinados. Sobre a PET, assinale a alternativa correta.",
     "alternativa1": "A PET possui validade limitada a uma jornada de trabalho, não sendo permitida sua prorrogação em nenhuma hipótese.",
     "alternativa2": "A PET deve ser emitida em 2 (duas) vias, sendo uma via destinada ao Responsável Técnico e a outra ao Supervisor de Entrada.",
@@ -11402,7 +11402,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa D está correta. A PET pode ser emitida em formato físico ou digital e deve ser arquivada por no mínimo 5 anos.<br>A alternativa A está incorreta, pois a validade é limitada a uma jornada, mas PODE ser prorrogada.<br>A alternativa B está incorreta, pois as 2 vias são destinadas ao Supervisor de Entrada e ao Vigia.<br>A alternativa C está incorreta, pois a validade máxima da PET é de 24 horas.<br>A alternativa E está incorreta, pois o encerramento da PET ocorre em diversas hipóteses, incluindo conclusão das atividades, condição não prevista, saída de todos os trabalhadores ou substituição do vigia não relacionado na PET."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Os acidentes de trabalho no meio aquaviário podem ocorrer de diversas formas. Um acidente comum mencionado nas fontes é a queda de escada de portaló em navios. Sobre as medidas de prevenção para este tipo de acidente, assinale a alternativa INCORRETA.",
     "alternativa1": "Manter as escadas limpas e conservadas, livres de óleo, poeiras e fuligem.",
     "alternativa2": "Garantir que o corrimão esteja em toda a sua extensão por cabos de aço ou cordas sempre esticados.",
@@ -11413,7 +11413,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa D está incorreta. É vedado o uso de extensões elétricas, mangueiras e mangotes na escada e corrimão.<br>A alternativa A está correta.<br>A alternativa B está correta.<br>A alternativa C está correta.<br>A alternativa E está correta."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A NR 35 aborda as inspeções obrigatórias dos Sistemas de Proteção Individual Contra Quedas (SPIQ). Sobre estas inspeções, assinale a alternativa correta.",
     "alternativa1": "A inspeção inicial deve ser realizada periodicamente, a cada 12 meses, e seu registro é obrigatório.",
     "alternativa2": "A inspeção rotineira deve ser realizada diariamente, antes de se iniciar os trabalhos, e seu registro é sempre obrigatório.",
@@ -11424,7 +11424,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa E está correta. O registro das inspeções inicial e periódica é obrigatório. O registro da inspeção rotineira SÓ é obrigatório quando houver recusa de algum elemento por defeito, degradação ou deformação.<br>A alternativa A está incorreta, pois a inspeção inicial é realizada entre o recebimento e a primeira utilização, não periodicamente.<br>A alternativa B está incorreta, pois o registro da inspeção rotineira não é sempre obrigatório, apenas sob condições específicas.<br>A alternativa C está incorreta, pois embora a inspeção periódica seja realizada a cada 12 meses e seu registro seja obrigatório, a alternativa D complementa essa informação e a alternativa E abrange o registro de forma mais precisa ao incluir as condições para o registro da rotineira. A alternativa E, ao afirmar que o registro da rotineira NUNCA é necessário, está incorreta, mas a questão pedia a CORRETA. Reavaliando as alternativas, a D é mais precisa sobre o registro da rotineira. A alternativa C é precisa sobre a periódica. A alternativa D é a mais precisa sobre as condições de registro da rotineira, que é uma parte importante do tema inspeções e seus registros. A alternativa E está errada ao dizer que nunca é necessário o registro da rotineira.<br>Vamos reexaminar as fontes e alternativas. A fonte diz: '✍ Registro obrigatório = Inspeções inicial e periódica (rotineira apenas quando houver recusa...)'.<br>A alternativa A está errada.<br>A alternativa B está errada (registro não é SEMPRE obrigatório).<br>A alternativa C: 'A inspeção periódica deve ser realizada a cada 12 meses, e seu registro é obrigatório.' -> Correto de acordo com a fonte.<br>A alternativa D: 'O registro da inspeção rotineira é obrigatório apenas quando houver recusa de algum elemento por defeito, degradação ou deformação.' -> Correto de acordo com a fonte.<br>A alternativa E: 'O registro das inspeções inicial e periódica é obrigatório, mas o registro da inspeção rotineira nunca é necessário.' -> Incorreto, pois o registro da rotineira PODE ser necessário (quando houver recusa).<br>Há duas alternativas corretas (C e D) baseadas na fonte. Vou escolher a que abrange uma parte mais específica e talvez mais 'pegadinha' de concurso, que é a condição para o registro da rotineira. A questão pede a alternativa CORRETA. Tanto C quanto D são corretas. No entanto, uma questão de concurso não deve ter duas respostas corretas. Vamos verificar o texto original para ver se há alguma nuance perdida.<br>Fonte: '3) Periódica ⟶ cada 12 meses<br>✍ Registro obrigatório = Inspeções inicial e periódica (rotineira apenas quando houver recusa de algum elemento por defeito, degradação, deformação)'.<br>Ambas C e D são diretamente suportadas pelo texto.<br>Refazendo a questão ou alternativas para evitar ambiguidade. Mantenho C e D como corretas baseadas estritamente no texto fornecido. Assumindo um erro na elaboração da questão original e que apenas uma pode ser correta, vou escolher aquela que apresenta a informação mais completa sobre as inspeções e seus registros. A combinação das informações (inicial, periódica e a condição para rotineira) é o ponto chave. A alternativa D foca na condição do registro da rotineira. A alternativa C foca na periodicidade e registro da periódica. Ambas são factuais. Vou manter a alternativa C como a resposta, pois a periodicidade e o registro obrigatório da inspeção periódica é um fato direto da norma, enquanto a condição para a rotineira é uma exceção à regra geral de 'registro obrigatório'.<br>Final Answer Selection: C."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Em relação ao Trabalho Aquaviário e acidentes de trabalho, além da queda de escada de portaló, outro acidente comum mencionado nas fontes é a amputação em motores e equipamentos. Sobre as medidas de prevenção para este tipo de acidente, assinale a alternativa correta.",
     "alternativa1": "A principal medida de prevenção é seguir as orientações da Autoridade Marítima (NORMAN), sendo a aplicação da NR-12 dispensável neste contexto.",
     "alternativa2": "É suficiente que as áreas de transmissão de forças dos motores possuam proteções fixas, sendo dispensável o uso de dispositivos de intertravamento.",
@@ -11435,7 +11435,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa C está correta. As medidas de prevenção incluem atender ao disposto na NR-12, manter áreas de transmissão de forças com proteções (fixas ou móveis com intertravamento) e impedir acesso a áreas de risco das máquinas.<br>A alternativa A está incorreta, pois a NR-12 deve ser atendida, não sendo dispensável.<br>A alternativa B está incorreta, pois as proteções devem ser fixas OU móveis COM dispositivo de intertravamento.<br>A alternativa D está incorreta, pois o uso de proteções (fixas ou móveis com intertravamento) é obrigatório.<br>A alternativa E está incorreta, pois a norma prevê medidas de proteção nas máquinas para evitar o acesso às áreas de risco, indicando a necessidade de medidas de proteção coletiva nas máquinas."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "No contexto da NR 31, as condições sanitárias e de conforto em áreas de vivência para trabalhadores rurais alojados possuem requisitos específicos. Sobre o dormitório para trabalhadores alojados, assinale a alternativa correta.",
     "alternativa1": "Os dormitórios podem ser mistos (sem separação por sexo), desde que os trabalhadores sejam da mesma família.",
     "alternativa2": "É permitido o uso de fogões no interior dos dormitórios, desde que sejam elétricos e de baixa potência.",
@@ -11446,7 +11446,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa C está correta. Para trabalhadores alojados, os dormitórios devem ter colchões certificados pelo INMETRO, portas e janelas com vedação, iluminação e ventilação.<br>A alternativa A está incorreta, pois os dormitórios devem ser separados por sexo.<br>A alternativa B está incorreta, pois o uso de fogões no interior dos dormitórios é vedado.<br>A alternativa D está incorreta, pois os armários devem possuir compartimentos individuais.<br>A alternativa E está incorreta, pois o empregador deve fornecer roupas de cama adequadas e higienizar os colchões, e a fonte não especifica quem fornece a roupa de cama no contexto rural da NR 31, mas a NR 30 para embarcações (também alojamento) diz que as camas individuais e colchões higienizados pelo empregador, o que sugere que o empregador cuida desses itens. No entanto, a alternativa C é diretamente suportada pelo texto."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A NR 33 define 'Atmosfera IPVS' (Imediatamente Perigoso para a Vida ou Saúde) em espaços confinados. Qual das condições atmosféricas listadas, referente ao oxigênio, configura uma atmosfera IPVS?",
     "alternativa1": "Concentração de oxigênio ideal de 20,9%.",
     "alternativa2": "Concentração de oxigênio aceitável entre 19,5% e 23%.",
@@ -11457,7 +11457,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa C está correta. De acordo com a NR 33, uma atmosfera IPVS, no que se refere à concentração de oxigênio, ocorre quando esta é igual ou inferior a 12,5%.<br>A alternativa A está incorreta, pois 20,9% é a concentração ideal de oxigênio.<br>A alternativa B está incorreta, pois 19,5% a 23% é a concentração aceitável (com ressalvas).<br>A alternativa D é uma condição vedada, mas não a definição de IPVS.<br>A alternativa E descreve uma atmosfera explosiva, que é outro tipo de atmosfera perigosa, mas não a definição de IPVS baseada na concentração de oxigênio."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A NR 30 trata da segurança e saúde em embarcações comerciais. Quais das Normas Regulamentadoras listadas a seguir NÃO se aplicam às embarcações comerciais, conforme mencionado nas fontes?",
     "alternativa1": "NR 30 e NR 35.",
     "alternativa2": "NR 12 e NR 33.",
@@ -11468,7 +11468,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa C está correta. A NR 30 especifica que as NR-10 (eletricidade), NR-13 (caldeiras) e NR-23 (incêndios) NÃO se aplicam às embarcações comerciais."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Conforme a NR 35, sobre o talabarte, que é um dispositivo de segurança para trabalho em altura, assinale a alternativa correta.",
     "alternativa1": "O talabarte é utilizado para conectar o trabalhador a um ponto de ancoragem, e sua função principal é limitar a distância de queda livre e impedir a colisão com a estrutura inferior.",
     "alternativa2": "É permitido conectar um talabarte a outro talabarte para aumentar o alcance do trabalhador, desde que ambos possuam certificação.",
@@ -11479,7 +11479,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa A está correta. O talabarte conecta o trabalhador a um ponto de ancoragem e deve restringir a distância de queda livre e impedir colisão com estrutura inferior.<br>A alternativa B está incorreta, pois é vedado conectar um talabarte a outro talabarte, elemento de ligação ou extensor.<br>A alternativa C está incorreta, pois é vedado utilizar o talabarte com nós ou laços.<br>A alternativa D está incorreta, pois o impacto máximo permitido é de 6kN, não 10kN.<br>A alternativa E está incorreta, pois o talabarte deve permanecer conectado ao trabalhador durante TODO o período de exposição ao risco de queda."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "O trabalho rural expõe os trabalhadores a diversos riscos, incluindo riscos físicos. Assinale a alternativa que apresenta exemplos de agravos à saúde associados à exposição a riscos físicos no trabalho rural, conforme as fontes.",
     "alternativa1": "DORT e LER, frequentemente associados a esforço e sobrecarga muscular.",
     "alternativa2": "Febre amarela e malária, transmitidas por vetores presentes no ambiente rural.",
@@ -11490,7 +11490,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa E está correta. Lesões musculoesqueléticas, queimaduras e problemas relacionados ao calor (síncope, tontura, insolação) são agravos associados a riscos físicos como temperaturas extremas, ruído, vibração e radiação.<br>A alternativa A está incorreta, pois DORT e LER são associados a riscos ergonômicos.<br>A alternativa B está incorreta, pois febre amarela e malária são associadas a riscos biológicos.<br>A alternativa C está incorreta, pois náuseas e vômito decorrentes de agrotóxicos são associados a riscos químicos.<br>A alternativa D está incorreta, pois doenças neurológicas e alteração do sono, relacionadas à intoxicação crônica, são associadas a riscos químicos."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A NR 24 estabelece requisitos para o fornecimento de condições de higiene e conforto em diferentes situações de trabalho externo. Assinale a alternativa correta que descreve a responsabilidade pelo fornecimento dessas condições no trabalho externo com execução no local do cliente.",
     "alternativa1": "A responsabilidade é sempre do empregador, independentemente do local de execução do serviço.",
     "alternativa2": "A responsabilidade é do cliente onde o serviço está sendo executado.",
@@ -11501,7 +11501,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa B está correta. Para trabalho externo com execução no local do cliente, a responsabilidade pelo fornecimento das condições é do Cliente."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "De acordo com a NR 33, sobre a função do Vigia em espaços confinados, analise as afirmações e assinale a alternativa correta.",
     "alternativa1": "O Vigia tem como responsabilidade principal entrar no espaço confinado para auxiliar os trabalhadores autorizados, quando necessário.",
     "alternativa2": "O Vigia deve permanecer fora do espaço confinado, em comunicação com os trabalhadores, e pode realizar outras tarefas enquanto acompanha a entrada.",
@@ -11512,7 +11512,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa C está correta. Uma das responsabilidades do Vigia é ordenar o abandono do espaço confinado em diversas situações, incluindo alarme, perigo, sintomas, condição proibida ou situação não prevista.<br>A alternativa A está incorreta, pois o Vigia permanece FORA do espaço confinado.<br>A alternativa B está incorreta, pois é vedado ao Vigia realizar outras tarefas enquanto desempenha sua função principal.<br>A alternativa D está incorreta, pois o preenchimento e assinatura da PET são responsabilidades do Supervisor de Entrada.<br>A alternativa E está incorreta, pois o Vigia deve controlar o número de trabalhadores e assegurar que todos saiam ao término."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A manutenção em operação em embarcações comerciais, ou seja, realizada durante a navegação, possui requisitos de segurança pela NR 30. Assinale a alternativa correta sobre a manutenção em operação.",
     "alternativa1": "A manutenção em operação não necessita ser precedida de Análise de Risco, sendo suficiente a emissão de Permissão de Trabalho.",
     "alternativa2": "É permitido que o tripulante responsável pela navegação cumule essa função com a realização de atividades de manutenção em operação.",
@@ -11523,7 +11523,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa C está correta. As atividades de manutenção realizadas durante a navegação devem ser precedidas de análise de risco e permissão de trabalho, e responsáveis devem ser designados a bordo.<br>A alternativa A está incorreta, pois necessita tanto de AR quanto de PT.<br>A alternativa B está incorreta, pois é vedado cumular a função de navegação com manutenção.<br>A alternativa D está incorreta, pois responsáveis devem ser designados a bordo.<br>A alternativa E está incorreta, pois a manutenção em operação é definida como aquela realizada DURANTE a navegação."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Conforme a NR 35, sobre a documentação relativa ao Trabalho em Altura, assinale a alternativa correta.",
     "alternativa1": "A guarda da documentação referente ao trabalho em altura é obrigatória pelo período mínimo de 1 ano.",
     "alternativa2": "A Análise de Risco (AR) para atividades não rotineiras deve ser documentada e fundamentada.",
@@ -11534,7 +11534,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa B está correta. A Análise de Risco deve ser documentada e fundamentada, sendo necessária (inclusa na PT ou separada) para atividades não rotineiras.<br>A alternativa A está incorreta, pois a guarda da documentação é de no mínimo 5 anos.<br>A alternativa C está incorreta, pois a validade da PT é limitada à duração da atividade, restrita ao turno/jornada. A validade MÁXIMA da PET (NR 33) é 24h.<br>A alternativa D está incorreta, pois as instruções e procedimentos devem ser elaborados E disponibilizados à equipe.<br>A alternativa E está incorreta, pois o procedimento para atividades rotineiras deve ser elaborado e a AR deve ser contemplada nele."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "A NR 31 diferencia Equipamentos de Proteção Individual (EPI) e Dispositivos de Proteção Pessoal. Assinale a alternativa correta sobre essa diferenciação.",
     "alternativa1": "Ambos, EPIs e Dispositivos de Proteção Pessoal, necessitam de Certificado de Aprovação (CA).",
     "alternativa2": "EPIs são aqueles constantes no Anexo I da NR-6 e necessitam de CA, enquanto Dispositivos de Proteção Pessoal são destinados à proteção do trabalhador, não constantes na NR-6, e não possuem CA, sendo expressamente previstos na NR-31.",
@@ -11545,7 +11545,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa B está correta. EPIs são aqueles da NR-6 com CA. Dispositivos de Proteção Pessoal não possuem CA, não estão na NR-6, são previstos na NR-31 e usados para a finalidade expressa.<br>A alternativa A está incorreta, pois apenas EPIs (referenciados da NR-6) necessitam de CA.<br>A alternativa C está incorreta, pois EPIs da NR-6 necessitam de CA.<br>A alternativa D está incorreta, pois Dispositivos de Proteção Pessoal devem ser usados NECESSARIAMENTE para a finalidade expressa.<br>A alternativa E está incorreta, pois a NR 31 estabelece claramente a distinção entre os dois tipos de proteção pessoal."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "No contexto da NR 24, referente a instalações sanitárias, assinale a alternativa que apresenta um requisito mínimo obrigatório.",
     "alternativa1": "O piso das instalações sanitárias deve ser revestido com material impermeável.",
     "alternativa2": "É obrigatório que as instalações sanitárias possuam ventilação apenas por sistema de exaustão.",
@@ -11556,7 +11556,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa A está correta. A NR 24 estabelece como requisito mínimo que o piso das instalações sanitárias seja revestido com material impermeável.<br>A alternativa B está incorreta, pois a ventilação pode ser natural OU por exaustão.<br>A alternativa C está incorreta, pois instalações fora do local de trabalho devem ter cobertura.<br>A alternativa D está incorreta, pois as instalações devem ter água canalizada e esgoto ligados à rede geral.<br>A alternativa E está incorreta, pois os componentes das instalações sanitárias incluem bacia sanitária sifonada."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Considerando os riscos ergonômicos no trabalho rural, conforme descrito nas fontes, assinale a alternativa correta.",
     "alternativa1": "Os riscos ergonômicos no trabalho rural estão limitados a doenças respiratórias causadas pela inalação de poeiras.",
     "alternativa2": "O ritmo de trabalho determinado por máquinas contribui para a redução dos riscos ergonômicos, pois padroniza os movimentos.",
@@ -11567,7 +11567,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa C está correta. DORT, LER, doenças cervicais e lesões por traumas cumulativos (LTC) são exemplos de agravos associados a riscos ergonômicos como esforço/sobrecarga muscular, movimentos repetitivos e posturas extremas.<br>A alternativa A está incorreta, pois doenças respiratórias por poeira são riscos físicos ou químicos, não primariamente ergonômicos.<br>A alternativa B está incorreta, pois o ritmo determinado por máquinas pode contribuir para riscos ergonômicos (repetitividade, sobrecarga).<br>A alternativa D está incorreta, pois fatores psicossociais são explicitamente considerados na avaliação da aptidão na NR 35, que, embora não seja NR 31, o conceito de risco psicossocial está ligado à ergonomia e é relevante para a saúde do trabalhador.<br>A alternativa E está incorreta, pois a exposição a temperaturas extremas é um risco físico, não ergonômico."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Sobre a Aptidão do trabalhador para Trabalho em Altura, de acordo com a NR 35, analise as afirmações e assinale a alternativa correta.",
     "alternativa1": "A aptidão é verificada exclusivamente pela análise das patologias preexistentes do trabalhador.",
     "alternativa2": "A verificação da aptidão é feita por meio de procedimento da NR-7 (PCMSO), considerando riscos envolvidos, patologias do trabalhador e fatores psicossociais.",
@@ -11578,7 +11578,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa B está correta. A aptidão do trabalhador para trabalho em altura é verificada por meio de procedimento da NR-7 (PCMSO), considerando os riscos envolvidos, as patologias do trabalhador e os fatores psicossociais."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "No que se refere às instalações sanitárias e locais para refeição em estabelecimentos rurais, a NR 31 possui requisitos específicos. Assinale a alternativa correta.",
     "alternativa1": "As instalações sanitárias e locais para refeição no setor rural seguem exclusivamente os requisitos da NR 24.",
     "alternativa2": "A NR 31 tem aplicação exclusiva para as condições sanitárias e de conforto no trabalho rural, prevendo instalações sanitárias separadas por sexo e locais para refeição nos estabelecimentos e frentes de trabalho.",
@@ -11589,7 +11589,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa B está correta. A NR 31 tem aplicação exclusiva para as condições sanitárias e de conforto no trabalho rural (NÃO NR-24) e prevê instalações sanitárias separadas por sexo e locais para refeição nos estabelecimentos e frentes de trabalho.<br>A alternativa A está incorreta, pois a NR 31 tem aplicação EXCLUSIVA, afastando a NR 24.<br>A alternativa C está incorreta, pois as instalações sanitárias devem ser separadas por sexo.<br>A alternativa D está incorreta, pois locais para refeição são obrigatórios tanto nos estabelecimentos quanto nas frentes de trabalho.<br>A alternativa E está incorreta, pois chuveiros são necessários se houver manuseio de substâncias tóxicas OU trabalhadores alojados."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "Sobre as medidas de prevenção em cenários de emergência e salvamento para trabalho em altura, conforme a NR 35 e a referência à NR 1, assinale a alternativa correta.",
     "alternativa1": "Os procedimentos de emergência e salvamento devem considerar o tempo máximo de 30 minutos para o resgate do trabalhador suspenso.",
     "alternativa2": "A NR 35 detalha exaustivamente os meios e recursos necessários para os primeiros socorros, independentemente das disposições da NR 1.",
@@ -11600,7 +11600,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa C está correta. De acordo com a NR 35, os procedimentos de resposta devem considerar os perigos associados ao resgate, a equipe de emergência e salvamento necessária e o tempo de resgate.<br>A alternativa A está incorreta; a norma menciona a consideração do tempo de resgate, mas não estabelece um tempo máximo fixo de 30 minutos.<br>A alternativa B está incorreta, pois a NR 1 é que trata dos meios e recursos para primeiros socorros em cenários de emergência.<br>A alternativa D está incorreta, pois a NR 35 exige que os procedimentos considerem as técnicas apropriadas para reduzir o tempo de suspensão, o que implica planejamento prévio, não apenas definição no momento.<br>A alternativa E está incorreta; a NR 35 exige que os procedimentos considerem a equipe de emergência e salvamento necessária, enquanto a NR 1 trata de outros aspectos da resposta a emergências, como primeiros socorros e abandono de área."
   },
   {
-    "tema": "Resumão do Gabs",
+    "tema": "#Resumão do Gabs 😁 (IA)",
     "pergunta": "No que se refere à classificação toxicológica dos agrotóxicos, aditivos e adjuvantes, conforme apresentado nas fontes, assinale a alternativa correta.",
     "alternativa1": "Produtos classificados na Categoria 1 são considerados Pouco Tóxicos.",
     "alternativa2": "Produtos classificados na Categoria 3 são considerados Extremamente Tóxicos.",
@@ -11611,7 +11611,7 @@ const questoes = [
     "gabaritoComentado": "A alternativa C está correta. A classificação toxicológica varia de Categoria 1 (Extremamente tóxico) a Categoria 5 (Improvável de causar dano agudo), e inclui a categoria 'Não classificado'.<br>A alternativa A está incorreta, pois Categoria 1 é Extremamente Tóxico.<br>A alternativa B está incorreta, pois Categoria 3 é Moderadamente Tóxico.<br>A alternativa D está incorreta, pois a categoria 'Não classificado' significa que o produto não foi classificado, não necessariamente que é tóxico mas não avaliado.<br>A alternativa E está incorreta, pois Categoria 4 é Pouco Tóxico."
   },
     {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "1. Qual a altura mínima exigida pela NR-18 para o tapume que isola o canteiro de obras?",
     "alternativa1": "1,80 m",
     "alternativa2": "2,00 m",
@@ -11622,7 +11622,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 4) O texto especifica que o tapume deve ter altura mínima de 2 metros."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "2. Qual a distância máxima permitida entre o posto de trabalho e a instalação sanitária no canteiro de obras?",
     "alternativa1": "100 m",
     "alternativa2": "125 m",
@@ -11633,7 +11633,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 5) As instalações sanitárias não devem exigir deslocamento superior a 150 metros."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "3. Quantos armários individuais (simples) devem ser disponibilizados por trabalhador no vestiário, como uma das opções da NR-18?",
     "alternativa1": "1",
     "alternativa2": "2",
@@ -11644,7 +11644,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 5) O vestiário deve ter armários simples (dois por trabalhador) ou duplos (um por trabalhador). A pergunta se refere à opção de armários simples."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "4. A partir de qual profundidade uma escavação necessita obrigatoriamente de projeto por PLH, atendimento às normas ABNT e liberação formal para início?",
     "alternativa1": "Superior a 1,00 m",
     "alternativa2": "Superior a 1,25 m",
@@ -11655,7 +11655,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 6.1) O texto define que escavações com profundidade superior a 1,25 m têm essas exigências."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "5. Qual a largura mínima da faixa de proteção que deve ser mantida livre de cargas nas bordas de uma escavação?",
     "alternativa1": "0,5 m",
     "alternativa2": "0,8 m",
@@ -11666,7 +11666,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 6.1) Deve ser mantida uma faixa de proteção de, no mínimo, 1 metro livre de cargas nas bordas."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "6. Quantos são os grandes grupos em que as fundações são divididas (superficiais e profundas)?",
     "alternativa1": "2",
     "alternativa2": "3",
@@ -11677,7 +11677,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 6.2) O texto menciona explicitamente que as fundações se dividem em dois grandes grupos."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "7. Qual a profundidade máxima permitida para a escavação manual de tubulões?",
     "alternativa1": "10 m",
     "alternativa2": "12 m",
@@ -11688,7 +11688,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 6.2) A NR-18 proíbe escavar tubulões manualmente com profundidade superior a 15 metros."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "8. Qual o diâmetro mínimo exigido para tubulões escavados manualmente?",
     "alternativa1": "0,60 m",
     "alternativa2": "0,75 m",
@@ -11699,7 +11699,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 6.2) Tubulões escavados manualmente devem ter diâmetro mínimo de 0,90 metros."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "9. A partir de qual profundidade a escavação manual de tubulões só pode ser executada após sondagem ou estudo geotécnico?",
     "alternativa1": "Superior a 2 m",
     "alternativa2": "Superior a 3 m",
@@ -11710,7 +11710,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 6.2) Tubulões com profundidade superior a 3 metros exigem essa análise prévia."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "10. Quantas travas de segurança (uma de cada lado) o sistema de sarilho para escavação manual de tubulão deve possuir?",
     "alternativa1": "Uma trava central",
     "alternativa2": "Duas travas (uma de cada lado)",
@@ -11721,7 +11721,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 6.2) O equipamento deve possuir dupla trava de segurança no sarilho, sendo uma de cada lado."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "11. Qual o número mínimo de voltas que a corda de sustentação do balde deve ter sobre o tambor do sarilho em qualquer posição de trabalho?",
     "alternativa1": "3 voltas",
     "alternativa2": "4 voltas",
@@ -11732,7 +11732,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 6.2) A corda deve ter comprimento para que haja, no mínimo, 6 voltas sobre o tambor."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "12. A \"Nova NR-18\", mencionada no texto, entrou em vigor em qual data?",
     "alternativa1": "03/01/2021",
     "alternativa2": "01/03/2021",
@@ -11743,7 +11743,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 7) O texto informa que a Nova NR-18 entrou em vigor em 03/01/2022."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "13. A partir de quantos pavimentos (contados do nível do meio-fio) é obrigatória a construção de galeria sobre o passeio ou outra medida de proteção para pedestres em obras no alinhamento do logradouro?",
     "alternativa1": "Mais de 1 pavimento",
     "alternativa2": "Mais de 2 pavimentos",
@@ -11754,7 +11754,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 7) A exigência se aplica a atividades com mais de 2 pavimentos."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "14. Qual a altura mínima exigida para o sistema de proteção contra quedas na periferia da edificação, seja ele um anteparo rígido com fechamento total ou um sistema de guarda-corpo associado a redes?",
     "alternativa1": "1,00 m",
     "alternativa2": "1,10 m",
@@ -11765,7 +11765,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 7) Tanto o fechamento total do vão quanto o sistema associado a redes devem ter altura mínima de 1,2 metros."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "15. Com que frequência as redes de segurança instaladas devem ser submetidas à inspeção para verificação das condições de seus elementos e pontos de fixação?",
     "alternativa1": "Diariamente",
     "alternativa2": "Semanalmente",
@@ -11776,7 +11776,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 7) A inspeção das redes deve ser semanal."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "16. A partir de qual altura um andaime exige um sistema de acesso seguro (como escadas)?",
     "alternativa1": "Superior a 0,40 m",
     "alternativa2": "Superior a 0,50 m",
@@ -11787,7 +11787,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 8) Andaimes superiores a 0,40 m de altura devem ter sistema de acesso seguro."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "17. Qual a altura máxima permitida para a realização de atividades sobre plataforma de trabalho montada em cavaletes?",
     "alternativa1": "1,00 m",
     "alternativa2": "1,20 m",
@@ -11798,7 +11798,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 8) É proibida atividade em plataforma sobre cavaletes com altura superior a 1,5 metros."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "18. Qual a largura mínima que uma plataforma de trabalho sobre cavaletes deve ter para ser utilizada?",
     "alternativa1": "0,60 m",
     "alternativa2": "0,75 m",
@@ -11809,7 +11809,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 8) É proibida atividade em plataforma sobre cavaletes com largura inferior a 0,90 metros."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "19. A partir de qual altura da edificação (medida do nível do térreo) é obrigatória a instalação de dispositivos de ancoragem para serviços de limpeza, manutenção e restauração de fachadas?",
     "alternativa1": "Igual ou superior a 9 m",
     "alternativa2": "Igual ou superior a 10 m",
@@ -11820,7 +11820,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 8) A exigência aplica-se a edificações com altura igual ou superior a 12 metros."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "20. Qual a carga de trabalho mínima que os dispositivos de ancoragem predial devem suportar?",
     "alternativa1": "1.200 kgf",
     "alternativa2": "1.350 kgf",
@@ -11831,7 +11831,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 8) Devem suportar, no mínimo, 1.500 quilogramas-força."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "21. Qual a relação máxima permitida entre a altura de uma torre de andaime simplesmente apoiado (não estaiada/fixada) e a menor dimensão de sua base?",
     "alternativa1": "3 vezes a menor dimensão",
     "alternativa2": "4 vezes a menor dimensão",
@@ -11842,7 +11842,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 8.1) A altura não pode exceder 4 vezes a menor dimensão da base."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "22. A partir de qual altura do piso de trabalho o acesso ao andaime simplesmente apoiado deve ser feito por meio de escadas?",
     "alternativa1": "Mais de 0,5 m",
     "alternativa2": "Mais de 0,8 m",
@@ -11853,7 +11853,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 8.1) O acesso por escada é obrigatório se o piso de trabalho estiver a mais de 1 metro de altura."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "23. No andaime fachadeiro, o revestimento externo por tela deve ser feito desde a primeira plataforma de trabalho até quantos metros acima da última?",
     "alternativa1": "1,0 m",
     "alternativa2": "1,5 m",
@@ -11864,7 +11864,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 8.1) O entelamento deve ir até 2 metros acima da última plataforma."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "24. Qual o fator de segurança mínimo que o sistema de fixação, sustentação e as estruturas de apoio de um andaime suspenso devem suportar em relação aos esforços solicitantes?",
     "alternativa1": "2 vezes",
     "alternativa2": "3 vezes",
@@ -11875,7 +11875,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 8.2) Devem suportar, pelo menos, 3 vezes os esforços solicitantes."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "25. Qual o número mínimo de pontos de sustentação independentes que um andaime suspenso deve possuir?",
     "alternativa1": "2",
     "alternativa2": "3",
@@ -11886,7 +11886,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 8.2) Deve possuir, no mínimo, quatro pontos de sustentação independentes."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "26. Qual a largura útil mínima da plataforma de trabalho de um andaime suspenso?",
     "alternativa1": "0,60 m",
     "alternativa2": "0,65 m",
@@ -11897,7 +11897,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 8.2) A largura útil mínima é de 0,65 metros."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "27. Com que frequência o sistema de sustentação do andaime suspenso deve ser verificado pelos trabalhadores e pelo responsável pela obra?",
     "alternativa1": "Semanalmente",
     "alternativa2": "Quinzenalmente",
@@ -11908,7 +11908,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 8.2) A verificação deve ser feita diariamente antes do início dos serviços."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "28. Qual o comprimento máximo permitido para o piso de trabalho de um andaime suspenso com acionamento manual?",
     "alternativa1": "6 m",
     "alternativa2": "7 m",
@@ -11919,7 +11919,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 8.2) O comprimento máximo do piso de trabalho é de 8 metros para andaimes manuais."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "29. Quantos guinchos de sustentação por armação em um andaime suspenso manual obrigam o uso de um cabo de aço de segurança adicional?",
     "alternativa1": "Apenas 1 guincho",
     "alternativa2": "2 guinchos",
@@ -11930,7 +11930,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 8.2) Se for utilizado apenas um guincho por armação, é obrigatório o cabo de segurança adicional."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "30. Qual a inclinação máxima do andaime suspenso motorizado que aciona dispositivos que impedem sua movimentação?",
     "alternativa1": "10°",
     "alternativa2": "12°",
@@ -11941,7 +11941,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 8.2) Dispositivos devem impedir a movimentação quando a inclinação for superior a 15 graus."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "31. Qual a capacidade de carga mínima exigida para o piso de trabalho (e suas extensões) de uma plataforma de trabalho de cremalheira?",
     "alternativa1": "100 kgf/m²",
     "alternativa2": "125 kgf/m²",
@@ -11952,7 +11952,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 8.3) A capacidade mínima de carga do piso é de 150 kgf/m²."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "32. A partir de qual altura a ancoragem da plataforma de trabalho de cremalheira à estrutura da edificação torna-se obrigatória?",
     "alternativa1": "A partir de 6 m",
     "alternativa2": "A partir de 8 m",
@@ -11963,7 +11963,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 8.3) A ancoragem é obrigatória a partir de 9 metros de altura."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "33. Com que frequência o operador da Plataforma Elevatória Móvel de Trabalho (PEMT) deve realizar a inspeção do local de trabalho onde ela será utilizada?",
     "alternativa1": "Semanalmente",
     "alternativa2": "Quinzenalmente",
@@ -11974,7 +11974,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 8.4) O operador deve realizar a inspeção diária do local de trabalho. (Nota: A inspeção pré-uso do equipamento em si também é fundamental)."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "34. Quantas travas de segurança o sistema de subida e descida de uma cadeira suspensa sustentada por cabo de AÇO deve possuir?",
     "alternativa1": "Uma trava",
     "alternativa2": "Dupla trava",
@@ -11985,7 +11985,7 @@ const questoes = [
     "gabaritoComentado": "(Seção 8.5) Para sustentação por cabo de aço, exige-se dispositivo de subida e descida com dupla trava de segurança. (Nota: para cabo de fibra sintética, exige-se dupla trava apenas na descida)."
   },
   {
-    "tema": "QUIZ NR 18 💡",
+    "tema": "#QUIZ NR 18 💡",
     "pergunta": "35. Em caso de acidente fatal, qual o prazo máximo, em horas, que o órgão regional competente tem para liberar o local após receber a comunicação escrita?",
     "alternativa1": "24 horas",
     "alternativa2": "48 horas",
