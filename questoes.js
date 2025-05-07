@@ -1,6 +1,6 @@
 const questoes = [
   {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Em relação à avaliação da exposição ocupacional e seus critérios de referência, assinale a opção <b>correta<b>.",
 "alternativa1": "O Nível de Ação para o agente físico ruído é definido na NR-09 como correspondente a 50% do Limite de Tolerância estabelecido na NR-15.",
 "alternativa2": "A Avaliação Quantitativa utiliza medições com instrumentos para determinar a concentração ou intensidade dos agentes, enquanto a Avaliação Qualitativa baseia-se em percepções subjetivas sem metodologia definida.",
@@ -11,7 +11,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (D) está correta, pois os Limites de Exposição Ocupacional (LEO), como os da ACGIH, são frequentemente considerados referências tecnicamente mais atualizadas que os Limites de Tolerância (LT) da NR-15, que são vistos como defasados."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Considerando a hierarquia das medidas de controle no contexto da Higiene Ocupacional, julgue os itens a seguir.<br>I.   A ordem de prioridade das medidas de prevenção inicia-se pela eliminação dos fatores de risco, seguida pela minimização e controle com proteção coletiva, depois por medidas administrativas/organizacionais e, por último, pela adoção de proteção individual.<br>II.  Medidas como a substituição de um produto tóxico por um menos nocivo ou a alteração de um processo (ex: umedecer o corte de pedras) visam atuar na fonte ou na trajetória do risco, sendo consideradas prioritárias em relação ao uso de EPI.<br>III. O enclausuramento de uma operação ou o isolamento da fonte (ou dos trabalhadores) são exemplos de medidas de proteção coletiva que buscam, respectivamente, conter o contaminante ou reduzir o número de expostos.<br>IV.  A Ventilação Local Exaustora (VLE), que captura o contaminante na fonte antes que ele se disperse, e a Ventilação Geral Diluidora (VGD), que renova o ar para reduzir a concentração, são ambas classificadas como medidas de proteção coletiva.<br>V.   A manutenção preventiva de máquinas e equipamentos é citada como uma medida de proteção coletiva que pode contribuir para a redução de riscos físicos (ruído, vibrações) e químicos (vazamentos).<br>Assinale a opção correta.",
 "alternativa1": "Apenas as assertivas I e II estão corretas.",
 "alternativa2": "Apenas as assertivas III e V estão corretas.",
@@ -22,7 +22,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (E) está correta porque todas as assertivas (I, II, III, IV e V) apresentam informações que são suportadas pelo texto da fonte, descrevendo corretamente a hierarquia das medidas de controle e exemplos de aplicação na Higiene Ocupacional."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Acerca da classificação dos aerodispersóides, assinale a opção correta.",
 "alternativa1": "Poeiras são definidas como partículas sólidas formadas pela ruptura mecânica de um sólido, a exemplo da poeira gerada no corte de madeira por serra circular.",
 "alternativa2": "Fumos metálicos, comuns em processos de solda ou fundição, são classificados como partículas líquidas resultantes da condensação de vapores após aquecimento.",
@@ -33,7 +33,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (A) está correta, pois a fonte define poeiras como partículas sólidas formadas pela ruptura mecânica de um sólido, citando como exemplo a poeira gerada no corte de madeira."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Considerando a Classificação de Schilling para doenças relacionadas ao trabalho, assinale a opção correta.",
 "alternativa1": "A Categoria II de Schilling (Trabalho como fator contributivo) abrange as doenças em que o trabalho é a única causa, a exemplo das intoxicações agudas por agrotóxicos.",
 "alternativa2": "Doenças mentais e asma ocupacional são classificadas na Categoria I de Schilling, pois sua ocorrência depende exclusivamente da exposição a fatores de risco no trabalho.",
@@ -44,7 +44,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (D) está correta. A fonte afirma que doenças da Categoria I de Schilling (Trabalho como causa necessária), exemplificadas por intoxicações por metais pesados ou silicose, têm sua prevenção focada na eliminação do agente ou no controle rigoroso da exposição."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Considerando as definições e características das espécies de Nexo Técnico Previdenciário, conforme a Instrução Normativa INSS nº 31/2008, assinale a opção correta.",
 "alternativa1": "O Nexo Técnico Individual é estabelecido com base na significância estatística entre o código da doença (CID-10) e a atividade econômica da empresa (CNAE).",
 "alternativa2": "O Nexo Técnico Epidemiológico Previdenciário (NTEP) depende da emissão prévia da Comunicação de Acidente do Trabalho (CAT) pela empresa para ser caracterizado.",
@@ -55,7 +55,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (D) está correta. A fonte descreve o Nexo Técnico Profissional como fundamentado na associação entre a patologia do segurado e a exposição a agentes ou fatores de risco das listas A e B do Anexo II do Decreto nº 3.048/99."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "A Agência Internacional de Pesquisa em Câncer (IARC) classifica os agentes quanto ao seu potencial carcinogênico em grupos. Considerando os critérios para os Grupos 1, 2A, 2B e 3, assinale a alternativa correta.",
 "alternativa1": "O Grupo 1 (carcinogênico para humanos) exige evidências necessárias de carcinogenicidade tanto em estudos com humanos quanto com animais para ser classificado.",
 "alternativa2": "Para classificar um agente no Grupo 2B (possivelmente carcinogênico para humanos), a IARC exige que haja evidências limitadas de carcinogenicidade em humanos e, simultaneamente, evidências também limitadas ou inadequadas em animais experimentais.",
@@ -66,7 +66,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (C) está correta. A fonte descreve a classificação no Grupo 2A (provavelmente carcinogênico para humanos) como apropriada quando há evidência limitada de carcinogenicidade em humanos, mas evidência suficiente em animais experimentais."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Sobre as categorias de Indicadores biológicos de exposição, assinale a alternativa correta:",
 "alternativa1": "IB de Efeito (Tipo 1) buscam detectar alterações precoces e reversíveis no organismo (ex: Carboxi-hemoglobina para CO), enquanto IB de Dose Interna/Exposição (Tipo 2) quantificam a substância absorvida (ex: ácido metil-hipúrico para xileno).",
 "alternativa2": "IB de Dose Interna/Exposição (Tipo 2), como a dosagem de chumbo no sangue (plumbemia), refletem alterações bioquímicas ou fisiológicas que indicam possível adoecimento ou agravo à saúde.",
@@ -77,7 +77,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (A) está correta. A fonte distingue os Indicadores Biológicos de Efeito (Tipo 1), que buscam detectar alterações precoces e reversíveis (ex: Carboxi-hemoglobina para CO), dos IB de Dose Interna/Exposição (Tipo 2), que quantificam a substância absorvida (ex: ácido metil-hipúrico para xileno)."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Considerando as noções conceituais apresentadas, assinale a alternativa que descreve corretamente a inter-relação ou definição desses conceitos no âmbito da toxicologia ocupacional.",
 "alternativa1": "Risco é a efetivação do potencial de dano (perigo) de uma substância.",
 "alternativa2": "Efeito é a lesão física e/ou agravo à saúde das pessoas expostas, ao meio ambiente ou à propriedade, em decorrência da exposição ao risco.",
@@ -88,7 +88,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (E) está correta. A fonte correlaciona Perigo a um conceito qualitativo e Risco a um conceito quantitativo."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Considerando a Ergonomia de Concepção, a Ergonomia de Correção, a Avaliação Ergonômica Preliminar (AEP) e a Análise Ergonômica do Trabalho (AET), assinale a alternativa que descreve uma aplicação ou característica correta:",
 "alternativa1": "A Análise Ergonômica do Trabalho (AET) é a ferramenta utilizada na Ergonomia de Concepção para, através de métodos qualitativos e participativos, definir os requisitos iniciais de um novo posto de trabalho, antes mesmo da realização da AEP.",
 "alternativa2": "A Avaliação Ergonômica Preliminar (AEP) é uma etapa inicial, aplicável a situações existentes ou no planejamento, que pode usar métodos qualitativos ou quantitativos para identificar necessidades óbvias de melhoria.",
@@ -99,7 +99,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (B) está correta. A fonte descreve a Avaliação Ergonômica Preliminar (AEP) como uma etapa inicial aplicável a situações existentes ou no planejamento, utilizando métodos qualitativos ou quantitativos para identificar necessidades óbvias de melhoria."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Sobre as áreas chaves de aplicação da ergonomia, a interação homem-computador, a confiabilidade humana frente a situações de risco e incidentes, a formação e o estresse profissional, são aspectos estudados na:",
 "alternativa1": "Ergonomia Física.",
 "alternativa2": "Ergonomia Psicossocial.",
@@ -110,7 +110,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (C) está correta. A fonte associa a interação homem-computador, a confiabilidade humana frente a riscos/incidentes, a formação e o estresse profissional à Ergonomia Cognitiva."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Analise as seguintes afirmações sobre conceitos, regras e exceções da Ergonomia:<br>I. A NR-17 prevê situações de dispensa da elaboração da Análise Ergonômica do Trabalho (AET) para Microempresas (ME) e Empresas de Pequeno Porte (EPP) enquadradas nos graus de risco 1 e 2, bem como para o Microempreendedor Individual (MEI), embora ainda devam cumprir os demais requisitos da norma.<br>II. O objetivo fundamental da ergonomia consiste em adaptar as capacidades e limitações dos trabalhadores (físicas, mentais, emocionais) às demandas e exigências impostas pelos sistemas de trabalho e produção existentes.<br>III. De acordo com a NR-17, as pausas para recuperação psicofisiológica devem ser gozadas fora do posto de trabalho e não podem ser acompanhadas por aumento da cadência individual.<br>Está correto o que se afirma em:",
 "alternativa1": "I e III, apenas.",
 "alternativa2": "II, apenas.",
@@ -121,7 +121,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (A) está correta. A assertiva I menciona a dispensa da AET para ME/EPP (graus 1 e 2) e MEI, cumprindo outros requisitos. A assertiva III afirma que pausas para recuperação psicofisiológica devem ser fora do posto e sem aumento da cadência. A assertiva II descreve o objetivo fundamental da ergonomia como adaptar o trabalhador ao sistema, mas a combinação I e III corresponde ao gabarito."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Considerando os conceitos introdutórios de Biomecânica e Fisiologia do Trabalho, assinale a alternativa que descreve corretamente a aplicação ou definição desses termos:",
 "alternativa1": "A Fisiologia do Trabalho é um ramo da Biomecânica que utiliza os princípios da Cinemática para analisar os processos adaptativos do corpo em atletas de alto rendimento, com aplicação direta na prevenção de lesões ocupacionais.",
 "alternativa2": "A Cinemática dedica-se ao estudo das forças (internas e externas) associadas a um movimento, sendo a principal ferramenta da Fisiologia do Trabalho, enquanto a Cinética aborda a forma, sequência e cronologia do movimento, fundamentando a Biomecânica.",
@@ -132,7 +132,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (C) está correta. (C) Biomecânica Ocupacional foca na análise mecânica para prevenção de lesões; Fisiologia do Trabalho estuda respostas adaptativas do corpo ao esforço laboral. (A) Incorreta, Fisiologia não é ramo da Biomecânica. (B) Inverte conceitos de Cinética (forças) e Cinemática (forma/sequência). (D) Inverte conceitos de Cinética e Cinemática. (E) DORTs ocorrem em várias atividades, não só frigoríficos/construção. (Apostila Vol III, pág. 51)."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Com base nas informações sobre aspectos cognitivos e psicossociais, assinale a alternativa correta:",
 "alternativa1": "A magnitude e as consequências do estresse sobre um indivíduo dependem mais da valoração e do significado que ele atribui ao agente estressor do que da frequência, intensidade ou duração do próprio estressor.",
 "alternativa2": "Fatores como personalidade, carga genética e estrutura psicológica individual não alteram a suscetibilidade às consequências danosas do estresse.",
@@ -143,7 +143,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (A) está correta. A fonte indica que a magnitude e as consequências do estresse dependem mais da valoração e significado atribuído ao agente estressor do que de sua frequência, intensidade ou duração."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Com base nas informações sobre o Fundo de Amparo ao Trabalhador (FAT), assinale a alternativa correta:",
 "alternativa1": "O FAT é um fundo vinculado ao Ministério das Cidades, gerido pela Caixa Econômica Federal, cujos recursos provêm das multas rescisórias do FGTS e se destinam a financiar programas de infraestrutura urbana.",
 "alternativa2": "Os recursos do FAT são compostos essencialmente pelos depósitos mensais de 8% do FGTS e se destinam ao pagamento da Bolsa de Qualificação Profissional e ao financiamento de programas de microcrédito para empreendedores.",
@@ -154,7 +154,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (E) está correta. A fonte lista entre as competências do CODEFAT aprovar e acompanhar o plano anual e orçamento do seguro-desemprego e abono salarial, e propor melhorias na legislação."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Considerando as hipóteses e sistemáticas de movimentação da conta vinculada do FGTS, assinale a alternativa correta:",
 "alternativa1": "Em caso de extinção do contrato por acordo entre empregado e empregador, o trabalhador tem direito a movimentar o valor total (100%) dos depósitos existentes em sua conta vinculada do FGTS, além da multa de 20%.",
 "alternativa2": "Além das hipóteses ligadas ao término do contrato, a conta vinculada do FGTS também pode ser movimentada em caso de falecimento ou aposentadoria do trabalhador, ou se ele completar 70 anos e ficar 3 anos ininterruptos fora do regime do FGTS.",
@@ -165,7 +165,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (B) está correta. A fonte menciona que a conta vinculada do FGTS pode ser movimentada em caso de falecimento ou aposentadoria do trabalhador, ou se ele completar 70 anos e ficar 3 anos fora do regime do FGTS, além das hipóteses de término de contrato."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Com base nas informações sobre fiscalização, natureza jurídica e prescrição do FGTS, analise as seguintes afirmações:<br>I. Conforme entendimento consolidado do STF, a contribuição para o FGTS possui natureza jurídica sui generis, de caráter não tributário, refletindo suas dimensões trabalhista e social.<br>II. A legislação obriga o empregador a manter os documentos relativos às obrigações perante o FGTS à disposição da fiscalização pelo prazo prescricional trintenário (30 anos) após o fim de cada contrato de trabalho.<br>III. Caso a apuração de débitos pela fiscalização se baseie em declarações do empregador via escrituração eletrônica, o documento fiscal emitido constitui um ato administrativo meramente declaratório, pois a declaração já configura confissão da dívida.<br>Está correto o que se afirma em:",
 "alternativa1": "I, apenas.",
 "alternativa2": "I e III, apenas.",
@@ -176,7 +176,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (B) está correta. A assertiva I afirma a natureza jurídica sui generis não tributária da contribuição para o FGTS. A assertiva III menciona que, baseada em declarações eletrônicas, a apuração de débitos constitui ato declaratório, pois a declaração é confissão. A assertiva II, sobre o prazo trintenário, não é suportada pelo texto fornecido."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Sobre a revisão do processo de avaliação de riscos ocupacionais, conforme a NR-01 e detalhado no material de Gerenciamento de Riscos Ocupacionais, assinale a opção correta.",
 "alternativa1": "Na ausência de mudanças significativas ou outros eventos específicos, a NR 1 estabelece que a avaliação de riscos ocupacionais deve ser revisada obrigatoriamente a cada ano.",
 "alternativa2": "Uma vez implementadas as medidas de prevenção definidas no Plano de Ação, a revisão da avaliação de riscos correspondente torna-se dispensável até o próximo ciclo bienal ou trienal.",
@@ -187,7 +187,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (C) está correta. A fonte lista a identificação de inadequações nas medidas, ocorrência de acidentes/doenças ou solicitação justificada dos trabalhadores como situações que exigem revisão imediata da avaliação de riscos."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Com base nos conceitos de Perigo Ocupacional, Risco Ocupacional e Levantamento Preliminar de Perigos, conforme definidos na NR-01 e, julgue os itens a seguir.<br>I.   Perigo Ocupacional, segundo a NR-01, é a combinação da probabilidade de ocorrer uma lesão ou agravo à saúde e a severidade dessa lesão ou agravo.<br>II. Um Risco Ocupacional pode ser classificado como <b>\"tolerável\"<b> pela organização quando todas as medidas de prevenção exigidas pela legislação de SST aplicável já foram implementadas.<br>III. O Risco Ocupacional se manifesta mesmo quando não há qualquer interação ou exposição do trabalhador ao perigo ocupacional.<br>IV.  O Levantamento Preliminar de Riscos tem como principal objetivo realizar uma avaliação quantitativa detalhada de todos os riscos, incluindo os não evidentes, para compor o Inventário de Riscos.<br>Assinale a opção correta.",
 "alternativa1": "Apenas as assertivas I e III estão corretas.",
 "alternativa2": "Apenas a assertiva II está correta.",
@@ -198,7 +198,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (B) está correta. Apenas a assertiva II é suportada pela fonte, ao mencionar que um Risco Ocupacional pode ser classificado como \"tolerável\" quando todas as medidas de prevenção legais são implementadas."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Com relação à estrutura e documentação do Gerenciamento de Riscos Ocupacionais (GRO) e do Programa de Gerenciamento de Riscos (PGR), conforme a NR-01, assinale a opção correta.",
 "alternativa1": "O Gerenciamento de Riscos Ocupacionais (GRO) é a documentação que materializa o processo, enquanto o PGR representa o sistema de gestão contínuo.",
 "alternativa2": "O Plano de Ação tem como principal função registrar a caracterização dos processos, a identificação dos perigos e a avaliação dos níveis de risco.",
@@ -209,7 +209,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (E) está correta. A fonte indica que o GRO tem como finalidade a prevenção e não deve ser usado diretamente para caracterizar insalubridade/periculosidade, embora possa subsidiar tais avaliações."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Conforme a regra de transição da NR-9, na ausência de limites de tolerância estabelecidos na NR-15 para um determinado agente químico, qual referência deve ser utilizada pela organização para guiar a adoção de medidas de prevenção?",
 "alternativa1": "Os valores de referência publicados pela ACGIH (American Conference of Governmental Industrial Hygienists).",
 "alternativa2": "A avaliação qualitativa baseada exclusivamente na percepção de risco dos trabalhadores expostos.",
@@ -220,7 +220,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (A) está correta. A fonte, ao tratar da transição da NR-9, indica que na ausência de limites na NR-15 para um agente químico, a referência a ser usada são os valores publicados pela ACGIH."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Considerando os processos de gradação da severidade, gradação da probabilidade e determinação dos níveis de risco no âmbito do GRO, assinale a opção correta.",
 "alternativa1": "A gradação da severidade das possíveis lesões ou agravos à saúde deve, obrigatoriamente, seguir uma escala numérica padronizada de 1 (Leve) a 5 (Morte), conforme o modelo da ISO 45002.",
 "alternativa2": "A avaliação da conformidade com os requisitos de segurança de normas como NR 10 (Eletricidade), NR 12 (Máquinas), NR 33 (Espaços Confinados) e NR 35 (Trabalho em Altura) impacta mais diretamente a gradação da severidade das possíveis lesões decorrentes de eventos perigosos nessas áreas.",
@@ -231,7 +231,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (E) está correta. A fonte afirma que o estabelecimento do nível de risco ocupacional representa a conclusão da etapa de avaliação de risco no âmbito do GRO."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Ao definir como avaliar os riscos ocupacionais em seu estabelecimento, qual abordagem a organização deve seguir em relação às ferramentas e técnicas de avaliação, conforme a NR-1?",
 "alternativa1": "Adotar a metodologia definida pela norma ABNT NBR ISO/IEC 31010, por ser a referência técnica citada na NR-1.",
 "alternativa2": "Aplicar um método quantitativo para riscos físicos e um método qualitativo para riscos ergonômicos, conforme diferenciação na norma.",
@@ -242,7 +242,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (D) está correta. A fonte indica que a NR-1 não define um método padrão obrigatório para avaliação de riscos, permitindo que a organização selecione as ferramentas e técnicas que julgar adequadas."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Sobre os requisitos de instalações e dispositivos elétricos estabelecidos na  NR-12, assinale a alternativa correta:",
 "alternativa1": "Disjuntores e fusíveis são exemplos de Dispositivos de Proteção contra Surtos (DPS), destinados a proteger máquinas contra sobretensão de origem atmosférica ou da rede elétrica.",
 "alternativa2": "A NR-12 proíbe a utilização de chave geral como dispositivo de partida e parada, o uso de chaves tipo faca e a existência de partes energizadas expostas nos circuitos elétricos das máquinas.",
@@ -253,7 +253,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (B) está correta. A fonte afirma que a NR-12 proíbe o uso de chave geral como dispositivo de partida/parada, chaves tipo faca e partes energizadas expostas nos circuitos elétricos das máquinas."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Conforme a abordagem da NR-12 sobre segurança em máquinas e equipamentos, assinale a alternativa correta?",
 "alternativa1": "A NR-12 é aplicável a máquinas e equipamentos novos e usados, desde que sejam de uso não doméstico e movidos por força não humana, como exemplo, a força animal.",
 "alternativa2": "Para fins da NR-12, define-se equipamento estático como qualquer estrutura que não possua partes móveis, independentemente de ter ou não força motriz própria.",
@@ -264,7 +264,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (E) está correta. A fonte afirma que máquinas e equipamentos classificados como eletrodomésticos e equipamentos estáticos (como caldeiras, vasos de pressão, silos) não são abrangidos pela NR-12."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Em relação aos requisitos estabelecidos pela NR 12 para Manutenção, Inspeção, Procedimentos de Trabalho e Segurança, julgue os itens a seguir:<br>I.   O dispositivo de acionamento bimanual é uma medida de segurança que exige o uso simultâneo das duas mãos do operador, com o objetivo principal de manter as mãos fora da zona de perigo durante a operação.<br>II.  Procedimentos de trabalho e segurança, sinalização e capacitação dos trabalhadores são exemplos de medidas de proteção coletiva que devem ser implementadas prioritariamente em máquinas e equipamentos.<br>III. A autorização formal do empregador é um requisito adicional e indispensável para qualquer trabalhador que realize intervenções em máquinas, mesmo que este possua habilitação legal, qualificação comprovada ou capacitação específica, conforme estipulado pela NR 12.<br>IV. A inspeção rotineira pelo operador, no início do turno ou após nova preparação, é um requisito normativo, mas sua documentação formal (registro) é facultativa.<br>Estão corretos apenas os itens:",
 "alternativa1": "I e II.",
 "alternativa2": "I e III.",
@@ -275,7 +275,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (D) está correta. A assertiva I descreve corretamente o dispositivo bimanual. A assertiva III indica a necessidade de autorização formal do empregador para intervenções em máquinas. A assertiva IV afirma que a inspeção rotineira do operador é requisito normativo. A assertiva II, sobre procedimentos/sinalização/capacitação serem medidas de proteção coletiva, não é suportada como prioritária frente a medidas de controle na fonte/trajetória conforme a hierarquia geral."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Considerando as informações sobre o “Dispositivo de Intertravamento com Bloqueio”, assinale a alternativa que descreve corretamente sua função ou aplicação:",
 "alternativa1": "É um dispositivo opcional que pode ser adicionado a qualquer proteção móvel intertravada para permitir a abertura da proteção mesmo durante o ciclo de operação da máquina, agilizando intervenções rápidas.",
 "alternativa2": "Sua utilização é necessária em máquinas com inércia considerável, onde o movimento perigoso demora a cessar, pois sua função é impedir o acesso à zona de perigo antes da eliminação completa do risco durante a parada.",
@@ -286,7 +286,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (B) está correta. A fonte explica que o dispositivo de intertravamento com bloqueio é necessário em máquinas com inércia, impedindo o acesso à zona de perigo antes que o movimento perigoso cesse."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "A Norma Regulamentadora nº 10 (NR 10) estabelece requisitos e condições mínimas para garantir a segurança e a saúde dos trabalhadores que interagem com instalações elétricas. Com base nos conceitos e exigências apresentados, assinale a alternativa correta:",
 "alternativa1": "Tanto a Zona de Risco (ZR) quanto a Zona Controlada (ZC) exigem que o profissional seja autorizado, mas a ZR impõe a condição adicional de uso de técnicas e instrumentos de trabalho apropriados.",
 "alternativa2": "A aproximação a Zona de Risco (ZR) só é permitida a profissionais habilitados e com a adoção de técnicas e instrumentos apropriados de trabalho.",
@@ -297,7 +297,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (A) está correta. A fonte indica que tanto a Zona de Risco (ZR) quanto a Zona Controlada (ZC) exigem que o profissional seja autorizado, mas a ZR requer, adicionalmente, técnicas e instrumentos apropriados."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Analisando informações sobre acidentes de trabalho envolvendo eletricidade e seus fatores associados, conclui-se corretamente que:",
 "alternativa1": "A subnotificação elevada (estimada em 80%) e a frequente classificação errônea de acidentes elétricos limitam a acurácia dos dados originados de Comunicações de Acidentes de Trabalho (CAT).",
 "alternativa2": "A falta de treinamento adequado é classificada como um \"Fator Organizacional\" que contribui para acidentes elétricos.",
@@ -308,7 +308,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (A) está correta. A fonte menciona que a acurácia dos dados de acidentes elétricos das CATs é limitada devido à subnotificação elevada (estimada em 80%) e à classificação errônea."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Ao calcular a Taxa de Incidência de uma doença para medir a velocidade com que novos casos surgem, qual informação compõe o denominador dessa medida?",
 "alternativa1": "A população total estimada para a área geográfica no final do período considerado no estudo.",
 "alternativa2": "O número de casos novos da doença que foram identificados no início do período de observação.",
@@ -319,7 +319,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (C) está correta. A fonte indica que o denominador da taxa de incidência é a soma dos períodos de tempo durante os quais cada indivíduo esteve efetivamente livre da doença ('tempo-pessoa em risco')."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Considerando os diferentes Tipos de Estudos Epidemiológicos, assinale a alternativa que apresenta uma caracterização correta:",
 "alternativa1": "Estudos de Coorte analisam retrospectivamente grupos com e sem uma doença em um único ponto no tempo para avaliar exposições passadas, sendo ideais para doenças raras.",
 "alternativa2": "Ensaios Comunitários utilizam randomização individual para testar a eficácia de intervenções, como novos medicamentos, comparando um grupo tratado a um grupo placebo.",
@@ -330,7 +330,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (D) está correta. A fonte descreve Estudos Caso-Controle como adequados para identificar diferenças comparando a frequência de exposições anteriores entre indivíduos doentes e não doentes."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Com relação ao Programa de Controle Médico de Saúde Ocupacional (PCMSO) e conceitos relacionados, conforme a NR-7, assinale a alternativa correta:",
 "alternativa1": "A NR-7 exige que o PCMSO inclua tanto a vigilância ativa, como a demanda espontânea, quanto a passiva, como exames programados, da saúde dos trabalhadores expostos a riscos.",
 "alternativa2": "Empresas ME e EPP, por serem dispensadas da elaboração do PCMSO, também estão isentas de custear os exames médicos ocupacionais de seus empregados.",
@@ -341,7 +341,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (C) está correta. A fonte afirma que a legislação trabalhista (Art. 169 da CLT) exige a notificação de doenças profissionais e que uma diretriz do PCMSO é subsidiar essa comunicação via CAT."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Considerando a abordagem sobre trabalho prescrito (tarefa) e trabalho real (atividade), como Dejours (2011) define \"Trabalho\" nesse contexto específico?",
 "alternativa1": "Como a execução fiel e rigorosa das tarefas formais que foram detalhadas no manual de procedimentos da empresa.",
 "alternativa2": "Como o esforço físico e mental despendido pelo trabalhador com o objetivo de cumprir as metas de produção definidas pela organização.",
@@ -352,7 +352,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (C) está correta. A fonte, citando Dejours, define \"Trabalho\" como a atividade humana para lidar com o que não está previamente na prescrição da organização do trabalho."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Qual situação descreve melhor uma possível ausência do \"Julgamento de Beleza\" no processo de reconhecimento do trabalho, conforme Dejours?",
 "alternativa1": "Um empregado que, embora tecnicamente útil, não se sente pertencente ao coletivo de trabalho.",
 "alternativa2": "Um gerente que critica publicamente seu funcionário por não atingir metas de vendas.",
@@ -363,7 +363,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (A) está correta. Embora o texto não defina explicitamente \"Julgamento de Beleza\", o contexto das alternativas sugere que se relaciona ao reconhecimento social/coletivo do trabalho, o que falta na situação descrita em (A)."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Com relação às regras da NR 4 para os Serviços Especializados em Segurança e em Medicina do Trabalho (SESMT), analise as afirmativas a seguir:\<br>I.   A equipe do SESMT é composta exclusivamente por cinco categorias profissionais: Médico do Trabalho, Engenheiro de Segurança, Enfermeiro do Trabalho, Técnico de Segurança e Auxiliar/Técnico de Enfermagem do Trabalho.\<br>II.  A constituição do SESMT é obrigatória para todas as organizações que possuem empregados CLT, independentemente do número de funcionários ou grau de risco.\<br>III. É permitido que um profissional de nível superior do SESMT cumpra sua carga horária integral (30h) dedicando apenas 15h semanais, desde que a organização contrate outro profissional para completar as 15h restantes.\<br>IV. A norma permite, como única possibilidade de substituição entre as funções que compõem o SESMT, a contratação de Enfermeiro do Trabalho em tempo parcial no lugar do Auxiliar ou Técnico de Enfermagem do Trabalho.\nEstão corretas apenas as afirmativas:",
 "alternativa1": "I e II.",
 "alternativa2": "I, III e IV.",
@@ -374,7 +374,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (B) está correta. A assertiva I lista as cinco categorias profissionais do SESMT. A assertiva III descreve a possibilidade de um profissional de nível superior cumprir 15h, complementando com outro profissional. A assertiva IV indica a possibilidade de substituição de Auxiliar/Técnico de Enfermagem por Enfermeiro do Trabalho em tempo parcial. A assertiva II não é correta, pois a obrigatoriedade do SESMT depende do número de empregados e grau de risco."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Sobre a Comissão Interna de Prevenção de Acidentes e de Assédio (CIPA), conforme a NR 5, assinale a alternativa correta:",
 "alternativa1": "A responsabilidade primária pela análise de acidentes e doenças do trabalho recai sobre a CIPA, que deve então propor medidas corretivas à organização.",
 "alternativa2": "Ao constatar uma condição de grave e iminente risco, a CIPA tem a prerrogativa de determinar a interrupção imediata das atividades, comunicando sua decisão posteriormente ao SESMT ou à organização.",
@@ -385,7 +385,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (E) está correta. A fonte afirma que estabelecimentos com menos de 20 empregados estão desobrigados de constituir a CIPA."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Acerca do treinamento e seu aproveitamento para membros da CIPA e representante nomeado, conforme a NR 5 e disposições correlatas da NR 1, analise as afirmativas:\<br>I.   O treinamento, cujo conteúdo mínimo inclui investigação de acidentes e prevenção ao assédio, deve ocorrer antes da posse, exceto para a CIPA em primeiro mandato, que tem até 30 dias após a posse.\<br>II.  O treinamento para membros da CIPA pode ser realizado totalmente via Ensino a Distância (EAD) para estabelecimentos de Grau de Risco 1 ou para o representante nomeado da NR 5.\<br>III. É permitido o aproveitamento de treinamento realizado há menos de 2 anos na mesma organização, desde que o conteúdo e carga horária sejam compatíveis e validados pelo responsável técnico do treinamento.\<br>IV. Membros do SESMT que integram a CIPA estão dispensados do treinamento, e a validade de um treinamento aproveitado passa a contar da data de conclusão do treinamento mais recente.\nEstão corretos apenas as afirmativas:",
 "alternativa1": "I, II e III.",
 "alternativa2": "II e IV.",
@@ -396,7 +396,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (A) está correta. A assertiva I descreve a regra de treinamento antes da posse, com exceção para o primeiro mandato (até 30 dias após). A assertiva II permite treinamento CIPA/Representante nomeado via EAD para Grau <br>1.A assertiva III permite aproveitamento de treinamento anterior com validade de 2 anos, desde que compatível e validado. A assertiva IV, sobre dispensa de membros do SESMT, não é suportada. Portanto, I, II e III estão corretas."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "De acordo com as disposições da NR-6 sobre o Certificado de Aprovação (CA), é correto afirmar que:",
 "alternativa1": "O CA é um certificado emitido pelo SESMT da empresa após a seleção do EPI.",
 "alternativa2": "Todo EPI, seja de fabricação nacional ou importado, só pode ser posto à venda ou utilizado com a marcação do CA válido.",
@@ -407,7 +407,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (B) está correta. A fonte estabelece que todo EPI (nacional ou importado) só pode ser vendido ou utilizado com a marcação do CA válido."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Com base nas interações institucionais da Inspeção do Trabalho (IT) descritas, assinale a alternativa que apresenta uma relação correta:",
 "alternativa1": "A principal interação entre a Inspeção do Trabalho e a Justiça do Trabalho ocorre na fase de investigação preliminar das irregularidades trabalhistas, antes mesmo da elaboração de relatórios ou autos de infração.",
 "alternativa2": "A colaboração entre a Inspeção do Trabalho (IT) e o Ministério Público do Trabalho (MPT) é marcada pela complementaridade, onde a IT realiza fiscalizações e autuações e pode encaminhar relatórios que servem de base para o MPT instaurar inquéritos ou ajuizar ações civis públicas.",
@@ -418,7 +418,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (B) está correta. A fonte descreve a colaboração complementar entre IT e MPT, com a IT fiscalizando/autuando e encaminhando relatórios que subsidiam inquéritos/ações civis públicas do MPT."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Considerando a discussão sobre a política de valorização do salário mínimo (SM) e dados do Departamento Intersindical de Estatistíca e Estudos Socioeconômicos (DIEESE), marque a alternativa correta:",
 "alternativa1": "A política de valorização do salário mínimo tem efeitos limitados, contribuindo pouco para a redução da pobreza e da desigualdade e sem impacto significativo na expansão do emprego formal.",
 "alternativa2": "A Constituição Federal de 1988 estabelece que o salário mínimo deve ser capaz de atender às necessidades vitais básicas do trabalhador e também de sua família, permitindo a sua vinculação para outras finalidades.",
@@ -429,7 +429,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (E) está correta. A fonte afirma que a campanha pela política permanente de valorização do SM foi iniciada pelas Centrais Sindicais em 2004, com ação conjunta e mobilizações como as marchas em Brasília."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Sobre a hierarquia dos tratados internacionais de direitos humanos ratificados pelo Brasil ANTES da Emenda Constitucional nº 45/2004, o entendimento atual do STF lhes confere o status de:",
 "alternativa1": "Emenda Constitucional, equiparando-os às normas constitucionais originárias.",
 "alternativa2": "Lei Ordinária, estando no mesmo nível das demais leis federais.",
@@ -440,7 +440,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (C) está correta. A fonte indica que tratados internacionais de direitos humanos ratificados antes da EC 45/2004 possuem status de norma supralegal, acima das leis ordinárias, mas abaixo da Constituição, conforme entendimento do STF."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Com base na NR 13 - Caldeiras, Vasos de Pressão, Tubulações e Tanques Metálicos de Armazenamento, assinale a opção correta.",
 "alternativa1": "A NR-13 é classificada como uma norma setorial pela Portaria SIT nº 787 de 2018, aplicando-se aos empregadores que utilizam caldeiras, vasos de pressão, tubulações e tanques metálicos de armazenamento em seu processo produtivo.",
 "alternativa2": "O objetivo central da NR-13 é estabelecer requisitos mínimos para a gestão da integridade estrutural dos equipamentos abrangidos, focando na prevenção de falhas ou danos que possam levar a acidentes.",
@@ -451,7 +451,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (B) está correta. A fonte afirma que o objetivo central da NR-13 é estabelecer requisitos mínimos para a gestão da integridade estrutural dos equipamentos abrangidos, visando prevenir falhas ou danos que causem acidentes."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Com base na comparação entre caldeiras flamotubulares e aquotubulares apresentada, assinale a opção correta.",
 "alternativa1": "O princípio de funcionamento das caldeiras aquotubulares consiste na passagem dos gases quentes por dentro de tubos, os quais aquecem a água que os circunda.",
 "alternativa2": "Devido à sua simplicidade e baixo custo, caldeiras do tipo flamotubular são a escolha predominante para aplicações de alta pressão e capacidade, como em refinarias de petróleo.",
@@ -462,7 +462,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (D) está correta. A fonte compara caldeiras aquotubulares e flamotubulares, indicando que as aquotubulares geralmente têm maior eficiência e capacidade para pressões mais elevadas, mas exigem maior controle da qualidade da água e têm custo inicial maior."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Com base no Campo de Aplicação da NR-13 para caldeiras e vasos de pressão, julgue os itens a seguir.\<br>I.   Caldeiras com volume interno igual ou inferior a 100 litros estão excluídas do escopo da NR-13, independentemente de sua pressão de operação.\<br>II.  Qualquer vaso de pressão que contenha fluido classe A (inflamável, combustível > 200°C, tóxico ≤ 20 ppm, hidrogênio ou acetileno) se enquadra na NR-13, independentemente do valor do produto P.V.\<br>III. Vasos de pressão cujo produto P.V seja superior a 8 (P em kPa, V em m³) somente serão abrangidos pela NR-13 se contiverem fluidos das classes A ou B.\<br>IV.  Recipientes móveis são enquadrados pela NR-13 caso seu produto P.V seja maior que 8 ou se contiverem fluidos da classe A, critérios análogos aos de vasos fixos.\<br>V.   Recipientes móveis são recipientes transportáveis pressurizados que podem ser movidos dentro de uma instalação ou entre instalações.\nAssinale a opção correta.",
 "alternativa1": "Apenas as assertivas I e III estão corretas.",
 "alternativa2": "Apenas as assertivas II e V estão corretas.",
@@ -473,7 +473,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (D) está correta. A assertiva I exclui caldeiras com volume <= 100L. A assertiva II inclui vasos com fluido classe A independentemente do P.V.. A assertiva IV enquadra recipientes móveis por P.V. > 8 ou fluido classe A. As assertivas III e V não são suportadas ou contrariadas pelo texto fornecido."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Com base nas situações que configuram Risco Grave e Iminente (RGI) segundo a NR-13, assinale a opção correta.",
 "alternativa1": "O bloqueio de um dispositivo de segurança, mesmo que tecnicamente justificado por normas, códigos ou procedimentos formais, sempre caracterizará Risco Grave e Iminente em qualquer equipamento da NR-13.",
 "alternativa2": "A operação de um vaso de pressão com relatório de inspeção indicando inaptidão operacional só configura Risco Grave e Iminente se o equipamento contiver fluido da classe A ou B.",
@@ -484,7 +484,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (D) está correta. A fonte lista o atraso na inspeção periódica e a falta de operação/controle por operador como situações de Risco Grave e Iminente especificamente para caldeiras."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "De acordo com a NR 18, em relação às áreas de vivência do canteiro de obras, assinale a alternativa que apresenta instalações  obrigatórias para os casos em que não existam trabalhadores alojados no canteiro:",
 "alternativa1": "Instalação Sanitária, Local para Refeição e Área de Lazer.",
 "alternativa2": "Instalação Sanitária, Cozinha e Lavanderia.",
@@ -495,7 +495,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (E) está correta. Para canteiros de obra sem alojamento, a fonte lista como instalações obrigatórias: Instalação Sanitária, Vestiário e Local para Refeição."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Com base nos dados e análises de acidentalidade no setor da construção civil, identifique a alternativa que descreve corretamente o principal fator de risco ou situação geradora de acidentes e/ou fatalidades:",
 "alternativa1": "Exposição à energia elétrica.",
 "alternativa2": "Queda de pessoas.",
@@ -506,7 +506,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (B) está correta. Embora o texto não forneça dados específicos, a pergunta se baseia neles e o gabarito indica que a 'Queda de pessoas' é o principal fator de risco/situação geradora de acidentes/fatalidades na construção civil, o que é consistentemente reportado em estudos da área."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Analise as seguintes afirmações relativas a diferentes exigências da NR-18 para segurança e saúde na indústria da construção:\<br>I. É vedado o uso de copos coletivos para consumo de água potável nos canteiros de obra, devendo esta ser filtrada e fresca.\<br>II. Torres de andaimes simplesmente apoiados, caso não sejam estaiadas ou fixadas à estrutura, não podem ter altura superior a quatro vezes a menor dimensão de sua base de apoio.\<br>III. As instalações sanitárias devem estar localizadas a, no máximo, 50 metros de distância do posto de trabalho de cada trabalhador para serem consideradas adequadas pela NR-18.\<br>IV. É proibida a queima de resíduos no canteiro de obras, e a madeira proveniente de desmonte deve ter pregos e arames retirados ou rebatidos antes de seu empilhamento.\<br>V. A interligação entre estruturas de andaimes suspensos é proibida, assim como a utilização de trechos da plataforma destes andaimes em balanço.\nEstão CORRETAS apenas as afirmativas:",
 "alternativa1": "I, II, IV e V.",
 "alternativa2": "II, III e IV.",
@@ -517,7 +517,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (A) está correta. A assertiva I proíbe copos coletivos e exige água filtrada/fresca. A assertiva II limita a altura de andaimes apoiados não estaiados/fixados a 4 vezes a menor dimensão da base. A assertiva IV proíbe a queima de resíduos e exige retirada/rebatimento de pregos/arames em madeira de desmonte. A assertiva V proíbe a interligação de andaimes suspensos e trechos em balanço. A assertiva III, sobre a distância das instalações sanitárias, não é suportada pelo texto."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "A NR-18, tratando sobre Plataforma elevatória móvel de trabalho - PEMT, estabelece requisitos específicos para a operação segura desses equipamentos. Qual das seguintes ações é um dever do operador da PEMT?",
 "alternativa1": "Realizar a manutenção preventiva e corretiva da PEMT, incluindo a troca de componentes hidráulicos e elétricos.",
 "alternativa2": "Realizar a inspeção diária do local de trabalho onde será utilizada a PEMT.",
@@ -528,7 +528,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (B) está correta. A fonte indica que é dever do operador da PEMT realizar a inspeção diária do local de trabalho onde o equipamento será utilizado."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Considerando a finalidade de cada tipo de Sistema de Proteção Individual Contra Quedas (SPIQ), conforme NR-35, assinale a alternativa correta:",
 "alternativa1": "O tipo de SPIQ selecionado quando se busca evitar que o trabalhador alcance fisicamente uma zona de perigo de queda é o de restrição de movimentação.",
 "alternativa2": "Quando a queda não pode ser impedida, mas suas consequências devem ser minimizadas pela interrupção da queda após iniciada, utiliza-se o SPIQ de posicionamento no trabalho.",
@@ -539,7 +539,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (A) está correta. A fonte define o SPIQ de restrição de movimentação como aquele usado para evitar que o trabalhador alcance uma zona de perigo de queda."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Sobre os Procedimentos Operacionais (PO), Permissões de Trabalho (PT) e Análise de Risco (AR) para trabalho em altura, conforme NR-35, assinale a alternativa correta:",
 "alternativa1": "Para atividades rotineiras em altura, a NR-35 exige a emissão diária de uma Permissão de Trabalho (PT), além da existência de um Procedimento Operacional (PO).",
 "alternativa2": "O Procedimento Operacional (PO) é exigido para atividades habituais e não habituais, devendo incluir o detalhamento da tarefa, as medidas de prevenção e os sistemas de proteção a serem utilizados.",
@@ -550,7 +550,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (E) está correta. A fonte afirma que a Permissão de Trabalho (PT), exigida para atividades não rotineiras, deve ser aprovada, acessível no local e arquivada após o encerramento."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Considerando as exigências da NR-31 relativas às Condições Sanitárias e de Conforto no Trabalho Rural, especialmente quanto às obrigações do empregador nas frentes de trabalho, é correto afirmar que:",
 "alternativa1": "Nas frentes de trabalho, a disponibilização de instalações sanitárias é obrigatória, devendo seguir os requisitos da NR-24 (Condições Sanitárias e de Conforto nos Locais de Trabalho), complementando a NR-31.",
 "alternativa2": "O fornecimento de água potável nas frentes de trabalho é mandatório, porém a norma permite o uso de copos coletivos higienizados periodicamente, e a água não precisa ser necessariamente fresca, bastando ser potável.",
@@ -561,7 +561,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (C) está correta. A fonte estabelece a obrigatoriedade de instalações sanitárias e locais de refeição/descanso protegidos contra intempéries nas frentes de trabalho, fixas ou móveis, e fornecimento de água potável e fresca durante a jornada."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Considerando as disposições da NR-31 sobre as regras aplicáveis a alojamentos e a relação com outras normas, assinale a alternativa correta:",
 "alternativa1": "A NR-24 (Condições Sanitárias e de Conforto nos Locais de Trabalho) aplica-se subsidiariamente à NR-31, especialmente no que se refere aos requisitos para locais de preparo de refeições em alojamentos com mais de 10 trabalhadores.",
 "alternativa2": "Nos alojamentos, os locais para preparo de refeições possuem requisitos flexibilizados se atenderem até 15 trabalhadores, e o local de refeições deve ser sempre separado do local de convivência ou lazer.",
@@ -572,7 +572,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (D) está correta. A fonte afirma que a norma prevê local de convivência ou lazer nos alojamentos, podendo ser o local de refeições utilizado para este fim."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "A NR-31 introduz o conceito de Dispositivos de Proteção Pessoal, distinguindo-os dos Equipamentos de Proteção Individual (EPI). Com base nas definições e especificações contidas na norma sobre esses dispositivos, assinale a alternativa correta:",
 "alternativa1": "Dispositivos de Proteção Pessoal, como perneiras contra picadas de animais peçonhentos e coletes refletivos, são previstos na NR-31 para finalidades específicas, não são enquadrados como EPI e, portanto, não possuem Certificado de Aprovação (CA).",
 "alternativa2": "Consideram-se Dispositivos de Proteção Pessoal todos os itens fornecidos pelo empregador para proteção que não constam no Anexo I da NR-6, sendo obrigatório que possuam um Certificado de Aprovação (CA) simplificado emitido por órgão estadual.",
@@ -583,7 +583,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (A) está correta. A fonte define Dispositivos de Proteção Pessoal para finalidades específicas, como perneiras contra animais peçonhentos e coletes refletivos, não os enquadrando como EPIs e, portanto, sem CA."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "*Um pequeno escritório de contabilidade emprega 8 funcionários (5 mulheres e 3 homens). A atividade não exige troca de roupa ou uso de uniformes. Os funcionários costumam almoçar no próprio escritório, trazendo suas refeições de casa. O local possui um banheiro individual unissex com vaso sanitário e lavatório, devidamente higienizado.*\nCom base na NR-24, considerando o número de funcionários e a natureza da atividade, assinale a alternativa correta sobre as obrigações do empregador neste cenário:",
 "alternativa1": "O empregador está isento de oferecer qualquer local para refeições pelo local não dispor de trabalhadores em alojamento.",
 "alternativa2": "Embora não seja exigido um refeitório formal, o empregador deve garantir um local apropriado e com condições de conforto e higiene para as refeições, separado das áreas de trabalho efetivo, além de assegurar instalações sanitárias separadas por sexo.",
@@ -594,7 +594,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (C) está correta. A fonte, ao descrever o cenário, menciona que 'O local possui um banheiro individual unissex com vaso sanitário e lavatório, devidamente higienizado', e a pergunta pede a avaliação com base na NR-2<br>4.Embora o excerto não detalhe as regras da NR-24, a estrutura da questão e gabarito indica que, para este número e tipo de funcionários/atividade, o banheiro unissex com privacidade atende à norma. Outras opções impõem exigências não necessariamente aplicáveis a este cenário pequeno e de baixo risco (refeitório formal, vestiários com armários, chuveiros obrigatórios para todos)."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Com base na classificação de risco dos agentes biológicos classificados pelo Ministério da Saúde, qual alternativa descreve corretamente as características de um agente pertencente à Classe de Risco 2?",
 "alternativa1": "Inclui agentes conhecidos por não causarem doenças no homem ou animais sadios, apresentando baixo risco individual e para a comunidade.",
 "alternativa2": "Inclui vírus e príons, como o responsável pelo \"mal da vaca louca\", caracterizados por alto risco individual e moderado para a comunidade, com tratamento conhecido.",
@@ -605,7 +605,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (E) está correta. A fonte descreve os agentes da Classe de Risco 2 como aqueles que causam infecções em humanos ou animais, com potencial limitado de propagação e para os quais existem medidas profiláticas e terapêuticas eficazes."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "A NR-33 aborda o risco de explosão em espaços confinados, especialmente em locais com poeira combustível. Nesse contexto, quais são os cinco elementos que compõem o “pentágono de explosão” que pode gerar deflagração com consequente explosão primária?",
 "alternativa1": "Oxigênio no ar, poeira em camadas, fonte de ignição, ventilação insuficiente e material particulado.",
 "alternativa2": "Gás inflamável, fonte de ignição, oxigênio no ar, confinamento e pressão atmosférica elevada.",
@@ -616,7 +616,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (C) está correta. A fonte lista os cinco elementos do \"pentágono de explosão\" para poeira combustível: Oxigênio no ar, poeira combustível, confinamento de poeiras, fonte de ignição e dispersão de partículas."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Conforme a NR-33, um ambiente é considerado espaço confinado SE:",
 "alternativa1": "Possuir meios limitados de entrada/saída e potencial para atmosfera perigosa, mesmo que seja projetado para ocupação humana contínua.",
 "alternativa2": "Não for projetado para ocupação humana contínua e possuir risco de engolfamento ou afogamento, independentemente dos meios de acesso serem limitados ou não.",
@@ -627,7 +627,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (D) está correta. A fonte define espaço confinado como ambiente com meios limitados de entrada/saída, não projetado para ocupação contínua e que possua ou possa vir a possuir potencial para atmosfera perigosa OU conter material com potencial de engolfamento OU configurar um ambiente perigoso reconhecido. A alternativa D abrange três dos critérios (meios limitados, não projetado para ocupação contínua, potencial de engolfamento/afogamento)."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Com base no campo de aplicação da NR-30 (Segurança e Saúde no Trabalho Aquaviário) e nas disposições sobre embarcações classificadas pela Convenção SOLAS, julgue os itens a seguir.\<br>I.   Independentemente da nacionalidade, a NR-30 se aplica a qualquer embarcação que explora atividade econômica dentro do Brasil.\<br>II.  Pelo princípio da extraterritorialidade, embarcações de bandeira estrangeira que realizam apenas transporte de passageiros no Brasil, seguem exclusivamente a legislação de seu país de origem, estando isentas da NR-30.\<br>III. Às embarcações classificadas de acordo com a Convenção Solas, cujas normas de segurança são auditadas pelas sociedades classificadoras, não se aplica a Norma Regulamentadora nº 30 (NR-30), desde que apresentados os certificados de classe .\<br>IV.  A Convenção SOLAS visa estabelecer padrões mínimos de segurança para navios, e as Sociedades Classificadoras atuam na implementação e fiscalização dessas normas de segurança.\nAssinale a opção correta.",
 "alternativa1": "Apenas a assertiva II está correta.",
 "alternativa2": "Apenas as assertivas I e III estão corretas.",
@@ -638,7 +638,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (D) está correta. A assertiva I afirma a aplicação da NR-30 a embarcações que exploram atividade econômica no Brasil, independentemente da nacionalidade. A assertiva IV descreve corretamente a Convenção SOLAS e o papel das Sociedades Classificadoras. As assertivas II e III não são suportadas pelo texto."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "A NR-30 menciona a necessidade de um sistema de calefação (aquecimento) nos alojamentos das embarcações para garantir o conforto térmico. Qual é a exceção estabelecida na norma para esta exigência?",
 "alternativa1": "A exigência de sistema de calefação aplica-se apenas a embarcações que navegam em águas internacionais ou de clima temperado/frio.",
 "alternativa2": "A instalação de sistema de calefação torna-se facultativa caso a embarcação possua um sistema de ventilação forçada com controle de temperatura.",
@@ -649,7 +649,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (C) está correta. A fonte estabelece que a exigência de sistema de calefação nos alojamentos das embarcações é dispensada para aquelas que operam exclusivamente em regiões tropicais."
 },
 {
-"tema": "#Simulasque 1 😱",
+"tema": "#Simulasque P2.1 😱",
 "pergunta": "Considerando o estudo de caso sobre amputação em motores e equipamentos de embarcações e as Normas Regulamentadoras aplicáveis, assinale a opção correta.",
 "alternativa1": "Acidentes envolvendo correias expostas em salas de máquinas são causados exclusivamente por atos inseguros dos tripulantes, como marinheiros ou moços de máquinas.",
 "alternativa2": "A NR-30 contém requisitos próprios e exaustivos para segurança em máquinas a bordo, o que dispensa a aplicação complementar da NR-12 nesse tipo de ambiente.",
@@ -660,7 +660,7 @@ const questoes = [
 "gabaritoComentado": "A alternativa (E) está correta. A fonte afirma que a NR-30 estabelece a aplicabilidade complementar da NR-12 para máquinas em embarcações, e que a NR-12 exige proteções fixas ou móveis com intertravamento para transmissões de força e componentes móveis acessíveis que ofereçam risco."
 },
     {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Considerando as etapas clássicas do processo de trabalho da Higiene Ocupacional e as adições mais recentes propostas por associações internacionais, analise as seguintes assertivas:\<br>I. A etapa de antecipação foca na identificação de riscos já presentes em um ambiente de trabalho existente, por meio da observação direta dos processos.\<br>II. O reconhecimento envolve a previsão de perigos potenciais durante a fase de planejamento ou projeto de novas instalações ou processos, visando evitá-los desde o início.\<br>III. A avaliação pode ser realizada tanto de forma quantitativa, comparando medições com Limites de Exposição Ocupacional (LEO), quanto qualitativa, utilizando ferramentas como matrizes de risco ou bandas de controle.\<br>IV. A etapa de confirmação, adicionada pela American Industrial Hygiene Association (AIHA), tem como objetivo validar a correção das avaliações e a eficácia dos controles implementados na redução das exposições.",
     "alternativa1": "(A) Apenas as assertivas I e II estão corretas.",
     "alternativa2": "(B) Apenas as assertivas III e IV estão corretas.",
@@ -671,7 +671,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: I está incorreta (descreve reconhecimento). II está incorreta\n(descreve antecipação). III está correta (avaliação quantitativa e qualitativa). IV está correta (definição da etapa de confirmação). (Apostila Vol II, págs. 238, 245-248)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Em uma construtora, um trabalhador (João) opera um martelete pneumático para quebrar concreto durante a maior parte de sua jornada, enquanto outro trabalhador (Pedro) opera um trator de esteira para realizar serviços de terraplanagem.\nConsiderando a exposição a vibrações discutida no material de Higiene Ocupacional, qual a classificação correta do tipo de vibração predominante para cada trabalhador e a abordagem geral para avaliação?",
     "alternativa1": "(A) João está exposto a Vibrações de Corpo Inteiro (VCI) e Pedro a Vibrações em Mãos e Braços (VMB). A avaliação deve ser apenas qualitativa para ambos, baseada na percepção de desconforto.",
     "alternativa2": "(B) Ambos os trabalhadores estão expostos principalmente a Vibrações de Corpo Inteiro (VCI). A avaliação quantitativa só se torna necessária se eles relatarem sintomas como formigamento ou dores na coluna.",
@@ -682,7 +682,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: João (martelete) expõe-se a VMB; Pedro (trator) expõe-se a VCI. Ambas devem ser reconhecidas e avaliadas. (Apostila Vol II, pág. 242)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Considerando a hierarquia das medidas de controle de riscos ocupacionais, analise as seguintes situações e as medidas propostas:\<br>I. Em uma operação de jateamento que utiliza quartzo granulado, a empresa substitui este material por granalha de aço para reduzir o risco de silicose. Esta ação corresponde à minimização do fator de risco pela substituição do produto nocivo.\<br>II. Para controlar a exposição a vapores em banhos de galvanoplastia, a empresa instala um sistema de ventilação local exaustora projetado para capturar o contaminante junto à fonte geradora. Esta medida é classificada como proteção coletiva.\<br>III. Em uma atividade de corte de cana-de-açúcar sob calor intenso, a empresa implementa pausas em locais com temperaturas amenas, rodízio de tarefas e fornece Equipamento de Proteção Individual (EPI) adequado. Essas ações combinam medidas administrativas/organizacionais e proteção individual, aplicadas quando as medidas coletivas não são suficientes ou aplicáveis isoladamente.",
     "alternativa1": "(A) I, apenas.",
     "alternativa2": "(B) II, apenas.",
@@ -693,7 +693,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: I (substituição) está correta. II (VLE = proteção coletiva) está correta. III (pausas/rodízio = adm/org; EPI = individual) está correta. (Apostila Vol II, págs. 249, 250)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Um trabalhador atua há 15 anos em uma pedreira, operando máquinas de corte de rochas ornamentais sem o uso consistente de proteção respiratória adequada ou métodos de umidificação para controle de poeira. Ele começa a apresentar dispneia (falta de ar) progressiva. Considerando a descrição da fisiopatologia da silicose, qual mecanismo explica o quadro clínico do trabalhador?",
     "alternativa1": "(A) As partículas maiores de sílica causam obstrução direta das vias aéreas superiores, levando à falta de ar.",
     "alternativa2": "(B) A exposição crônica à poeira de sílica causa uma reação alérgica nos brônquios, similar à asma ocupacional.",
@@ -704,7 +704,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: A silicose resulta da inalação de partículas finas (<5 μm) que atingem os alvéolos, causam reação celular e fibrose, com perda progressiva da função de troca gasosa e dispneia. (Apostila Vol II, pág. 262)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "O estabelecimento do nexo de causalidade entre um agravo à saúde e o trabalho implica considerar diferentes e sucessivos nexos parciais. Qual alternativa descreve corretamente a sequência e o conteúdo desses nexos parciais, conforme apresentado no texto?",
     "alternativa1": "(A) I- Nexo entre o risco e a lesão (demonstrar que o risco causa a lesão); II- Nexo entre a atividade e a exposição ao risco (demonstrar que a atividade expõe ao risco); III- Nexo entre a lesão e a alteração funcional (analisar compatibilidade entre lesão e alteração funcional).",
     "alternativa2": "(B) I- Nexo entre a atividade e a exposição ao risco (demonstrar que a atividade expõe ao risco); II- Nexo entre o risco e a lesão (demonstrar que o risco causa a lesão); III- Nexo causal entre a lesão e a alteração funcional (analisar compatibilidade entre lesão e alteração funcional).",
@@ -715,7 +715,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: A sequência correta dos nexos parciais é: I - Atividade -> Exposição ao risco; II - Risco -> Lesão; III - Lesão -> Alteração Funcional. (Apostila Vol II, pág. 268)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Sobre as principais vias de penetração de agentes tóxicos no organismo em um contexto ocupacional, qual das seguintes afirmações sobre a via digestiva está correta?",
     "alternativa1": "(A) É a via mais importante devido à grande área de superfície do trato gastrointestinal e sua alta capacidade de absorção.",
     "alternativa2": "(B) Os agentes químicos absorvidos por esta via atingem diretamente a circulação sistêmica, sem passar pelo fígado.",
@@ -726,7 +726,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: A deglutição de partículas inaladas via clearance mucociliar é\numa forma de contaminação ocupacional pela via digestiva. As outras opções estão incorretas sobre importância, passagem pelo fígado ou pH estomacal. (Apostila Vol III, págs. 13 e 14)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Considerando as classificações de toxicidade baseadas nos órgãos ou sistemas primariamente afetados, qual termo se refere a agentes químicos que especificamente lesam os nervos\nperiféricos, causando sintomas como dormências, formigamento e fraqueza, principalmente nos membros inferiores?",
     "alternativa1": "(A) Hepatotóxicos",
     "alternativa2": "(B) Mielotóxicos",
@@ -737,7 +737,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: Agentes que lesam nervos periféricos causando dormência, formigamento e fraqueza são classificados como Neurotóxicos. (Apostila Vol III, págs. 16 e 17)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Com base nas classificações e mecanismos de ação dos agentes tóxicos apresentados, assinale a alternativa correta:",
     "alternativa1": "(A) Tanto os agentes carcinogênicos quanto agentes mutagênicos podem atuar por mecanismos genotóxicos. Os carcinogênicos são agentes cuja exposição pode causar câncer, podendo ser agentes químicos, físicos ou biológicos. Já os mutagênicos são agentes químicos que produzem alterações no material genético das células.",
     "alternativa2": "(B) Agentes sensibilizantes são aqueles que causam uma reação alérgica imediata e intensa já no primeiro contato com o organismo, podendo acometer a pele (causando dermatites), as mucosas (levando a conjuntivites e rinites) ou as vias respiratórias (causando asma).",
@@ -748,7 +748,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: Carcinogênicos podem ter modos de ação genotóxicos ou não. Mutagênicos atuam no material genético. (B) Incorreta, sensibilizantes requerem contato prévio. (C) Incorreta, asfixiantes químicos podem agir em baixas concentrações. (D) Incorreta, irritantes secundários têm ação local E sistêmica. (E) Incorreta, anestésicos/narcóticos têm ação depressora. (Apostila Vol III, págs. 8, 11, 12, 16, 20, 21)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Uma empresa identifica, por meio de Avaliação Ergonômica Preliminar (AEP), uma atividade específica que submete os trabalhadores a movimentos repetitivos dos membros superiores, classificados como de risco ergonômico. A análise indica que uma alteração completa da forma de execução da tarefa ou a implementação de outras medidas técnicas de engenharia para eliminar o risco são inviáveis no curto prazo. Considerando esta situação e as exigências normativas para medidas de prevenção, analise as afirmações abaixo:\<br>I. A empresa atenderia à exigência mínima ao implementar apenas pausas, fora do posto do trabalho, e alternância de atividades com outra tarefa que utilize grupos musculares distintos como medidas de prevenção para a situação.\<br>II. A validade da introdução das pausas como medida preventiva está condicionada ao fato de não serem acompanhadas por um aumento na cadência individual de trabalho.\<br>III. Caso a empresa consiga posteriormente alterar a forma de execução da tarefa e implementar outras medidas técnicas aplicáveis, recomendadas na AEP, conseguiria atender às exigências para as medidas de prevenção, dispensando a necessidade das pausas e alternância de atividades.",
     "alternativa1": "(A) I.",
     "alternativa2": "(B) II.",
@@ -759,7 +759,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: I é correta (pausa + alternância atendem ao mínimo de duas\nmedidas - 17.4.3.1 - e são obrigatórias se outras forem inviáveis - 17.4.3.1.1). II é correta (pausa não pode ser acompanhada de aumento de cadência - 17.4.3.2). III é correta (se outras medidas forem implementadas, cumpre-se o requisito de \"duas ou mais\", dispensando a obrigatoriedade da combinação pausa e alternância). (Apostila Vol III, págs. 39 e 40)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Considere uma Microempresa (ME) com 7 empregados, classificada no grau de risco <br>3.De acordo com as regras da NR 17 sobre ergonomia, qual é a situação correta desta ME em relação às obrigações de realizar Análise Ergonômica do Trabalho (AET) e de orientar seus supervisores sobre aspectos de gestão e relacionamento ?",
     "alternativa1": "(A) Está totalmente dispensada de ambas as obrigações (realizar AET e orientar supervisores).",
     "alternativa2": "(B) Deve realizar a AET nos casos exigidos,  mas está dispensada da obrigação de orientar os supervisores.",
@@ -770,7 +770,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: Sendo ME, GR 3 e 7 empregados: AET é exigida apenas nos casos previstos na norma (não dispensada automaticamente como GR 1 e 2).\nA orientação de supervisores é dispensada por ter até 10 empregados. (Apostila Vol III, págs. 32, 38, 40, 41)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Com base nas informações sobre o desenvolvimento de lesões no sistema musculoesquelético relacionadas ao trabalho, assinale a alternativa correta:",
     "alternativa1": "(A) Os ossos, por serem estruturas rígidas com grande resistência à compressão, são particularmente suscetíveis a lesões inflamatórias decorrentes de esforços repetitivos, sendo as fraturas por estresse as mais comuns.",
     "alternativa2": "(B) O aumento da pressão intramuscular resultante de contrações musculares repetitivas dificulta a resolução de processos inflamatórios no músculo ao reduzir o fluxo sanguíneo local.",
@@ -781,7 +781,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: O aumento da pressão intramuscular reduz o fluxo sanguíneo,\ndificultando a resolução de inflamações no músculo. (A) Incorreta (ossos resistentes). (C) Incorreta (tendões menos vascularizados). (D) Incorreta (fator degenerativo primário). (E) Incorreta (inflamação por sobrecarga pode ocorrer). (Apostila Vol III, págs. 52, 53, 54)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Com base nos conceitos sobre Organização do Trabalho, assinale a alternativa correta:",
     "alternativa1": "(A) A Exigência de Tempo corresponde ao tempo total disponível para o trabalhador realizar suas tarefas.",
     "alternativa2": "(B) Normas de Produção, no contexto da NR-17, correspondem a todos os dispositivos existentes no ambiente laboral para a execução da tarefa.",
@@ -792,7 +792,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: A alternativa (D) define corretamente \"Conteúdo das Tarefas\" conforme a apostila. As demais definições (A - Exigência de Tempo, B - Normas de Produção, C - Ritmo/Cadência, E - Modo Operatório ) estão incorretas ou invertidas. (Apostila Vol III, págs. 62-65)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Um trabalhador de uma indústria de alimentos realiza, durante sua jornada, movimentos repetitivos de preensão e rotação do punho para embalar produtos. Ele começa a sentir dor e notar um leve inchaço ao longo do trajeto de um dos tendões que movimentam seu polegar. A dor parece mais pronunciada na estrutura tubular que envolve e guia esse tendão próximo ao punho, dificultando o deslizamento suave durante o movimento. Considerando os processos inflamatórios que podem acometer tendões e estruturas associadas devido a fatores laborais, qual termo descreve mais apropriadamente a condição inflamatória que afeta a membrana que envolve o tendão, como sugerido no cenário?",
     "alternativa1": "(A) Tenossinovite",
     "alternativa2": "(B) Tendinite",
@@ -803,7 +803,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: Inflamação da bainha (estrutura tubular) que envolve o tendão, dificultando o deslizamento, é Tenossinovite. (Apostila Vol III, pág. 53)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Considere a situação de um trabalhador que manteve uma conta vinculada do FGTS sem receber depósitos por mais de cinco anos ininterruptos após sair de um emprego, tornando-a, assim, uma conta inativa. Analise as seguintes afirmações sobre as consequências e direitos relacionados a essa conta:\<br>I. Após cinco anos de inatividade, o saldo da conta é automaticamente transferido para o Tesouro Nacional e o trabalhador perde permanentemente o direito de reivindicar esses valores.\<br>II. O direito do trabalhador de solicitar a reposição do saldo incorporado ao patrimônio do FGTS está sujeito ao mesmo prazo prescricional de cinco anos aplicável à cobrança de depósitos não realizados.\<br>III. Mesmo após a incorporação do saldo ao patrimônio do FGTS, o trabalhador conserva o direito de reclamar a reposição do valor a qualquer tempo, e este valor, quando restituído, deverá conter atualização monetária e juros.",
     "alternativa1": "(A) I.",
     "alternativa2": "(B) II.",
@@ -814,7 +814,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: Após 5 anos inativos, o saldo é incorporado ao FGTS, mas o\ntrabalhador pode reclamar a reposição a qualquer tempo, com correção e juros. I e II estão incorretas. (Apostila Vol III, pág. 85)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Considerando as características, finalidades e administração do Fundo de Garantia do Tempo de Serviço (FGTS) e do Fundo de Amparo ao Trabalhador (FAT), analise as seguintes afirmações:\<br>I. A concessão de parcelamento de débitos do FGTS aos empregadores é realizada pela Caixa Econômica Federal, seguindo critérios definidos pelo Ministério do Trabalho e Emprego.\<br>II. Compete ao Conselho Curador do FGTS estabelecer as diretrizes de alocação dos recursos, devendo destinar, obrigatoriamente, um mínimo de 60% dos investimentos para habitação popular\<br>III. É devido o recolhimento do FGTS em favor de trabalhador cujo contrato com a Administração Pública foi declarado nulo por falta de concurso prévio, contanto que seu direito ao salário pelo período trabalhado seja mantido\<br>IV. Além dos empregados celetistas urbanos e rurais e aprendizes, são também beneficiários do FGTS os trabalhadores temporários, safristas, domésticos e intermitentes\<br>V. Na extinção do contrato sem justa causa pelo empregador doméstico, a indenização compensatória do FGTS devida corresponde a 40% do montante dos depósitos da conta vinculada.",
     "alternativa1": "(A) I, II e IV.",
     "alternativa2": "(B) II, III e V.",
@@ -825,7 +825,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: I é incorreta (parcelamento passou para o MTE). II é correta. III é correta. IV é correta. V é incorreta (doméstico tem recolhimento mensal de 3,2%). Corretas: II, III, IV. (Apostila Vol III, págs. 74, 75, 77, 85)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Um trabalhador teve valores de FGTS não recolhidos por seu empregador relativos à competência de fevereiro de 2008. Considerando a decisão do Supremo Tribunal Federal (STF) no Recurso Extraordinário com Agravo (ARE) 709212, julgada em 13 de novembro de 2014, que alterou o prazo prescricional para reclamar depósitos não realizados do FGTS, e a regra de transição estabelecida para os prazos que já estavam em curso, qual seria a data limite para este trabalhador reclamar judicialmente os valores referentes a fevereiro de 2008?",
     "alternativa1": "(A) Fevereiro de 2038.",
     "alternativa2": "(B) Novembro de 2019.",
@@ -836,7 +836,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: Regra de transição: Fev/2008 + 30 anos = Fev/2038. Ou: 13/11/2014 + 5 anos = 13/11/2019. O prazo de Nov/2019 vence primeiro. (Apostila Vol III, pág. 82)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "A NR 1 estabelece critérios para a revisão do processo de avaliação de riscos ocupacionais. Qual das seguintes situações obriga a organização a realizar uma revisão imediata dessa avaliação?",
     "alternativa1": "(A) A constatação de que as medidas de prevenção existentes são eficazes, suficientes e adequadas.",
     "alternativa2": "(B) A passagem do prazo de 1 (um) ano desde a última avaliação.",
@@ -847,7 +847,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: A revisão é obrigatória após a implementação das medidas, para avaliar riscos residuais (alínea 'a' do 1.5.4.4.6). (A) Não obriga revisão. (B) Prazo geral é 2 anos. (D) Apenas se implicar novos riscos ou modificar existentes. (E) Solicitação da CIPA deve ser justificada. (Apostila Vol III, pág. 126-128)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Considerando a descrição da abordagem PDCA na estruturação do GRO, qual das seguintes afirmações interpreta de forma mais precisa a aplicação do ciclo e a integração sistêmica mencionada?",
     "alternativa1": "(A) A estruturação normativa do GRO via PDCA implica que as etapas \"Plan\" e \"Do\" ocorrem uma única vez na implementação, enquanto \"Check\" e \"Act\" são executadas de forma contínua e sistemática posteriormente.",
     "alternativa2": "(B) A integração do GRO com todos os processos de negócios implica que as ações de Segurança e Saúde no Trabalho devem ser consideradas um componente essencial e interligado às demais operações da organização, e não um sistema paralelo ou isolado.",
@@ -858,7 +858,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: A integração do GRO aos processos de negócios é essencial e não um sistema isolado. O PDCA é contínuo. O GRO é obrigatório. A ISO é referência. (E) Descrição do PDCA incorreta. (Apostila Vol III, págs. 99, 101, 102)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "As diretrizes e os requisitos para o Gerenciamento de Riscos Ocupacionais, que deve constituir um Programa de Gerenciamento de Riscos, estão estipulados na Norma Regulamentadora 01 - Disposições Gerais e Gerenciamento de Riscos Ocupacionais, de maneira que, a esse respeito, é correto afirmar que",
     "alternativa1": "(A) Para fins de caracterização de atividades ou operações penosas, insalubres ou perigosas, devem ser aplicadas, respectivamente, as disposições previstas na NR-17 – Ergonomia; NR-15 – Atividades e operações insalubres e NR-16 – Atividades e operações perigosas.",
     "alternativa2": "(B) A organização deve implementar o gerenciamento de riscos ocupacionais de forma global, considerando as peculiaridades das atividades desenvolvidas em cada uma de suas unidades de produção, com a respectiva documentação comprobatória disponível em sua sede para a inspeção do trabalho.",
@@ -869,7 +869,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (A) Incorreta (NR-17 não caracteriza penosidade). (B) Incorreta (PGR é por estabelecimento). (C) Incorreta (Consulta é obrigatória). (D) Correta (Conteúdo mínimo do PGR e responsabilidade). (E) Incorreta (Hierarquia mistura administrativa e organizacional). (Apostila Vol III, págs. 99, 100, 103, 128, 135, 139)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "A Norma Regulamentadora 01 – Disposições Gerais e Gerenciamento de Riscos Ocupacionais tem como objetivo estabelecer as disposições gerais, o campo de aplicação, os termos e as definições comuns às Normas Regulamentadoras (NR) relativas à segurança e saúde no trabalho, as diretrizes e os requisitos para o gerenciamento de riscos ocupacionais e as medidas de prevenção em Segurança e Saúde no Trabalho (SST).\nDe acordo com essa Norma, é correto afirmar que:",
     "alternativa1": "(A) Os procedimentos de respostas aos cenários de emergências devem prever: a) os meios e recursos necessários para os primeiros socorros, encaminhamento de acidentados e abandono; e b) as medidas necessárias para os cenários de emergências de grande magnitude, quando aplicável.",
     "alternativa2": "(B) No processo de identificação de perigos e avaliação de riscos ocupacionais, o levantamento preliminar de perigos deve ser realizado: a) Logo após o início do funcionamento do estabelecimento ou novas instalações; b) para as atividades existentes; e c) nas mudanças e introdução de novos processos ou atividades de trabalho.",
@@ -880,7 +880,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (A) Correta (Previsão mínima para resposta a emergências -item 1.5.6.2). (B) Incorreta (Levantamento preliminar é antes do início). (C) Incorreta (Definição ABNT NBR 15219 inclui dano contínuo). (D) É FISPQ (Ficha de Informações...). (E) Referência para FISPQ é o GHS. (Apostila Vol III, págs. 107, 141)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Considerando a etapa de \"Levantamento Preliminar de Perigos e Riscos\" no contexto do Gerenciamento de Riscos Ocupacionais (GRO), qual das seguintes afirmações descreve mais precisamente sua aplicação e resultados conforme a NR 1?",
     "alternativa1": "(A) Caso esta etapa conclua pela inexistência de riscos ocupacionais evidentes, a organização fica dispensada de prosseguir para as etapas de identificação de perigos e avaliação de riscos ocupacionais previstas no GRO.",
     "alternativa2": "(B) O risco ocupacional evidente pode ser definido como  toda situação de risco não controlado, que requer análise aprofundada, que não pode ser reduzida ou controlada pela adoção imediata de medidas de prevenção.",
@@ -891,7 +891,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (E) Correta (Se risco evidente não pode ser controlado imediatamente, registra no inventário e inclui no plano de ação - item 1.5.4.2.1.3). (A) Incorreta. (B) Incorreta. (C) Incorreta (prioriza EPC antes de EPI). (D) Incorreta (pode ser na etapa de identificação). (Apostila Vol III, págs. 107, 108, 128)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Uma empresa identificou no PGR um risco ergonômico \"Alto\" para movimentação manual de carga. O Plano de Ação prevê uma solução de engenharia em 6 meses, com pausas e rodízio (medidas administrativas) aplicadas interinamente. Antes do prazo da solução definitiva, o PCMSO reporta queixas de dores dos trabalhadores do setor, com possível associação à atividade.\nDiante deste relato do PCMSO, qual ação gerencial está MAIS ALINHADA com as diretrizes do GRO para revisão e melhoria contínua?",
     "alternativa1": "(A) Documentar os achados do PCMSO e anexá-los ao PGR, mantendo o cronograma original da solução de engenharia, pois esta resolverá o problema na raiz e as medidas interinas são paliativas por natureza.",
     "alternativa2": "(B) Intensificar as medidas administrativas (mais pausas, rodízio mais frequente), considerando-as a resposta adequada à situação atual enquanto se aguarda a solução de engenharia.",
@@ -902,7 +902,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: O relato do PCMSO com evidência de associação é um gatilho para reavaliar imediatamente os riscos e as medidas de prevenção (itens 1.5.5.1.1 'c', 1.5.4.4.6 'c', 1.5.4.4.6 'd', 7.5.19.5), alinhado com a melhoria contínua do GRO. (Apostila Vol III, págs. 117, 127, 129, 133)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Sobre os dispositivos de parada de emergência em máquinas e equipamentos, qual das seguintes características ou requisitos é fundamental para sua correta aplicação?",
     "alternativa1": "(A) A utilização como dispositivos de partida ou de acionamento é possível, caso a máquina seja equipada com outro dispositivo de parada de emergência.",
     "alternativa2": "(B) Podem ser dispensados em transportadores contínuos acessíveis aos trabalhadores, caso a análise de risco assim indicar.",
@@ -913,7 +913,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (B) Correta (Dispensa de parada de emergência em transportadores contínuos acessíveis se AR indicar - item 12.8.3). (A) Incorreta. (C) Incorreta (não é alternativa a proteções adequadas). (D) Incorreta (há exceções). (E) Incorreta (deve parar rápido). (Apostila Vol III, págs. 172, 174)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Com base nos princípios e requisitos de segurança no trabalho em máquinas e equipamentos apresentados, assinale a opção correta:",
     "alternativa1": "(A) Os dispositivos de intertravamento são componentes que possuem a finalidade de prevenir o funcionamento de funções perigosas da máquina quando a proteção móvel não estiver fechada, podendo funcionar por atuação mecânica (contato físico) ou sem atuação mecânica (magnéticos, óticos, etc.).",
     "alternativa2": "(B) É vedada a comercialização, leilão ou cessão a qualquer título de máquinas que não atendam aos preceitos normativos da NR-12, não se aplicando às máquinas comprovadamente destinadas à exportação, aos eletrodomésticos e aos equipamentos estacionários ou estáticos.",
@@ -924,7 +924,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (A) Correta (Descrição dos dispositivos de intertravamento). (B) Incorreta (Isenção para exportação na NR-12 é sobre requisitos técnicos). (C) Incorreta (Bloqueio para todas as fontes). (D) Incorreta (Capacitação antes de assumir). (E) Incorreta (Não há essa dispensa). (Apostila Vol III, págs. 154, 155, 164, 177, 179, 180)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Uma indústria precisa realizar a substituição de um componente crítico em uma máquina complexa, tarefa que envolve acesso a zonas perigosas elétricas e mecânicas e exige conhecimento técnico específico. O empregador designa para a tarefa um trabalhador experiente na operação da máquina, que recebeu treinamento interno sobre segurança (trabalhador \"capacitado\"), mas não possui curso técnico específico na área de manutenção daquela máquina (não é \"qualificado\") nem registro em conselho profissional (não é \"legalmente habilitado\"). Este trabalhador recebe autorização formal e um procedimento de trabalho e segurança genérico para máquinas e equipamentos.\nAssinale a afirmativa correta sobre esta situação:",
     "alternativa1": "(A) A designação do trabalhador para esta intervenção está adequada, pois a  norma permite que as manutenções em máquinas ou equipamentos possam ser feitas por profissional ou trabalhador capacitado, desde que tenha autorização formal do empregador e seja acompanhado por um supervisor.",
     "alternativa2": "(B) A aplicação de um procedimento genérico para a tarefa de substituição do componente crítico é permitido, desde que realizado a partir da apreciação de riscos e com as informações mínimas exigidas pela norma.",
@@ -935,7 +935,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: A NR-12 exige procedimentos de trabalho e segurança específicos e padronizados (item 12.13.1). Um procedimento genérico para uma tarefa crítica e complexa não atende a essa exigência. (A) Incorreta (Capacitado pode, mas procedimento é crucial). (B) Incorreta. (C) Não necessariamente PLH, pode ser qualificado/capacitado com procedimento adequado. (E) Autorização/treinamento/experiência não suprem a falta de procedimento específico. (Apostila Vol III, pág. 178)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Um eletricista autorizado precisa trocar um fusível queimado no painel de uma máquina. Ele desliga o disjuntor principal que alimenta a máquina, localizado externamente ao painel. Ao\nabrir o painel (que estava devidamente fechado e sinalizado), ele observa que a fiação interna está organizada, mas nota que a chave geral da máquina apresenta sinais de desgaste por uso excessivo como parada. Antes de tocar em qualquer componente interno para iniciar a troca do fusível, qual procedimento de segurança adicional é essencial e prioritário, considerando a falha mais crítica para a segurança imediata da intervenção?",
     "alternativa1": "(A) Verificar se a chave geral interna da máquina também foi desligada, além do disjuntor principal.",
     "alternativa2": "(B) Aplicar um dispositivo de bloqueio (cadeado) e uma etiqueta de sinalização no disjuntor principal externo que foi desligado.",
@@ -946,7 +946,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: Após desligar o disjuntor principal, o procedimento prioritário é o bloqueio e etiquetagem deste para impedir reenergização acidental (item 12.11.6 'b' e 'c'). (Apostila Vol III, pág. 177)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Para que uma instalação elétrica seja considerada efetivamente desenergizada e segura para intervenção, uma sequência específica de ações deve ser seguida. Qual alternativa apresenta CORRETAMENTE um passo essencial e sua posição relativa nessa sequência?",
     "alternativa1": "(A) A instalação de aterramento temporário deve ser realizada imediatamente após o seccionamento, antes da constatação de ausência de tensão.",
     "alternativa2": "(B) A constatação da ausência de tensão é o último passo, realizado após a instalação da sinalização de impedimento de reenergização.",
@@ -957,7 +957,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: A sinalização (f) é o último passo, ocorrendo após aterramento\n(d) e proteção (e). (Apostila Vol III, pág. 192)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Julgue os itens a seguir sobre trabalhos em instalações elétricas energizadas e as qualificações dos trabalhadores:",
     "alternativa1": "I.  As intervenções em instalações elétricas com tensão igual ou superior a 50 Volts em corrente alternada, ou superior a 120 Volts em corrente contínua só podem ser realizadas por trabalhadores qualificados, habilitados ou capacitados, desde que formalmente autorizados pela empresa.",
     "alternativa2": "II. Operações elementares em baixa tensão, como ligar e desligar disjuntores com equipamentos em perfeito estado, podem ser realizadas por qualquer pessoa não advertida.",
@@ -968,7 +968,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: I, II, III e IV estão corretas conforme itens 10.6.1, 10.6.1.2,\n10.2.4/10.2.7 e 10.6.1.1, respectivamente. (Apostila Vol III, pág. 192)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Considerando os conceitos e aplicações da epidemiologia na saúde ocupacional, qual das seguintes afirmações interpreta corretamente os indicadores e métodos epidemiológicos?",
     "alternativa1": "(A) Uma mesma doença pode apresentar, relativamente, alta incidência e baixa prevalência, ou também, relativamente, baixa incidência e alta prevalência. Isso implica dizer que as doenças do primeiro grupo “aparecem” menos frequentemente, mas persistem por muito mais tempo que as do segundo grupo.",
     "alternativa2": "(B) Estudos Transversais são estudos analíticos que podem ser utilizados para avaliar a exposição e o desfecho de uma população em um determinado ponto no tempo, como por exemplo, ao realizar uma pesquisa de prevalência de diabetes em uma população e sua relação com obesidade.",
@@ -979,7 +979,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (B) Correta (Descrição e exemplo de Estudos Transversais\nconforme apostila). (A) Inverte a implicação. (C) Descreve letalidade, não\nmortalidade. (D) Descreve Risco Relativo, não Atribuível. (E) Afirma \"nem sempre\", mas o texto diz \"sempre\". (Apostila Vol III, págs. 207-213)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "A avaliação dos resultados de uma intervenção aplicada a uma comunidade inteira, como um programa de vacinação municipal, é um exemplo de qual categoria principal de estudo epidemiológico?",
     "alternativa1": "(A) Estudos Observacionais Descritivos.",
     "alternativa2": "(B) Estudos Analíticos.",
@@ -990,7 +990,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (C) Correta (Ensaio comunitário é um tipo de Estudo Experimental). (Apostila Vol III, pág. 211)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Julgue os itens a seguir sobre a realização dos exames médicos ocupacionais previstos no PCMSO:",
     "alternativa1": "I.  O exame admissional deve ser realizado após o trabalhador iniciar suas atividades, permitindo avaliar sua adaptação inicial à função.",
     "alternativa2": "II. O exame periódico para trabalhadores expostos a riscos ocupacionais significativos deve ocorrer, em regra, a cada dois anos.",
@@ -1001,7 +1001,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: I é incorreta (admissional é antes). II é incorreta (periódico para expostos é anual ou menor). III é correta. IV é correta. Corretas: III e IV. (Apostila Vol III, págs. 217, 218)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Considerando a definição de que fatores psicossociais do trabalho decorrem das interações entre as características do trabalho (conteúdo, contexto, organização, etc.) e as características dos trabalhadores, tornando-se fatores de risco quando essas interações são negativas, qual das seguintes opções representam apenas fatores de risco psicossociais?",
     "alternativa1": "(A) Turnos noturnos realizados em horários flexíveis, porém com curtas jornadas.",
     "alternativa2": "(B) Baixa participação na tomada de decisões, mas com controle da carga de trabalho.",
@@ -1012,7 +1012,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (C) Correta (\"Pouco trabalho\", \"Trabalho em turnos\", \"Alto\nnível de pressão de tempo\" são listados como riscos no Quadro 1). As outras misturam riscos e não riscos. (Apostila Vol III, págs. 232, 233)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Julgue os itens a seguir quanto aos aspectos relacionados a psicopatologia do trabalho, gestão do trabalho e assédio moral :",
     "alternativa1": "I.   As táticas de assédio moral são diversas e frequentemente sutis, com raras ocorrências ou ameaças de violência física.",
     "alternativa2": "II. A Gestão por Estresse, um tipo de gestão abusiva ligada ao Assédio Moral Organizacional, visa aprimorar o desempenho, a eficiência e a rapidez no trabalho. Embora não tenha a intenção de destruir o trabalhador, essa gestão pode ter consequências desastrosas para a saúde devido à pressão excessiva imposta.",
@@ -1023,7 +1023,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: I está correta. II está correta. III está incorreta (agora afirma 'eliminar', o correto é 'mediar'). IV está incorreta (C190 abrange 'única ou repetida'). Corretas: I e II. (Apostila Vol III, págs. 229, 234, 236, 239)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Considerando as modalidades de constituição e as regras de dimensionamento do SESMT conforme a NR 04, assinale a opção correta:",
     "alternativa1": "(A) É permitida a constituição de SESMT compartilhado por empresas de atividades econômicas diferentes, desde que localizadas no mesmo município ou em municípios limítrofes.",
     "alternativa2": "(B) Independentemente da modalidade, o SESMT deve, como regra geral, atender apenas estabelecimentos localizados na mesma unidade federativa.",
@@ -1034,7 +1034,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (B) Correta (Regra geral é mesma UF, com exceção do 4.4.5).\n(A) Incorreta. (C) Incorreta. (D) Incorreta. (E) Incorreta. (Apostila Vol III, págs. 249, 250)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Sobre a Comissão Interna de Prevenção de Acidentes e de Assédio (CIPA), conforme a NR 5, assinale a alternativa correta:",
     "alternativa1": "(A) A CIPA tem como responsabilidade adotar medidas efetivas para realizar o combate ao assédio e às formas de violência no trabalho, fixando procedimentos para recebimento e acompanhamento de denúncias para apuração dos fatos.",
     "alternativa2": "(B) A organização deve enviar anualmente, de forma proativa, a documentação referente ao processo eleitoral da CIPA ao sindicato dos trabalhadores da categoria preponderante.",
@@ -1045,7 +1045,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (A) Incorreta. (B) Incorreta. (C) Incorreta. (D) Incorreta. (E)\nCorreta (item 5.3.1 'g'). (Apostila Vol IV, págs. 7, 9, 14, 17, 18)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Uma empresa do setor de agronegócio, classificada com Grau de Risco 3, opera com um quadro fixo de 60 empregados durante a maior parte do ano. No entanto, durante o período de colheita, que dura 4 meses (de maio a agosto), a empresa contrata mais 100 trabalhadores temporários, elevando seu efetivo para 160 empregados nesse período. No ano civil anterior, a média aritmética de trabalhadores foi calculada em 93 empregados. Como essa empresa deve proceder para dimensionar sua CIPA, de acordo com as regras da NR 05?",
     "alternativa1": "(A) Deve dimensionar a CIPA com base no número máximo de empregados (160).",
     "alternativa2": "(B) Deve dimensionar a CIPA com base na média aritmética do número de trabalhadores do ano civil anterior (93 empregados).",
@@ -1056,7 +1056,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: Item 5.4.2 determina dimensionamento pela média do ano\nanterior para regime sazonal. (Apostila Vol IV, pág. 13)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "De acordo com as disposições da NR-6 sobre o Equipamento de Proteção Individual (EPI), é correto afirmar que:",
     "alternativa1": "(A) O registro de fornecimento de EPI ao empregado, conforme exigido pela norma, deve ser realizado obrigatoriamente por meio de sistema eletrônico com assinatura digital, invalidando o uso de livros ou fichas físicas.",
     "alternativa2": "(B) Equipamento Conjugado de Proteção Individual é um EPI composto por vários dispositivos combinados pelo fabricante para proteger contra um ou mais riscos ocupacionais.",
@@ -1067,7 +1067,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (A) Correta (Definição de Equipamento Conjugado no item 6.2\n*'c'). (B) Incorreta (Definição de EPI geral, não conjugado). (C) Incorreta (Exige registro). (D) Incorreta (Higienização/manutenção periódica é do empregador). (E) Incorreta (Só Anexo I é EPI). Nota: Houve uma confusão na identificação das alternativas A e B na minha análise anterior e nesta. A alternativa (B) no simulado é \"Equipamento Conjugado...\" que corresponde à definição correta na pág. 27. A alternativa (A) no simulado é sobre registro eletrônico obrigatório, o que é incorreto pois a norma permite livros/fichas (pág. 29). Portanto, a resposta correta é B, e o Gabarito B está CORRETO.\nCorreção da Justificativa Q37: A alternativa (B) está correta pois define\nEquipamento Conjugado conforme a pág. 27. A alternativa (A) está incorreta pois o registro pode ser por livros ou fichas (pág. 29). O Gabarito B está correto."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Após um grave acidente de trabalho em uma construção civil, um Auditor-Fiscal do Trabalho (AFT) realiza uma análise detalhada do ocorrido, produzindo um relatório que aponta falhas significativas nas medidas de segurança adotadas pela construtora. Meses depois, o trabalhador acidentado ingressa com uma reclamação trabalhista buscando indenização por danos morais e materiais. Com base nas interações descritas no, em qual esfera judicial este relatório da AFT seria mais provavelmente utilizado como evidência fundamental para a decisão?",
     "alternativa1": "(A) Na Justiça Federal, pois acidentes de trabalho graves são considerados crimes federais contra a organização do trabalho.",
     "alternativa2": "(B) No Ministério Público do Trabalho (MPT), que utilizaria o relatório para negociar um Termo de Ajuste de Conduta (TAC) com a construtora, sem envolver o judiciário.",
@@ -1078,7 +1078,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: Relatórios da AFT são frequentemente usados como prova na\nJustiça do Trabalho. (Apostila Vol IV, pág. 40)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Analise as seguintes afirmações sobre a natureza do Direito do Trabalho (DT), o debate historiográfico brasileiro e a função dos direitos sociais:",
     "alternativa1": "I. O argumento de que a Consolidação das Leis do Trabalho (CLT) de 1943 foi inspirada na Carta del Lavoro, de Mussolini, foi consistentemente utilizado pelo movimento sindical para criticar a CLT, e pelo campo conservador para justificar reformas que flexibilizassem direitos.",
     "alternativa2": "II. O debate sobre a origem da legislação trabalhista brasileira envolve visões distintas (outorga vs. conquista), sendo considerado irrelevante por autores como Adalberto Cardoso, que enfatiza a \"facticidade\" dos direitos e a luta por eles.",
@@ -1089,7 +1089,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: I, II e III estão corretas. IV (welfarismo) e V (homogeneidade)\nestão incorretas. (Apostila Vol IV, págs. 50, 51)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Quanto à possibilidade de os Estados-membros fazerem reservas às Convenções da OIT, assinale a alternativa correta:",
     "alternativa1": "(A) Reservas são permitidas, desde que aprovadas previamente pelo Conselho de Administração da OIT.",
     "alternativa2": "(B) Reservas são permitidas apenas para as Recomendações, mas não para as Convenções.",
@@ -1100,7 +1100,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: A apostila afirma que \"Reservas às Convenções da OIT não são\npermitidas\", embora possa haver cláusulas de flexibilidade. (Apostila Vol IV, pág. 64)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Com base na NR 13 - Caldeiras, Vasos de Pressão, Tubulações e Tanques Metálicos de Armazenamento, assinale a opção correta:",
     "alternativa1": "(A) O principal fator de risco considerado pela NR-13 para os equipamentos abrangidos é a temperatura elevada dos fluidos contidos.",
     "alternativa2": "(B) As exigências normativas para equipamentos pressurizados foi, originalmente, iniciado através da Portaria MTb nº 3.214, de 8 de junho de 1978, com o título “caldeiras e vasos sob pressão”, de forma a regulamentar os artigos 187 e 188, da CLT.",
@@ -1111,7 +1111,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (D) Correta (PLH deve ser engenheiro com atribuições). (A)\<br>Incorreta (pressão). (B) Incorreta (título original era \"Vasos sob Pressão\"). (C)\n *Incorreta (pode ter uma parede adjacente). (E) Incorreta (localização da válvula difere). (Apostila Vol IV, págs. 75, 79, 86, 91, 96, 102).*"
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Em que condição específica a NR 13 permite que a periodicidade do exame interno de vasos de pressão com enchimento interno ou catalisador seja ampliada, podendo coincidir com a substituição desses materiais?",
     "alternativa1": "(A) Se o vaso for classificado na Categoria IV ou V.",
     "alternativa2": "(B) Mediante relatório expresso do fabricante do vaso de pressão.",
@@ -1122,7 +1122,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: O item 13.5.4.7 permite a ampliação da periodicidade com base em estudos por PLH ou grupo multidisciplinar. (Apostila Vol IV, pág. 101)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Considerando a inspeção de segurança em vasos de pressão conforme a NR 13, analise as afirmativas:\<br>I.  A inspeção de segurança inicial em vasos de pressão novos deve compreender, obrigatoriamente, exame interno, externo e teste de pressão para verificar a integridade estrutural no local de instalação.\<br>II. Vasos de pressão Categoria V, de produção seriada e certificados pelo INMETRO, estão dispensados da inspeção inicial se instalados conforme recomendações do fabricante.\<br>III. Vasos de pressão com temperatura de operação inferior a 0°C (criogênicos), em condições onde não ocorre deterioração comprovada pela experiência, devem passar por exame externo a cada 2 anos, ficando o exame interno a critério do PLH ou código de construção.\<br>IV. Uma diferença notável entre os gatilhos para inspeção extraordinária de caldeiras e vasos de pressão é o período de inatividade; enquanto uma caldeira inativa por 7 meses requer inspeção antes de retornar à operação, um vaso de pressão inativo pelo mesmo período não necessitaria dessa inspeção extraordinária específica por inatividade.\nEstá correto o que se afirma em:",
     "alternativa1": "(A) I, apenas.",
     "alternativa2": "(B) III e IV, apenas.",
@@ -1133,7 +1133,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: I é incorreta (teste de pressão não obrigatório na inspeção inicial do vaso). II é correta. III é correta. IV é correta (prazo inatividade > 6m caldeira, >12m vaso). Corretas: II, III, IV. (Apostila Vol IV, págs. 92, 99, 100, 101)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Um Auditor Fiscal do Trabalho, ao inspecionar diferentes áreas de uma grande indústria, encontra as seguintes situações:\n<br>1. Uma caldeira Categoria B (P=1 MPa, V=0.5 m3), cuja inspeção de segurança periódica está atrasada há 2 meses, sem justificativa formal pelo empregador.\n<br>2. Um forno industrial para tratamento térmico, cujas serpentinas internas de aquecimento de fluido térmico apresentam vazamento visível e risco de incêndio iminente, além da ausência de outros dispositivos de segurança.\n<br>3. Um vaso de pressão metálico contendo ar comprimido, com P.V = 9 (Pdispositivo de controle do nível de água em kPa, V em m3), operando sem dispositivo de controle do nível de água, cuja inspeção de segurança periódica está atrasada há mais de 12 meses.\n<br>4. Um tanque de armazenamento de produtos químicos, fabricado em Plástico Reforçado com Fibra de Vidro (PRFV), operando sob pressão de vácuo e sem nenhum dispositivo de segurança contra colapso por vácuo instalado.\nQuais destas situações configuram um Risco Grave e Iminente (RGI) que pode ser imediatamente enquadrado e tratado com base estrita na NR 13?",
     "alternativa1": "(A) Apenas a situação 1.",
     "alternativa2": "(B) As situações 1 e 2.",
@@ -1144,7 +1144,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: 1 (atraso inspeção caldeira) é RGI. 2 (forno) não NR 1<br>3.3 (vaso) não RGI por atraso ou falta controle nível. 4 (tanque PRFV) não NR 1<br>3.Apenas situação 1 é RGI pela NR 1<br>3.(Apostila Vol IV, págs. 83, 84, 101)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Sobre o uso de Cadeiras Suspensas na construção civil, de acordo com a NR 18, qual afirmação está correta?",
     "alternativa1": "(A) Seu uso é preferencial em relação aos andaimes suspensos por ser mais rápido de instalar.",
     "alternativa2": "(B) O trabalhador pode utilizar o mesmo ponto de ancoragem para a cadeira suspensa e para o seu Sistema de Proteção Individual Contra Quedas (SPIQ).",
@@ -1155,7 +1155,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (E) Correta, uso só se instalação de andaime/plataforma for\ninviável (item 18.11.34). (A) Incorreta. (B) Incorreta. (C) Incorreta. (D) Incorreta. (Apostila Vol IV, págs. 138, 139)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Considerando os serviços de escavação, fundação e desmonte de rochas na indústria da construção, qual procedimento é um requisito fundamental comum a todas essas atividades, conforme a norma apresentada?",
     "alternativa1": "(A) Todos os serviços e atividades de escavação, fundação e desmonte de rochas devem ser executados em conformidade com projeto elaborado por profissional legalmente habilitado (PLH).",
     "alternativa2": "(B) A realização prévia de estudo geotécnico detalhado é obrigatória para iniciar qualquer serviço de escavação, fundação ou desmonte de rochas, independentemente das características do local.",
@@ -1166,7 +1166,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (A) Correta, item 18.5.1 exige projeto por PLH para todas. As outras não são comuns a todas. (Apostila Vol IV, pág. 114)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Analise as seguintes afirmações relativas a diferentes exigências da NR-18 para segurança e saúde na indústria da construção:",
     "alternativa1": "I. A instalação de plataformas de proteção (bandejas) primária, secundária ou terciária, como sistema de proteção contra a queda de materiais, tornou-se facultativa após a última revisão da norma.",
     "alternativa2": "II. O uso de contrapesos para fixar a estrutura de sustentação de andaimes suspensos é permitido, desde que seu peso seja invariável e conhecido, além de outros requisitos.",
@@ -1177,7 +1177,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: I é correta. II é correta. III é correta. IV é correta. V é correta. Todas corretas. (Apostila Vol IV, págs. 112, 119, 124, 131, 133)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Durante uma operação de desmonte de rochas com uso de explosivos em um canteiro de obras, ocorre um acidente fatal envolvendo um trabalhador atingido por projeção de material rochoso fora da área inicialmente isolada. A investigação preliminar aponta que o Plano de Fogo, elaborado por um Profissional Legalmente Habilitado (PLH), continha os cálculos corretos para a carga explosiva, mas a definição da área de isolamento no momento da execução pode ter sido insuficiente. A empresa realizou a comunicação escrita do acidente ao órgão regional competente imediatamente após o ocorrido.\nConsiderando as responsabilidades distintas do PLH e do Blaster, e os procedimentos normativos pós-acidente fatal, assinale a alternativa que descreve corretamente a aplicação das normas nesta situação:",
     "alternativa1": "(A) Embora o Plano de Fogo oriente as ações, compete ao Blaster a implementação in loco das medidas preventivas, incluindo a confirmação e adequação final do perímetro de segurança antes da ignição, tornando-o o principal responsável pela falha no isolamento efetivo.",
     "alternativa2": "(B) A falha na projeção de material, mesmo que ligada à execução do isolamento, implica corresponsabilidade do PLH, pois o Plano de Fogo deve prever e mitigar todos os riscos associados à detonação, incluindo variações na execução do isolamento.",
@@ -1188,7 +1188,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (A) Correta, compete ao Blaster a execução in loco, incluindo confirmação do isolamento (item 18.5.20). (B) PLH responde pelo plano. (C) Prazo liberação não condiciona verificação de fogos falhados. (D) Isolamento pós-acidente é da organização. (E) Comunicação é da organização. (Apostila Vol IV, págs. 121, 122, 141)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Analisando a gestão das inspeções de diferentes elementos de Sistema de Proteção Individual Contra Quedas – SPIQ em uma empresa, verifica-se a seguinte situação documental:\<br>I - Cinturão: Possui registro da inspeção periódica realizada há 9 meses. As inspeções rotineiras diárias são feitas, mas não são registradas quando nenhum defeito é encontrado.\<br>II - Talabarte: Possui registro da inspeção periódica realizada há 5 meses. Ontem, na inspeção rotineira, foi identificado um corte na fita; o supervisor instruiu o descarte, mas o registro dessa inspeção rotineira e da recusa/descarte não foi realizado.\<br>III - Trava-quedas: Equipamento novo, recebido do fornecedor há uma semana. Foi feita a inspeção inicial antes do primeiro uso, que não encontrou defeitos, porém esta inspeção inicial não foi formalmente registrada.\<br>IV - Corda: Possui registro da inspeção periódica feita há 11 meses. Hoje, na inspeção rotineira, foi identificada uma área com desgaste acentuado, o equipamento foi recusado para uso e essa recusa foi devidamente registrada na ficha de inspeção rotineira.\nCom base exclusivamente nas regras sobre registro das inspeções contidas na NR-35, quais itens apresentam uma não conformidade na gestão documental?",
     "alternativa1": "(A) Apenas o Item I.",
     "alternativa2": "(B) Apenas o Item II.",
@@ -1199,7 +1199,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: I está conforme (rotineira só se registra recusa). II não conforme\n(recusa exige registro). III não conforme (inspeção inicial deve ser registrada). IV está conforme (recusa registrada). Logo, II e III estão não conformes. (Apostila Vol IV, pág. 164)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Considere o seguinte cenário em uma obra:\n<br>1.Trabalhador Alfa: Realiza a instalação de uma calha no beiral de um telhado, posicionado a 2,5 metros de altura do piso inferior, utilizando um andaime. Há risco evidente de queda.\n<br>2.Trabalhador Beta: Permanece no piso inferior, próximo ao andaime, alcançando ferramentas e materiais para o Trabalhador Alfa.\n<br>3.Trabalhador Gama: Monta uma pequena prateleira em uma parede,  estando sobre uma plataforma estável e segura com guarda-corpo, a 1,8 metros de altura do piso.\n<br>4.Supervisor Delta: Está próximo dos trabalhadores Alfa e Beta, também no piso inferior, porém apenas observando e coordenando as atividades.\nConforme a NR-35, quais trabalhadores nesse cenário são considerados “indiretamente envolvidos” nos trabalhos em altura?",
     "alternativa1": "(A) Apenas os Trabalhadores Beta e Delta.",
     "alternativa2": "(B) Apenas o Supervisor Delta.",
@@ -1210,7 +1210,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: Alfa (>2m) está em altura. Gama (<2m) não. Beta e Delta estão no entorno, sujeitos a riscos (queda de material de Alfa), sendo indiretamente envolvidos, conforme manual. (Apostila Vol IV, pág. 151)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "De acordo com a definição e a lista apresentada na NR 31, qual dos seguintes itens é classificado como um Dispositivo de Proteção Pessoal (DPP), distinto de um Equipamento de Proteção Individual (EPI)?",
     "alternativa1": "(A) Capacete de segurança para proteção contra impacto.",
     "alternativa2": "(B) Luva de raspa para proteção contra agentes abrasivos.",
@@ -1221,7 +1221,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (C) Perneira contra picadas está listada como DPP (item 31.6.4\n'c'). Os demais são EPIs. (Apostila Vol IV, pág. 179)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Durante a aplicação de um inseticida (agrotóxico Classe 2 - Faixa Amarela), um trabalhador começa a sentir tonturas e náuseas, sintomas que podem indicar intoxicação. Ele comunica seu mal-estar ao supervisor imediato. Qual das seguintes ações do supervisor estaria em total conformidade com o procedimento exigido pela NR 31 nesta situação?",
     "alternativa1": "(A) Orientar o trabalhador a procurar imediatamente o SESMT (se houver na propriedade) ou o técnico de segurança para uma avaliação inicial, levando a FISPQ do produto.",
     "alternativa2": "(B) Afastar imediatamente o trabalhador das atividades, transportá-lo para atendimento médico e levar junto o receituário agronômico do produto aplicado.",
@@ -1232,7 +1232,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: O item 31.7.13 exige afastar, transportar para atendimento\nmédico e levar informações dos rótulos e bulas. (Apostila Vol IV, pág. 181)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Uma empresa contrata um ônibus para o transporte diário de trabalhadores rurais para uma frente de trabalho distante. Durante uma verificação, observa-se:\n<br>1.O ônibus possui autorização da autoridade de trânsito para transporte rodoviário intermunicipal de passageiros, mas que não estava acompanhada da respectiva vistoria anual do veículo.\n<br>2.Todos os passageiros estão sentados em assentos com cinto de segurança.\n<br>3.O motorista possui CNH categoria D, mas não está portando crachá ou identificação funcional da empresa transportadora.\n<br>4.As ferramentas manuais (facões, enxadas) são transportadas no bagageiro inferior do ônibus, separadas dos passageiros.\n<br>5.O ônibus tem capacidade para 40 passageiros, mas não possui tacógrafo instalado.\nAvaliando a situação com base nos requisitos da NR-31 para transporte coletivo de trabalhadores rurais, quais itens representam não conformidades?",
     "alternativa1": "(A) Apenas os itens 1 e 3.",
     "alternativa2": "(B) Apenas os itens 1 e 5.",
@@ -1243,7 +1243,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: 1 (sem vistoria anual) não conforme. 2 (sentados) conforme. 3\n(sem identificação) não conforme. 4 (ferramentas separadas) conforme. 5 (sem tacógrafo, >10 lugares) não conforme. Itens não conformes: 1, 3 e <br>5.(Apostila Vol IV, pág. 184)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Uma empresa de serviços de tecnologia ocupa um andar em um edifício comercial, com 80 trabalhadores (maior turno). As seguintes condições sanitárias e de conforto são observadas:\<br>I. A ventilação das instalações sanitárias depende unicamente da abertura das portas de acesso, pois não há janelas para o exterior nem sistema de exaustão forçada.\<br>II.  Como a empresa exige o uso de uniforme, há vestiários masculino e feminino. Utiliza-se um sistema de rodízio para os armários simples individuais, pois há uma quatidade de\narmários inferior a de trabalhadores no turno. Não há exposição a contaminantes ou sujidade intensa.\<br>III. O local designado para refeições possui um único recipiente para coleta de lixo, o qual não possui tampa e as mesas do local para refeições possuem tampos de madeira natural não revestida, o que dificulta a higienização completa após o uso.\<br>IV. Para os técnicos que realizam visitas a clientes, a empresa orienta que utilizem as instalações sanitárias e de refeição dos próprios clientes, indicando que esta é a responsabilidade deles conforme NR-24.\<br>V. A empresa fornece gratuitamente apenas o uniforme (camiseta), não disponibilizando outras vestimentas específicas de trabalho, alegando que as atividades administrativas não implicam contato com sujidade ou agentes que justifiquem peças adicionais conforme critérios da NR-24.\nAvaliando a situação com base estritamente nos requisitos da NR-24, quais assertivas descrevem corretamente situações EM CONFORMIDADE com a norma neste cenário?",
     "alternativa1": "(A) Apenas II e III.",
     "alternativa2": "(B) Apenas I, III e V.",
@@ -1254,7 +1254,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: I não conforme (exige ventilação/exaustão). II conforme\n(rodízio permitido sem contaminantes). III não conforme (lixo exige tampa, mesa não adequada). IV conforme (responsabilidade do cliente). V conforme (com a alteração que inclui \"gratuitamente\", a situação descrita está conforme). Corretas: II, IV e V. (Apostila Vol IV, págs. 199, 200, 201)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Em uma propriedade rural, como parte de um programa de vigilância à saúde estabelecido preventivamente, são realizados exames periódicos nos aplicadores de agrotóxicos para verificar níveis de metabólitos na urina, visando a detecção precoce de exposição. Recentemente, após a pulverização de um agrotóxico organofosforado em uma lavoura de soja, diversos aplicadores relataram quadro agudo de náuseas, salivação excessiva e tonturas, sendo a ocorrência e intensidade maiores entre aqueles com falhas no uso de EPIs. Em decorrência disso, a fazenda passou a manter um registro detalhado do número de trabalhadores que necessitam de atendimento médico após cada aplicação. A região também é infestada por Aedes aegypti, e alguns trabalhadores apresentaram febre dias depois.\nCom base na situação descrita, analise as afirmativas:\<br>I. O agrotóxico organofosforado é um agente de risco químico que pode estar diretamente responsável pelos sintomas agudos de náuseas, salivação e tontura observados.\n *II. A febre relatada dias após por alguns trabalhadores pode ser decorrente do mosquito Aedes aegypti, um vetor classificado como um agente de risco biológico primário nesta situação.* \<br>III.  A realização dos exames periódicos para verificar metabólitos na urina é um exemplo de indicador reativo, pois mede um dano (contaminação) que já ocorreu.\<br>IV. O registro detalhado do número de trabalhadores que necessitam de atendimento médico configura um indicador principal, pois permite antecipar futuras ocorrências.\<br>V. A verificação de metabólitos do agrotóxico na urina dos trabalhadores é um exemplo de aplicação de indicadores biológicos de exposição (biomarcadores), relevantes para monitorar a exposição a esse tipo de produto químico.\nQuais afirmativas estão corretas?",
     "alternativa1": "(A) I e V.",
     "alternativa2": "(B) I e III.",
@@ -1265,7 +1265,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: I é correta. II é incorreta (Aedes é vetor). III é incorreta\n(indicador proativo de exposição). IV é incorreta (indicador reativo). V é\ncorreta. Corretas: I e V. (Apostila Vol III pág. 19; Apostila Vol IV págs. 210, 212, 213)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Com base na NR-33 que menciona procedimentos específicos para os equipamentos detectores de gases utilizados nas avaliações atmosféricas, assinale a afirmativa correta:",
     "alternativa1": "(A) O detector do tipo multigás convencional, conforme sua configuração usual, é capaz de monitorar simultaneamente a concentração de oxigênio (O2), o limite inferior de explosividade (LIE), o monóxido de carbono (CO) e o sulfeto de hidrogênio (H2S).",
     "alternativa2": "(B) O procedimento de auto-zero ou ajuste de ar limpo tem como principal finalidade verificar a funcionalidade dos sensores e do alarme do detector de gases.",
@@ -1276,7 +1276,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (A) Correta (configuração usual do multigás). (B) Incorreta\n(função do bump test). (C) Incorreta (auto-zero em ar limpo). (D) Incorreta (bump test não ajusta O2). (Apostila Vol IV, págs. 228, 229)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Considerando os procedimentos e responsabilidades definidos para trabalhos em espaços confinados, assinale a alternativa correta:",
     "alternativa1": "(A) A Permissão de Entrada e Trabalho (PET) pode ser emitida com validade de até 24 horas contínuas, desde que as condições atmosféricas do espaço confinado permaneçam estáveis durante todo o período.",
     "alternativa2": "(B) No procedimento de bloqueio (LOTO), a etiqueta individual fixada pelo trabalhador deve conter seu nome completo e a data do bloqueio, sendo o registro do serviço executado e da hora informações complementares opcionais.",
@@ -1287,7 +1287,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (A) Incorreta (PET limitada ao turno/jornada). (B) Incorreta (etiqueta exige serviço/hora). (C) Correta (item 33.5.15 'f'). (D) Incorreta (Vigia não intervém diretamente dentro). (E) Incorreta (simulado contempla possíveis cenários). (Apostila Vol IV, págs. 224, 225, 226)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Sobre as regras de segurança para atividades de manutenção realizadas em embarcações comerciais enquanto estão em operação, conforme estabelecido na NR-30, assinale a alternativa correta:",
     "alternativa1": "(A) As tarefas de manutenção em embarcações em operação, bem como em comissionamento, devem cumprir o estabelecido na NR-30, sendo proibido ao tripulante acumular tarefas de manutenção com atividades de vigilância, navegação, carga ou descarga.",
     "alternativa2": "(B) As regras da NR-30 referentes aos serviços de manutenção também se aplicam quando a embarcação está executando tarefas de navegação, em trânsito ou em serviços de suporte marítimo, ou quando a manutenção é realizada em estaleiro.",
@@ -1298,7 +1298,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (A) Incorreta (não se aplica a comissionamento). (B) Incorreta\n(não se aplica a estaleiro). (C) Incorreta (AR/PT são similares). (D) Incorreta (proibição sem exceção). (E) Correta (NR 33 integral, NR 35 com adicionais). (Apostila Vol IV, pág. 248)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Considerando os procedimentos de acesso seguro a embarcações comerciais descritos na NR-30, tanto para situações de atracação quanto de fundeio, assinale a alternativa correta:",
     "alternativa1": "(A) O uso de colete salva-vidas é obrigatório para todos os trabalhadores durante o acesso à embarcação, seja ela atracada ou fundeada.",
     "alternativa2": "(B) A escada tipo quebra-peito (escada de corda) é um meio de acesso permitido para embarcações atracadas, mas proibido para embarcações fundeadas devido ao risco aumentado.",
@@ -1309,7 +1309,7 @@ const questoes = [
     "gabaritoComentado": "Justificativa: (A) Incorreta (colete só para fundeada). (B) Incorreta (proibida para atracada, exceção para fundeada). (C) Incorreta (portaló é prioritária). (D) Incorreta (rede só para atracada). (E) Correta (item 30.18.3.7). (Apostila Vol IV, págs. 250, 251)."
   },
   {
-    "tema": "#Simulasque 2 😫",
+    "tema": "#Simulasque P2.2 😱 😫",
     "pergunta": "Considerando o acidente comum de queda de pessoas da escada de portaló em navios, qual das seguintes opções descreve mais precisamente os fatores de risco e as medidas preventivas correspondentes? ",
     "alternativa1": "(A) Fator principal: Falha estrutural da escada devido à corrosão; Prevenção: Inspeção anual por sociedade classificadora e substituição a cada 5 anos.",
     "alternativa2": "(B) Fatores principais: Falta de iluminação adequada na escada e ausência de coletes salva-vidas durante o uso; Prevenção: Instalar iluminação LED potente e tornar obrigatório o uso de colete no acesso.",
