@@ -12700,7 +12700,7 @@ const questoes = [
     "gabaritoComentado": "É importante que a análise tenha profundidade, buscando as raízes dos problemas que culminaram em um erro humano. Analisar o AT para encontrar os fatores causais subjacentes e latentes é uma forma de cortar o mal pela raiz e contribuir para uma gestão mais eficaz de riscos."
   },
     {
-    "tema": "☠️ Toxicologia ocupacional",
+    "tema": "Toxicologia ocupacional ☠️",
     "pergunta": "Os Indicadores Biológicos do Tipo 1, conforme descritos nos textos, referem-se àqueles que:",
     "alternativa1": "Indicam alterações no organismo resultantes da ação do agente químico, servindo como indicativos de adoecimento e permitindo a avaliação direta do risco e prevenção de efeitos nocivos.",
     "alternativa2": "São utilizados eticamente para identificar indivíduos mais suscetíveis a xenobióticos em processos seletivos.",
@@ -12711,7 +12711,7 @@ const questoes = [
     "gabaritoComentado": "O texto descreve os Indicadores Biológicos do Tipo 1 como aqueles que 'Revelam alterações no organismo resultantes da ação do agente químico em qualquer tecido, órgão ou sistema, sendo, portanto, indicativos de adoecimento, em virtude da exposição àquele agente químico'. Eles permitem 'avaliar diretamente o risco e prevenir a manifestação de efeitos nocivos'. A alternativa B espelha essa descrição."
   },
   {
-    "tema": "☠️ Toxicologia ocupacional",
+    "tema": "Toxicologia ocupacional ☠️",
     "pergunta": "Segundo o texto, o que ocorre geralmente com os valores dos Limites de Exposição Ocupacional (LEO) ao longo do tempo, em função da descoberta de novos efeitos nocivos de agentes químicos em concentrações cada vez mais baixas?",
     "alternativa1": "Eles ficam cada vez maiores.",
     "alternativa2": "Eles permanecem constantes.",
@@ -12722,7 +12722,7 @@ const questoes = [
     "gabaritoComentado": "O texto afirma que, de uma forma geral, os valores dos LEO 'ficam cada vez menores com o passar do tempo, em função da descoberta de novos efeitos nocivos de agentes químicos em concentrações cada vez mais baixas'."
   },
   {
-    "tema": "☠️ Toxicologia ocupacional",
+    "tema": "Toxicologia ocupacional ☠️",
     "pergunta": "Os exames complementares no âmbito do PCMSO, especialmente aqueles previstos nos anexos da NR 7, são obrigatórios e fundamentais para:",
     "alternativa1": "Identificar indivíduos mais suscetíveis de serem afetados por um xenobiótico em processos seletivos.",
     "alternativa2": "Identificar eventuais agravos, mesmo subclínicos, decorrentes da exposição dos trabalhadores a riscos ocupacionais e para a monitorização da exposição ocupacional a agentes químicos.",
@@ -12733,7 +12733,7 @@ const questoes = [
     "gabaritoComentado": "O texto afirma que os exames complementares previstos nos anexos da NR 7 (para agentes específicos e substâncias cancerígenas) são 'fundamentais para identificar eventuais agravos, mesmo subclínicos, decorrentes da exposição dos trabalhadores a riscos ocupacionais neles especificados', e outros (para substâncias químicas) são 'utilizados para monitorização da exposição ocupacional aos agentes químicos ali relacionados'."
   },
   {
-    "tema": "☠️ Toxicologia ocupacional",
+    "tema": "Toxicologia ocupacional ☠️",
     "pergunta": "Qual é a definição de 'perigo' apresentada nos textos?",
     "alternativa1": "A chance de algo dar errado.",
     "alternativa2": "A combinação de severidade e probabilidade.",
@@ -12744,7 +12744,7 @@ const questoes = [
     "gabaritoComentado": "O texto apresenta a definição de perigo como 'Qualquer coisa que possa causar danos'."
   },
   {
-    "tema": "☠️ Toxicologia ocupacional",
+    "tema": "Toxicologia ocupacional ☠️",
     "pergunta": "Segundo o texto, qual é um fator de grande importância na avaliação da toxicidade de carcinogênicos e na elaboração de limites de exposição pelas agências de regulação?",
     "alternativa1": "A experiência e o nível de aprendizagem dos trabalhadores.",
     "alternativa2": "A higienização diária dos módulos em frentes de trabalho.",
@@ -12755,7 +12755,7 @@ const questoes = [
     "gabaritoComentado": "O texto afirma que 'a mutação do DNA, sendo esta questão de grande importância na avaliação da toxicidade de carcinogênicos e na elaboração de limites de exposição pelas agências de regulação'."
   },
   {
-    "tema": "☠️ Toxicologia ocupacional",
+    "tema": "Toxicologia ocupacional ☠️",
     "pergunta": "No contexto do Gerenciamento de Riscos Ocupacionais (GRO), a avaliação da probabilidade de ocorrência das lesões ou agravos à saúde pode estar vinculada à comparação do perfil de exposição ocupacional com valores de referência ou à aplicação de outros critérios estabelecidos em qual Norma Regulamentadora (NR)?",
     "alternativa1": "NR 9.",
     "alternativa2": "NR 12.",
@@ -12766,7 +12766,7 @@ const questoes = [
     "gabaritoComentado": "O texto afirma que a avaliação da probabilidade 'está vinculada a comparação do perfil de exposição ocupacional com valores de referência estabelecidos na NR 9 ou a aplicação de outros critérios estabelecidos na NR 9'."
   },
   {
-    "tema": "☠️ Toxicologia ocupacional",
+    "tema": "Toxicologia ocupacional ☠️",
     "pergunta": "Considerando a classificação de agentes químicos e sua relação com o material genético, um carcinogênico pode ter seu modo de ação classificado como:",
     "alternativa1": "Metabólico ou biotransformador.",
     "alternativa2": "Não genotóxico ou genotóxico.",
@@ -12777,7 +12777,7 @@ const questoes = [
     "gabaritoComentado": "O texto estabelece que 'O modo de ação de um carcinogênico pode ser não genotóxico ou genotóxico'."
   },
   {
-    "tema": "☠️ Toxicologia ocupacional",
+    "tema": "Toxicologia ocupacional ☠️",
     "pergunta": "O texto menciona que, no exame admissional, exames complementares realizados nos 90 dias anteriores podem ser aceitos. Contudo, uma condição para a realização de *outros* exames complementares, além dos previstos nos anexos da NR 7, é que eles sejam:",
     "alternativa1": "Aprovados pelo órgão de âmbito nacional competente em matéria de segurança e saúde no trabalho.",
     "alternativa2": "Relacionados aos riscos ergonômicos identificados na avaliação preliminar.",
@@ -12788,7 +12788,7 @@ const questoes = [
     "gabaritoComentado": "O texto estabelece que outros exames complementares 'podem ser realizados, desde que relacionados aos riscos ocupacionais identificados e avaliados, e se tecnicamente justificados pelo médico responsável pelo PCMSO'."
   },
   {
-    "tema": "☠️ Toxicologia ocupacional",
+    "tema": "Toxicologia ocupacional ☠️",
     "pergunta": "No contexto da gestão de riscos ocupacionais, as Normas Regulamentadoras (NRs) brasileiras se integram. Qual NR se destaca como aquela que prevê a estrutura sistematizada para identificação de perigos, avaliação de riscos e controle de riscos, alcançando todos os perigos e riscos ocupacionais na organização, e que deve estar articulada com ações de saúde?",
     "alternativa1": "NR 7.",
     "alternativa2": "NR 9.",
@@ -12799,7 +12799,7 @@ const questoes = [
     "gabaritoComentado": "O texto descreve a NR 1 como a norma que 'prevê uma estrutura sistematizada dos processos de identificação de perigos, avaliação dos riscos ocupacionais e controle dos riscos ocupacionais, alcançando todos os perigos e riscos ocupacionais existentes na organização' e que 'deve estar articulado com ações de saúde'."
   },
   {
-    "tema": "☠️ Toxicologia ocupacional",
+    "tema": "Toxicologia ocupacional ☠️",
     "pergunta": "O Inventário de Riscos Ocupacionais, conforme mencionado nos textos, prevê a integração do PGR com outras NRs. Quais NRs são explicitamente citadas nesse contexto de integração no inventário de riscos?",
     "alternativa1": "NR 12 e NR 35.",
     "alternativa2": "NR 6 e NR 18.",
@@ -12810,7 +12810,7 @@ const questoes = [
     "gabaritoComentado": "O texto afirma que o item do Inventário de Riscos 'prevê a integração do PGR com a NR 9 e NR 17'."
   },
   {
-    "tema": "☠️ Toxicologia ocupacional",
+    "tema": "Toxicologia ocupacional ☠️",
     "pergunta": "A análise de acidentes e doenças relacionadas ao trabalho, conforme a NR 1, deve ser documentada. O que essa análise deve considerar, segundo o texto?",
     "alternativa1": "As situações geradoras dos eventos, levando em conta as atividades, ambiente de trabalho, materiais, processo produtivo, organização do trabalho e outros fatores.",
     "alternativa2": "Apenas o tipo de perigo, sem considerar o ambiente.",
@@ -12821,7 +12821,7 @@ const questoes = [
     "gabaritoComentado": "O texto cita o subitem 1.5.5.5.2, 'a', da NR 1, que define que a análise de acidentes e doenças deve 'considerar as situações geradoras dos eventos, levando em conta as atividades efetivamente desenvolvidas, ambiente de trabalho, materiais, processo produtivo, organização do trabalho e outros fatores relacionados com os eventos'."
   },
   {
-    "tema": "☠️ Toxicologia ocupacional",
+    "tema": "Toxicologia ocupacional ☠️",
     "pergunta": "Qual documento integrante do Programa de Gerenciamento de Riscos (PGR) deve estabelecer, detalhadamente, os critérios que orientam a avaliação de riscos e a priorização das medidas de prevenção?",
     "alternativa1": "O Relatório Analítico do PCMSO.",
     "alternativa2": "O documento sobre critérios utilizados no GRO/PGR.",
@@ -12832,7 +12832,7 @@ const questoes = [
     "gabaritoComentado": "O texto descreve o 'DOCUMENTO SOBRE CRITÉRIOS UTILIZADOS NO GRO/PGR' como essencial ao gerenciamento de riscos ocupacionais, pois 'ele deve estabelecer, detalhadamente, os critérios que orientam a avaliação de riscos e a priorização das medidas de prevenção'."
   },
   {
-    "tema": "☠️ Toxicologia ocupacional",
+    "tema": "Toxicologia ocupacional ☠️",
     "pergunta": "Conforme os textos, por que os indicadores de suscetibilidade não são utilizados, via de regra, na monitorização biológica ocupacional?",
     "alternativa1": "Por questões metodológicas, relacionadas à contaminação de produtos colhidos para análise.",
     "alternativa2": "Porque detectam a exposição a uma substância tóxica específica, o que é desnecessário.",
@@ -12843,7 +12843,7 @@ const questoes = [
     "gabaritoComentado": "O texto afirma que os indicadores de suscetibilidade 'Não são utilizados por questões éticas, pois detectam indivíduos mais susceptíveis de serem afetados por um xenobiótico, e a determinação de um indicador deste tipo em um candidato a emprego, por exemplo, caracteriza discriminação'. A alternativa C reflete essa informação."
   },
   {
-    "tema": "☠️ Toxicologia ocupacional",
+    "tema": "Toxicologia ocupacional ☠️",
     "pergunta": "Em relação ao Gerenciamento de Riscos Ocupacionais (GRO), a NR 1 destaca que a organização deve considerar as condições de trabalho nos termos da NR 17 (Ergonomia), incluindo os fatores de risco psicossociais relacionados ao trabalho. Além disso, o GRO deve abranger os riscos que decorrem dos agentes:",
     "alternativa1": "Apenas físicos e biológicos.",
     "alternativa2": "Apenas ergonômicos e de acidentes.",
@@ -12854,7 +12854,7 @@ const questoes = [
     "gabaritoComentado": "O texto cita o subitem 1.5.3.1.4, da NR 1, que destaca expressamente que o GRO 'deve abranger os riscos que decorrem dos agentes físicos, químicos, biológicos, riscos de acidentes e riscos ergonômicos'."
   },
   {
-    "tema": "☠️ Toxicologia ocupacional",
+    "tema": "Toxicologia ocupacional ☠️",
     "pergunta": "Os Indicadores Biológicos que revelam alterações no organismo resultantes da ação do agente químico, sendo indicativos de adoecimento, são denominados, conforme o texto, como:",
     "alternativa1": "Indicadores do Tipo 1.",
     "alternativa2": "Indicadores de suscetibilidade.",
@@ -12865,7 +12865,7 @@ const questoes = [
     "gabaritoComentado": "O texto descreve estes indicadores e afirma que 'Este tipo de indicador também é denominado do Tipo 1'."
   },
   {
-    "tema": "☠️ Toxicologia ocupacional",
+    "tema": "Toxicologia ocupacional ☠️",
     "pergunta": "No que diz respeito aos riscos psicossociais, os textos e listam diversos fatores que podem ser considerados de risco. Qual dos itens a seguir NÃO é explicitamente mencionado como um fator de risco psicossocial nos textos?",
     "alternativa1": "Pressão de tempo.",
     "alternativa2": "Exposição a ruído contínuo ou intermitente.",
@@ -12876,7 +12876,7 @@ const questoes = [
     "gabaritoComentado": "O texto e lista fatores como pressão de tempo, desequilíbrio esforço-recompensa, insegurança no emprego, baixo apoio social, assédio moral e baixo controle no trabalho como fatores de risco psicossociais. A exposição a ruído é listada como um perigo físico."
   },
   {
-    "tema": "☠️ Toxicologia ocupacional",
+    "tema": "Toxicologia ocupacional ☠️",
     "pergunta": "Qual a principal via de absorção de agrotóxicos no trabalhador que deve ser evitada para a prevenção de intoxicação, segundo o texto?",
     "alternativa1": "Via respiratória.",
     "alternativa2": "Via injetável.",
@@ -12887,7 +12887,7 @@ const questoes = [
     "gabaritoComentado": "O texto afirma que, para a prevenção de intoxicação com agrotóxicos, deve-se evitar que o produto alcance alguma via de absorção no trabalhador, sendo as principais: 'a dérmica, a inalatória ou a oral'."
   },
   {
-    "tema": "☠️ Toxicologia ocupacional",
+    "tema": "Toxicologia ocupacional ☠️",
     "pergunta": "Em relação ao Atestado de Saúde Ocupacional (ASO), previsto na NR 7, qual das seguintes informações deve, no mínimo, constar neste documento?",
     "alternativa1": "Estatística de resultados anormais dos exames complementares por setor.",
     "alternativa2": "Análise comparativa da incidência de doenças em relação ao relatório anterior.",
@@ -12898,7 +12898,7 @@ const questoes = [
     "gabaritoComentado": "O texto lista as informações mínimas que devem constar no ASO. A alternativa C ('Descrição dos perigos ou fatores de risco identificados e avaliados no seu ambiente de trabalho, que necessitem de controle médico ocupacional, ou a sua inexistência') é uma dessas informações."
   },
   {
-    "tema": "☠️ Toxicologia ocupacional",
+    "tema": "Toxicologia ocupacional ☠️",
     "pergunta": "No âmbito do PCMSO, conforme a NR 7, quando constatadas alterações nos exames complementares previstos nos anexos, o que deve ser feito pelo médico responsável?",
     "alternativa1": "Ignorar as alterações, pois são apenas indicativas de exposição.",
     "alternativa2": "Afastar o trabalhador da função imediatamente, sem análise prévia.",
@@ -12909,7 +12909,7 @@ const questoes = [
     "gabaritoComentado": "O texto estabelece que, ao constatar alterações nos exames complementares, o médico deve 'serem analisados quanto ao seu significado e repercussões para a saúde do trabalhador examinado, devendo ser adotadas medidas visando identificar e corrigir eventuais exposições excessivas aos agentes nocivos envolvidos'."
   },
   {
-    "tema": "☠️ Toxicologia ocupacional",
+    "tema": "Toxicologia ocupacional ☠️",
     "pergunta": "De acordo com os textos, qual é o objetivo principal do Programa de Controle Médico de Saúde Ocupacional (PCMSO) no que se refere aos riscos ocupacionais?",
     "alternativa1": "Estabelecer limites de exposição ocupacional para agentes químicos.",
     "alternativa2": "Avaliar a aptidão física e mental dos trabalhadores para atividades em espaços confinados, sem integração com outros programas.",
@@ -12920,7 +12920,7 @@ const questoes = [
     "gabaritoComentado": "O texto descreve a premissa definida no PCMSO e integrada no GRO como 'promover a saúde, evitar doenças, proativamente, mas, caso ocorram, cuidar do trabalhador, encaminhando-o para o devido tratamento e orientando melhorias para a prevenção de possível agravamento do quadro do trabalhador afetado e de outros que ali laboram'."
   },
   {
-    "tema": "☠️ Toxicologia ocupacional",
+    "tema": "Toxicologia ocupacional ☠️",
     "pergunta": "Os textos citam a NR 9 - Avaliação e Controle das Exposições Ocupacionais a Agentes Físicos, Químicos e Biológicos. De acordo com essa NR, a adoção direta de medidas de prevenção está vinculada, conforme o texto, a qual condição?",
     "alternativa1": "Ao risco ocupacional evidente, conforme previsto no levantamento preliminar de perigos e riscos da NR 1.",
     "alternativa2": "À identificação de indivíduos mais suscetíveis.",
@@ -12931,7 +12931,7 @@ const questoes = [
     "gabaritoComentado": "O texto afirma que 'A adoção direta de medidas de prevenção está vinculada ao risco ocupacional evidente, conforme previsto no levantamento preliminar de perigos e riscos da NR 1'."
   },
   {
-    "tema": "☠️ Toxicologia ocupacional",
+    "tema": "Toxicologia ocupacional ☠️",
     "pergunta": "Qual dos fatores listados abaixo, conforme os textos, pode afetar a monitorização biológica de agentes químicos?",
     "alternativa1": "A classificação da instituição que define os LEOs.",
     "alternativa2": "Fatores relacionados com o modo de vida, como atividades com exposição ao agente fora do ambiente de trabalho.",
@@ -12942,7 +12942,7 @@ const questoes = [
     "gabaritoComentado": "O texto lista 'Fatores relacionados com o modo de vida: atividades com exposição ao agente fora do ambiente de trabalho, higiene pessoal, hábitos de vida e de trabalho, outras exposições domésticas e de lazer' como fatores que afetam a monitorização biológica."
   },
   {
-    "tema": "☠️ Toxicologia ocupacional",
+    "tema": "Toxicologia ocupacional ☠️",
     "pergunta": "A NR 1 estabelece que a avaliação de riscos deve ser revista a cada dois anos ou em situações específicas. Qual das seguintes situações, citada nos textos, obriga a revisão da avaliação de riscos?",
     "alternativa1": "A simples constatação de adoecimento de um trabalhador, sem análise de causalidade.",
     "alternativa2": "A realização de treinamento básico em segurança do trabalho.",
@@ -12953,7 +12953,7 @@ const questoes = [
     "gabaritoComentado": "O texto lista diversas situações que obrigam a revisão da avaliação de riscos, incluindo 'após a solicitação justificada dos trabalhadores ou da CIPA, quando houver'."
   },
   {
-    "tema": "☠️ Toxicologia ocupacional",
+    "tema": "Toxicologia ocupacional ☠️",
     "pergunta": "O Inventário de Riscos Ocupacionais, parte do PGR, deve incluir uma série de informações mínimas. Qual das opções abaixo apresenta uma informação que deve constar no Inventário de Riscos?",
     "alternativa1": "A data do último treinamento da CIPA.",
     "alternativa2": "Os procedimentos para recebimento e acompanhamento de denúncias de assédio.",
@@ -12964,7 +12964,7 @@ const questoes = [
     "gabaritoComentado": "O texto lista as informações mínimas que devem constar no Inventário de Riscos Ocupacionais, incluindo a alínea 'g) caracterização da exposição dos trabalhadores aos perigos'."
   },
   {
-    "tema": "☠️ Toxicologia ocupacional",
+    "tema": "Toxicologia ocupacional ☠️",
     "pergunta": "Segundo os textos, informações sobre a carcinogenicidade de uma substância são normalmente fornecidas segundo uma classificação de instituições como a Agência Internacional de Pesquisa em Câncer. A avaliação da toxicidade de carcinogênicos e a elaboração de limites de exposição por agências de regulação consideram de grande importância a questão da mutação do DNA. Nesse contexto, qual tipo de ação está primariamente relacionado a essa mutação?",
     "alternativa1": "Ação não genotóxica.",
     "alternativa2": "Avaliação preliminar.",
@@ -12975,7 +12975,7 @@ const questoes = [
     "gabaritoComentado": "O texto afirma que 'primariamente ou não, a mutação do DNA' é uma questão de grande importância na avaliação da toxicidade de carcinogênicos e na elaboração de limites de exposição, e que 'O modo de ação de um carcinogênico pode ser não genotóxico ou genotóxico'. A mutação do DNA está relacionada à ação genotóxica."
   },
   {
-    "tema": "☠️ Toxicologia ocupacional",
+    "tema": "Toxicologia ocupacional ☠️",
     "pergunta": "Qual Norma Regulamentadora (NR) brasileira contém a lista completa dos Indicadores Biológicos exigidos pela legislação, conforme mencionado nos textos?",
     "alternativa1": "NR 7 - Programa de Controle Médico de Saúde Ocupacional (PCMSO).",
     "alternativa2": "NR 9 - Avaliação e Controle das Exposições Ocupacionais a Agentes Físicos, Químicos e Biológicos.",
@@ -12986,7 +12986,7 @@ const questoes = [
     "gabaritoComentado": "O texto menciona que 'A lista completa dos Indicadores Biológicos exigidos pela legislação brasileira se encontra nos Quadros 1 e 2, do Anexo I, da Norma Regulamentadora nº 7 – Programa de Controle Médico de Saúde Ocupacional – PCMSO'."
   },
   {
-    "tema": "☠️ Toxicologia ocupacional",
+    "tema": "Toxicologia ocupacional ☠️",
     "pergunta": "Acerca dos Limites de Exposição Ocupacional (LEO) para agentes químicos, conforme abordado nos textos, assinale a opção correta.",
     "alternativa1": "Os critérios para definição de LEO são uniformes entre todas as instituições de pesquisa.",
     "alternativa2": "A atualização periódica dos LEO é realizada pelos diversos centros de pesquisa, e seus valores geralmente diminuem com o tempo.",
@@ -12997,7 +12997,7 @@ const questoes = [
     "gabaritoComentado": "De acordo com o texto, os critérios para definição de LEO variam entre instituições, apenas alguns têm valor legal e a maioria é atualizada periodicamente, com valores que geralmente diminuem com o passar do tempo em função da descoberta de novos efeitos nocivos em concentrações cada vez mais baixas. Portanto, a alternativa correta é a D."
   },
   {
-    "tema": "☠️ Toxicologia ocupacional",
+    "tema": "Toxicologia ocupacional ☠️",
     "pergunta": "O texto indica ações que o empregador deve tomar ao ser informado pelo médico responsável pelo PCMSO sobre a ocorrência ou agravamento de doença relacionada ao trabalho. Qual das opções abaixo apresenta uma dessas ações?",
     "alternativa1": "Realizar a Análise Ergonômica do Trabalho (AET) de forma imediata.",
     "alternativa2": "Dispensar a elaboração do relatório analítico do PCMSO.",
@@ -13008,7 +13008,7 @@ const questoes = [
     "gabaritoComentado": "O texto lista as ações que o empregador deve tomar. A alínea 'a' menciona 'Emitir eletronicamente a Comunicação de Acidente do Trabalho - CAT'."
   },
   {
-    "tema": "☠️ Toxicologia ocupacional",
+    "tema": "Toxicologia ocupacional ☠️",
     "pergunta": "De acordo com os textos, qual a definição mais simples de 'risco' em Segurança e Saúde no Trabalho (SST)?",
     "alternativa1": "Qualquer coisa que possa causar danos.",
     "alternativa2": "Um tubarão.",
@@ -13019,7 +13019,7 @@ const questoes = [
     "gabaritoComentado": "O texto define risco, em termos mais simples, como 'a chance de alguém ser prejudicado por um perigo, juntamente com a indicação da seriedade do dano que pode ser produzido'."
   },
   {
-    "tema": "☠️ Toxicologia ocupacional",
+    "tema": "Toxicologia ocupacional ☠️",
     "pergunta": "Qual a finalidade principal do relatório analítico anual do PCMSO, conforme a NR 7?",
     "alternativa1": "Identificar as falhas nos equipamentos de proteção individual (EPIs).",
     "alternativa2": "Detalhar os critérios de gradação de severidade e probabilidade de riscos.",
@@ -13030,7 +13030,7 @@ const questoes = [
     "gabaritoComentado": "O texto e descreve o conteúdo mínimo do relatório analítico anual do PCMSO, que inclui dados sobre exames, estatísticas de resultados anormais, incidência e prevalência de doenças relacionadas ao trabalho, informações de CATs e análise comparativa, e afirma que ele deve ser apresentado e discutido com os responsáveis pela SST e a CIPA."
   },
   {
-    "tema": "☠️ Toxicologia ocupacional",
+    "tema": "Toxicologia ocupacional ☠️",
     "pergunta": "Conforme o texto, o que são os agentes que, mesmo não sendo absorvidos já ativos, podem ser produzidos nas fases do metabolismo ou da biotransformação de várias substâncias, citando como exemplos benzo(a)pireno e 1,3 butadieno?",
     "alternativa1": "Produtos da biotransformação/metabolismo.",
     "alternativa2": "Indicadores de suscetibilidade.",
@@ -13041,7 +13041,7 @@ const questoes = [
     "gabaritoComentado": "O texto descreve agentes que 'ser produzidos nas fases do metabolismo ou da biotransformação de várias substâncias, como o benzo(a)pireno e 1,3 butadieno'. Estes são exemplos de produtos da biotransformação ou metabolismo."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "Acerca da Avaliação das Situações de Trabalho na NR 17, assinale a alternativa correta.",
     "alternativa1": "A Avaliação Ergonômica Preliminar (AEP) e a Análise Ergonômica do Trabalho (AET) são etapas alternativas, sendo que a realização de uma dispensa a outra, a critério da organização.",
     "alternativa2": "A AEP é a etapa de aprofundamento na avaliação ergonômica, realizada por meio de mensuração sistematizada de aspectos observáveis para diagnóstico.",
@@ -13052,7 +13052,7 @@ const questoes = [
     "gabaritoComentado": "A NR 17, no item 17.3, prevê a avaliação das situações de trabalho em duas etapas: AEP (inicial) e AET (aprofundamento). A AEP é o estágio qualitativo inicial, enquanto a AET é o estágio posterior, aprofundado, com mensuração sistematizada. A AEP pode utilizar abordagens qualitativas, semiquantitativas, quantitativas ou combinação."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "Conforme a NR 17, a Análise Ergonômica do Trabalho (AET) deve ser realizada em situações específicas. Assinale a alternativa que apresenta uma dessas situações.",
     "alternativa1": "Quando a organização possui certificação válida em sistema de gestão de SST, como a ISO 45.001:2018.",
     "alternativa2": "Quando as Microempresas (ME) ou Empresas de Pequeno Porte (EPP), enquadradas como graus de risco 1 e 2, não possuem acidentes relacionados ao trabalho.",
@@ -13063,7 +13063,7 @@ const questoes = [
     "gabaritoComentado": "Segundo o item 17.3.2 da NR 17, a AET deve ser realizada para situações específicas quando observada a necessidade de uma avaliação mais aprofundada."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "A NR 17 estabelece etapas obrigatórias para a realização da Análise Ergonômica do Trabalho (AET). Qual das alternativas abaixo NÃO corresponde a uma dessas etapas?",
     "alternativa1": "Análise da demanda e, quando aplicável, reformulação do problema.",
     "alternativa2": "Análise do funcionamento da organização, dos processos, das situações de trabalho e da atividade.",
@@ -13074,7 +13074,7 @@ const questoes = [
     "gabaritoComentado": "As etapas da AET listadas na NR 17 (item 17.3.3) incluem análise da demanda, análise do funcionamento/processos/situações/atividade, descrição/justificativa de métodos, estabelecimento de diagnóstico, recomendações e restituição/validação/revisão com participação dos trabalhadores. A elaboração exclusiva de relatórios apenas para a gerência superior não é uma etapa prevista, e a participação dos trabalhadores é explicitamente requerida na restituição dos resultados."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "A participação dos trabalhadores é um elemento fundamental nas avaliações ergonômicas. De acordo com a NR 17, assinale a alternativa correta sobre a participação dos trabalhadores.",
     "alternativa1": "A participação dos trabalhadores na AET se limita à coleta de informações pelo analista, sem necessidade de validação das medidas de correção.",
     "alternativa2": "A avaliação das situações de trabalho, seja AEP ou AET, deve ser feita com a participação dos próprios trabalhadores a partir da observação de situações reais.",
@@ -13085,7 +13085,7 @@ const questoes = [
     "gabaritoComentado": "A avaliação das situações de trabalho (AEP ou AET) deve ser feita com a participação dos trabalhadores a partir da observação de situações reais. As medidas de correção da AET devem ser validadas e restituídas junto aos trabalhadores e partes interessadas na empresa. A solicitação justificada dos trabalhadores ou da CIPA é motivo para revisão da avaliação de riscos ocupacionais."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "Sobre as Microempresas (ME) e Empresas de Pequeno Porte (EPP) no contexto da NR 17, assinale a alternativa correta.",
     "alternativa1": "ME e EPP, enquadradas como graus de risco 1 e 2, estão dispensadas de atender a todos os requisitos da NR 17.",
     "alternativa2": "O Microempreendedor Individual (MEI) é obrigado a elaborar a AET, independentemente de evidências de agravos à saúde.",
@@ -13096,7 +13096,7 @@ const questoes = [
     "gabaritoComentado": "A NR 17, no item 17.3.5, dispensa ME e EPP (graus de risco 1 e 2) e MEI de elaborar a AET, mas não de atender aos demais requisitos. Contudo, ME/EPP (risco 1 e 2) devem realizar AET havendo evidências de associação entre agravos à saúde e riscos, ou causa relacionada a acidentes/doenças em análises."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "Os resultados da avaliação ergonômica, segundo a NR 1, devem ser integrados ao Programa de Gerenciamento de Riscos (PGR). Assinale a alternativa correta sobre essa integração.",
     "alternativa1": "Os resultados da AET devem integrar o inventário de riscos do PGR, mas os da AEP não precisam ser integrados.",
     "alternativa2": "Os dados da avaliação ergonômica preliminar (AEP) devem ser incorporados ao inventário de riscos do PGR, conforme previsto na NR 1.",
@@ -13107,7 +13107,7 @@ const questoes = [
     "gabaritoComentado": "O item 131 da apostila e o subitem 1.5.7.3.2, 'h', da NR 1, preveem que o inventário de riscos deve conter os resultados da avaliação de ergonomia, nos termos da NR 17. Isso inclui os dados da AEP. A integração do PGR com outras NRs, como a NR 17, é fundamental."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "No que se refere à organização do trabalho, conforme a NR 17, qual dos seguintes aspectos deve ser abordado na análise?",
     "alternativa1": "Apenas os aspectos físicos e biomecânicos das tarefas.",
     "alternativa2": "O ritmo de trabalho e o conteúdo das tarefas.",
@@ -13118,7 +13118,7 @@ const questoes = [
     "gabaritoComentado": "A análise da organização do trabalho, conforme item 17.4.1 da NR 17, deve abordar aspectos como normas de produção, modos operatórios, exigências de tempo, ritmo de trabalho, conteúdo das tarefas, meios técnicos disponíveis, além de aspectos cognitivos."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "As pausas para recuperação psicofisiológica dos trabalhadores, previstas na NR 17 para situações de trabalho contínuo e repetitivo, devem atender a certas condições. Assinale a alternativa incorreta.",
     "alternativa1": "As pausas devem ser computadas como tempo de trabalho efetivo.",
     "alternativa2": "A introdução das pausas não pode ser acompanhada de aumento da cadência individual.",
@@ -13129,7 +13129,7 @@ const questoes = [
     "gabaritoComentado": "O item 17.4.3.1 lista pausas e alternância de atividades como medidas de prevenção. O item 17.4.3.2 estabelece que as pausas devem ser usufruídas fora dos postos de trabalho."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "Sobre os sistemas de avaliação de desempenho para fins de remuneração e vantagens, a NR 17 estabelece um critério importante. Qual é esse critério?",
     "alternativa1": "Devem ser baseados exclusivamente na produtividade individual.",
     "alternativa2": "Devem levar em consideração as repercussões sobre a saúde dos trabalhadores.",
@@ -13140,7 +13140,7 @@ const questoes = [
     "gabaritoComentado": "O item 17.4.4 da NR 17 determina que qualquer sistema de avaliação de desempenho para efeito de remuneração e vantagens deve levar em consideração as repercussões sobre a saúde dos trabalhadores."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "A NR 17 proíbe certas práticas relacionadas ao trabalho que podem comprometer a segurança e saúde dos trabalhadores. Qual das alternativas abaixo apresenta uma prática proibida?",
     "alternativa1": "A organização do trabalho que inclua pausas programadas para recuperação psicofisiológica.",
     "alternativa2": "A utilização de ferramentas manuais com empunhadura apropriada à tarefa.",
@@ -13151,7 +13151,7 @@ const questoes = [
     "gabaritoComentado": "O item 17.4.8 da NR 17 proíbe a exposição pública das avaliações de desempenho dos operadores, entre outras práticas."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "Considerando o carregamento manual de cargas, a NR 17 e o Manual de Aplicação da norma fornecem diretrizes. Em condições ideais de carregamento ocasional, com boa pega, distância vertical da pega de 75 cm e distância horizontal de 25 cm, qual a massa máxima da carga considerada aceitável para a maioria dos homens e mulheres?",
     "alternativa1": "15 kg.",
     "alternativa2": "20 kg.",
@@ -13162,7 +13162,7 @@ const questoes = [
     "gabaritoComentado": "O manual de aplicação da NR 17, referenciado na apostila, indica que o carregamento de 23kg em condições ideais (ocasional, boa pega, V=75cm, H=25cm, sem torções ou posturas assimétricas) seria realizado por 75% das mulheres e 90% dos homens, sem grandes forças compressivas na coluna."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "No trabalho com máquinas, equipamentos e ferramentas manuais, a NR 17 remete a outra Norma Regulamentadora. Qual é essa norma?",
     "alternativa1": "NR 7 - Programa de Controle Médico de Saúde Ocupacional.",
     "alternativa2": "NR 9 - Avaliação e Controle das Exposições Ocupacionais a Agentes Físicos, Químicos e Biológicos.",
@@ -13173,7 +13173,7 @@ const questoes = [
     "gabaritoComentado": "O item 17.7.1 da NR 17 ressalta que o trabalho com máquinas, equipamentos e ferramentas manuais deve atender, também, à NR 12."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "Sobre as condições de conforto no ambiente de trabalho, a NR 17 aborda a iluminação. Qual das alternativas descreve corretamente as exigências da norma para a iluminação?",
     "alternativa1": "A iluminação deve ser exclusivamente artificial, para manter padrões consistentes.",
     "alternativa2": "A iluminação deve ser forte e direta, para garantir visibilidade máxima.",
@@ -13184,7 +13184,7 @@ const questoes = [
     "gabaritoComentado": "Os itens 17.8.1 e 17.8.2 da NR 17 determinam que a iluminação, natural ou artificial, geral ou suplementar, deve ser apropriada à natureza da atividade, evitando ofuscamento, reflexos e contrastes excessivos."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "A postura no ambiente laboral é um aspecto relevante da NR 17 - Ergonomia. Conforme o texto, como as posturas adotadas pelos trabalhadores são frequentemente determinadas?",
     "alternativa1": "Por escolha pessoal do trabalhador, buscando maior conforto.",
     "alternativa2": "Pela imposição da gerência para aumentar a produtividade.",
@@ -13195,7 +13195,7 @@ const questoes = [
     "gabaritoComentado": "O texto afirma que as posturas adotadas pelos trabalhadores não são uma casualidade, mas são assumidas muitas vezes para adaptação a condições de trabalho e espaços físicos não planejados para o trabalho humano."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "Os aspectos cognitivos são parte integrante da organização do trabalho na NR 17. Qual das alternativas abaixo NÃO representa um aspecto cognitivo a ser considerado?",
     "alternativa1": "A exigência de tempo e o ritmo de trabalho.",
     "alternativa2": "O uso constante de memória e de tomadas de decisão.",
@@ -13206,7 +13206,7 @@ const questoes = [
     "gabaritoComentado": "Os aspectos cognitivos referem-se aos mecanismos de desenvolvimento de conhecimentos, interpretação, classificação e organização das informações, incluindo memória, concentração, raciocínio e atenção, bem como fatores como tarefas complexas, tomadas de decisão e objetivos conflitantes. O levantamento, transporte e descarga de cargas é um aspecto físico/biomecânico, tratado em outro item da NR 17 (17.5)."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "O estresse no ambiente de trabalho pode ser classificado de diferentes formas. De acordo com o texto, quando o estresse é chamado de adaptativo?",
     "alternativa1": "Quando é resultado de assédio moral e pressão excessiva.",
     "alternativa2": "Quando está relacionado com o fracasso no uso de estratégias de defesa.",
@@ -13217,7 +13217,7 @@ const questoes = [
     "gabaritoComentado": "O texto define o estresse adaptativo como aquele que, despertado por uma ameaça, é responsável pela autopreservação do indivíduo."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "Os fatores de risco psicossociais no trabalho, embora por vezes negligenciados, são relevantes para a saúde do trabalhador. Qual das alternativas abaixo NÃO representa um fator de risco psicossocial citado no texto ou na lista referencial de perigos?",
     "alternativa1": "Baixo apoio social no trabalho.",
     "alternativa2": "Desequilíbrio esforço-recompensa.",
@@ -13228,7 +13228,7 @@ const questoes = [
     "gabaritoComentado": "O texto lista fatores como pressão de tempo, desequilíbrio esforço-recompensa, insegurança no emprego, baixo apoio social e assédio moral como fatores de risco psicossociais. A lista referencial de perigos inclui assédio, baixa clareza de papel/função, baixas recompensas, falta de suporte/apoio, e baixo controle/autonomia na categoria Ergonômico (incluindo Psicossocial). Exposição a ruído contínuo ou intermitente é classificada como perigo Físico."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "O assédio moral no trabalho é uma forma de violência psicológica. Qual das alternativas melhor descreve a natureza do assédio moral, segundo o texto?",
     "alternativa1": "É caracterizado por atitudes hostis e abusivas que atentam contra a dignidade e integridade psíquica ou física de uma pessoa.",
     "alternativa2": "Consiste exclusivamente em agressões físicas diretas e evidentes.",
@@ -13239,7 +13239,7 @@ const questoes = [
     "gabaritoComentado": "O texto define assédio moral como uma forma de violência psicológica caracterizada por atitudes hostis e abusivas que atentam contra a dignidade e integridade psíquica ou física de uma pessoa. Embora envolva comportamentos sutis e raramente violências físicas diretas, ele atenta contra a integridade física ou psíquica."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "Certos fatores organizacionais podem facilitar ou propiciar práticas de assédio moral no ambiente de trabalho. Qual das alternativas abaixo NÃO representa um fator facilitador de assédio moral, conforme listado no texto?",
     "alternativa1": "Clareza de objetivos e expectativas para o trabalhador.",
     "alternativa2": "Competição interna excessiva.",
@@ -13250,7 +13250,7 @@ const questoes = [
     "gabaritoComentado": "O Quadro 4 lista fatores que facilitam/propiciam assédio moral, incluindo falta de objetivos e expectativas claras, competição interna, deficiência no comportamento dos líderes e falta de procedimentos para resolução de conflitos. Carga excessiva de trabalho também é apontada como facilitador. Clareza de objetivos seria um fator protetivo, não facilitador."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "A gestão baseada no estresse é uma estratégia que pode ter consequências negativas para a saúde do trabalhador, embora não pretenda destruí-lo. Qual alternativa descreve uma prática comum na gestão por estresse?",
     "alternativa1": "Promoção da autonomia e do desenvolvimento pessoal.",
     "alternativa2": "Criação de canais abertos de diálogo para resolução de conflitos.",
@@ -13261,7 +13261,7 @@ const questoes = [
     "gabaritoComentado": "O texto cita como exemplos de gestão por estresse práticas como cobranças constantes, supervisão exagerada, comparações de desempenho, rankings de produtividade e metas muito exigentes."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "A integração da ergonomia no Gerenciamento de Riscos Ocupacionais (GRO) é fundamental, conforme a NR 1. Qual a finalidade principal do GRO?",
     "alternativa1": "Caracterizar atividades ou operações insalubres ou perigosas.",
     "alternativa2": "Substituir as Normas Regulamentadoras específicas de SST.",
@@ -13272,7 +13272,7 @@ const questoes = [
     "gabaritoComentado": "Conforme a NR 1, a finalidade do GRO é proporcionar locais de trabalho seguros e saudáveis, prevenir lesões e agravos à saúde relacionados com o trabalho e melhorar o desempenho em Segurança e Saúde do Trabalho nas organizações. O GRO não deve ser usado para caracterizar insalubridade ou periculosidade."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "O Inventário de Riscos Ocupacionais é um documento essencial do PGR. Qual das informações abaixo NÃO é expressamente exigida para constar no inventário de riscos, segundo a NR 1?",
     "alternativa1": "Descrição dos perigos, com identificação das fontes e/ou circunstâncias.",
     "alternativa2": "Indicação dos grupos de trabalhadores expostos aos perigos.",
@@ -13283,7 +13283,7 @@ const questoes = [
     "gabaritoComentado": "O Inventário de Riscos Ocupacionais deve conter, no mínimo, identificação de perigos, indicação de grupos expostos, descrição de medidas de prevenção, caracterização da exposição, dados de avaliações (incluindo ergonomia), avaliação e classificação dos riscos. Embora a análise de acidentes subsidie a revisão do PGR, o inventário não exige um histórico detalhado de acidentes com identificação de vítimas."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "Os indicadores biológicos do Tipo 1, mencionados no texto, são utilizados na avaliação da ação de agentes químicos no organismo. Qual a característica principal desses indicadores?",
     "alternativa1": "Detectam indivíduos mais susceptíveis a serem afetados por xenobióticos e não são utilizados por questões éticas.",
     "alternativa2": "Indicam adoecimento em virtude da exposição a agentes químicos, sendo identificados precocemente e devendo ser reversíveis.",
@@ -13294,7 +13294,7 @@ const questoes = [
     "gabaritoComentado": "Indicadores biológicos do Tipo 1 revelam alterações no organismo resultantes da ação do agente químico, sendo indicativos de adoecimento. Devem ser identificados precocemente e ser reversíveis. Indicadores de susceptibilidade não são usados por questões éticas."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "O Programa de Controle Médico de Saúde Ocupacional (PCMSO), conforme a NR 7 e sua integração com o PGR, deve descrever os possíveis agravos à saúde relacionados aos riscos ocupacionais identificados e avaliados nos ambientes de trabalho dos trabalhadores. Qual das ações abaixo deve ser adotada pelo empregador, após ser informado pelo médico responsável, caso seja constatada ocorrência ou agravamento de doença relacionada ao trabalho?",
     "alternativa1": "Garantir que o trabalhador continue exposto à situação de risco para monitoramento.",
     "alternativa2": "Realizar apenas o exame demissional imediatamente.",
@@ -13305,7 +13305,7 @@ const questoes = [
     "gabaritoComentado": "Segundo o item 7.5.19.5 da NR 7, caso constatada doença relacionada ao trabalho, o empregador deve, após informado pelo médico, emitir a CAT, afastar o trabalhador (quando necessário), encaminhá-lo à Previdência Social (afastamento > 15 dias) e reavaliar os riscos ocupacionais e medidas de prevenção."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "O prontuário médico individual do trabalhador, que registra dados dos exames clínicos e complementares, deve ser mantido sob a responsabilidade do médico responsável. Por quanto tempo, no mínimo, este prontuário deve ser mantido após o desligamento do trabalhador?",
     "alternativa1": "Por 5 anos.",
     "alternativa2": "Por 10 anos.",
@@ -13316,7 +13316,7 @@ const questoes = [
     "gabaritoComentado": "Os dados dos exames clínicos e complementares devem ser registrados em prontuário médico individual e mantidos por, no mínimo, 20 anos após o desligamento do trabalhador."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "Qual a definição de Perigo, em termos simples, conforme apresentado no texto sobre Gerenciamento de Riscos Ocupacionais?",
     "alternativa1": "A chance de alguém ser prejudicado por uma situação.",
     "alternativa2": "A combinação da severidade do dano com a probabilidade de sua ocorrência.",
@@ -13327,7 +13327,7 @@ const questoes = [
     "gabaritoComentado": "Em termos simples, o perigo é definido como qualquer coisa que possa causar danos. O risco é a chance de ser prejudicado por um perigo, combinada com a seriedade do dano."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "A Norma Regulamentadora nº 1 (NR 1) estabelece a hierarquia das medidas de prevenção para o controle dos riscos ocupacionais. Qual medida é considerada a última na hierarquia, de acordo com o texto?",
     "alternativa1": "Eliminação dos perigos.",
     "alternativa2": "Controles de engenharia (medidas de proteção coletiva).",
@@ -13338,7 +13338,7 @@ const questoes = [
     "gabaritoComentado": "A NR 1 e a literatura técnica de SST consideram o uso de equipamento de proteção individual (EPI) como a última medida de controle do risco na hierarquia das medidas de prevenção."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "O planejamento da resposta a emergências é uma etapa complementar ao gerenciamento de riscos ocupacionais. De acordo com a NR 1, o que deve ser incluído no procedimento de resposta a emergências?",
     "alternativa1": "Apenas a lista de telefones úteis para contato.",
     "alternativa2": "Somente os meios de evacuação do local de trabalho.",
@@ -13349,7 +13349,7 @@ const questoes = [
     "gabaritoComentado": "A NR 1 exige a documentação do procedimento de resposta a emergências, que deve incluir meios responsáveis e recursos para primeiros socorros, encaminhamento de acidentados, abandono de locais, medidas para emergências de grande magnitude, provisão de equipamentos, meios de evacuação, identificação de materiais perigosos, interface com serviços externos, comunicação e proteção de registros."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "Os indicadores biológicos de susceptibilidade são mencionados no texto. Qual a principal razão ética para que estes indicadores não sejam utilizados em processos de seleção de candidatos a emprego?",
     "alternativa1": "Eles não fornecem informações relevantes sobre a exposição a agentes químicos.",
     "alternativa2": "Sua determinação em candidatos a emprego caracteriza discriminação, pois ambientes de trabalho devem ser saudáveis para todos, inclusive os susceptíveis.",
@@ -13360,7 +13360,7 @@ const questoes = [
     "gabaritoComentado": "Os indicadores de susceptibilidade detectam indivíduos mais susceptíveis a xenobióticos e não são utilizados por questões éticas, pois sua determinação em candidatos a emprego caracteriza discriminação, visto que ambientes de trabalho devem ser saudáveis para todos."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "O conceito de 'Trabalho Prescrito' difere do 'Trabalho Real' no contexto da análise ergonômica. O que geralmente demonstra a diferença entre o trabalho real e o trabalho prescrito?",
     "alternativa1": "As normas de produção estabelecidas pela gerência.",
     "alternativa2": "A descrição das tarefas contida nos manuais de procedimento.",
@@ -13371,7 +13371,7 @@ const questoes = [
     "gabaritoComentado": "O texto menciona que a análise da organização do trabalho geralmente demonstra diferenças entre o trabalho real e o trabalho prescrito. A seção sobre modos operatórios detalha que, apesar das normas, há situações em que a discrepância entre trabalho prescrito (como uma chapa pesada deve ser carregada por dois) e o trabalho real (quando é feito por um só) está na gênese de adoecimentos. Isso implica que os modos operatórios reais podem divergir do que é prescrito."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "A Análise Preliminar de Risco (APR) é uma técnica de análise de risco mencionada no texto, embora em um contexto relacionado à NR 10. Contudo, o modelo de APR apresentado inclui campos relevantes para a gestão de riscos em geral. Qual informação NÃO é tipicamente encontrada em um modelo de APR como o apresentado?",
     "alternativa1": "Descrição da atividade.",
     "alternativa2": "Possíveis riscos da atividade.",
@@ -13382,7 +13382,7 @@ const questoes = [
     "gabaritoComentado": "O modelo de APR apresentado inclui campos como descrição da atividade, possíveis riscos, medidas de controle, identificação da gerência, local, equipamento, data, responsáveis, etc.. Embora a análise de risco envolva a combinação de gravidade e probabilidade, e a gradação seja parte do processo do GRO, o modelo da APR mostrada não explicita campos para 'custo de implementação das medidas de controle'."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "Um dos resultados esperados da AET, especialmente quando as demandas envolvem aspectos físicos e adoecimento, é a explicitação de sobrecargas estáticas ou dinâmicas. Com que tipo de registro essa explicitação deve ser cotejada?",
     "alternativa1": "Com os resultados do programa de preparação para emergências.",
     "alternativa2": "Com os dados da análise de acidentes e doenças relacionados ao trabalho.",
@@ -13393,7 +13393,7 @@ const questoes = [
     "gabaritoComentado": "Um dos resultados esperados da AET, particularmente em casos envolvendo aspectos físicos e adoecimento, é a identificação de sobrecargas estáticas ou dinâmicas, a ser cotejada com os relatórios estatísticos da organização sobre queixas de agravos à saúde, colhidas pela Medicina do Trabalho nos prontuários médicos."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "Os resultados da avaliação ergonômica preliminar (AEP) e as adequações decorrentes devem ser previstos em qual documento da organização?",
     "alternativa1": "No Relatório Analítico do PCMSO.",
     "alternativa2": "No Atestado de Saúde Ocupacional (ASO).",
@@ -13404,7 +13404,7 @@ const questoes = [
     "gabaritoComentado": "As medidas de prevenção e adequações decorrentes da avaliação ergonômica preliminar e para as situações que necessitam de AET devem ser previstas em Planos de Ação, nos termos do PGR. O Plano de Ação é um documento básico do PGR."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "A ergonomia organizacional, um dos domínios da ergonomia, busca a otimização de sistemas sociotécnicos. O que este domínio inclui?",
     "alternativa1": "Apenas aspectos biomecânicos e físicos do trabalho.",
     "alternativa2": "Estruturas organizacionais, regras e processos, buscando melhorar a comunicação e o gerenciamento preventivo.",
@@ -13415,7 +13415,7 @@ const questoes = [
     "gabaritoComentado": "A ergonomia organizacional busca a otimização de sistemas sociotécnicos, incluindo suas estruturas organizacionais, regras e processos. Isso inclui buscar melhor comunicação entre pessoas e gerenciamento preventivo."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "Qual das alternativas melhor define o conceito de 'Normas de produção' no contexto da organização do trabalho, segundo o texto?",
     "alternativa1": "São os resultados alcançados pela organização em termos de quantidade e qualidade de produtos.",
     "alternativa2": "São todas as normas que o trabalhador deve seguir para cumprir a tarefa a ele designada, sejam escritas ou verbais, explícitas ou implícitas.",
@@ -13426,7 +13426,7 @@ const questoes = [
     "gabaritoComentado": "Normas de produção são definidas como todas as normas que o trabalhador deve seguir para cumprir a tarefa a ele designada. Podem ser escritas ou verbais, explícitas ou implícitas, e referem-se a questões de qualidade, segurança, saúde e exigências produtivas."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "O conteúdo das tarefas relaciona-se ao modo como o trabalhador percebe suas condições laborais. No contexto da organização do trabalho, com que outro termo o conteúdo das tarefas é sinônimo?",
     "alternativa1": "Trabalho prescrito.",
     "alternativa2": "Modos operatórios.",
@@ -13437,7 +13437,7 @@ const questoes = [
     "gabaritoComentado": "O texto afirma que o conteúdo das tarefas refere-se ao modo como o trabalhador percebe suas condições laborais e é sinônimo de atividade de trabalho."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "A NR 17 estabelece obrigações para os fabricantes de máquinas e equipamentos no que se refere ao projeto. Qual o objetivo principal dessas obrigações?",
     "alternativa1": "Garantir que os equipamentos sejam os mais rápidos e eficientes do mercado.",
     "alternativa2": "Projetar e construir equipamentos com comandos que possibilitem a interação clara e precisa com o operador, reduzindo riscos.",
@@ -13448,7 +13448,7 @@ const questoes = [
     "gabaritoComentado": "O item 17.7.2 da NR 17 dirige-se aos fabricantes, determinando que devem projetar e construir equipamentos com comandos que possibilitem a interação clara e precisa com o operador."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "As ferramentas manuais, sob a perspectiva da NR 17, também devem ser selecionadas de forma a garantir a segurança e o conforto do trabalhador. Qual característica da ferramenta manual é destacada como importante na seleção?",
     "alternativa1": "Seu peso máximo, independentemente do material.",
     "alternativa2": "O tipo, formato e textura da empunhadura, apropriados à tarefa e ao eventual uso de luvas.",
@@ -13459,7 +13459,7 @@ const questoes = [
     "gabaritoComentado": "O subitem 17.7.6 da NR 17 define que a organização deve selecionar as ferramentas manuais para que o tipo, formato e a textura da empunhadura sejam apropriados à tarefa e ao eventual uso de luvas."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "A Convenção 190 da OIT, mencionada no texto, aborda a violência e o assédio no mundo do trabalho. Qual das alternativas melhor define a violência e o assédio nesse contexto, segundo a Convenção?",
     "alternativa1": "Qualquer comportamento ou prática que cause dano físico ou psicológico, de ocorrência única.",
     "alternativa2": "Um conjunto de comportamentos e práticas inaceitáveis, ou de suas ameaças, de ocorrência única ou repetida, que visem, causem, ou sejam susceptíveis de causar dano físico, psicológico, sexual ou econômico, incluindo a violência e o assédio com base no gênero.",
@@ -13470,7 +13470,7 @@ const questoes = [
     "gabaritoComentado": "A Convenção 190 da OIT considera a violência e o assédio no mundo do trabalho como um conjunto de comportamentos e práticas inaceitáveis, ou de suas ameaças, de ocorrência única ou repetida, que visem, causem, ou sejam susceptíveis de causar dano físico, psicológico, sexual ou econômico, e inclui a violência e o assédio com base no gênero."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "No processo de Avaliação dos Riscos Ocupacionais, a NR 1 exige que para cada risco seja indicado um nível de risco. Como é determinado esse nível de risco?",
     "alternativa1": "Pela severidade das possíveis lesões ou agravos à saúde, isoladamente.",
     "alternativa2": "Pela probabilidade ou chance de ocorrência da lesão ou agravo à saúde, isoladamente.",
@@ -13481,7 +13481,7 @@ const questoes = [
     "gabaritoComentado": "Para cada risco deve ser indicado o nível de risco ocupacional, que é verificado pela combinação da severidade das possíveis lesões ou agravos à saúde com a probabilidade ou chance de sua ocorrência."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "Após a determinação dos níveis de risco, a organização deve classificar os riscos ocupacionais. Qual a finalidade principal dessa classificação?",
     "alternativa1": "Definir o salário base dos trabalhadores expostos ao risco.",
     "alternativa2": "Identificar a necessidade de adoção ou manutenção de medidas de prevenção e elaboração do plano de ação.",
@@ -13492,7 +13492,7 @@ const questoes = [
     "gabaritoComentado": "A organização deve classificar os riscos ocupacionais 'para fins de identificar a necessidade de adoção ou manutenção de medidas de prevenção e elaboração do plano de ação'."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "A medição de desempenho é uma forma de monitorar a eficácia das ações de SST. Quais tipos de medições de desempenho são citados na NR 1?",
     "alternativa1": "Apenas medições reativas que monitoram acidentes e doenças.",
     "alternativa2": "Apenas medições proativas que monitoram o atendimento a procedimentos.",
@@ -13503,7 +13503,7 @@ const questoes = [
     "gabaritoComentado": "A NR 1 estabelece que o acompanhamento do desempenho das medidas de prevenção pode incluir medições proativas (inspeções, permissões de trabalho) e medições reativas (acidentes, doenças)."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "O Plano de Ação do PGR é elaborado com base nos processos de identificação e avaliação de riscos. O que deve ser definido no Plano de Ação, conforme a NR 1?",
     "alternativa1": "Apenas a lista de perigos identificados e seus níveis de risco.",
     "alternativa2": "Cronograma com responsáveis, formas de acompanhamento e aferição de resultados das medidas de prevenção.",
@@ -13514,7 +13514,7 @@ const questoes = [
     "gabaritoComentado": "Ao estabelecer o plano de ação, deve ser definido cronograma com responsáveis, formas de acompanhamento e aferição de resultados das medidas de prevenção."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "Na análise de acidentes e doenças relacionadas ao trabalho, a NR 1 exige que certos fatores sejam considerados. Qual dos itens abaixo deve ser levado em conta nessa análise, segundo a norma?",
     "alternativa1": "Exclusivamente a culpa do trabalhador no evento.",
     "alternativa2": "Apenas os danos materiais resultantes do acidente.",
@@ -13525,7 +13525,7 @@ const questoes = [
     "gabaritoComentado": "A análise de acidentes e doenças relacionadas ao trabalho deve considerar as situações geradoras dos eventos, levando em conta as atividades efetivamente desenvolvidas, ambiente de trabalho, materiais, processo produtivo, organização do trabalho e outros fatores relacionados."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "Conforme a NR 17, a Avaliação Ergonômica Preliminar (AEP) das situações de trabalho pode ser realizada por meio de quais abordagens?",
     "alternativa1": "Apenas qualitativas.",
     "alternativa2": "Apenas quantitativas.",
@@ -13536,7 +13536,7 @@ const questoes = [
     "gabaritoComentado": "Segundo o subitem 17.3.1.1 da NR 17, a avaliação ergonômica preliminar (AEP) das situações de trabalho pode ser realizada por meio de abordagens qualitativas, semiquantitativas, quantitativas ou combinação dessas."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "A análise ergonômica do trabalho (AET) deve ser realizada em etapas progressivas. Qual é a etapa inicial desse processo, conforme descrito no texto?",
     "alternativa1": "A validação e revisão das intervenções efetuadas.",
     "alternativa2": "As observações detalhadas do trabalho em andamento.",
@@ -13547,7 +13547,7 @@ const questoes = [
     "gabaritoComentado": "A AET deve ser realizada em etapas progressivas, iniciadas pela discussão do problema a ser resolvido e escolha de situações a serem analisadas."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "A análise da organização do trabalho deve incluir a descrição e avaliação de diversos elementos. Qual dos itens abaixo faz parte dessa descrição e avaliação?",
     "alternativa1": "O nome e CNPJ do empregador.",
     "alternativa2": "Os resultados da produção em relação ao tempo alocado para as tarefas.",
@@ -13558,7 +13558,7 @@ const questoes = [
     "gabaritoComentado": "A descrição da organização do trabalho deve incluir os resultados da produção em relação ao tempo alocado para as tarefas, as variações na carga de trabalho, número de ciclos, trabalho em turnos, pausas, normas de produção, ritmo, conteúdo das tarefas e meios técnicos disponíveis."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "Na análise ergonômica do trabalho (AET), quando o estudo busca a prevenção de distúrbios osteomusculares relacionados ao trabalho, o que os registros da AET deverão contemplar?",
     "alternativa1": "Apenas os dados do PCMSO relacionados a doenças musculoesqueléticas.",
     "alternativa2": "As características dos postos de trabalho, no que se refere ao mobiliário, espaço físico para a execução do trabalho e condições de posicionamento e movimentação de segmentos corporais.",
@@ -13569,7 +13569,7 @@ const questoes = [
     "gabaritoComentado": "Quando o estudo na AET buscar a prevenção de distúrbios osteomusculares relacionados ao trabalho, os registros deverão contemplar as características dos postos de trabalho no que se refere ao mobiliário, espaço físico e condições de posicionamento e movimentação de segmentos corporais."
   },
   {
-    "tema": "🪑NR 17  - Ergonomia",
+    "tema": "NR 17🪑 - Ergonomia",
     "pergunta": "Os superiores hierárquicos diretos dos trabalhadores possuem um papel na aplicação dos princípios da ergonomia, especialmente aspectos psicossociais. Qual a orientação exigida pela NR 17 para esses superiores, em organizações com mais de 10 empregados?",
     "alternativa1": "Fiscalizar rigorosamente as pausas e o ritmo de trabalho.",
     "alternativa2": "Estabelecer metas de produtividade individuais rígidas e monitorar o desempenho publicamente.",
@@ -14317,7 +14317,7 @@ const questoes = [
     "gabaritoComentado": "A NR 7, ao tratar da saúde ocupacional, pode levar ao afastamento do trabalhador por doenças relacionadas ao trabalho, o que pode, em certas condições de rescisão contratual decorrentes dessa situação, influenciar a possibilidade de movimentação da conta do FGTS."
   },
   {
-    "tema": "NR 1 - GRO 🧠",
+    "tema": "NR 01🧠 - GRO ",
     "pergunta": "De acordo com a Norma Regulamentadora nº 1 (NR 1), qual é a finalidade principal do Gerenciamento de Riscos Ocupacionais (GRO)?",
     "alternativa1": "Definir os critérios para o pagamento de adicionais de insalubridade e periculosidade.",
     "alternativa2": "Garantir o cumprimento das obrigações trabalhistas relacionadas à segurança e saúde no trabalho.",
@@ -14328,7 +14328,7 @@ const questoes = [
     "gabaritoComentado": "A finalidade do GRO, conforme o subitem 1.5.1 da NR 1, é proporcionar locais de trabalho seguros e saudáveis, prevenir lesões e agravos à saúde relacionados com o trabalho e melhorar o desempenho em Segurança e Saúde do Trabalho nas organizações."
   },
   {
-    "tema": "NR 1 - GRO 🧠",
+    "tema": "NR 01🧠 - GRO ",
     "pergunta": "Qual é a primeira etapa essencial para um gerenciamento de risco ocupacional proativo, conforme preconiza a NR 1?",
     "alternativa1": "Avaliação dos riscos ocupacionais.",
     "alternativa2": "Implementação de medidas de controle.",
@@ -14339,7 +14339,7 @@ const questoes = [
     "gabaritoComentado": "O processo de identificação de perigos é fundamental para um gerenciamento de risco ocupacional proativo, assegurando que os processos seguintes do GRO tenham resultado."
   },
   {
-    "tema": "NR 1 - GRO 🧠",
+    "tema": "NR 01🧠 - GRO ",
     "pergunta": "Segundo a NR 1, o processo de avaliação de riscos ocupacionais deve considerar qual dos seguintes aspectos?",
     "alternativa1": "Apenas os riscos físicos, químicos e biológicos presentes no ambiente de trabalho.",
     "alternativa2": "Exclusivamente a probabilidade de ocorrência de acidentes típicos.",
@@ -14350,7 +14350,7 @@ const questoes = [
     "gabaritoComentado": "Para a avaliação de risco decorrente de perigos de acidentes, a NR 1 determina que se deve considerar a exposição do trabalhador ao perigo e a eficácia das medidas de prevenção implementadas."
   },
   {
-    "tema": "NR 1 - GRO 🧠",
+    "tema": "NR 01🧠 - GRO ",
     "pergunta": "Qual é a ordem de prioridade para a implementação de medidas de prevenção, conforme estabelecido pela NR 1?",
     "alternativa1": "Medidas de proteção individual, medidas administrativas, medidas de proteção coletiva, eliminação dos fatores de risco, evitar os perigos ocupacionais.",
     "alternativa2": "Evitar os perigos ocupacionais, eliminação dos fatores de risco, medidas administrativas, medidas de proteção coletiva, medidas de proteção individual.",
@@ -14361,7 +14361,7 @@ const questoes = [
     "gabaritoComentado": "A NR 1 estabelece a seguinte ordem de prioridade para controle dos riscos: 1º evitar os perigos ocupacionais; 2º eliminação dos fatores de risco; 3º minimização e controle dos fatores de risco, com a adoção de medidas de proteção coletiva; 4º minimização e controle dos fatores de risco, com a adoção de medidas administrativas ou de organização do trabalho; 5º adoção de medidas de proteção individual."
   },
   {
-    "tema": "NR 1 - GRO 🧠",
+    "tema": "NR 01🧠 - GRO ",
     "pergunta": "O Programa de Gerenciamento de Riscos (PGR) é composto por quais documentos principais, de acordo com a NR 1?",
     "alternativa1": "Atestado de Saúde Ocupacional (ASO) e Comunicação de Acidente de Trabalho (CAT).",
     "alternativa2": "Programa de Controle Médico de Saúde Ocupacional (PCMSO) e Programa de Prevenção de Riscos Ambientais (PPRA).",
@@ -14372,7 +14372,7 @@ const questoes = [
     "gabaritoComentado": "A documentação do PGR é composta pelo Inventário de Riscos Ocupacionais e Plano de Ação (subitem 1.5.7.1, da NR 1)."
   },
   {
-    "tema": "NR 1 - GRO 🧠",
+    "tema": "NR 01🧠 - GRO ",
     "pergunta": "Qual das alternativas abaixo apresenta um exemplo de perigo do tipo físico, conforme a lista referencial da NR 1?",
     "alternativa1": "Benzeno.",
     "alternativa2": "Vírus da Hepatite B.",
@@ -14383,7 +14383,7 @@ const questoes = [
     "gabaritoComentado": "O quadro 1 da NR 1 traz uma lista referencial de perigos, e o ruído contínuo ou intermitente é classificado como um perigo do tipo físico."
   },
   {
-    "tema": "NR 1 - GRO 🧠",
+    "tema": "NR 01🧠 - GRO ",
     "pergunta": "Segundo a NR 1, a etapa de identificação de perigos deve incluir, entre outros aspectos:",
     "alternativa1": "A determinação do nível de risco detalhado para cada perigo identificado.",
     "alternativa2": "A definição das medidas de controle mais adequadas para cada risco.",
@@ -14394,7 +14394,7 @@ const questoes = [
     "gabaritoComentado": "A NR 1 prescreve que a etapa de identificação de perigos deve incluir a descrição dos perigos e possíveis lesões ou agravos à saúde."
   },
   {
-    "tema": "NR 1 - GRO 🧠",
+    "tema": "NR 01🧠 - GRO ",
     "pergunta": "Para a determinação do nível de risco ocupacional, qual combinação de fatores deve ser considerada, de acordo com a NR 1?",
     "alternativa1": "Intensidade da exposição e número de trabalhadores expostos.",
     "alternativa2": "Frequência da exposição e custo das medidas de prevenção.",
@@ -14405,7 +14405,7 @@ const questoes = [
     "gabaritoComentado": "O nível de risco ocupacional é verificado pela combinação da severidade das possíveis lesões ou agravos à saúde com a probabilidade ou chance de sua ocorrência."
   },
   {
-    "tema": "NR 1 - GRO 🧠",
+    "tema": "NR 01🧠 - GRO ",
     "pergunta": "Qual norma técnica da ABNT é mencionada na NR 1 como fornecedora de orientações sobre a seleção e aplicação de técnicas sistemáticas para o processo de avaliação de riscos?",
     "alternativa1": "ABNT NBR ISO 9001.",
     "alternativa2": "ABNT NBR ISO 14001.",
@@ -14416,7 +14416,7 @@ const questoes = [
     "gabaritoComentado": "A norma técnica ABNT NBR ISO/IEC 31010: 2012 fornece orientações sobre a seleção e aplicação de técnicas sistemáticas para o processo de avaliação de riscos."
   },
   {
-    "tema": "NR 1 - GRO 🧠",
+    "tema": "NR 01🧠 - GRO ",
     "pergunta": "Segundo a NR 1, qual critério deve ser utilizado para classificar os riscos ocupacionais?",
     "alternativa1": "O número total de empregados da organização.",
     "alternativa2": "O grau de risco da atividade econômica da empresa, conforme a NR 4.",
@@ -14427,7 +14427,7 @@ const questoes = [
     "gabaritoComentado": "Após a determinação dos níveis de risco, é obrigação da organização classificar os riscos ocupacionais “para fins de identificar a necessidade de adoção ou manutenção de medidas de prevenção e elaboração do plano de ação” (subitem 1.5.4.4.3, da NR 1)."
   },
   {
-    "tema": "NR 1 - GRO 🧠",
+    "tema": "NR 01🧠 - GRO ",
     "pergunta": "Em quais situações a NR 1 determina que a avaliação de riscos ocupacionais deve ser revisada?",
     "alternativa1": "Anualmente, independentemente de qualquer outra condição.",
     "alternativa2": "Apenas quando ocorrerem acidentes de trabalho com afastamento.",
@@ -14438,7 +14438,7 @@ const questoes = [
     "gabaritoComentado": "A avaliação de riscos deve ser revisada quando identificadas inadequações, insuficiências ou ineficácias das medidas de prevenção, quando verificada a ocorrência de acidentes ou doenças relacionadas ao trabalho, após a solicitação justificada dos trabalhadores ou da CIPA, entre outras situações."
   },
   {
-    "tema": "NR 1 - GRO 🧠",
+    "tema": "NR 01🧠 - GRO ",
     "pergunta": "Qual é a importância do Plano de Ação no contexto do Gerenciamento de Riscos Ocupacionais (GRO), segundo a NR 1?",
     "alternativa1": "Documentar os procedimentos de trabalho seguros para cada função.",
     "alternativa2": "Registrar os dados da análise preliminar de riscos e do monitoramento das exposições.",
@@ -14449,7 +14449,7 @@ const questoes = [
     "gabaritoComentado": "A organização deve elaborar um plano de ação de controle dos riscos como resultado dos processos de identificação de perigos e avaliação de riscos, indicando as medidas de prevenção a serem introduzidas, aprimoradas ou mantidas, com definição de cronograma e responsáveis."
   },
   {
-    "tema": "NR 1 - GRO 🧠",
+    "tema": "NR 01🧠 - GRO ",
     "pergunta": "De acordo com a NR 1, qual deve ser um dos critérios para aumentar a prioridade de ação no Plano de Ação?",
     "alternativa1": "O custo financeiro da implementação da medida de prevenção.",
     "alternativa2": "A complexidade técnica da medida de controle a ser adotada.",
@@ -14460,7 +14460,7 @@ const questoes = [
     "gabaritoComentado": "Ao estabelecer o plano de ação, o número de trabalhadores, possivelmente atingidos por cada risco, deve ser utilizado pela organização “como critério para aumentar a prioridade de ação” (subitem 1.5.5.2.1.1, da NR 1)."
   },
   {
-    "tema": "NR 1 - GRO 🧠",
+    "tema": "NR 01🧠 - GRO ",
     "pergunta": "Qual a periodicidade mínima para a realização de exercícios simulados de respostas a emergências, conforme previsto na NR 1?",
     "alternativa1": "Anual.",
     "alternativa2": "Semestral.",
@@ -14471,7 +14471,7 @@ const questoes = [
     "gabaritoComentado": "O procedimento de preparação e resposta a emergências precisa incluir a realização de exercícios simulados de forma periódica, devendo ser geradas evidências de sua realização (subitens 1.5.6.3 e 1.5.6.3.1, da NR 1). A norma não especifica uma periodicidade mínima, deixando a critério da organização com base nos riscos."
   },
   {
-    "tema": "NR 1 - GRO 🧠",
+    "tema": "NR 01🧠 - GRO ",
     "pergunta": "Em relação às empresas contratadas, o que a NR 1 estabelece sobre a extensão das medidas de prevenção da contratante?",
     "alternativa1": "A contratante não tem responsabilidade sobre os riscos das atividades dos empregados da contratada.",
     "alternativa2": "A contratante deve estender suas medidas de prevenção aos riscos das atividades objeto da contratação, quando os trabalhadores da contratada atuarem em suas dependências ou local convencionado.",
@@ -14482,7 +14482,7 @@ const questoes = [
     "gabaritoComentado": "Para os casos específicos em que a prestação de serviços é realizada somente pelo titular ou sócios da contratada, “a organização contratante deve estender suas medidas de prevenção aos riscos das atividades, objeto de sua contratação, quando atuarem em suas dependências ou local previamente convencionado em contrato” (subitem 1.5.8.1.2, da NR 1)."
   },
   {
-    "tema": "NR 1 - GRO 🧠",
+    "tema": "NR 01🧠 - GRO ",
     "pergunta": "Qual é a importância do envolvimento dos trabalhadores no processo de identificação de perigos, conforme preconiza a NR 1?",
     "alternativa1": "Reduzir a necessidade de consultoria externa especializada.",
     "alternativa2": "Garantir a conformidade legal com as exigências da Inspeção do Trabalho.",
@@ -14493,7 +14493,7 @@ const questoes = [
     "gabaritoComentado": "É importante que os trabalhadores sejam envolvidos no processo de identificação de perigos para promover uma cultura de prevenção em SST e porque possuem as melhores condições de contribuir para o monitoramento das medidas de prevenção."
   },
   {
-    "tema": "NR 1 - GRO 🧠",
+    "tema": "NR 01🧠 - GRO ",
     "pergunta": "O Inventário de Riscos Ocupacionais deve ser mantido atualizado e seu histórico deve ser guardado por um período mínimo de:",
     "alternativa1": "5 anos.",
     "alternativa2": "10 anos.",
@@ -14504,7 +14504,7 @@ const questoes = [
     "gabaritoComentado": "O Inventário de Riscos Ocupacionais deve ser mantido atualizado e seu histórico deve ser mantido por um período mínimo de 20 anos (subitens 1.5.7.3.3 e 1.5.7.3.3.1, da NR 1)."
   },
   {
-    "tema": "NR 1 - GRO 🧠",
+    "tema": "NR 01🧠 - GRO ",
     "pergunta": "Qual das alternativas abaixo descreve corretamente o conceito de 'perigo' no contexto do Gerenciamento de Riscos Ocupacionais?",
     "alternativa1": "A probabilidade de ocorrência de um evento adverso combinado com a severidade de suas consequências.",
     "alternativa2": "Qualquer coisa que tenha o potencial de causar dano à saúde ou integridade física dos trabalhadores.",
@@ -14515,7 +14515,7 @@ const questoes = [
     "gabaritoComentado": "Conforme a NR 1, perigo é qualquer coisa que possa causar danos."
   },
   {
-    "tema": "NR 1 - GRO 🧠",
+    "tema": "NR 01🧠 - GRO ",
     "pergunta": "A avaliação ergonômica preliminar (AEP), prevista na NR 17, deve ser integrada ao Gerenciamento de Riscos Ocupacionais (GRO) de que forma?",
     "alternativa1": "Substituindo a etapa de identificação de perigos ergonômicos do GRO.",
     "alternativa2": "Os dados de seus resultados devem ser integrados ao inventário de riscos do PGR.",
@@ -14526,7 +14526,7 @@ const questoes = [
     "gabaritoComentado": "Quando a AEP for registrada em documentação específica, os dados de seus resultados devem ser integrados ao inventário de riscos do PGR."
   },
   {
-    "tema": "NR 1 - GRO 🧠",
+    "tema": "NR 01🧠 - GRO ",
     "pergunta": "Em relação ao controle da saúde dos empregados no GRO, a NR 1 destaca que este deve ser um processo:",
     "alternativa1": "Realizado apenas quando houver queixas dos trabalhadores.",
     "alternativa2": "Focado no tratamento de doenças ocupacionais diagnosticadas.",
@@ -14537,7 +14537,7 @@ const questoes = [
     "gabaritoComentado": "O GRO destaca que o controle da saúde dos empregados deve ser um processo preventivo planejado, sistemático e continuado (subitem 1.5.5.4.2, da NR 1)."
   },
   {
-    "tema": "NR 1 - GRO 🧠",
+    "tema": "NR 01🧠 - GRO ",
     "pergunta": "Qual deve ser a consideração fundamental na análise de acidentes e doenças relacionadas ao trabalho, conforme a NR 1?",
     "alternativa1": "A busca por culpados e a aplicação de medidas disciplinares.",
     "alternativa2": "A determinação do nexo causal para fins de responsabilização legal.",
@@ -14548,7 +14548,7 @@ const questoes = [
     "gabaritoComentado": "A análise de acidentes e doenças relacionadas ao trabalho deve considerar as situações geradoras dos eventos, levando em conta as atividades efetivamente desenvolvidas, ambiente de trabalho, materiais, processo produtivo, organização do trabalho e outros fatores relacionados com os eventos (subitem 1.5.5.5.2, “a”, da NR 1)."
   },
   {
-    "tema": "NR 1 - GRO 🧠",
+    "tema": "NR 01🧠 - GRO ",
     "pergunta": "O documento sobre critérios utilizados no GRO/PGR deve detalhar, no mínimo:",
     "alternativa1": "O cronograma de implementação das medidas de controle e os responsáveis por cada ação.",
     "alternativa2": "Os dados completos de todos os acidentes de trabalho ocorridos nos últimos 5 anos.",
@@ -14559,7 +14559,7 @@ const questoes = [
     "gabaritoComentado": "O documento sobre critérios deve conter, no mínimo, o detalhamento sobre os critérios das gradações de severidade e probabilidade, os níveis de risco resultantes da combinação e os critérios de classificação de riscos e de tomada de decisão (subitem 1.5.4.4.2.2, da NR 1)."
   },
   {
-    "tema": "NR 1 - GRO 🧠",
+    "tema": "NR 01🧠 - GRO ",
     "pergunta": "Qual é o papel da participação dos trabalhadores no Gerenciamento de Riscos Ocupacionais (GRO), conforme a NR 1?",
     "alternativa1": "É dispensável, desde que a empresa possua um SESMT atuante.",
     "alternativa2": "Restringe-se ao cumprimento das normas e procedimentos estabelecidos pela empresa.",
@@ -14570,7 +14570,7 @@ const questoes = [
     "gabaritoComentado": "A organização deverá dispor de meios eficientes para consultar os trabalhadores, podendo utilizar as manifestações da CIPA ou adotar outros meios de consulta para que os trabalhadores sejam encorajados a participar ativamente de todas as fases do gerenciamento."
   },
   {
-    "tema": "NR 1 - GRO 🧠",
+    "tema": "NR 01🧠 - GRO ",
     "pergunta": "O monitoramento das condições ambientais e exposições a agentes nocivos, quando aplicável, é uma das formas de:",
     "alternativa1": "Elaboração do Programa de Controle Médico de Saúde Ocupacional (PCMSO).",
     "alternativa2": "Determinação do grau de risco da empresa, conforme a NR 4.",
@@ -14581,7 +14581,7 @@ const questoes = [
     "gabaritoComentado": "O monitoramento das condições ambientais e exposições a agentes nocivos é uma das quatro formas de acompanhamento do desempenho das medidas de prevenção estabelecidas pela NR 1 (subitem 1.5.5.3.2, “c”)."
   },
   {
-    "tema": "NR 1 - GRO 🧠",
+    "tema": "NR 01🧠 - GRO ",
     "pergunta": "Na ausência de limites de tolerância previstos na NR 15, quais referências devem ser utilizadas para a adoção de medidas de prevenção relativas a agentes químicos?",
     "alternativa1": "Os valores de referência toxicológicos estabelecidos pela ANVISA.",
     "alternativa2": "Os limites de exposição ocupacional de outras normas internacionais reconhecidas.",
@@ -14592,7 +14592,7 @@ const questoes = [
     "gabaritoComentado": "Somado ao fato que, na ausência de limites de tolerância, previstos na NR 15 e seus anexos, devem ser utilizados como referência para a adoção de medidas de prevenção àqueles estabelecidos em organizações internacionais reconhecidas."
   },
   {
-    "tema": "NR 1 - GRO 🧠",
+    "tema": "NR 01🧠 - GRO ",
     "pergunta": "Qual é o prazo mínimo para que o relatório da Análise Ergonômica do Trabalho (AET), quando realizada, fique à disposição na organização?",
     "alternativa1": "5 anos.",
     "alternativa2": "10 anos.",
@@ -14603,7 +14603,7 @@ const questoes = [
     "gabaritoComentado": "A NR 17, no item 17.3.8, define que a organização deve garantir que o relatório da AET, quando realizada, deve ficar à disposição na organização pelo prazo de 20 (vinte) anos."
   },
   {
-    "tema": "NR 1 - GRO 🧠",
+    "tema": "NR 01🧠 - GRO ",
     "pergunta": "Em que situação a Norma Regulamentadora nº 1 (NR 1) estabelece que o GRO não deve ser utilizado?",
     "alternativa1": "Para a elaboração do Programa de Controle Médico de Saúde Ocupacional (PCMSO).",
     "alternativa2": "Para o planejamento e implementação de medidas de prevenção de acidentes.",
@@ -14614,7 +14614,7 @@ const questoes = [
     "gabaritoComentado": "O GRO não deve ser utilizado para fins de caracterização de atividades ou operações insalubres ou perigosas. Para tanto, devem ser aplicadas as disposições previstas na NR 15 e NR 16 (item 1.5.2, da NR 1)."
   },
   {
-    "tema": "NR 1 - GRO 🧠",
+    "tema": "NR 01🧠 - GRO ",
     "pergunta": "A hierarquia de controle de riscos preconizada pela NR 1 prioriza as medidas de proteção coletiva. Em quais situações podem ser adotadas outras medidas?",
     "alternativa1": "Quando o custo das medidas de proteção coletiva for muito elevado.",
     "alternativa2": "Quando comprovada pela organização a inviabilidade técnica da adoção de medidas de proteção coletiva ou quando estas não forem suficientes ou estiverem em fase de estudo, planejamento ou implementação.",
@@ -14625,7 +14625,7 @@ const questoes = [
     "gabaritoComentado": "A prioridade sempre deve ser a adoção de medidas de proteção coletiva. Contudo, em decorrência de algumas situações, podem ser adotadas outras medidas: quando comprovada pela organização a inviabilidade técnica da adoção de medidas de proteção coletiva ou quando estas não forem suficientes ou estiverem em fase de estudo, planejamento ou implementação."
   },
   {
-    "tema": "NR 1 - GRO 🧠",
+    "tema": "NR 01🧠 - GRO ",
     "pergunta": "Qual das alternativas abaixo não representa uma etapa estabelecida pela NR 1 para o processo de identificação de perigos?",
     "alternativa1": "Descrição dos perigos e possíveis lesões ou agravos à saúde.",
     "alternativa2": "Identificação das fontes e/ou circunstâncias.",
@@ -14636,7 +14636,7 @@ const questoes = [
     "gabaritoComentado": "A etapa de identificação de perigos, conforme o subitem 1.5.4.3.1 da NR 1, inclui a descrição dos perigos, a identificação das fontes/circunstâncias e a indicação dos trabalhadores sujeitos ao perigo. A determinação da probabilidade ocorre na etapa de avaliação de riscos."
   },
   {
-    "tema": "NR 1 - GRO 🧠",
+    "tema": "NR 01🧠 - GRO ",
     "pergunta": "Segundo a NR 1, o detalhamento dos critérios utilizados para avaliação e classificação de riscos é parte da documentação:",
     "alternativa1": "Do Programa de Controle Médico de Saúde Ocupacional (PCMSO).",
     "alternativa2": "Do relatório anual do SESMT.",
@@ -14647,7 +14647,7 @@ const questoes = [
     "gabaritoComentado": "A documentação do PGR inclui o detalhamento dos critérios utilizados para avaliação e classificação de riscos (subitem 1.5.4.4.2.2, da NR 1)."
   },
   {
-    "tema": "NR 1 - GRO 🧠",
+    "tema": "NR 01🧠 - GRO ",
     "pergunta": "Em qual situação específica a NR 1 prevê a necessidade de se considerar as condições de trabalho, incluindo os fatores de risco psicossociais relacionados ao trabalho?",
     "alternativa1": "Na elaboração do Laudo Técnico das Condições Ambientais do Trabalho (LTCAT).",
     "alternativa2": "No processo de identificação de perigos do Gerenciamento de Riscos Ocupacionais (GRO).",
@@ -14658,7 +14658,7 @@ const questoes = [
     "gabaritoComentado": "A NR 1 destaca expressamente que o GRO “deve abranger os riscos que decorrem dos agentes físicos, químicos, biológicos, riscos de acidentes e riscos ergonômicos”, e nesse processo, a organização deve considerar as condições de trabalho, nos termos da NR 17 – Ergonomia, incluindo os fatores de risco psicossociais relacionados ao trabalho (subitens 1.5.3.1.4 e 1.5.3.2.1, da NR 1)."
   },
   {
-    "tema": "NR 1 - GRO 🧠",
+    "tema": "NR 01🧠 - GRO ",
     "pergunta": "Qual é a principal implicação da constatação de ocorrência ou agravamento de doenças relacionadas ao trabalho no contexto do GRO, segundo a NR 1 e a NR 7?",
     "alternativa1": "Apenas o afastamento do trabalhador para tratamento médico.",
     "alternativa2": "A emissão da Comunicação de Acidente de Trabalho (CAT) e a reavaliação dos riscos ocupacionais e medidas de prevenção.",
@@ -15010,7 +15010,7 @@ const questoes = [
     "gabaritoComentado": "A NR 12 não se aplica a máquinas manuais, máquinas expostas para fins históricos, eletrodomésticos e equipamentos estáticos (caldeiras, vaso de pressão, etc.)."
   },
   {
-    "tema": "⚡NR 10 - Eletricidade",
+    "tema": "NR 10⚡ - Eletricidade",
     "pergunta": "De acordo com os excertos que abordam a Norma Regulamentadora nº 10 (NR 10), qual é o objetivo principal desta norma?",
     "alternativa1": "Garantir a gestão da integridade estrutural de caldeiras e vasos de pressão.",
     "alternativa2": "Estabelecer requisitos mínimos para a gestão de riscos psicossociais no trabalho.",
@@ -15021,7 +15021,7 @@ const questoes = [
     "gabaritoComentado": "O excerto e indicam que a NR 10 define as referências técnicas, os princípios fundamentais e as medidas de proteção para resguardar a saúde e a integridade física dos trabalhadores em atividades que envolvam máquinas e equipamentos, com foco específico, no contexto apresentado, em segurança em eletricidade. A alternativa D alinha-se a este objetivo, focando na segurança e saúde dos trabalhadores que interagem com instalações e serviços em eletricidade."
   },
   {
-    "tema": "⚡NR 10 - Eletricidade",
+    "tema": "NR 10⚡ - Eletricidade",
     "pergunta": "Considerando as informações apresentadas nos excertos sobre acidentes de trabalho relacionados à eletricidade, qual percentual de subnotificação é estimado para esses acidentes no setor formal?",
     "alternativa1": "Aproximadamente 20%",
     "alternativa2": "Aproximadamente 40%",
@@ -15032,7 +15032,7 @@ const questoes = [
     "gabaritoComentado": "O excerto menciona que 'estudos estimam que o percentual de subnotificação é de cerca de 80%, isto é, de cada 10 acidentes, apenas 2 são reportados'."
   },
   {
-    "tema": "⚡NR 10 - Eletricidade",
+    "tema": "NR 10⚡ - Eletricidade",
     "pergunta": "Conforme os excertos, que tratam, entre outros temas, da NR 10, qual das opções a seguir NÃO é mencionada como um tipo de acidente para o qual muitos acidentes elétricos são reportados, contribuindo para a subnotificação?",
     "alternativa1": "Quedas.",
     "alternativa2": "Queimaduras.",
@@ -15043,7 +15043,7 @@ const questoes = [
     "gabaritoComentado": "O excerto afirma que 'muitos acidentes decorrentes do perigo da energia elétrica são reportados como sendo oriundos de quedas e queimaduras'. Intoxicações não são mencionadas neste contexto."
   },
   {
-    "tema": "⚡NR 10 - Eletricidade",
+    "tema": "NR 10⚡ - Eletricidade",
     "pergunta": "Nos excertos, a Análise Preliminar de Risco (APR) é apresentada como uma técnica de:",
     "alternativa1": "Gerenciamento de emergências.",
     "alternativa2": "Avaliação de desempenho de equipamentos.",
@@ -15054,7 +15054,7 @@ const questoes = [
     "gabaritoComentado": "A figura 4 no excerto e sua referência no excerto identificam a APR como um 'Exemplo de uma técnica de análise de risco'."
   },
   {
-    "tema": "⚡NR 10 - Eletricidade",
+    "tema": "NR 10⚡ - Eletricidade",
     "pergunta": "De acordo com o excerto, que lista os documentos que compõem o Prontuário da NR 10, qual dos seguintes itens DEVE constar neste conjunto de documentos?",
     "alternativa1": "Relatórios de análise de acidentes e doenças relacionadas ao trabalho.",
     "alternativa2": "As especificações técnicas dos Equipamentos de Proteção Coletiva e Individual (EPC e EPI) e o ferramental utilizado.",
@@ -15065,7 +15065,7 @@ const questoes = [
     "gabaritoComentado": "O excerto lista a 'especificação dos equipamentos de proteção coletiva e individual e o ferramental' como um dos documentos que compõem o Prontuário. As alternativas A, C, E não são explicitamente listadas em. A alternativa D, embora o registro de fornecimento de EPI seja importante, o excerto lista a 'especificação' dos EPIs e ferramental, não o registro individual de entrega."
   },
   {
-    "tema": "⚡NR 10 - Eletricidade",
+    "tema": "NR 10⚡ - Eletricidade",
     "pergunta": "Conforme descrito no excerto, o Prontuário de Instalações Elétricas, no contexto da NR 10, constitui um(a):",
     "alternativa1": "Relatório único consolidado.",
     "alternativa2": "Sistema informatizado de gestão.",
@@ -15076,7 +15076,7 @@ const questoes = [
     "gabaritoComentado": "O excerto inicia sua descrição do Prontuário afirmando: 'O Prontuário é um conjunto de documentos...'"
   },
   {
-    "tema": "⚡NR 10 - Eletricidade",
+    "tema": "NR 10⚡ - Eletricidade",
     "pergunta": "Segundo o excerto, os procedimentos de trabalho relacionados à NR 10 devem conter, no mínimo, uma série de informações. Qual das opções abaixo NÃO faz parte do conteúdo mínimo exigido para esses procedimentos?",
     "alternativa1": "Objetivo.",
     "alternativa2": "Campo de aplicação.",
@@ -15087,7 +15087,7 @@ const questoes = [
     "gabaritoComentado": "O excerto lista o conteúdo mínimo dos procedimentos de trabalho: 'objetivo, campo de aplicação, base técnica, competências e responsabilidades, disposições gerais, medidas de controle e orientações finais'. 'Resultados esperados' não consta nesta lista."
   },
   {
-    "tema": "⚡NR 10 - Eletricidade",
+    "tema": "NR 10⚡ - Eletricidade",
     "pergunta": "Considerando o modelo de Análise Preliminar de Risco (APR) apresentado nos excertos e, qual dos seguintes campos ou seções NÃO aparece no formulário?",
     "alternativa1": "Equipamento / Máquina / Instalação.",
     "alternativa2": "Gerência de Área.",
@@ -15098,7 +15098,7 @@ const questoes = [
     "gabaritoComentado": "O modelo de APR mostrado nos excertos e inclui campos como 'Equipamento / Máquina / Instalação', 'Gerência de Área', 'Telefones Úteis', e 'Descrição da Atividade'. Não há um campo específico para 'Histórico de Acidentes Anteriores' no modelo exibido."
   },
   {
-    "tema": "⚡NR 10 - Eletricidade",
+    "tema": "NR 10⚡ - Eletricidade",
     "pergunta": "Ainda sobre o modelo de Análise Preliminar de Risco (APR) presente nos excertos, na seção 'TREINAMENTO DE SEGURANÇA DA APR', são previstos campos para registro de:",
     "alternativa1": "Carga horária e conteúdo programático.",
     "alternativa2": "Avaliação de eficácia do treinamento.",
@@ -15109,7 +15109,7 @@ const questoes = [
     "gabaritoComentado": "A seção 'TREINAMENTO DE SEGURANÇA DA APR' no excerto apresenta colunas para 'RE', 'FUNÇÃO', e 'ASSINATURA', indicando o registro da participação dos trabalhadores neste treinamento específico da APR."
   },
   {
-    "tema": "⚡NR 10 - Eletricidade",
+    "tema": "NR 10⚡ - Eletricidade",
     "pergunta": "Além dos procedimentos e instruções de segurança e saúde, o Prontuário da NR 10 deve incluir, conforme o excerto, a documentação dos testes realizados em quais elementos das instalações elétricas?",
     "alternativa1": "Testes de continuidade de circuitos.",
     "alternativa2": "Testes de funcionamento de disjuntores.",
@@ -15120,7 +15120,7 @@ const questoes = [
     "gabaritoComentado": "O excerto especifica que o Prontuário deve conter a 'documentação dos resultados dos testes de isolação elétrica realizados'."
   },
   {
-    "tema": "⚡NR 10 - Eletricidade",
+    "tema": "NR 10⚡ - Eletricidade",
     "pergunta": "No que diz respeito à documentação dos trabalhadores no Prontuário da NR 10, o excerto indica que deve ser incluída a documentação comprobatória de:",
     "alternativa1": "Exames médicos periódicos.",
     "alternativa2": "Histórico profissional.",
@@ -15131,7 +15131,7 @@ const questoes = [
     "gabaritoComentado": "O excerto lista, entre os documentos que compõem o Prontuário, a 'documentação comprobatória da qualificação, habilitação, capacitação, autorização dos trabalhadores e dos treinamentos realizados'."
   },
   {
-    "tema": "⚡NR 10 - Eletricidade",
+    "tema": "NR 10⚡ - Eletricidade",
     "pergunta": "A Análise Preliminar de Risco (APR), conforme o modelo apresentado no excerto, inclui no campo 'SITUAÇÃO' diversas opções para indicar o contexto da atividade. Quais das seguintes opções estão listadas?",
     "alternativa1": "Emergência, Rotina, Planejada.",
     "alternativa2": "Instalação, Manutenção, Inspeção.",
@@ -15142,7 +15142,7 @@ const questoes = [
     "gabaritoComentado": "No modelo de APR apresentado no excerto, o campo 'SITUAÇÃO' oferece as opções: 'Parada Programada', 'Fora de Parada', 'Parada Acidental', 'Atividade de Segurança', 'RE', e 'Obra Nova'. As alternativas A, B, D e E não correspondem às opções listadas neste campo do modelo."
   },
   {
-    "tema": "⚡NR 10 - Eletricidade",
+    "tema": "NR 10⚡ - Eletricidade",
     "pergunta": "De acordo com o excerto, qual dos itens abaixo é listado como parte do conteúdo mínimo que deve constar nos procedimentos de trabalho?",
     "alternativa1": "Base técnica.",
     "alternativa2": "Custos da atividade.",
@@ -15153,7 +15153,7 @@ const questoes = [
     "gabaritoComentado": "O excerto detalha o conteúdo mínimo dos procedimentos de trabalho, incluindo 'base técnica'. Os demais itens não são mencionados como obrigatórios nesta lista."
   },
   {
-    "tema": "⚡NR 10 - Eletricidade",
+    "tema": "NR 10⚡ - Eletricidade",
     "pergunta": "Qual dos seguintes documentos, listados no excerto, deve obrigatoriamente fazer parte do Prontuário das Instalações Elétricas?",
     "alternativa1": "O relatório de inspeção de segurança de caldeiras.",
     "alternativa2": "Os procedimentos de trabalho para atividades rotineiras e não rotineiras.",
@@ -15164,7 +15164,7 @@ const questoes = [
     "gabaritoComentado": "O excerto afirma que o Prontuário inclui 'o conjunto de procedimentos e instruções técnicas e administrativas de segurança e saúde'. As alternativas A, C, D e E não correspondem a itens listados no excerto como parte do Prontuário da NR 10."
   },
   {
-    "tema": "⚡NR 10 - Eletricidade",
+    "tema": "NR 10⚡ - Eletricidade",
     "pergunta": "No contexto da Análise Preliminar de Risco (APR) apresentada, a seção 'HOUVE INCIDENTE DURANTE A ATIVIDADE?' sugere uma ação específica caso a resposta seja afirmativa. Qual é essa ação?",
     "alternativa1": "Registrar o incidente no campo 'Observações Finais'.",
     "alternativa2": "Realizar uma nova APR imediatamente.",
@@ -15175,7 +15175,7 @@ const questoes = [
     "gabaritoComentado": "No excerto, na seção 'HOUVE INCIDENTE DURANTE A ATIVIDADE?', a instrução é: 'Se \"SIM\", encaminhar para Setor de Segurança do Trabalho'."
   },
   {
-    "tema": "⚡NR 10 - Eletricidade",
+    "tema": "NR 10⚡ - Eletricidade",
     "pergunta": "Considerando a lista de documentos que compõem o Prontuário da NR 10 no excerto, qual tipo de documentação referente a inspeções e medições é especificamente mencionada?",
     "alternativa1": "Inspeções de extintores de incêndio.",
     "alternativa2": "Inspeções e medições do sistema de proteção contra descargas atmosféricas e aterramentos elétricos.",
@@ -15186,7 +15186,7 @@ const questoes = [
     "gabaritoComentado": "O excerto inclui no Prontuário a 'documentação das inspeções e medições do sistema de proteção contra descargas atmosféricas e aterramentos elétricos'."
   },
   {
-    "tema": "⚡NR 10 - Eletricidade",
+    "tema": "NR 10⚡ - Eletricidade",
     "pergunta": "No modelo de Análise Preliminar de Risco (APR) apresentado, qual campo é destinado à identificação da área responsável pela atividade?",
     "alternativa1": "LOCAL DE TRABALHO.",
     "alternativa2": "EQUIPAMENTO / MÁQUINA / INSTALAÇÃO.",
@@ -15197,7 +15197,7 @@ const questoes = [
     "gabaritoComentado": "O modelo de APR mostrado no excerto possui um campo específico denominado 'GERÊNCIA DE ÁREA'."
   },
   {
-    "tema": "⚡NR 10 - Eletricidade",
+    "tema": "NR 10⚡ - Eletricidade",
     "pergunta": "Os excertos mencionam que muitos acidentes decorrentes do perigo da energia elétrica são reportados de forma inadequada. Qual o principal impacto dessa prática, segundo os excertos?",
     "alternativa1": "Aumento do número total de acidentes registrados.",
     "alternativa2": "Dificulta a compreensão do universo real de acidentes elétricos.",
@@ -15208,7 +15208,7 @@ const questoes = [
     "gabaritoComentado": "O excerto discute a subnotificação e o reporte inadequado (como quedas/queimaduras), concluindo que 'Desta forma, saliente-se que os números apresentados não representam todo o universo de acidentes'. Isso indica que a prática dificulta a compreensão da real dimensão dos acidentes elétricos."
   },
   {
-    "tema": "⚡NR 10 - Eletricidade",
+    "tema": "NR 10⚡ - Eletricidade",
     "pergunta": "Conforme o excerto, qual item referente ao contexto e alcance da atividade deve constar no conteúdo mínimo dos procedimentos de trabalho?",
     "alternativa1": "Competências e responsabilidades.",
     "alternativa2": "Base técnica.",
@@ -15219,7 +15219,7 @@ const questoes = [
     "gabaritoComentado": "O excerto lista 'campo de aplicação' como um dos itens do conteúdo mínimo dos procedimentos de trabalho. Este item se refere ao alcance ou contexto onde o procedimento deve ser aplicado."
   },
   {
-    "tema": "⚡NR 10 - Eletricidade",
+    "tema": "NR 10⚡ - Eletricidade",
     "pergunta": "Considerando o excerto, que trata do Prontuário da NR 10, qual tipo de documentação sobre os trabalhadores é explicitamente exigida?",
     "alternativa1": "Atestados de aptidão física.",
     "alternativa2": "Registros de jornada de trabalho.",
@@ -15230,7 +15230,7 @@ const questoes = [
     "gabaritoComentado": "O excerto lista como componente do Prontuário a 'documentação comprobatória da qualificação, habilitação, capacitação, autorização dos trabalhadores e dos treinamentos realizados'."
   },
   {
-    "tema": "⚡NR 10 - Eletricidade",
+    "tema": "NR 10⚡ - Eletricidade",
     "pergunta": "O excerto determina que os procedimentos de trabalho devem conter, no mínimo, as 'competências e responsabilidades'. Em qual contexto essa informação se aplica?",
     "alternativa1": "Definir as atribuições dos órgãos fiscalizadores.",
     "alternativa2": "Descrever as qualificações técnicas dos equipamentos.",
@@ -15241,7 +15241,7 @@ const questoes = [
     "gabaritoComentado": "No contexto de um procedimento de trabalho, 'competências e responsabilidades' (excerto) refere-se tipicamente à definição de quem está apto a realizar as tarefas descritas e quais são as responsabilidades associadas a essas funções durante a execução do procedimento."
   },
   {
-    "tema": "⚡NR 10 - Eletricidade",
+    "tema": "NR 10⚡ - Eletricidade",
     "pergunta": "No modelo de Análise Preliminar de Risco (APR) apresentado, para que o campo 'DESCRIÇÃO DA ATIVIDADE' é utilizado?",
     "alternativa1": "Para listar os riscos identificados.",
     "alternativa2": "Para detalhar as medidas de controle.",
@@ -15252,7 +15252,7 @@ const questoes = [
     "gabaritoComentado": "O campo 'DESCRIÇÃO DA ATIVIDADE' em uma APR é onde se detalha a tarefa a ser executada, geralmente descrevendo as etapas do trabalho."
   },
   {
-    "tema": "⚡NR 10 - Eletricidade",
+    "tema": "NR 10⚡ - Eletricidade",
     "pergunta": "Os excertos indicam que acidentes de trabalho relacionados à eletricidade originam-se de Comunicações de Acidentes de Trabalho (CAT). Qual setor, segundo os excertos, é abrangido por essas CATs de origem?",
     "alternativa1": "Apenas o setor público.",
     "alternativa2": "Apenas o setor privado.",
@@ -15263,7 +15263,7 @@ const questoes = [
     "gabaritoComentado": "O excerto afirma que os acidentes de trabalho 'abrangem apenas o setor formal', referindo-se à origem dos dados de acidentes a partir das CATs."
   },
   {
-    "tema": "⚡NR 10 - Eletricidade",
+    "tema": "NR 10⚡ - Eletricidade",
     "pergunta": "Qual das seguintes opções representa um tipo de informação que DEVE constar no conteúdo mínimo dos procedimentos de trabalho, segundo o excerto?",
     "alternativa1": "Orientações finais.",
     "alternativa2": "Histórico de revisões.",
@@ -15274,7 +15274,7 @@ const questoes = [
     "gabaritoComentado": "O excerto lista 'orientações finais' como um dos itens do conteúdo mínimo dos procedimentos de trabalho."
   },
   {
-    "tema": "⚡NR 10 - Eletricidade",
+    "tema": "NR 10⚡ - Eletricidade",
     "pergunta": "A definição de 'Profissional Habilitado', mencionada em excertos (geral) e (contexto NR 10 Prontuário), refere-se àquele que:",
     "alternativa1": "Comprove conclusão de curso específico e reconhecimento pelo sistema oficial de ensino.",
     "alternativa2": "Recebeu capacitação sob orientação e responsabilidade de profissional habilitado.",
@@ -15285,7 +15285,7 @@ const questoes = [
     "gabaritoComentado": "O excerto define 'Profissional Habilitado' como 'aquele que possui comprovação de conclusão de curso específico reconhecido pelo sistema oficial de ensino, com registro no competente conselho de classe, se necessário'. Complementarmente, outros excertos adicionam 'com atribuição compatível'. A alternativa E reflete essa definição completa."
   },
   {
-    "tema": "⚡NR 10 - Eletricidade",
+    "tema": "NR 10⚡ - Eletricidade",
     "pergunta": "O excerto estabelece que a especificação dos Equipamentos de Proteção Coletiva e Individual (EPC e EPI) e o ferramental devem constar no Prontuário. Qual a relevância dessa informação?",
     "alternativa1": "Identificar os fabricantes dos equipamentos.",
     "alternativa2": "Permitir a gestão do estoque de EPIs.",
@@ -15296,7 +15296,7 @@ const questoes = [
     "gabaritoComentado": "Incluir a especificação de EPC, EPI e ferramental no Prontuário é fundamental para garantir que os meios de proteção e as ferramentas utilizadas nas instalações elétricas sejam apropriados para a segurança e saúde dos trabalhadores, conforme as necessidades das atividades."
   },
   {
-    "tema": "⚡NR 10 - Eletricidade",
+    "tema": "NR 10⚡ - Eletricidade",
     "pergunta": "No modelo de APR apresentado, o campo 'OM / Contrato nº' aparece em diferentes seções do formulário. Isso sugere que este dado é importante para:",
     "alternativa1": "Identificar o responsável pela aprovação da APR.",
     "alternativa2": "Vincular a APR a uma ordem de serviço ou contrato específico.",
@@ -15307,7 +15307,7 @@ const questoes = [
     "gabaritoComentado": "O campo 'OM / Contrato nº' é um identificador comum em documentos de segurança do trabalho para associar a atividade ou análise a uma Ordem de Manutenção (OM) ou número de contrato específico, vinculando a APR ao trabalho que está sendo realizado."
   },
   {
-    "tema": "⚡NR 10 - Eletricidade",
+    "tema": "NR 10⚡ - Eletricidade",
     "pergunta": "Os excertos mencionam que a subnotificação de acidentes elétricos pode ocorrer. Qual é uma das consequências diretas dessa subnotificação, segundo as informações fornecidas?",
     "alternativa1": "Os números oficiais de acidentes refletem precisamente a realidade.",
     "alternativa2": "A percepção do risco elétrico é superestimada.",
@@ -15318,7 +15318,7 @@ const questoes = [
     "gabaritoComentado": "O excerto afirma que a subnotificação (cerca de 80%) significa que os números reportados não representam o universo total, implicando que as estatísticas são inferiores à quantidade real de acidentes elétricos."
   },
   {
-    "tema": "⚡NR 10 - Eletricidade",
+    "tema": "NR 10⚡ - Eletricidade",
     "pergunta": "Além de comprovar a qualificação, habilitação, capacitação e autorização, o excerto estabelece que a documentação referente aos ______ realizados pelos trabalhadores também deve constar no Prontuário da NR 10.",
     "alternativa1": "Exames de saúde periódicos.",
     "alternativa2": "Diálogos diários de segurança.",
@@ -15329,7 +15329,7 @@ const questoes = [
     "gabaritoComentado": "O excerto lista a 'documentação comprobatória da qualificação, habilitação, capacitação, autorização dos trabalhadores e dos treinamentos realizados' como parte do Prontuário."
   },
   {
-    "tema": "⚡NR 10 - Eletricidade",
+    "tema": "NR 10⚡ - Eletricidade",
     "pergunta": "A 'Base técnica' é um dos itens que devem constar no conteúdo mínimo dos procedimentos de trabalho, de acordo com o excerto. Qual a finalidade desse item?",
     "alternativa1": "Descrever os equipamentos e ferramentas necessários.",
     "alternativa2": "Fundamentar o procedimento em normas, manuais ou princípios de engenharia aplicáveis.",
@@ -15340,7 +15340,7 @@ const questoes = [
     "gabaritoComentado": "Em procedimentos de trabalho, a 'Base técnica' (excerto) geralmente se refere ao embasamento técnico utilizado para a sua elaboração, como normas técnicas, manuais do fabricante, princípios de segurança, etc."
   },
     {
-    "tema": "🩻 NR 7 - PCMSO",
+    "tema": "NR 07🩻 - PCMSO",
     "pergunta": "1. Conforme as normas regulamentadoras, o Programa de Controle Médico de Saúde Ocupacional (PCMSO) deve ser elaborado e implementado pela organização com o objetivo principal de:",
     "alternativa1": "Estabelecer metas de produtividade vinculadas à aptidão física.",
     "alternativa2": "Monitorar a saúde dos trabalhadores em relação aos riscos ocupacionais identificados e avaliados.",
@@ -15351,7 +15351,7 @@ const questoes = [
     "gabaritoComentado": "O PCMSO deve descrever os possíveis agravos à saúde relacionados aos riscos ocupacionais identificados e avaliados nos ambientes de trabalho dos trabalhadores, contendo um planejamento para a realização tanto das avaliações clínicas quanto dos exames complementares necessários, conforme os riscos ocupacionais identificados e as exigências contidas nos anexos da NR 7. Isso demonstra o objetivo de monitorar a saúde dos trabalhadores em relação a esses riscos."
   },
   {
-    "tema": "🩻 NR 7 - PCMSO",
+    "tema": "NR 07🩻 - PCMSO",
     "pergunta": "2. De acordo com a documentação exigida para o PCMSO, qual o prazo mínimo de guarda dos prontuários médicos individuais dos trabalhadores após o desligamento?",
     "alternativa1": "5 anos.",
     "alternativa2": "10 anos.",
@@ -15362,7 +15362,7 @@ const questoes = [
     "gabaritoComentado": "Os dados dos exames clínicos e dos complementares deverão ser registrados em prontuário médico individual, sob a responsabilidade do médico responsável. Deve ser mantido, no mínimo, por 20 anos após o desligamento do trabalhador."
   },
   {
-    "tema": "🩻 NR 7 - PCMSO",
+    "tema": "NR 07🩻 - PCMSO",
     "pergunta": "3. Sobre os exames complementares no âmbito do PCMSO, é correto afirmar que:",
     "alternativa1": "São obrigatórios de acordo com os riscos ocupacionais, mesmo que o médico responsável não os justifique tecnicamente.",
     "alternativa2": "São sempre facultativos, dependendo do critério do trabalhador.",
@@ -15373,7 +15373,7 @@ const questoes = [
     "gabaritoComentado": "Os exames complementares são obrigatórios, de acordo com os riscos ocupacionais. Os anexos da NR 7 contêm requisitos específicos para diferentes tipos de exposição. Os trabalhadores devem ser informados, durante a avaliação clínica, das razões para a realização dos exames complementares necessários e do significado dos seus resultados, dos quais devem ter ciência. As alterações nos exames devem ser analisadas e medidas corretivas adotadas."
   },
   {
-    "tema": "🩻 NR 7 - PCMSO",
+    "tema": "NR 07🩻 - PCMSO",
     "pergunta": "4. As avaliações clínicas no PCMSO compreendem:",
     "alternativa1": "Exames de imagem e laboratoriais.",
     "alternativa2": "Entrevista e exame físico.",
@@ -15384,7 +15384,7 @@ const questoes = [
     "gabaritoComentado": "Os exames médicos ocupacionais compreendem as avaliações clínicas (constituídas pela entrevista e o exame físico) de cada trabalhador e os exames complementares necessários. As avaliações clínicas são constituídas por entrevistas e exame físico, a cargo de profissionais médicos."
   },
   {
-    "tema": "🩻 NR 7 - PCMSO",
+    "tema": "NR 07🩻 - PCMSO",
     "pergunta": "5. De acordo com a NR 7, quando constatada a ocorrência ou agravamento de doença relacionada ao trabalho, após informado pelo médico responsável pelo PCMSO, caberá ao empregador, entre outras ações:",
     "alternativa1": "Apenas realizar exames complementares adicionais.",
     "alternativa2": "Emitir eletronicamente a Comunicação de Acidente do Trabalho (CAT).",
@@ -15395,7 +15395,7 @@ const questoes = [
     "gabaritoComentado": "Constatada ocorrência ou agravamento de doença relacionada ao trabalho, caberá ao empregador, após informado pelo médico responsável pelo PCMSO: a) Emitir eletronicamente a Comunicação de Acidente do Trabalho - CAT; b) Afastar o trabalhador da situação ou do trabalho, quando necessário; c) Encaminhar o trabalhador à Previdência Social, quando houver afastamento do trabalho superior a 15 dias; d) Reavaliar os riscos ocupacionais e as medidas de prevenção pertinentes."
   },
   {
-    "tema": "🩻 NR 7 - PCMSO",
+    "tema": "NR 07🩻 - PCMSO",
     "pergunta": "6. O Atestado de Saúde Ocupacional (ASO) deve ser emitido para cada exame clínico ocupacional realizado. Entre as informações mínimas que devem constar no ASO, está:",
     "alternativa1": "O histórico familiar completo do trabalhador.",
     "alternativa2": "A definição de apto ou inapto para a função atual ou futura do trabalhador.",
@@ -15406,7 +15406,7 @@ const questoes = [
     "gabaritoComentado": "O ASO deve conter, no mínimo: a) Razão social ou nome, e CNPJ ou CAEPF do empregador; b) Nome completo do trabalhador, CPF e função; c) Descrição dos perigos ou fatores de risco identificados e avaliados no seu ambiente de trabalho...; d) Indicação e data de realização das avaliações clínicas e complementares; e) Definição de apto ou inapto para a função atual ou futura do trabalhador; f) O nome e CRM do médico responsável pelo PCMSO, se houver; g) Data, CRM e assinatura do médico que realizou o exame clínico."
   },
   {
-    "tema": "🩻 NR 7 - PCMSO",
+    "tema": "NR 07🩻 - PCMSO",
     "pergunta": "7. A avaliação da aptidão física e mental dos trabalhadores, incluindo fatores de riscos psicossociais, está explicitamente requerida em qual tipo de atividade, conforme mencionado nas fontes?",
     "alternativa1": "Trabalho administrativo em escritório.",
     "alternativa2": "Manutenção de jardins e áreas verdes.",
@@ -15417,7 +15417,7 @@ const questoes = [
     "gabaritoComentado": "Além da capacitação, os trabalhadores designados para atividades em espaços confinados devem ser avaliados quanto à aptidão física e mental, considerando os fatores de riscos psicossociais. A aptidão deve estar consignada no Atestado de Saúde Ocupacional - ASO, nos termos da NR-07."
   },
   {
-    "tema": "🩻 NR 7 - PCMSO",
+    "tema": "NR 07🩻 - PCMSO",
     "pergunta": "8. O relatório analítico anual do PCMSO deve conter uma análise comparativa em relação ao relatório anterior e discussão sobre as variações nos resultados. Qual é o objetivo dessa análise?",
     "alternativa1": "Identificar tendências, avaliar a eficácia das medidas de prevenção e subsidiar o planejamento de novas ações.",
     "alternativa2": "Validar a remuneração do médico responsável pelo programa.",
@@ -15428,7 +15428,7 @@ const questoes = [
     "gabaritoComentado": "O relatório analítico deve ser apresentado e discutido com os responsáveis pelas ações de segurança e saúde no trabalho do empregador, incluindo a Comissão Interna de Prevenção de Acidentes (CIPA), caso existente, para que as medidas de prevenção, se necessárias, sejam.... Embora o texto não diga explicitamente 'identificar tendências', a comparação e discussão de variações no relatório analítico anual com o objetivo de planejar medidas de prevenção está alinhada com a função de monitoramento e melhoria contínua, que inclui identificar tendências e avaliar a eficácia das ações."
   },
   {
-    "tema": "🩻 NR 7 - PCMSO",
+    "tema": "NR 07🩻 - PCMSO",
     "pergunta": "9. Empresas classificadas como MEI (Microempreendedor Individual) com qualquer atividade econômica, bem como ME (Microempresas) e EPP (Empresas de Pequeno Porte) que são dispensadas da elaboração do PCMSO, também estão dispensadas de qual documento específico do PCMSO?",
     "alternativa1": "Registro dos exames médicos individuais.",
     "alternativa2": "O relatório analítico anual.",
@@ -15439,7 +15439,7 @@ const questoes = [
     "gabaritoComentado": "O relatório analítico não será exigido para MEI, com qualquer atividade econômica, bem como para as ME e EPP, dispensadas da elaboração do PCMSO."
   },
   {
-    "tema": "🩻 NR 7 - PCMSO",
+    "tema": "NR 07🩻 - PCMSO",
     "pergunta": "10. A reavaliação dos riscos ocupacionais e das medidas de prevenção pertinentes, no contexto da integração entre PCMSO e GRO (Gerenciamento de Riscos Ocupacionais), é explicitamente requerida em qual situação, conforme a NR 1 integrada?",
     "alternativa1": "Quando constatada ocorrência ou agravamento de doença relacionada ao trabalho.",
     "alternativa2": "Após solicitação formal de um cliente da empresa.",
@@ -15450,7 +15450,7 @@ const questoes = [
     "gabaritoComentado": "Constatada ocorrência ou agravamento de doença relacionada ao trabalho, caberá ao empregador, após informado pelo médico responsável pelo PCMSO: d) Reavaliar os riscos ocupacionais e as medidas de prevenção pertinentes. Essa é uma das situações, conforme item 1.5.4.4.6, 'd', da NR 1, que acarreta a revisão da avaliação de riscos."
   },
   {
-    "tema": "🩻 NR 7 - PCMSO",
+    "tema": "NR 07🩻 - PCMSO",
     "pergunta": "11. Os exames complementares previstos na NR 7 devem ser executados por laboratório que atenda às exigências do órgão responsável (Anvisa). Isso se refere aos procedimentos de:",
     "alternativa1": "Coleta, acondicionamento, transporte e análise.",
     "alternativa2": "Apenas a análise laboratorial das amostras.",
@@ -15461,7 +15461,7 @@ const questoes = [
     "gabaritoComentado": "Os exames complementares previstos na NR 7 devem ser executados por laboratório que atenda ao disposto nas exigências do órgão responsável (Anvisa), no que se refere aos procedimentos de coleta, acondicionamento, transporte e análise."
   },
   {
-    "tema": "🩻 NR 7 - PCMSO",
+    "tema": "NR 07🩻 - PCMSO",
     "pergunta": "12. No contexto da avaliação de riscos ocupacionais, as informações e resultados da avaliação de ergonomia nos termos da NR 17 devem ser incorporados a qual documento do Gerenciamento de Riscos Ocupacionais (GRO)?",
     "alternativa1": "Ao Plano de Emergência.",
     "alternativa2": "Aos procedimentos de segurança com máquinas.",
@@ -15472,7 +15472,7 @@ const questoes = [
     "gabaritoComentado": "Esse item do Inventário de Riscos prevê a integração do PGR com a NR 9 e NR 17, pois a organização deve informar os dados da análise preliminar ou do monitoramento das exposições a agentes físicos, químicos e biológicos, e os resultados da avaliação de ergonomia, nos termos da NR 17. Assim, devem ser incorporados ao inventário de riscos os dados da análise preliminar das atividades de trabalho e da realização de avaliações qualitativas ou, quando aplicáveis, as avaliações quantitativas, conforme previsto no capítulo 9.4, da NR 9."
   },
   {
-    "tema": "🩻 NR 7 - PCMSO",
+    "tema": "NR 07🩻 - PCMSO",
     "pergunta": "13. Para fins de planejamento do PCMSO, o empregador deve garantir que o programa descreva, entre outros aspectos:",
     "alternativa1": "A lista completa de todos os EPIs utilizados na organização.",
     "alternativa2": "As regras de conduta disciplinar aplicáveis aos trabalhadores.",
@@ -15483,7 +15483,7 @@ const questoes = [
     "gabaritoComentado": "O empregador deve garantir que PCMSO descreva os possíveis agravos à saúde relacionados aos riscos ocupacionais identificados e avaliados nos ambientes de trabalho dos trabalhadores, contendo um planejamento para a realização tanto das avaliações clínicas quanto dos exames complementares necessários."
   },
   {
-    "tema": "🩻 NR 7 - PCMSO",
+    "tema": "NR 07🩻 - PCMSO",
     "pergunta": "14. Segundo a NR 7, para o exame admissional, a critério do médico responsável pelo PCMSO, exames complementares já realizados podem ser aceitos se tiverem sido feitos nos ___ dias anteriores, exceto quando prazos diferentes forem definidos nos anexos da norma.",
     "alternativa1": "30.",
     "alternativa2": "60.",
@@ -15494,7 +15494,7 @@ const questoes = [
     "gabaritoComentado": "No exame admissional, a critério do médico responsável, poderão ser aceitos exames complementares realizados nos 90 dias anteriores, exceto quando definidos prazos diferentes nos anexos da NR 7."
   },
   {
-    "tema": "🩻 NR 7 - PCMSO",
+    "tema": "NR 07🩻 - PCMSO",
     "pergunta": "15. Quem deve conhecer e atender o conteúdo do documento-base do PCMSO para a realização dos exames médicos ocupacionais?",
     "alternativa1": "Apenas o empregador.",
     "alternativa2": "Somente a CIPA.",
@@ -15505,7 +15505,7 @@ const questoes = [
     "gabaritoComentado": "O conteúdo do documento-base do PCMSO deve ser conhecido e atendido por todos os médicos que realizarem os exames médicos ocupacionais dos trabalhadores, sejam eles o próprio responsável pelo programa, bem como os demais profissionais habilitados por ele, eventualmente designados."
   },
   {
-    "tema": "🩻 NR 7 - PCMSO",
+    "tema": "NR 07🩻 - PCMSO",
     "pergunta": "16. Um dos itens do relatório analítico anual do PCMSO, a ser elaborado pelo médico responsável, deve ser:",
     "alternativa1": "O balanço financeiro anual da organização.",
     "alternativa2": "O número de exames clínicos realizados.",
@@ -15516,7 +15516,7 @@ const questoes = [
     "gabaritoComentado": "O médico responsável pelo PCMSO deve elaborar, anualmente, um relatório analítico desse programa, contendo, no mínimo: a) O número de exames clínicos realizados; b) O número e tipos de exames complementares realizados; c) Estatística de resultados anormais dos exames complementares...; d) Incidência e prevalência de doenças relacionadas ao trabalho...; e) Informações sobre o número, tipo de eventos e doenças informadas nas CATs...; f) Análise comparativa em relação ao relatório anterior e discussão sobre as variações nos resultados."
   },
   {
-    "tema": "🩻 NR 7 - PCMSO",
+    "tema": "NR 07🩻 - PCMSO",
     "pergunta": "17. O PCMSO está integrado a outros programas e normas de Segurança e Saúde no Trabalho (SST). Qual outra Norma Regulamentadora (NR) é expressamente destacada na integração com o GRO (Gerenciamento de Riscos Ocupacionais), além do PCMSO (NR 7) e da NR 17 (Ergonomia)?",
     "alternativa1": "NR 5 (CIPA).",
     "alternativa2": "NR 9 (Avaliação e Controle das Exposições Ocupacionais a Agentes Físicos, Químicos e Biológicos).",
@@ -15527,7 +15527,7 @@ const questoes = [
     "gabaritoComentado": "No conjunto das demais NRs, destacam-se a NR 7 - Programa de Controle Médico de Saúde Ocupacional (PCMSO), a NR 9 - Avaliação e Controle das Exposições Ocupacionais a Agentes Físicos, Químicos e Biológicos e a NR 17 – Ergonomia."
   },
   {
-    "tema": "🩻 NR 7 - PCMSO",
+    "tema": "NR 07🩻 - PCMSO",
     "pergunta": "18. A aptidão do trabalhador para o exercício de atividades laborais deve ser avaliada no âmbito do PCMSO. Em relação ao trabalho em altura (NR-35), a avaliação do estado de saúde dos empregados que exercem essa atividade é exigida com o objetivo de:",
     "alternativa1": "Determinar a remuneração adicional por periculosidade.",
     "alternativa2": "Garantir a execução das atividades com segurança.",
@@ -15538,7 +15538,7 @@ const questoes = [
     "gabaritoComentado": "A NR-35 exige que a organização avalie o estado de saúde dos empregados que exercem trabalho em altura, tendo em vista a necessidade de avaliar a sua aptidão às atividades que deve exercer ou está exercendo. A NR-35 estabelece que ela deve garantir aos trabalhadores a execução de suas atividades com segurança."
   },
   {
-    "tema": "🩻 NR 7 - PCMSO",
+    "tema": "NR 07🩻 - PCMSO",
     "pergunta": "19. Além das avaliações clínicas e exames complementares, o PCMSO deve prever a realização obrigatória de exames médicos específicos. Assinale a alternativa que indica um tipo de exame médico obrigatório no âmbito do PCMSO:",
     "alternativa1": "Exame para renovação da carteira de motorista.",
     "alternativa2": "Exame de fertilidade.",
@@ -15549,7 +15549,7 @@ const questoes = [
     "gabaritoComentado": "Os exames médicos ocupacionais compreendem as avaliações clínicas (...) e os exames complementares necessários. O PCMSO deve incluir a realização obrigatória de exames médicos admissionais, periódicos, de retorno ao trabalho, de mudança de função e demissionais."
   },
   {
-    "tema": "🩻 NR 7 - PCMSO",
+    "tema": "NR 07🩻 - PCMSO",
     "pergunta": "20. De acordo com as fontes, o médico responsável pelo PCMSO deve elaborar anualmente um relatório analítico. Qual das seguintes informações é um componente mínimo desse relatório?",
     "alternativa1": "A lista de todos os fornecedores da empresa.",
     "alternativa2": "O número de faltas injustificadas dos trabalhadores.",
@@ -15560,7 +15560,7 @@ const questoes = [
     "gabaritoComentado": "O médico responsável pelo PCMSO deve elaborar, anualmente, um relatório analítico desse programa, contendo, no mínimo: ... c) Estatística de resultados anormais dos exames complementares, categorizados por tipo do exame e por unidade operacional, setor ou função."
   },
   {
-    "tema": "🩻 NR 7 - PCMSO",
+    "tema": "NR 07🩻 - PCMSO",
     "pergunta": "21. A integração do PCMSO com o GRO/PGR implica que a análise de acidentes e doenças relacionadas ao trabalho deve fornecer evidências para:",
     "alternativa1": "Dispensar a realização de exames periódicos.",
     "alternativa2": "Subsidiar e revisar as medidas de prevenção existentes.",
@@ -15571,7 +15571,7 @@ const questoes = [
     "gabaritoComentado": "Renovando o compromisso com a melhoria contínua, a análise de acidente e doença relacionada ao trabalho deve 'fornecer evidências para subsidiar e revisar as medidas de prevenção existentes' (subitem 1.5.5.5.2, 'c', da NR 1). Isso está diretamente conectado com a reavaliação dos riscos ocupacionais e medidas de prevenção, conforme item 1.5.4.4.6, 'd' da NR 1, que é acionada ao se constatar doença relacionada ao trabalho no PCMSO."
   },
   {
-    "tema": "🩻 NR 7 - PCMSO",
+    "tema": "NR 07🩻 - PCMSO",
     "pergunta": "22. O PCMSO deve planejar a realização dos exames complementares necessários conforme os riscos ocupacionais identificados e as exigências contidas nos anexos da NR 7. Para os expostos a diversas substâncias químicas, os exames do Anexo I da NR 7 são utilizados para:",
     "alternativa1": "Avaliação da aptidão para trabalho em altura.",
     "alternativa2": "Verificação da proficiência em operação de máquinas.",
@@ -15582,7 +15582,7 @@ const questoes = [
     "gabaritoComentado": "Já os do Anexo I (para os expostos a diversas substâncias químicas), são utilizados para monitorização da exposição ocupacional aos agentes químicos ali relacionados."
   },
   {
-    "tema": "🩻 NR 7 - PCMSO",
+    "tema": "NR 07🩻 - PCMSO",
     "pergunta": "23. De acordo com a NR 7, o Atestado de Saúde Ocupacional (ASO) deve ser disponibilizado ao empregado, se solicitado, inclusive em meio físico. Qual a identificação do médico que realizou o exame clínico que deve constar no ASO?",
     "alternativa1": "Nome e especialidade médica.",
     "alternativa2": "Apenas o número do CRM.",
@@ -15593,7 +15593,7 @@ const questoes = [
     "gabaritoComentado": "O Atestado de Saúde Ocupacional (ASO) (...) deve conter, no mínimo: (...) g) Data, número do CRM e assinatura do médico que realizou o exame clínico."
   },
   {
-    "tema": "🩻 NR 7 - PCMSO",
+    "tema": "NR 07🩻 - PCMSO",
     "pergunta": "24. A análise comparativa no relatório analítico anual do PCMSO, conforme a NR 7, deve ocorrer em relação a qual outro documento?",
     "alternativa1": "O Inventário de Riscos Ocupacionais.",
     "alternativa2": "Os dados de acidentes de trânsito na região.",
@@ -15604,7 +15604,7 @@ const questoes = [
     "gabaritoComentado": "O médico responsável pelo PCMSO deve elaborar, anualmente, um relatório analítico desse programa, contendo, no mínimo: (...) f) Análise comparativa em relação ao relatório anterior e discussão sobre as variações nos resultados."
   },
   {
-    "tema": "🩻 NR 7 - PCMSO",
+    "tema": "NR 07🩻 - PCMSO",
     "pergunta": "25. Uma das ações que deve ser adotada pelo empregador, quando constatada ocorrência ou agravamento de doença relacionada ao trabalho e informado pelo médico responsável pelo PCMSO, é encaminhar o trabalhador à Previdência Social para avaliação de incapacidade e conduta previdenciária. Essa ação é necessária quando há afastamento do trabalho superior a:",
     "alternativa1": "3 dias.",
     "alternativa2": "7 dias.",
@@ -15615,7 +15615,7 @@ const questoes = [
     "gabaritoComentado": "Constatada ocorrência ou agravamento de doença relacionada ao trabalho, caberá ao empregador, após informado pelo médico responsável pelo PCMSO: (...) c) Encaminhar o trabalhador à Previdência Social, quando houver afastamento do trabalho superior a 15 dias, para avaliação de incapacidade e conduta previdenciária."
   },
   {
-    "tema": "🩻 NR 7 - PCMSO",
+    "tema": "NR 07🩻 - PCMSO",
     "pergunta": "26. As avaliações clínicas e os exames complementares realizados no âmbito do PCMSO devem ser registrados em prontuário médico individual. Sob responsabilidade de quem deve estar esse prontuário?",
     "alternativa1": "Do empregador.",
     "alternativa2": "Do médico responsável.",
@@ -15626,7 +15626,7 @@ const questoes = [
     "gabaritoComentado": "Os dados dos exames clínicos e dos complementares deverão ser registrados em prontuário médico individual, sob a responsabilidade do médico responsável."
   },
   {
-    "tema": "🩻 NR 7 - PCMSO",
+    "tema": "NR 07🩻 - PCMSO",
     "pergunta": "27. De acordo com as fontes, os exames complementares previstos nos anexos da NR 7 são fundamentais para identificar eventuais agravos, mesmo subclínicos, decorrentes da exposição dos trabalhadores. Os exames do Anexo II (para os expostos a determinados agentes com potencial cancerígeno) servem principalmente para:",
     "alternativa1": "Avaliação da capacidade auditiva.",
     "alternativa2": "Monitoramento da exposição a ruído.",
@@ -15637,7 +15637,7 @@ const questoes = [
     "gabaritoComentado": "Já os do Anexo II (para os expostos a determinados agentes e atividades com potencial cancerígeno) são fundamentais para identificar eventuais agravos, mesmo subclínicos, decorrentes da exposição dos trabalhadores a riscos ocupacionais neles especificados."
   },
   {
-    "tema": "🩻 NR 7 - PCMSO",
+    "tema": "NR 07🩻 - PCMSO",
     "pergunta": "28. O PCMSO deve estar articulado com ações de saúde, de análise de acidentes e de preparação para emergências no âmbito do Gerenciamento de Riscos Ocupacionais (GRO). Quem é o responsável pela elaboração dos documentos integrantes do PGR, incluindo o Inventário de Riscos e o Plano de Ação, sob o qual o PCMSO deve se integrar?",
     "alternativa1": "A organização.",
     "alternativa2": "O SESMT da empresa.",
@@ -15648,7 +15648,7 @@ const questoes = [
     "gabaritoComentado": "De acordo com o subitem 1.5.7.2, da NR 1: 'os documentos integrantes do PGR devem ser elaborados sob a responsabilidade da organização, respeitado o disposto nas demais Normas Regulamentadoras, datados e assinados'."
   },
   {
-    "tema": "🩻 NR 7 - PCMSO",
+    "tema": "NR 07🩻 - PCMSO",
     "pergunta": "29. No Atestado de Saúde Ocupacional (ASO), um dos campos obrigatórios, conforme a NR 7, refere-se à descrição dos perigos ou fatores de risco identificados e avaliados no ambiente de trabalho do trabalhador. Qual informação complementar deve ser mencionada nesse campo?",
     "alternativa1": "A data de nascimento do trabalhador.",
     "alternativa2": "O número de filhos do trabalhador.",
@@ -15659,7 +15659,7 @@ const questoes = [
     "gabaritoComentado": "O Atestado de Saúde Ocupacional (ASO) (...) deve conter, no mínimo: (...) c) Descrição dos perigos ou fatores de risco identificados e avaliados no seu ambiente de trabalho, que necessitem de controle médico ocupacional, ou a sua inexistência."
   },
   {
-    "tema": "🩻 NR 7 - PCMSO",
+    "tema": "NR 07🩻 - PCMSO",
     "pergunta": "30. O relatório analítico do PCMSO deve ser apresentado e discutido com os responsáveis pelas ações de segurança e saúde no trabalho do empregador. Qual comissão, caso existente, deve participar dessa discussão?",
     "alternativa1": "Comissão de Fábrica.",
     "alternativa2": "Comissão de Ética.",
@@ -15670,7 +15670,7 @@ const questoes = [
     "gabaritoComentado": "O relatório analítico deve ser apresentado e discutido com os responsáveis pelas ações de segurança e saúde no trabalho do empregador, incluindo a Comissão Interna de Prevenção de Acidentes (CIPA), caso existente, para que as medidas de prevenção, se necessárias, sejam.... A CIPA também possui papel no acompanhamento dessas análises, podendo propor a melhoria das situações de trabalho."
   },
     {
-    "tema": "🧠💼 Psicopatologia do trabalho",
+    "tema": "Psicopatologia do trabalho🧠💼",
     "pergunta": "01. A avaliação de desempenho dos trabalhadores, quando utilizada para fins de remuneração e vantagens, pode ter repercussões na saúde. Qual a exigência da NR 17 em relação a esses sistemas de avaliação?",
     "alternativa1": "Devem focar exclusivamente na produtividade individual.",
     "alternativa2": "Devem levar em consideração as repercussões sobre a saúde dos trabalhadores.",
@@ -15681,7 +15681,7 @@ const questoes = [
     "gabaritoComentado": "A NR 17 é explícita ao determinar que 'Todo e qualquer sistema de avaliação de desempenho para efeito de remuneração e vantagens de qualquer espécie deve levar em consideração as repercussões sobre a saúde dos trabalhadores'."
   },
   {
-    "tema": "🧠💼 Psicopatologia do trabalho",
+    "tema": "Psicopatologia do trabalho🧠💼",
     "pergunta": "02. O 'velho olhar' ou paradigma tradicional na análise de acidentes de trabalho, criticado nos textos, tende a explicar os eventos adversos de forma simplista. Qual a principal característica dessa abordagem tradicional?",
     "alternativa1": "Busca identificar as 'causas das causas' e as condições latentes no sistema.",
     "alternativa2": "Atribui a causa do acidente primariamente a falhas por atos ou omissões dos operadores, vistos como escolhas conscientes e livres.",
@@ -15692,7 +15692,7 @@ const questoes = [
     "gabaritoComentado": "Os textos descrevem o 'velho olhar' ou paradigma tradicional como a abordagem onde o acidente é 'explicado como produto ou resultado de uma ou poucas causas que, regra geral, são atribuídas a falhas por atos ou omissões dos operadores envolvidos na atividade', cujos comportamentos são vistos como 'escolhas conscientes, racionais e livres'."
   },
   {
-    "tema": "🧠💼 Psicopatologia do trabalho",
+    "tema": "Psicopatologia do trabalho🧠💼",
     "pergunta": "03. A gestão da força de trabalho e os modelos de gestão, como a gestão por plataformas (algoritmos), podem influenciar a acidentalidade e os agravos à saúde. Qual a relação mencionada nos textos entre esses modelos de gestão e os riscos ocupacionais?",
     "alternativa1": "Modelos de gestão não possuem impacto relevante na ocorrência de acidentes.",
     "alternativa2": "A gestão por plataformas é intrinsecamente segura e reduz todos os riscos.",
@@ -15703,7 +15703,7 @@ const questoes = [
     "gabaritoComentado": "Os textos indicam que os sistemas de informação sobre agravos permitem relatórios de análises que ajudam a conhecer a acidentalidade segundo 'tipos de gestão: por plataformas (algoritmos), escolhas de gestão de tempos de trabalho/duração de jornadas, gestão da força de trabalho (própria, terceirizados, migrantes, etc.)'. Isso demonstra que a forma de gestão é considerada um fator relevante na análise de riscos."
   },
   {
-    "tema": "🧠💼 Psicopatologia do trabalho",
+    "tema": "Psicopatologia do trabalho🧠💼",
     "pergunta": "04. Os fatores psicossociais no trabalho são elementos cruciais na compreensão dos agravos à saúde mental. Com base nas informações apresentadas, quais dos seguintes itens são explicitamente mencionados como fatores de risco psicossociais?",
     "alternativa1": "Alta demanda psicológica, baixo controle no trabalho e baixo apoio social.",
     "alternativa2": "Apenas a exposição a agentes químicos e físicos.",
@@ -15714,7 +15714,7 @@ const questoes = [
     "gabaritoComentado": "Os textos, ao abordarem os fatores de risco psicossociais, citam especificamente como exemplos de estressores: alta demanda psicológica, baixo controle no trabalho (uso de habilidades, autoridade decisória) e baixo apoio social (de chefes, subordinados ou colegas)."
   },
   {
-    "tema": "🧠💼 Psicopatologia do trabalho",
+    "tema": "Psicopatologia do trabalho🧠💼",
     "pergunta": "05. A Comunicação de Acidente do Trabalho (CAT) é um instrumento de notificação importante, mas as estatísticas oficiais baseadas nela apresentam limitações. Qual a principal limitação mencionada nos textos em relação aos dados de CAT?",
     "alternativa1": "Os dados da CAT abrangem excessivamente o setor informal.",
     "alternativa2": "Há uma alta estimativa de subnotificação de acidentes de trabalho.",
@@ -15725,7 +15725,7 @@ const questoes = [
     "gabaritoComentado": "Os textos informam que as estatísticas oficiais de acidentes e doenças relacionadas ao trabalho, originadas de CATs, não mostram a realidade das ocorrências, e 'estudos estimam que o percentual de subnotificação é de cerca de 80%'."
   },
   {
-    "tema": "🧠💼 Psicopatologia do trabalho",
+    "tema": "Psicopatologia do trabalho🧠💼",
     "pergunta": "06. O Programa de Controle Médico de Saúde Ocupacional (PCMSO), previsto na NR 7, é um instrumento essencial para a vigilância da saúde dos trabalhadores. Qual a exigência do PCMSO em relação à identificação dos agravos à saúde?",
     "alternativa1": "Deve focar unicamente na identificação de doenças infectocontagiosas.",
     "alternativa2": "Deve descrever os possíveis agravos à saúde relacionados aos riscos ocupacionais identificados e avaliados nos ambientes de trabalho.",
@@ -15736,7 +15736,7 @@ const questoes = [
     "gabaritoComentado": "O texto afirma que o empregador deve garantir que o PCMSO 'descreva os possíveis agravos à saúde relacionados aos riscos ocupacionais identificados e avaliados nos ambientes de trabalho dos trabalhadores'."
   },
   {
-    "tema": "🧠💼 Psicopatologia do trabalho",
+    "tema": "Psicopatologia do trabalho🧠💼",
     "pergunta": "07. A Comissão Interna de Prevenção de Acidentes e de Assédio (CIPA) possui atribuições relacionadas à prevenção de acidentes e doenças no trabalho. De acordo com a NR 5, qual das seguintes é uma atribuição da CIPA?",
     "alternativa1": "Aplicar sanções disciplinares aos trabalhadores que não cumprirem as normas de segurança.",
     "alternativa2": "Registrar a percepção dos riscos dos trabalhadores, por meio do mapa de risco ou outra técnica apropriada.",
@@ -15747,7 +15747,7 @@ const questoes = [
     "gabaritoComentado": "A NR 5 lista entre as atribuições da CIPA 'registrar a percepção dos riscos dos trabalhadores, em conformidade com o subitem 1.5.3.3, da NR 1, por meio do mapa de risco ou outra técnica, ou ferramenta apropriada à sua escolha'."
   },
   {
-    "tema": "🧠💼 Psicopatologia do trabalho",
+    "tema": "Psicopatologia do trabalho🧠💼",
     "pergunta": "08. A coleta de dados na Análise de Acidentes de Trabalho (AAT) deve seguir determinados atributos. Um desses atributos refere-se à celeridade no início da coleta. Qual a justificativa para a necessidade de rapidez no início da coleta de dados?",
     "alternativa1": "Reduzir os custos financeiros da análise.",
     "alternativa2": "Evitar que os trabalhadores esqueçam os fatos relevantes.",
@@ -15758,7 +15758,7 @@ const questoes = [
     "gabaritoComentado": "Os textos explicam que a celeridade na coleta de dados da AAT é crucial porque, quanto antes se iniciar, 'mais precisas serão as informações recolhidas, em função de diversos fatores, como, por exemplo, a preservação do cenário do acidente, a rememoração dos acontecimentos pelas pessoas entrevistadas, e para evitar a interferência de outros personagens'."
   },
   {
-    "tema": "🧠💼 Psicopatologia do trabalho",
+    "tema": "Psicopatologia do trabalho🧠💼",
     "pergunta": "09. O gerenciamento de riscos ocupacionais, conforme a NR 1, é um processo contínuo que exige revisão periódica da avaliação de riscos. Qual das seguintes situações, segundo a NR 1, exige a revisão da avaliação de riscos?",
     "alternativa1": "Apenas após a troca do médico coordenador do PCMSO.",
     "alternativa2": "Somente quando ocorrer um acidente fatal.",
@@ -15769,7 +15769,7 @@ const questoes = [
     "gabaritoComentado": "A NR 1 lista diversas situações que exigem a revisão da avaliação de riscos, incluindo 'quando houver mudança nos requisitos legais aplicáveis'."
   },
   {
-    "tema": "🧠💼 Psicopatologia do trabalho",
+    "tema": "Psicopatologia do trabalho🧠💼",
     "pergunta": "10. No contexto do Gerenciamento de Riscos Ocupacionais (GRO) previsto na NR 1, a análise de acidentes e doenças relacionadas ao trabalho desempenha um papel fundamental. Qual é uma das principais finalidades dessa análise, conforme a NR 1?",
     "alternativa1": "Fornecer evidências para subsidiar e revisar as medidas de prevenção existentes.",
     "alternativa2": "Culpabilizar o trabalhador diretamente envolvido no evento adverso.",
@@ -15780,7 +15780,7 @@ const questoes = [
     "gabaritoComentado": "A NR 1 estabelece que a análise de acidente e doença relacionada ao trabalho deve 'fornecer evidências para subsidiar e revisar as medidas de prevenção existentes'. Isso demonstra a importância dessa análise como parte de um ciclo de melhoria contínua na gestão de riscos."
   },
   {
-    "tema": "🧠💼 Psicopatologia do trabalho",
+    "tema": "Psicopatologia do trabalho🧠💼",
     "pergunta": "11. Os superiores hierárquicos diretos desempenham um papel na aplicação dos princípios da ergonomia e na gestão do ambiente de trabalho, especialmente em aspectos psicossociais. Para organizações acima de 10 empregados, a NR 17 exige que esses superiores sejam orientados a buscar determinadas condutas. Qual das seguintes condutas é exigida?",
     "alternativa1": "Realizar pessoalmente a avaliação de desempenho individual.",
     "alternativa2": "Restringir o diálogo com os trabalhadores para evitar distrações.",
@@ -15791,7 +15791,7 @@ const questoes = [
     "gabaritoComentado": "Para organizações acima de 10 empregados, a NR 17 exige que os superiores hierárquicos sejam orientados a buscar 'facilitar a compreensão das atribuições e responsabilidades de cada função' e 'manter aberto o diálogo de modo que os trabalhadores possam sanar dúvidas quanto ao exercício de suas atividades'."
   },
   {
-    "tema": "🧠💼 Psicopatologia do trabalho",
+    "tema": "Psicopatologia do trabalho🧠💼",
     "pergunta": "12. A Análise Ergonômica do Trabalho (AET) deve ser realizada em etapas progressivas e incluir a participação dos trabalhadores. Qual a importância da restituição dos resultados da AET e da validação com os trabalhadores, conforme indicado nos textos?",
     "alternativa1": "É uma formalidade legal sem impacto na implementação das medidas.",
     "alternativa2": "Garante que as recomendações ergonômicas sejam validadas e revisadas, com a participação dos trabalhadores, tornando o processo mais eficaz.",
@@ -15802,7 +15802,7 @@ const questoes = [
     "gabaritoComentado": "Os textos enfatizam que as medidas de prevenção ergonômica devem ser 'discutidas e validadas com os trabalhadores envolvidos' e que a AET inclui a etapa de 'restituição dos resultados, validação e revisão das intervenções efetuadas, quando necessária, com a participação dos trabalhadores'. Isso assegura que as soluções propostas sejam adequadas à realidade do trabalho e aceitas por quem o executa."
   },
   {
-    "tema": "🧠💼 Psicopatologia do trabalho",
+    "tema": "Psicopatologia do trabalho🧠💼",
     "pergunta": "13. O assédio moral é uma forma de violência psicológica que pode ocorrer no ambiente de trabalho. Segundo as definições apresentadas, assinale a característica principal do assédio moral.",
     "alternativa1": "Caracteriza-se por atitudes hostis e abusivas que atentam contra a dignidade e integridade psíquica ou física da pessoa.",
     "alternativa2": "É qualquer conflito ou desentendimento pontual entre colegas de trabalho.",
@@ -15813,7 +15813,7 @@ const questoes = [
     "gabaritoComentado": "O texto define assédio moral como 'uma forma de violência psicológica caracterizada por atitudes hostis e abusivas que atentam contra a dignidade e integridade psíquica ou física de uma pessoa'."
   },
   {
-    "tema": "🧠💼 Psicopatologia do trabalho",
+    "tema": "Psicopatologia do trabalho🧠💼",
     "pergunta": "14. A Ergonomia, especialmente conforme abordada pela NR 17, considera diversos aspectos do trabalho para adaptar as condições ao ser humano. Os aspectos cognitivos do trabalho são mencionados. O que estes aspectos englobam?",
     "alternativa1": "Exclusivamente a força física necessária para executar uma tarefa.",
     "alternativa2": "Somente a postura física adotada pelo trabalhador durante a jornada.",
@@ -15824,7 +15824,7 @@ const questoes = [
     "gabaritoComentado": "Os textos explicam que os aspectos cognitivos 'referem-se aos mecanismos de desenvolvimento de conhecimentos, interpretação, classificação e organização das informações. Isso inclui os aspectos relacionados à memória, à concentração, ao raciocínio e à atenção'."
   },
   {
-    "tema": "🧠💼 Psicopatologia do trabalho",
+    "tema": "Psicopatologia do trabalho🧠💼",
     "pergunta": "15. No contexto da NR 17, a organização do trabalho envolve a consideração de diversos elementos. As normas contraditórias de produção são mencionadas nos textos. Qual o impacto dessas normas contraditórias, a título de exemplo?",
     "alternativa1": "Elas aumentam a autonomia e a criatividade do trabalhador.",
     "alternativa2": "Simplificam a execução das tarefas e reduzem a carga mental.",
@@ -15835,7 +15835,7 @@ const questoes = [
     "gabaritoComentado": "Os textos citam o Manual de Aplicação da NR-17, que indica que 'normas contraditórias submetem os empregados a sofrimento e podem estar na gênese de doenças ocupacionais'."
   },
   {
-    "tema": "🧠💼 Psicopatologia do trabalho",
+    "tema": "Psicopatologia do trabalho🧠💼",
     "pergunta": "16. A CIPA, no cumprimento de seu objetivo de prevenção, pode utilizar diferentes ferramentas para registrar a percepção de riscos dos trabalhadores. Qual ferramenta é explicitamente mencionada nos textos para esse fim, com assessoria do SESMT?",
     "alternativa1": "O Relatório Analítico do PCMSO.",
     "alternativa2": "A Análise Ergonômica do Trabalho (AET).",
@@ -15846,7 +15846,7 @@ const questoes = [
     "gabaritoComentado": "A NR 5 estabelece como atribuição da CIPA 'registrar a percepção dos riscos dos trabalhadores, em conformidade com o subitem 1.5.3.3, da NR 1, por meio do mapa de risco ou outra técnica, ou ferramenta apropriada à sua escolha'."
   },
   {
-    "tema": "🧠💼 Psicopatologia do trabalho",
+    "tema": "Psicopatologia do trabalho🧠💼",
     "pergunta": "17. Ao analisar acidentes e doenças relacionadas ao trabalho, a NR 1 determina que diversos fatores sejam considerados. Além das situações geradoras e do ambiente de trabalho, quais outros fatores devem ser levados em conta, conforme a norma?",
     "alternativa1": "Apenas a condição socioeconômica dos trabalhadores acidentados.",
     "alternativa2": "Exclusivamente o histórico de acidentes prévios do trabalhador.",
@@ -15857,7 +15857,7 @@ const questoes = [
     "gabaritoComentado": "A NR 1 estabelece que a análise de acidentes e doenças relacionadas ao trabalho deve 'considerar as situações geradoras dos eventos, levando em conta as atividades efetivamente desenvolvidas, ambiente de trabalho, materiais, processo produtivo, organização do trabalho e outros fatores relacionados com os eventos'."
   },
   {
-    "tema": "🧠💼 Psicopatologia do trabalho",
+    "tema": "Psicopatologia do trabalho🧠💼",
     "pergunta": "18. Em relação à análise de acidentes de trabalho, o modelo organizacional de James Reason, citado nos textos, é um dos mais conhecidos. Qual a ideia central desse modelo?",
     "alternativa1": "Acidentes são causados por eventos isolados e imprevisíveis.",
     "alternativa2": "Foca exclusivamente nas falhas ativas cometidas pelos operadores no momento do acidente.",
@@ -15868,7 +15868,7 @@ const questoes = [
     "gabaritoComentado": "Os textos explicam que no modelo de James Reason, o acidente é 'mostrado como tendo origens em condições latentes, escolhas estratégicas enraizadas no sistema e que se associam às suas condições materiais que, por sua vez, participam nas origens de falhas ativas'."
   },
   {
-    "tema": "🧠💼 Psicopatologia do trabalho",
+    "tema": "Psicopatologia do trabalho🧠💼",
     "pergunta": "19. A Norma Regulamentadora nº 17 (NR 17) trata da ergonomia e da adaptação das condições de trabalho às características psicofisiológicas dos trabalhadores. No que se refere à organização do trabalho, a NR 17 exige que as organizações considerem diversos aspectos. Qual dos seguintes aspectos é explicitamente listado pela NR 17, no contexto da organização do trabalho, como um fator a ser abordado?",
     "alternativa1": "As normas de produção, incluindo exigências de qualidade, segurança, saúde e produtividade.",
     "alternativa2": "O tipo de contrato de trabalho, se determinado ou indeterminado.",
@@ -15879,7 +15879,7 @@ const questoes = [
     "gabaritoComentado": "Ao descrever os conceitos sobre organização do trabalho, a NR 17 lista como um dos itens a serem considerados as 'Normas de produção', que abrangem 'todas as normas que o trabalhador deve seguir para cumprir a tarefa a ele designada', incluindo 'questões de qualidade, segurança e saúde no trabalho, e exigências produtivas'."
   },
   {
-    "tema": "🧠💼 Psicopatologia do trabalho",
+    "tema": "Psicopatologia do trabalho🧠💼",
     "pergunta": "20. A análise dos acidentes de trabalho, sob uma perspectiva sistêmica e organizacional, difere significativamente da abordagem tradicional. Qual o foco principal da análise sistêmica, segundo os textos?",
     "alternativa1": "Identificar e punir os trabalhadores que cometeram atos inseguros.",
     "alternativa2": "Analisar o acidente como um produto de interações complexas, buscando identificar falhas de gestão e condições latentes, além de falhas ativas.",
@@ -15890,7 +15890,7 @@ const questoes = [
     "gabaritoComentado": "A abordagem sistêmica, em contraposição ao paradigma tradicional, busca analisar o acidente como produto de falhas de gestão, interações entre diferentes tipos de falhas e condições latentes, além das falhas ativas. O modelo organizacional de James Reason, por exemplo, mostra o acidente originado em condições latentes e escolhas estratégicas."
   },
   {
-    "tema": "🧠💼 Psicopatologia do trabalho",
+    "tema": "Psicopatologia do trabalho🧠💼",
     "pergunta": "21. O assédio moral no trabalho pode se manifestar de diversas formas, utilizando diferentes métodos ou táticas. Qual das seguintes opções apresenta exemplos de estratégias comumente utilizadas no assédio moral, de acordo com os textos?",
     "alternativa1": "Promoção de diálogos abertos para sanar dúvidas sobre as atividades.",
     "alternativa2": "Flexibilização das normas de produção para aliviar a pressão.",
@@ -15901,7 +15901,7 @@ const questoes = [
     "gabaritoComentado": "Ao descrever os métodos ou táticas de assédio moral, os textos mencionam estratégias como 'isolamento', 'espalhamento de boatos', 'críticas excessivas' e 'exigências desmedidas ou confusas'."
   },
   {
-    "tema": "🧠💼 Psicopatologia do trabalho",
+    "tema": "Psicopatologia do trabalho🧠💼",
     "pergunta": "22. A Análise Ergonômica do Trabalho (AET) é uma ferramenta importante para avaliar as situações de trabalho. Conforme a NR 17, em quais situações a organização deve realizar a AET?",
     "alternativa1": "Quando observada a necessidade de avaliação aprofundada, identificadas inadequações em ações de prevenção, sugerida pelo PCMSO com evidências de associação entre agravos e riscos, ou indicada causa relacionada às condições de trabalho na análise de acidentes/doenças.",
     "alternativa2": "Apenas por solicitação direta de um órgão sindical.",
@@ -15912,7 +15912,7 @@ const questoes = [
     "gabaritoComentado": "A NR 17 estabelece que a AET deve ser realizada quando 'observada a necessidade de uma avaliação mais aprofundada', 'identificadas inadequações ou insuficiência das ações adotadas', 'sugerida pelo acompanhamento de saúde dos trabalhadores, nos termos do PCMSO' com evidências de associação com riscos, ou 'indicada causa relacionada às condições de trabalho na análise de acidentes e doenças relacionadas ao trabalho'."
   },
   {
-    "tema": "🧠💼 Psicopatologia do trabalho",
+    "tema": "Psicopatologia do trabalho🧠💼",
     "pergunta": "23. Um dos modelos psicossociais mencionados nos textos é o modelo de desequilíbrio esforço-recompensa (Effort-Reward Imbalance). Qual a premissa básica deste modelo, de acordo com o que foi apresentado?",
     "alternativa1": "O sofrimento no trabalho surge apenas da alta demanda psicológica.",
     "alternativa2": "A satisfação no trabalho é inversamente proporcional ao controle que o trabalhador possui.",
@@ -15923,7 +15923,7 @@ const questoes = [
     "gabaritoComentado": "Ao mencionar os fatores de risco psicossociais e citar o modelo de Siegrist, o texto define o desequilíbrio esforço-recompensa como a situação 'quando o esforço investido no trabalho é maior que a recompensa recebida'. Isso é apresentado como um estressor que contribui para o sofrimento."
   },
   {
-    "tema": "🧠💼 Psicopatologia do trabalho",
+    "tema": "Psicopatologia do trabalho🧠💼",
     "pergunta": "24. A sobrecarga de trabalho e as jornadas excessivas são mencionadas como fatores de risco importantes. Qual a relação apontada entre jornadas de trabalho excessivas e agravos à saúde, conforme os textos?",
     "alternativa1": "Não há relação comprovada entre jornadas excessivas e agravos à saúde.",
     "alternativa2": "Jornadas excessivas são apontadas como o principal fator de risco para cargas de doenças e lesões relacionadas ao trabalho em um estudo citado.",
@@ -15934,7 +15934,7 @@ const questoes = [
     "gabaritoComentado": "Os textos mencionam um estudo da OMS/OIT (WHO/ILO 2021) que 'aponta as jornadas de trabalho excessivas como principal fator de risco' para cargas de doenças e lesões relacionadas ao trabalho."
   },
   {
-    "tema": "🧠💼 Psicopatologia do trabalho",
+    "tema": "Psicopatologia do trabalho🧠💼",
     "pergunta": "25. O conteúdo das tarefas de trabalho é um fator relevante na relação entre trabalho e saúde mental. Conforme apresentado nos textos, o que o conteúdo das tarefas pode influenciar na percepção do trabalhador?",
     "alternativa1": "Apenas a remuneração e os benefícios recebidos.",
     "alternativa2": "Apenas a quantidade de EPIs necessários para a função.",
@@ -15945,7 +15945,7 @@ const questoes = [
     "gabaritoComentado": "Os textos explicam que o 'conteúdo das tarefas refere-se ao modo como o trabalhador percebe as suas condições laborais, sentindo-as como estimulantes, socialmente importantes, monótonas ou aquém das capacidades'."
   },
   {
-    "tema": "🧠💼 Psicopatologia do trabalho",
+    "tema": "Psicopatologia do trabalho🧠💼",
     "pergunta": "26. As abordagens sistêmicas para análise de acidentes e agravos no trabalho assumem pressupostos diferentes do paradigma tradicional. Qual a visão das análises de acidentes concluídas com explicações individualizantes, centradas na pessoa, sob a ótica das abordagens sistêmicas atuais?",
     "alternativa1": "São as mais eficazes para identificar as causas raiz dos problemas.",
     "alternativa2": "São suficientes para implementar medidas de prevenção eficazes.",
@@ -15956,7 +15956,7 @@ const questoes = [
     "gabaritoComentado": "Os textos afirmam que as abordagens sistêmicas assumem que, à luz dos conhecimentos atuais, 'análises de acidentes concluídas, com explicações individualizantes, centradas na pessoa, são marcadas pela fragilidade, por técnicas que não investigaram as origens das origens dos fatos identificados como proximais ao desfecho ocorrido'."
   },
   {
-    "tema": "🧠💼 Psicopatologia do trabalho",
+    "tema": "Psicopatologia do trabalho🧠💼",
     "pergunta": "27. O Programa de Controle Médico de Saúde Ocupacional (PCMSO) deve estar articulado com o Programa de Gerenciamento de Riscos (PGR). De que forma a análise de acidentes e doenças relacionadas ao trabalho, no contexto do PCMSO, contribui para essa articulação?",
     "alternativa1": "Apenas registrando os casos de adoecimento, sem análise aprofundada.",
     "alternativa2": "Limitando a atuação do PCMSO à reabilitação profissional.",
@@ -15967,7 +15967,7 @@ const questoes = [
     "gabaritoComentado": "O relatório analítico do PCMSO deve conter informações sobre os eventos e doenças informadas nas CATs e uma análise comparativa, que deve ser discutida para que 'as medidas de prevenção, se necessárias, sejam implementadas, corrigidas ou aprimoradas'. Isso demonstra como a análise de acidentes/doenças no PCMSO retroalimenta o PGR."
   },
   {
-    "tema": "🧠💼 Psicopatologia do trabalho",
+    "tema": "Psicopatologia do trabalho🧠💼",
     "pergunta": "28. No âmbito da gestão de riscos ocupacionais (GRO), a participação dos trabalhadores é destacada como importante. Em quais fases do gerenciamento de riscos os trabalhadores devem ser encorajados a participar ativamente?",
     "alternativa1": "Apenas na etapa de treinamento sobre medidas de prevenção.",
     "alternativa2": "Exclusivamente na escolha dos equipamentos de proteção individual (EPIs).",
@@ -15978,7 +15978,7 @@ const questoes = [
     "gabaritoComentado": "Os textos indicam que a organização deverá dispor de meios eficientes para consultar os trabalhadores, 'para que os trabalhadores sejam encorajados a participar ativamente de todas as fases do gerenciamento'."
   },
   {
-    "tema": "🧠💼 Psicopatologia do trabalho",
+    "tema": "Psicopatologia do trabalho🧠💼",
     "pergunta": "29. Os textos mencionam o conceito de 'custos intangíveis' associados aos agravos relacionados ao trabalho. O que caracteriza esses custos?",
     "alternativa1": "Custos facilmente identificados e quantificados em termos monetários, como despesas médicas diretas.",
     "alternativa2": "Custos relacionados exclusivamente à reposição de equipamentos danificados.",
@@ -15989,7 +15989,7 @@ const questoes = [
     "gabaritoComentado": "A noção de custos tangíveis e intangíveis é usada, destacando que os custos intangíveis 'são mais abstratos e difíceis de serem medidos, podendo afetar o desempenho geral e o sucesso do negócio'."
   },
   {
-    "tema": "🧠💼 Psicopatologia do trabalho",
+    "tema": "Psicopatologia do trabalho🧠💼",
     "pergunta": "30. A respeito da relação entre a organização do trabalho e a saúde mental dos trabalhadores, conforme abordado nos textos, assinale a alternativa correta.",
     "alternativa1": "A organização do trabalho pode ser fonte tanto de prazer quanto de sofrimento, dependendo de fatores como liberdade, criatividade e reconhecimento.",
     "alternativa2": "O trabalho é apresentado unicamente como fonte de sofrimento, dadas as pressões e demandas inerentes ao ambiente corporativo.",
@@ -16000,7 +16000,7 @@ const questoes = [
     "gabaritoComentado": "Os textos afirmam que a organização do trabalho pode levar a estratégias e mecanismos de defesa para moderar o sofrimento, mas que o trabalho também pode ser fonte de prazer (quando há liberdade, criatividade, reconhecimento e sentido) ou de sofrimento (na ausência destes). Portanto, a organização do trabalho pode gerar tanto prazer quanto sofrimento psíquico."
   },
     {
-    "tema": "NR 4 - SESMT 🩺",
+    "tema": "NR 04🩺 - SESMT",
     "pergunta": "01. Conforme as informações apresentadas nos textos, o Serviço Especializado em Segurança e em Medicina do Trabalho (SESMT), quando existente, desempenha um papel fundamental na gestão de riscos ocupacionais. Nesse contexto, assinale a opção que apresenta, com base nos textos, uma atuação preventiva do SESMT integrada ao Gerenciamento de Riscos Ocupacionais (GRO).",
     "alternativa1": "Acompanhar o processo de identificação de perigos, avaliação de riscos e adoção de medidas de prevenção.",
     "alternativa2": "Realizar exclusivamente a emissão de Comunicados de Acidente de Trabalho (CAT) para todos os eventos ocorridos na organização.",
@@ -16011,7 +16011,7 @@ const questoes = [
     "gabaritoComentado": "O texto, ao tratar da atuação preventiva da CIPA integrada ao GRO, menciona que uma das atribuições da CIPA é 'Acompanhar o processo de identificação de perigos, avaliação de riscos e adoção de medidas de prevenção', com assessoria do SESMT onde houver. Portanto, o acompanhamento desses processos pelo SESMT é uma atuação preventiva integrada ao GRO."
   },
   {
-    "tema": "NR 4 - SESMT 🩺",
+    "tema": "NR 04🩺 - SESMT",
     "pergunta": "02. A composição do SESMT é determinada por normas regulamentadoras e depende das características da organização. De acordo com as profissões mencionadas nos textos como integrantes do SESMT, assinale a opção correta.",
     "alternativa1": "Técnico de Enfermagem e Engenheiro Civil.",
     "alternativa2": "Engenheiro de Segurança do Trabalho e Médico do Trabalho.",
@@ -16022,7 +16022,7 @@ const questoes = [
     "gabaritoComentado": "O texto menciona que o SESMT é composto por profissionais como Médico do Trabalho, Engenheiro de Segurança do Trabalho, Técnico de Segurança do Trabalho e Enfermeiro do Trabalho. As opções listam combinações de profissões, e 'Engenheiro de Segurança do Trabalho e Médico do Trabalho' são explicitamente citados como parte da composição do SESMT no material fornecido."
   },
   {
-    "tema": "NR 4 - SESMT 🩺",
+    "tema": "NR 04🩺 - SESMT",
     "pergunta": "03. Certos profissionais que compõem o SESMT, devido à natureza de suas atividades, devem dedicar tempo integral às funções. Com base nas informações dos textos, qual profissional integrante do SESMT é mencionado com exigência de dedicação exclusiva?",
     "alternativa1": "Técnico de Segurança do Trabalho.",
     "alternativa2": "Engenheiro de Segurança do Trabalho.",
@@ -16033,7 +16033,7 @@ const questoes = [
     "gabaritoComentado": "O texto sobre a composição do SESMT menciona que 'O Médico do Trabalho deve ter dedicação exclusiva'. Assim, o Médico do Trabalho é o profissional listado com essa exigência específica no material."
   },
   {
-    "tema": "NR 4 - SESMT 🩺",
+    "tema": "NR 04🩺 - SESMT",
     "pergunta": "04. O dimensionamento do SESMT está diretamente relacionado ao grau de risco da atividade principal da organização. De acordo com os textos, qual anexo da Norma Regulamentadora nº 4 (NR 4) é utilizado para determinar esse grau de risco?",
     "alternativa1": "Anexo II.",
     "alternativa2": "Anexo III.",
@@ -16044,7 +16044,7 @@ const questoes = [
     "gabaritoComentado": "Os textos indicam que o dimensionamento do SESMT considera o Grau de Risco (GR) estabelecido no Anexo I da NR 4. A consulta ao Quadro I da NR-04-SESMT, que utiliza o GR, também é mencionada para o dimensionamento da CIPA, reforçando o Anexo I como a fonte para o GR na NR 4."
   },
   {
-    "tema": "NR 4 - SESMT 🩺",
+    "tema": "NR 04🩺 - SESMT",
     "pergunta": "05. Além do grau de risco, o número de empregados é um fator determinante para o dimensionamento do SESMT. Em relação ao número de empregados e suas classes, qual anexo da NR 4 é relevante para definir a estrutura e o dimensionamento do SESMT, conforme os textos?",
     "alternativa1": "Anexo I.",
     "alternativa2": "Anexo III.",
@@ -16055,7 +16055,7 @@ const questoes = [
     "gabaritoComentado": "O dimensionamento do SESMT combina o Grau de Risco (Anexo I) com o número de empregados, conforme estabelecido no Anexo II da NR 4. O Anexo II também é referenciado ao descrever as modalidades de SESMT Individual e Regionalizado."
   },
   {
-    "tema": "NR 4 - SESMT 🩺",
+    "tema": "NR 04🩺 - SESMT",
     "pergunta": "06. Qual critério principal é utilizado para definir o dimensionamento do Serviço Especializado em Segurança e Medicina do Trabalho (SESMT), segundo as informações contidas nos textos?",
     "alternativa1": "A combinação do Grau de Risco da atividade principal da organização com o número de empregados, conforme previsto nos anexos da NR 4.",
     "alternativa2": "O faturamento anual da empresa e a localização geográfica dos estabelecimentos.",
@@ -16066,7 +16066,7 @@ const questoes = [
     "gabaritoComentado": "O texto afirma claramente que 'o critério principal para definição do dimensionamento do Serviço Especializado em Segurança e Medicina do Trabalho (SESMT) é a combinação do Grau de Risco (Anexo I da NR 4) com o número de empregados da organização, conforme Anexo II da NR 4'. As demais opções não refletem o critério principal estabelecido no material."
   },
   {
-    "tema": "NR 4 - SESMT 🩺",
+    "tema": "NR 04🩺 - SESMT",
     "pergunta": "07. A NR 4 prevê diferentes modalidades para a organização do SESMT, dependendo das características da empresa. De acordo com os textos, a modalidade SESMT Individual se aplica em qual situação?",
     "alternativa1": "Quando a organização possui múltiplos estabelecimentos em unidades federativas distintas.",
     "alternativa2": "Quando a organização possui um único estabelecimento que se enquadra no Anexo II da NR 4 e não possui outros estabelecimentos para atender.",
@@ -16077,7 +16077,7 @@ const questoes = [
     "gabaritoComentado": "O texto define a modalidade SESMT Individual como '1 estabelecimento que se enquadre no Anexo II, da NR4 - sem outros estabelecimentos da organização para atender'. Esta definição corresponde à opção B."
   },
   {
-    "tema": "NR 4 - SESMT 🩺",
+    "tema": "NR 04🩺 - SESMT",
     "pergunta": "08. A modalidade SESMT Regionalizado é uma das formas de organização do Serviço Especializado em Segurança e Medicina do Trabalho, prevista na NR 4. Com base nas informações fornecidas, em que situação se aplica a modalidade SESMT Regionalizado?",
     "alternativa1": "Quando a organização possui apenas um estabelecimento que se enquadra no Anexo II da NR 4.",
     "alternativa2": "Quando a organização opta por centralizar o SESMT para todos os seus estabelecimentos, independentemente de atingir o número mínimo de trabalhadores.",
@@ -16088,7 +16088,7 @@ const questoes = [
     "gabaritoComentado": "O texto define a modalidade SESMT Regionalizado como aquela em que 'Ao menos 1 estabelecimento que se enquadre no Anexo II, da NR4, e um ou mais estabelecimentos, em uma mesma unidade federativa, atingem os limites do Anexo II da NR 4'. Esta definição corresponde à opção C."
   },
   {
-    "tema": "NR 4 - SESMT 🩺",
+    "tema": "NR 04🩺 - SESMT",
     "pergunta": "09. Embora não detalhada no material, a modalidade SESMT Compartilhado é mencionada em um dos textos como uma possibilidade de organização do SESMT. Em que situação o texto sugere que o SESMT Compartilhado pode ser adotado?",
     "alternativa1": "Exclusivamente quando a empresa possui um único estabelecimento grande.",
     "alternativa2": "Quando a organização opta por terceirizar totalmente o serviço de segurança e saúde.",
@@ -16099,7 +16099,7 @@ const questoes = [
     "gabaritoComentado": "O texto sobre modalidades de SESMT menciona o SESMT Compartilhado e a situação onde 'estabelecimentos de diversas empresas, localizados em um mesmo município ou em municípios limítrofes, por meio de instrumento coletivo, podem organizar um SESMT comum'. Isso se alinha com a descrição da modalidade compartilhada."
   },
   {
-    "tema": "NR 4 - SESMT 🩺",
+    "tema": "NR 04🩺 - SESMT",
     "pergunta": "10. As organizações obrigadas a constituir SESMT devem registrar esse serviço junto ao órgão competente. De acordo com as informações apresentadas nos textos, como deve ser realizado o registro do SESMT?",
     "alternativa1": "Por meio de comunicação direta ao sindicato da categoria profissional predominante.",
     "alternativa2": "Mediante envio de ofício físico à Superintendência Regional do Trabalho.",
@@ -16110,7 +16110,7 @@ const questoes = [
     "gabaritoComentado": "O texto sobre o registro do SESMT junto ao Ministério do Trabalho indica que ele deve ser realizado 'em sistema eletrônico disponível no portal gov.br, com o fornecimento dos dados exigidos pela norma'. As demais opções não correspondem ao método de registro descrito."
   },
   {
-    "tema": "NR 4 - SESMT 🩺",
+    "tema": "NR 04🩺 - SESMT",
     "pergunta": "11. A Comissão Interna de Prevenção de Acidentes (CIPA) e o SESMT são instâncias que colaboram na gestão de segurança e saúde no trabalho. De que forma a CIPA pode registrar a percepção dos riscos dos trabalhadores, em conformidade com a NR 1, contando com a assessoria do SESMT, quando houver?",
     "alternativa1": "Por meio do mapa de risco ou outra técnica ou ferramenta apropriada à sua escolha.",
     "alternativa2": "Exclusivamente por meio de relatórios de auditoria externa.",
@@ -16121,7 +16121,7 @@ const questoes = [
     "gabaritoComentado": "O texto sobre as atribuições da CIPA afirma que ela cabe 'registrar a percepção dos riscos dos trabalhadores, em conformidade com o subitem 1.5.3.3, da NR 1, por meio do mapa de risco ou outra técnica, ou ferramenta apropriada à sua escolha... com assessoria do Serviço Especializado em Segurança e em Medicina do Trabalho - SESMT, onde houver'. Esta descrição corresponde à opção A."
   },
   {
-    "tema": "NR 4 - SESMT 🩺",
+    "tema": "NR 04🩺 - SESMT",
     "pergunta": "12. Membros do SESMT podem, em algumas situações, também ser integrantes da CIPA. De acordo com os textos, em que situação um trabalhador integrante do SESMT é dispensado do treinamento da CIPA?",
     "alternativa1": "Quando ele atua como presidente da CIPA.",
     "alternativa2": "Quando ele já é integrante do SESMT.",
@@ -16132,7 +16132,7 @@ const questoes = [
     "gabaritoComentado": "O texto, ao tratar do treinamento da CIPA, menciona que 'Por vezes, pode acontecer de um trabalhador integrante do SESMT, por exemplo, ser integrante da CIPA. Nesse caso, fica dispensado do treinamento da CIPA'. Portanto, a dispensa ocorre quando o trabalhador já é integrante do SESMT."
   },
   {
-    "tema": "NR 4 - SESMT 🩺",
+    "tema": "NR 04🩺 - SESMT",
     "pergunta": "13. A CIPA tem um papel de apoio e colaboração com o SESMT na gestão de SST. Em relação à elaboração do Programa de Gerenciamento de Riscos (PGR), qual é a atribuição administrativa da CIPA mencionada que envolve o SESMT?",
     "alternativa1": "Elaborar e assinar o PGR de forma independente do SESMT.",
     "alternativa2": "Aprovar o PGR sem a necessidade de participação do SESMT.",
@@ -16143,7 +16143,7 @@ const questoes = [
     "gabaritoComentado": "No contexto das atribuições administrativas da CIPA, o texto afirma que cabe à CIPA 'Apoiar o SESMT na elaboração do PGR'. Isso demonstra a colaboração entre as duas instâncias na elaboração do programa."
   },
   {
-    "tema": "NR 4 - SESMT 🩺",
+    "tema": "NR 04🩺 - SESMT",
     "pergunta": "14. A avaliação de riscos ocupacionais, parte fundamental do Gerenciamento de Riscos Ocupacionais (GRO), pode ser realizada, coordenada ou guiada por determinados profissionais na empresa. Quem preferencialmente deve coordenar ou guiar esse processo, segundo os textos?",
     "alternativa1": "Qualquer trabalhador com experiência na área.",
     "alternativa2": "O empregador ou seu representante.",
@@ -16154,7 +16154,7 @@ const questoes = [
     "gabaritoComentado": "O texto sobre a avaliação de risco ocupacional indica que ela 'Preferencialmente, deve ser realizado, coordenado ou guiado pelo Serviços Especializados em Segurança e Medicina do Trabalho (SESMT) da empresa, quando existente'. Isso se deve à maior propriedade técnica do SESMT."
   },
   {
-    "tema": "NR 4 - SESMT 🩺",
+    "tema": "NR 04🩺 - SESMT",
     "pergunta": "15. Na avaliação de riscos ocupacionais, a gradação da probabilidade de ocorrência de lesões ou agravos à saúde é um passo essencial. O SESMT, ao coordenar ou guiar este processo, pode avaliar essa gradação. Com base em quê a probabilidade deve ser estabelecida, conforme a NR 1?",
     "alternativa1": "Exclusivamente na frequência histórica de acidentes na empresa.",
     "alternativa2": "Apenas na opinião dos trabalhadores envolvidos.",
@@ -16165,7 +16165,7 @@ const questoes = [
     "gabaritoComentado": "O texto cita que, conforme a NR 1, a 'probabilidade deve ser estabelecida com base na chance de ocorrência das lesões ou agravos à saúde'. Embora outros fatores como características da exposição e resultados de avaliações sejam considerados, a definição fundamental é a chance de ocorrência."
   },
   {
-    "tema": "NR 4 - SESMT 🩺",
+    "tema": "NR 04🩺 - SESMT",
     "pergunta": "16. O Programa de Controle Médico de Saúde Ocupacional (PCMSO), regido pela NR 7, deve estar articulado com os riscos ocupacionais identificados e avaliados na organização. Quem é o responsável por descrever os possíveis agravos à saúde relacionados a esses riscos e planejar as avaliações clínicas e exames complementares necessários?",
     "alternativa1": "O empregador, após informado pelo médico responsável pelo PCMSO.",
     "alternativa2": "O Serviço Especializado em Segurança e Medicina do Trabalho (SESMT), independentemente da existência de médico do trabalho.",
@@ -16176,7 +16176,7 @@ const questoes = [
     "gabaritoComentado": "O texto sobre o PCMSO (NR 7) especifica que 'O empregador deve garantir que PCMSO descreva os possíveis agravos à saúde relacionados aos riscos ocupacionais identificados e avaliados nos ambientes de trabalho dos trabalhadores, contendo um planejamento para a realização tanto das avaliações clínicas quanto dos exames complementares necessários, conforme os riscos ocupacionais identificados e as exigências contidas nos anexos da NR 7'. As alterações ou agravamentos de doenças relacionadas ao trabalho, constatados pelo médico responsável, exigem que o empregador seja informado e tome providências, como a emissão da CAT e reavaliação dos riscos."
   },
   {
-    "tema": "NR 4 - SESMT 🩺",
+    "tema": "NR 04🩺 - SESMT",
     "pergunta": "17. A NR 5 prevê a figura do 'nomeado' para cumprir as funções e atribuições da norma em estabelecimentos que não se enquadram no dimensionamento da CIPA e não são atendidos por SESMT. De acordo com os textos, em que situação a nomeação desse representante da NR 5 é dispensada?",
     "alternativa1": "Quando a organização possui menos de 10 empregados.",
     "alternativa2": "Se houver SESMT constituído na organização.",
@@ -16187,7 +16187,7 @@ const questoes = [
     "gabaritoComentado": "Os textos afirmam que a nomeação de um representante da NR 5 é dispensada 'se houver SESMT constituído na organização, pois ele deve desenvolver as atribuições da NR 5'."
   },
   {
-    "tema": "NR 4 - SESMT 🩺",
+    "tema": "NR 04🩺 - SESMT",
     "pergunta": "18. A composição do Serviço Especializado em Segurança e Medicina do Trabalho (SESMT) exige profissionais com qualificações específicas, conforme definido pela NR 4. Isso implica que a equipe do SESMT não pode ser formada por qualquer pessoa na organização. Assinale a opção que reflete corretamente esta exigência, com base no material fornecido.",
     "alternativa1": "A NR 4 permite que qualquer empregado da organização com experiência em segurança, mesmo sem formação específica, integre o SESMT, desde que nomeado pelo empregador.",
     "alternativa2": "A formação do SESMT pode incluir profissionais de diversas áreas, desde que tenham recebido um treinamento básico em segurança do trabalho.",
@@ -16198,7 +16198,7 @@ const questoes = [
     "gabaritoComentado": "O texto sobre a composição do SESMT lista profissões específicas como Médico do Trabalho, Engenheiro de Segurança do Trabalho, Técnico de Segurança do Trabalho e Enfermeiro do Trabalho, e menciona a necessidade de registro profissional em alguns casos. A Questão 97 também corrobora que a composição é definida pela NR 4, implicando a necessidade de qualificação e habilitação, não podendo ser composta por 'qualquer profissional da empresa'."
   },
   {
-    "tema": "NR 4 - SESMT 🩺",
+    "tema": "NR 04🩺 - SESMT",
     "pergunta": "19. Ao registrar o SESMT em sistema eletrônico no portal gov.br, a organização deve fornecer dados exigidos pela norma. Quais informações, no mínimo, devem constar no registro do SESMT, segundo os textos?",
     "alternativa1": "Lista completa de todos os trabalhadores atendidos pelo SESMT, incluindo seus dados pessoais.",
     "alternativa2": "Histórico de acidentes de trabalho dos últimos 5 anos.",
@@ -16209,7 +16209,7 @@ const questoes = [
     "gabaritoComentado": "O texto sobre o registro do SESMT remete aos dados exigidos pela norma. A seção sobre SESMT lista informações como 'Qualificação e número de registro dos profissionais', 'Grau de risco estabelecido... e o número de trabalhadores atendidos por estabelecimento', e 'Horário de trabalho dos profissionais do SESMT'. Estes itens compõem a informação mínima esperada no registro."
   },
   {
-    "tema": "NR 4 - SESMT 🩺",
+    "tema": "NR 04🩺 - SESMT",
     "pergunta": "20. A modalidade SESMT Regionalizado aplica-se quando um ou mais estabelecimentos, em uma mesma unidade federativa, atingem determinados limites. Quais limites são esses, de acordo com o que desencadeia a necessidade de um SESMT Regionalizado?",
     "alternativa1": "Atingem o número mínimo de empregados para constituição de CIPA, independentemente do enquadramento no Anexo II da NR 4.",
     "alternativa2": "Superam 500 empregados em um único estabelecimento, mesmo que não se enquadre no Anexo II da NR 4.",
@@ -16220,7 +16220,7 @@ const questoes = [
     "gabaritoComentado": "A modalidade SESMT Regionalizado é aplicável quando 'um ou mais estabelecimentos, em uma mesma unidade federativa, atingem os limites do Anexo II da NR 4'. Esses limites referem-se à combinação de grau de risco e número de empregados que demandam um SESMT."
   },
   {
-    "tema": "NR 4 - SESMT 🩺",
+    "tema": "NR 04🩺 - SESMT",
     "pergunta": "21. As normas de segurança e saúde no trabalho frequentemente se referem a profissionais 'habilitados', 'qualificados' e 'capacitados'. Com base nas definições fornecidas nos textos, assinale a opção que associa corretamente a definição de 'profissional ou trabalhador capacitado'.",
     "alternativa1": "Aquele que recebeu capacitação sob orientação e responsabilidade de profissional habilitado.",
     "alternativa2": "Aquele que comprova conclusão de curso específico na sua área de atuação e reconhecido pelo sistema oficial de ensino.",
@@ -16231,7 +16231,7 @@ const questoes = [
     "gabaritoComentado": "O texto fornece as definições de profissional ou trabalhador habilitado, qualificado e capacitado. A definição de 'Profissional ou trabalhador capacitado' é expressamente 'aquele que recebeu capacitação sob orientação e responsabilidade de profissional habilitado'. Esta definição corresponde à opção A."
   },
   {
-    "tema": "NR 4 - SESMT 🩺",
+    "tema": "NR 04🩺 - SESMT",
     "pergunta": "22. A seleção de metodologias para a avaliação de riscos no âmbito do Gerenciamento de Riscos Ocupacionais (GRO) é um processo importante. Existem diversas metodologias disponíveis. Qual é o papel do SESMT da empresa, quando existente, nesse processo, de acordo com o que se depreende dos textos?",
     "alternativa1": "Realizar exclusivamente a 'matriz de probabilidade/consequência', pois é a única metodologia prevista na NR 1.",
     "alternativa2": "Coordenar ou guiar a escolha e aplicação das metodologias, utilizando seu conhecimento técnico.",
@@ -16242,7 +16242,7 @@ const questoes = [
     "gabaritoComentado": "O texto indica que o SESMT, quando existente, deve 'coordenar ou guiar' o processo de avaliação de risco. Além disso, menciona que existem diversas metodologias e que 'os analistas devem descrever e justificar os métodos, técnicas ou ferramentas utilizados'. Embora a seleção não seja explicitamente atribuída *apenas* ao SESMT, seu papel preferencial na coordenação da avaliação sugere sua participação na escolha justificada da metodologia mais adequada."
   },
   {
-    "tema": "NR 4 - SESMT 🩺",
+    "tema": "NR 04🩺 - SESMT",
     "pergunta": "23. As ações de ergonomia, regidas pela NR 17, visam adaptar as condições de trabalho às características psicofisiológicas dos trabalhadores. Embora o SESMT possa ter um papel de apoio técnico em ergonomia, os textos indicam que a responsabilidade por essas ações não é exclusiva desse serviço. Assinale a opção que corrobora esta informação, baseando-se nos textos.",
     "alternativa1": "O SESMT é o único responsável por todas as avaliações e intervenções ergonômicas na empresa.",
     "alternativa2": "As ações de ergonomia são sempre de responsabilidade exclusiva da Comissão Interna de Prevenção de Acidentes (CIPA).",
@@ -16253,7 +16253,7 @@ const questoes = [
     "gabaritoComentado": "A Questão 27 do simulado apresenta opções sobre a responsabilidade pelas ações de ergonomia. A opção C, que é marcada como correta, afirma que 'As ações de ergonomia, identificadas na avaliação ergonômica preliminar, devem ser previstas em planos de ação e incorporadas ao Programa de Gerenciamento de Riscos (PGR), sob responsabilidade da organização'. A opção E dessa questão, que é incorreta, afirma que a responsabilidade é do SESMT. Portanto, os textos indicam que a responsabilidade primária pelas ações de ergonomia no PGR é da organização, e não exclusivamente do SESMT."
   },
   {
-    "tema": "NR 4 - SESMT 🩺",
+    "tema": "NR 04🩺 - SESMT",
     "pergunta": "24. O registro do SESMT no sistema eletrônico exige o fornecimento de informações específicas sobre o serviço constituído. Qual das seguintes informações é explicitamente mencionada nos textos como um dado que deve ser fornecido no registro do SESMT?",
     "alternativa1": "Número de registro sindical dos profissionais.",
     "alternativa2": "Modalidade de ensino (EAD ou presencial) utilizada para a capacitação dos profissionais do SESMT.",
@@ -16264,7 +16264,7 @@ const questoes = [
     "gabaritoComentado": "O texto sobre o registro do SESMT remete aos dados exigidos. O texto lista, entre as informações sobre o SESMT, o 'Grau de risco estabelecido, conforme item 4.5.1 e seus subitens'. Portanto, o grau de risco é uma informação que deve constar no registro."
   },
   {
-    "tema": "NR 4 - SESMT 🩺",
+    "tema": "NR 04🩺 - SESMT",
     "pergunta": "25. A dedicação exclusiva às atividades do SESMT é um requisito para alguns de seus profissionais, como o Médico do Trabalho. Qual informação adicional sobre os profissionais do SESMT é explicitamente listada nos textos como parte dos dados a serem considerados?",
     "alternativa1": "O tempo de experiência profissional de cada membro.",
     "alternativa2": "A área de especialização clínica do Médico do Trabalho.",
@@ -16275,7 +16275,7 @@ const questoes = [
     "gabaritoComentado": "O texto sobre o SESMT lista, entre as informações, o 'Horário de trabalho dos profissionais do SESMT'. Esta é uma informação explícita no material fornecido."
   },
   {
-    "tema": "NR 4 - SESMT 🩺",
+    "tema": "NR 04🩺 - SESMT",
     "pergunta": "26. O dimensionamento do SESMT considera a combinação do grau de risco e do número de empregados, utilizando o Anexo II da NR 4. Este anexo não apenas define a necessidade do SESMT, mas também detalha a composição da equipe. O que o Anexo II da NR 4, mencionado nos textos, especifica em relação à equipe do SESMT?",
     "alternativa1": "A quantidade mínima de profissionais por função (médico, engenheiro, técnico, enfermeiro) para cada faixa de Grau de Risco e número de empregados.",
     "alternativa2": "A carga horária semanal mínima de trabalho para cada profissional do SESMT.",
@@ -16286,7 +16286,7 @@ const questoes = [
     "gabaritoComentado": "Os textos indicam que o dimensionamento do SESMT é feito 'conforme Anexo II da NR 4'. O Anexo II da NR 4, embora não integralmente reproduzido, é a tabela que estabelece a composição (quantidade de profissionais por cargo) do SESMT em função do grau de risco e número de empregados. O texto menciona a composição e o número de trabalhadores atendidos em relação ao Anexo II."
   },
   {
-    "tema": "NR 4 - SESMT 🩺",
+    "tema": "NR 04🩺 - SESMT",
     "pergunta": "27. O SESMT atua de forma integrada com outras instâncias e normas de segurança e saúde no trabalho. Sua atuação está relacionada a diversos aspectos da gestão de riscos ocupacionais, conforme a NR 1, e também com normas específicas como NR 5 (CIPA/Nomeado), NR 7 (PCMSO) e NR 17 (Ergonomia). Isso demonstra a interconexão entre a NR 4 e outras normas regulamentadoras. Qual aspecto dessa interconexão é explicitamente suportado pelas informações dos textos?",
     "alternativa1": "A NR 4 estabelece que o SESMT é a autoridade máxima em SST na organização, podendo revogar decisões da CIPA ou do empregador.",
     "alternativa2": "A existência do SESMT pode influenciar a necessidade de constituição da CIPA em alguns casos, ou a dispensa do Nomeado da NR 5.",
@@ -16297,7 +16297,7 @@ const questoes = [
     "gabaritoComentado": "Os textos indicam que a existência do SESMT pode dispensar a nomeação do representante da NR 5. Isso demonstra como a NR 4 (SESMT) se relaciona com a NR 5. As demais opções contradizem informações nos textos (exclusividade na AET) ou não são diretamente suportadas por eles."
   },
   {
-    "tema": "NR 4 - SESMT 🩺",
+    "tema": "NR 04🩺 - SESMT",
     "pergunta": "28. Nem toda organização é obrigada a constituir SESMT. A obrigatoriedade depende do enquadramento nos critérios estabelecidos pela NR 4. De acordo com os textos, qual situação permite que um estabelecimento não precise constituir um SESMT próprio?",
     "alternativa1": "Quando a organização possui SESMT Compartilhado com outras empresas.",
     "alternativa2": "Quando a organização é classificada como Microempresa (ME) ou Empresa de Pequeno Porte (EPP), independentemente do número de empregados.",
@@ -16308,7 +16308,7 @@ const questoes = [
     "gabaritoComentado": "O texto sobre o Nomeado da NR 5 descreve a situação em que ele é necessário: 'Quando o estabelecimento não se enquadrar no quadro I, ou seja, não atingir o número mínimo para dimensionamento da CIPA e não for atendido por SESMT'. Isso implica que o SESMT não é obrigatório quando o estabelecimento não atinge os limites mínimos do Quadro I (Anexo II) da NR 4."
   },
   {
-    "tema": "NR 4 - SESMT 🩺",
+    "tema": "NR 04🩺 - SESMT",
     "pergunta": "29. A seleção de Equipamentos de Proteção Individual (EPIs) é um processo importante na gestão de riscos. Embora a responsabilidade principal pela aquisição e fornecimento seja do empregador, os textos sugerem um envolvimento técnico na seleção. O que a NR 6 determina em relação à seleção dos EPIs, que pode estar relacionada à atuação do SESMT?",
     "alternativa1": "Que a seleção dos EPIs seja feita exclusivamente pelo empregador, sem necessidade de consulta a profissionais técnicos.",
     "alternativa2": "Que a CIPA ou designado deve ser consultada na seleção do EPI, após consulta aos empregados usuários.",
@@ -16319,7 +16319,7 @@ const questoes = [
     "gabaritoComentado": "O texto sobre EPIs afirma que a NR 6 determina que a seleção dos EPIs seja reavaliada nas 'situações previstas no subitem 1.5.4.4.6 da NR-01, quando couber', e que a CIPA (ou designado) deve ser consultada 'após consulta aos empregados usuários'. O SESMT, como serviço especializado, participa da avaliação de riscos que subsidia a reavaliação das medidas de prevenção, incluindo EPIs, e frequentemente atua como o 'designado' ou presta assessoria à CIPA."
   },
   {
-    "tema": "NR 4 - SESMT 🩺",
+    "tema": "NR 04🩺 - SESMT",
     "pergunta": "30. Os textos fornecem informações sobre o Serviço Especializado em Segurança e Medicina do Trabalho (SESMT), incluindo dados a serem considerados na sua organização e registro. Qual informação sobre a jornada de trabalho dos profissionais do SESMT é mencionada como um dado a ser considerado?",
     "alternativa1": "Que todos os profissionais do SESMT devem ter jornada de 8 horas diárias.",
     "alternativa2": "Que o horário de trabalho dos profissionais do SESMT deve ser flexível e adaptado à conveniência do empregador.",
@@ -16330,7 +16330,7 @@ const questoes = [
     "gabaritoComentado": "O texto sobre as informações do SESMT lista 'Horário de trabalho dos profissionais do SESMT' como um dado a ser considerado, sem especificar qual deve ser esse horário. A simples menção como informação relevante indica sua importância no contexto da organização do serviço."
   },
   {
-    "tema": "🫱🏻‍🫲🏽NR 5 - CIPA",
+    "tema": "NR 05🫱🏻‍🫲🏽 - CIPA",
     "pergunta": "Qual é o objetivo primordial da CIPA, conforme estabelecido pela NR-5?",
     "alternativa1": "Promover a saúde financeira da empresa.",
     "alternativa2": "Prevenir acidentes e doenças relacionadas ao trabalho.",
@@ -16341,7 +16341,7 @@ const questoes = [
     "gabaritoComentado": "O objetivo primordial da CIPA é a prevenção de acidentes e doenças relacionadas ao trabalho, conforme estabelecido no subitem 5.1.1 da NR-5."
   },
   {
-    "tema": "🫱🏻‍🫲🏽NR 5 - CIPA",
+    "tema": "NR 05🫱🏻‍🫲🏽 - CIPA",
     "pergunta": "Qual das seguintes atribuições NÃO é uma responsabilidade da CIPA?",
     "alternativa1": "Acompanhar o processo de identificação de perigos e avaliação de riscos.",
     "alternativa2": "Elaborar o plano de trabalho da CIPA.",
@@ -16352,7 +16352,7 @@ const questoes = [
     "gabaritoComentado": "Realizar exames médicos periódicos é uma atribuição do SESMT ou do empregador, conforme a NR-7, e não da CIPA."
   },
   {
-    "tema": "🫱🏻‍🫲🏽NR 5 - CIPA",
+    "tema": "NR 05🫱🏻‍🫲🏽 - CIPA",
     "pergunta": "Qual é a periodicidade mínima para a realização da SIPAT?",
     "alternativa1": "Semestralmente.",
     "alternativa2": "Anualmente.",
@@ -16363,7 +16363,7 @@ const questoes = [
     "gabaritoComentado": "A SIPAT deve ser promovida anualmente, conforme previsto no subitem 5.3.1, 'i', da NR-5."
   },
   {
-    "tema": "🫱🏻‍🫲🏽NR 5 - CIPA",
+    "tema": "NR 05🫱🏻‍🫲🏽 - CIPA",
     "pergunta": "Qual é a composição da CIPA em termos de representantes?",
     "alternativa1": "Apenas representantes dos empregados.",
     "alternativa2": "Apenas representantes da organização.",
@@ -16374,7 +16374,7 @@ const questoes = [
     "gabaritoComentado": "A CIPA é composta de forma paritária, com representantes dos empregados e da organização, conforme os itens 5.4.3 e 5.4.4 da NR-5."
   },
   {
-    "tema": "🫱🏻‍🫲🏽NR 5 - CIPA",
+    "tema": "NR 05🫱🏻‍🫲🏽 - CIPA",
     "pergunta": "Qual é a duração do mandato dos membros eleitos da CIPA?",
     "alternativa1": "6 meses.",
     "alternativa2": "1 ano.",
@@ -16385,7 +16385,7 @@ const questoes = [
     "gabaritoComentado": "O mandato dos membros eleitos da CIPA tem duração de um ano, conforme o item 5.4.6 da NR-5."
   },
   {
-    "tema": "🫱🏻‍🫲🏽NR 5 - CIPA",
+    "tema": "NR 05🫱🏻‍🫲🏽 - CIPA",
     "pergunta": "Qual das seguintes situações NÃO caracteriza risco grave e iminente, conforme a NR-3?",
     "alternativa1": "Operação de equipamentos sem os dispositivos de segurança.",
     "alternativa2": "Ausência de dispositivo de controle do nível de água em caldeiras.",
@@ -16396,7 +16396,7 @@ const questoes = [
     "gabaritoComentado": "A ausência de um membro da CIPA em uma reunião não configura risco grave e iminente, conforme a NR-3."
   },
   {
-    "tema": "🫱🏻‍🫲🏽NR 5 - CIPA",
+    "tema": "NR 05🫱🏻‍🫲🏽 - CIPA",
     "pergunta": "Qual é a garantia prevista para os integrantes eleitos da CIPA, desde o registro de sua candidatura até um ano após o final do mandato?",
     "alternativa1": "Aumento salarial automático.",
     "alternativa2": "Estabilidade provisória contra dispensa arbitrária ou sem justa causa.",
@@ -16407,7 +16407,7 @@ const questoes = [
     "gabaritoComentado": "Os integrantes eleitos da CIPA têm garantia de estabilidade provisória contra dispensa arbitrária ou sem justa causa, conforme o item 5.4.12 da NR-5."
   },
   {
-    "tema": "🫱🏻‍🫲🏽NR 5 - CIPA",
+    "tema": "NR 05🫱🏻‍🫲🏽 - CIPA",
     "pergunta": "Qual é o procedimento correto quando um estabelecimento não atinge o número mínimo de empregados para dimensionamento da CIPA e não possui SESMT?",
     "alternativa1": "Dispensar a nomeação de um representante da NR-5.",
     "alternativa2": "Nomear um representante da organização para auxiliar nas ações de prevenção.",
@@ -16418,7 +16418,7 @@ const questoes = [
     "gabaritoComentado": "Nesse caso, a organização deve nomear um representante para auxiliar nas ações de prevenção, conforme o item 5.4.13 da NR-5."
   },
   {
-    "tema": "🫱🏻‍🫲🏽NR 5 - CIPA",
+    "tema": "NR 05🫱🏻‍🫲🏽 - CIPA",
     "pergunta": "Qual é a carga horária mínima do treinamento para membros da CIPA de estabelecimentos com grau de risco 3?",
     "alternativa1": "4 horas.",
     "alternativa2": "8 horas.",
@@ -16429,7 +16429,7 @@ const questoes = [
     "gabaritoComentado": "A carga horária mínima para grau de risco 3 é de 20 horas, conforme o item 5.7.4 da NR-5."
   },
   {
-    "tema": "🫱🏻‍🫲🏽NR 5 - CIPA",
+    "tema": "NR 05🫱🏻‍🫲🏽 - CIPA",
     "pergunta": "Qual das seguintes informações NÃO é obrigatória na placa de identificação de uma caldeira?",
     "alternativa1": "Nome do fabricante.",
     "alternativa2": "Ano de fabricação.",
@@ -16440,7 +16440,7 @@ const questoes = [
     "gabaritoComentado": "O número de telefone do fabricante não é uma informação obrigatória na placa de identificação, conforme o item 5.4.1.3 da NR-5."
   },
   {
-    "tema": "🫱🏻‍🫲🏽NR 5 - CIPA",
+    "tema": "NR 05🫱🏻‍🫲🏽 - CIPA",
     "pergunta": "Qual é a principal função do mapa de riscos ou outra técnica utilizada pela CIPA?",
     "alternativa1": "Registrar a percepção dos riscos dos trabalhadores.",
     "alternativa2": "Substituir a avaliação de riscos do SESMT.",
@@ -16451,7 +16451,7 @@ const questoes = [
     "gabaritoComentado": "O mapa de riscos ou outra técnica tem como função registrar a percepção dos riscos dos trabalhadores, conforme o subitem 5.3.1, 'b', da NR-5."
   },
   {
-    "tema": "🫱🏻‍🫲🏽NR 5 - CIPA",
+    "tema": "NR 05🫱🏻‍🫲🏽 - CIPA",
     "pergunta": "Qual é o prazo máximo para aproveitamento de um treinamento da CIPA na mesma organização?",
     "alternativa1": "6 meses.",
     "alternativa2": "1 ano.",
@@ -16462,7 +16462,7 @@ const questoes = [
     "gabaritoComentado": "O treinamento pode ser aproveitado se realizado há menos de dois anos, conforme o item 5.7.3 da NR-5."
   },
   {
-    "tema": "🫱🏻‍🫲🏽NR 5 - CIPA",
+    "tema": "NR 05🫱🏻‍🫲🏽 - CIPA",
     "pergunta": "Qual é a responsabilidade dos trabalhadores em relação à CIPA?",
     "alternativa1": "Indicar situações de riscos e apresentar sugestões para melhoria das condições de trabalho.",
     "alternativa2": "Substituir os membros da CIPA em suas ausências.",
@@ -16473,7 +16473,7 @@ const questoes = [
     "gabaritoComentado": "Cabe aos trabalhadores indicar situações de riscos e apresentar sugestões, conforme o item 5.3.3 da NR-5."
   },
   {
-    "tema": "🫱🏻‍🫲🏽NR 5 - CIPA",
+    "tema": "NR 05🫱🏻‍🫲🏽 - CIPA",
     "pergunta": "Qual é o procedimento correto quando a CIPA identifica uma situação de risco grave e iminente?",
     "alternativa1": "Propor ao SESMT ou à organização a análise da situação e, se necessário, a interrupção das atividades.",
     "alternativa2": "Ignorar a situação até a próxima reunião ordinária.",
@@ -16484,7 +16484,7 @@ const questoes = [
     "gabaritoComentado": "A CIPA deve propor a análise da situação ao SESMT ou à organização, conforme o subitem 5.3.1, 'h', da NR-5."
   },
   {
-    "tema": "🫱🏻‍🫲🏽NR 5 - CIPA",
+    "tema": "NR 05🫱🏻‍🫲🏽 - CIPA",
     "pergunta": "Qual é a frequência mínima das reuniões ordinárias da CIPA?",
     "alternativa1": "Semanalmente.",
     "alternativa2": "Quinzenalmente.",
@@ -16495,7 +16495,7 @@ const questoes = [
     "gabaritoComentado": "As reuniões ordinárias da CIPA devem ocorrer mensalmente, conforme prática comum, embora a NR-5 não especifique a frequência."
   },
   {
-    "tema": "🫱🏻‍🫲🏽NR 5 - CIPA",
+    "tema": "NR 05🫱🏻‍🫲🏽 - CIPA",
     "pergunta": "Qual das seguintes situações NÃO é uma hipótese para realização de inspeção de segurança extraordinária em caldeiras?",
     "alternativa1": "Danos por acidente que comprometam a segurança.",
     "alternativa2": "Alteração ou reparo importante que altere as condições de segurança.",
@@ -16506,7 +16506,7 @@ const questoes = [
     "gabaritoComentado": "A troca do operador não é uma hipótese para inspeção extraordinária, conforme o subitem 13.4.4 da NR-13."
   },
   {
-    "tema": "🫱🏻‍🫲🏽NR 5 - CIPA",
+    "tema": "NR 05🫱🏻‍🫲🏽 - CIPA",
     "pergunta": "Qual é o principal documento que registra as ocorrências importantes capazes de influir nas condições de segurança de uma caldeira?",
     "alternativa1": "Prontuário da caldeira.",
     "alternativa2": "Registro de segurança.",
@@ -16517,7 +16517,7 @@ const questoes = [
     "gabaritoComentado": "O registro de segurança é o documento que contém essas informações, conforme o item 5.4.1.6 da NR-5."
   },
   {
-    "tema": "🫱🏻‍🫲🏽NR 5 - CIPA",
+    "tema": "NR 05🫱🏻‍🫲🏽 - CIPA",
     "pergunta": "Qual é a responsabilidade da organização em relação aos membros da CIPA?",
     "alternativa1": "Fornecer os meios necessários ao desempenho de suas atribuições.",
     "alternativa2": "Substituir os membros eleitos por designados em caso de ausência.",
@@ -16528,7 +16528,7 @@ const questoes = [
     "gabaritoComentado": "Cabe à organização fornecer os meios necessários, conforme o item 5.3.2, 'a', da NR-5."
   },
   {
-    "tema": "🫱🏻‍🫲🏽NR 5 - CIPA",
+    "tema": "NR 05🫱🏻‍🫲🏽 - CIPA",
     "pergunta": "Qual é o critério para dimensionamento da CIPA?",
     "alternativa1": "Número de empregados e grau de risco do estabelecimento.",
     "alternativa2": "Faturamento anual da empresa.",
@@ -16539,7 +16539,7 @@ const questoes = [
     "gabaritoComentado": "O dimensionamento considera o número de empregados e o grau de risco, conforme o Quadro I da NR-5."
   },
   {
-    "tema": "🫱🏻‍🫲🏽NR 5 - CIPA",
+    "tema": "NR 05🫱🏻‍🫲🏽 - CIPA",
     "pergunta": "Qual é o papel do SESMT em relação à CIPA?",
     "alternativa1": "Substituir integralmente as funções da CIPA.",
     "alternativa2": "Assessorar a CIPA quando houver.",
@@ -16550,7 +16550,7 @@ const questoes = [
     "gabaritoComentado": "O SESMT deve assessorar a CIPA quando existir na organização, conforme mencionado em vários trechos da NR-5."
   },
   {
-    "tema": "🫱🏻‍🫲🏽NR 5 - CIPA",
+    "tema": "NR 05🫱🏻‍🫲🏽 - CIPA",
     "pergunta": "Qual é a periodicidade mínima para testar as válvulas de segurança de caldeiras da categoria B que operam com água tratada?",
     "alternativa1": "Diariamente.",
     "alternativa2": "Semanalmente.",
@@ -16561,7 +16561,7 @@ const questoes = [
     "gabaritoComentado": "As válvulas devem ser testadas mensalmente, conforme o subitem 13.4.4.8 da NR-13."
   },
   {
-    "tema": "🫱🏻‍🫲🏽NR 5 - CIPA",
+    "tema": "NR 05🫱🏻‍🫲🏽 - CIPA",
     "pergunta": "Qual é o prazo máximo para encaminhamento da documentação do processo eleitoral da CIPA ao sindicato, quando solicitado?",
     "alternativa1": "5 dias.",
     "alternativa2": "10 dias.",
@@ -16572,7 +16572,7 @@ const questoes = [
     "gabaritoComentado": "O prazo é de até 10 dias, conforme o item 5.4.9 da NR-5."
   },
   {
-    "tema": "🫱🏻‍🫲🏽NR 5 - CIPA",
+    "tema": "NR 05🫱🏻‍🫲🏽 - CIPA",
     "pergunta": "Qual é a principal finalidade da SIPAT?",
     "alternativa1": "Arrecadar fundos para a CIPA.",
     "alternativa2": "Promover a conscientização sobre prevenção de acidentes.",
@@ -16583,7 +16583,7 @@ const questoes = [
     "gabaritoComentado": "A SIPAT tem como finalidade promover a conscientização sobre prevenção de acidentes."
   },
   {
-    "tema": "🫱🏻‍🫲🏽NR 5 - CIPA",
+    "tema": "NR 05🫱🏻‍🫲🏽 - CIPA",
     "pergunta": "Qual das seguintes situações NÃO é uma atribuição do presidente da CIPA?",
     "alternativa1": "Convocar os membros para as reuniões.",
     "alternativa2": "Coordenar as reuniões.",
@@ -16594,7 +16594,7 @@ const questoes = [
     "gabaritoComentado": "Substituir o vice-presidente é atribuição do vice-presidente, e não do presidente, conforme os itens 5.3.4 e 5.3.5 da NR-5."
   },
   {
-    "tema": "🫱🏻‍🫲🏽NR 5 - CIPA",
+    "tema": "NR 05🫱🏻‍🫲🏽 - CIPA",
     "pergunta": "Qual é o requisito mínimo para que um estabelecimento seja obrigado a constituir CIPA?",
     "alternativa1": "Ter mais de 10 empregados.",
     "alternativa2": "Ter mais de 20 empregados.",
@@ -16605,7 +16605,7 @@ const questoes = [
     "gabaritoComentado": "A obrigatoriedade depende do grau de risco e do número de empregados, conforme o Quadro I da NR-5."
   },
   {
-    "tema": "🫱🏻‍🫲🏽NR 5 - CIPA",
+    "tema": "NR 05🫱🏻‍🫲🏽 - CIPA",
     "pergunta": "Qual é a forma de escolha dos representantes dos empregados na CIPA?",
     "alternativa1": "Designação pelo empregador.",
     "alternativa2": "Eleição em escrutínio secreto.",
@@ -16616,7 +16616,7 @@ const questoes = [
     "gabaritoComentado": "Os representantes dos empregados são eleitos em escrutínio secreto, conforme o item 5.4.4 da NR-5."
   },
   {
-    "tema": "🫱🏻‍🫲🏽NR 5 - CIPA",
+    "tema": "NR 05🫱🏻‍🫲🏽 - CIPA",
     "pergunta": "Qual é o tempo máximo que uma caldeira pode permanecer inativa sem necessitar de inspeção extraordinária antes de voltar a operar?",
     "alternativa1": "1 mês.",
     "alternativa2": "3 meses.",
@@ -16627,7 +16627,7 @@ const questoes = [
     "gabaritoComentado": "O prazo máximo é de 6 meses, conforme o subitem 13.4.4 da NR-13."
   },
   {
-    "tema": "🫱🏻‍🫲🏽NR 5 - CIPA",
+    "tema": "NR 05🫱🏻‍🫲🏽 - CIPA",
     "pergunta": "Qual é a atribuição do vice-presidente da CIPA?",
     "alternativa1": "Substituir o presidente nos seus impedimentos.",
     "alternativa2": "Convocar reuniões extraordinárias.",
@@ -16638,7 +16638,7 @@ const questoes = [
     "gabaritoComentado": "A principal atribuição do vice-presidente é substituir o presidente nos seus impedimentos, conforme o item 5.3.5 da NR-5."
   },
   {
-    "tema": "🫱🏻‍🫲🏽NR 5 - CIPA",
+    "tema": "NR 05🫱🏻‍🫲🏽 - CIPA",
     "pergunta": "Qual é o documento que contém as informações sobre a construção, materiais e características funcionais de uma caldeira?",
     "alternativa1": "Registro de segurança.",
     "alternativa2": "Prontuário da caldeira.",
@@ -16649,7 +16649,7 @@ const questoes = [
     "gabaritoComentado": "O prontuário da caldeira contém essas informações, conforme o item 5.4.1.5 da NR-5."
   },
   {
-    "tema": "🫱🏻‍🫲🏽NR 5 - CIPA",
+    "tema": "NR 05🫱🏻‍🫲🏽 - CIPA",
     "pergunta": "Qual é a primeira medida a ser adotada quando a CIPA identifica um risco grave e iminente?",
     "alternativa1": "Propor a análise da situação ao SESMT ou à organização.",
     "alternativa2": "Autuar a empresa imediatamente.",
@@ -16660,7 +16660,7 @@ const questoes = [
     "gabaritoComentado": "A CIPA deve propor a análise da situação ao SESMT ou à organização, conforme o subitem 5.3.1, 'h', da NR-5."
   },
   {
-    "tema": "🫱🏻‍🫲🏽NR 5 - CIPA",
+    "tema": "NR 05🫱🏻‍🫲🏽 - CIPA",
     "pergunta": "Qual é o requisito para que um treinamento da CIPA possa ser realizado na modalidade de ensino à distância?",
     "alternativa1": "Ser para estabelecimentos de grau de risco 1 ou representante nomeado da NR-5.",
     "alternativa2": "Ter carga horária reduzida pela metade.",
@@ -16671,7 +16671,7 @@ const questoes = [
     "gabaritoComentado": "O treinamento pode ser EAD para grau de risco 1 ou representante nomeado, conforme o subitem 5.7.4.4 da NR-5."
   },
   {
-    "tema": "🫱🏻‍🫲🏽NR 5 - CIPA",
+    "tema": "NR 05🫱🏻‍🫲🏽 - CIPA",
     "pergunta": "Qual é o período de garantia de emprego para o suplente da CIPA, conforme a Súmula TST 339?",
     "alternativa1": "Desde o registro da candidatura até 6 meses após o mandato.",
     "alternativa2": "Desde a posse até o final do mandato.",
@@ -16682,7 +16682,7 @@ const questoes = [
     "gabaritoComentado": "O suplente tem a mesma garantia do titular, conforme a Súmula TST 339."
   },
     {
-    "tema": "👷🏽‍♀️NR 06 - EPI",
+    "tema": "NR 06👷🏽‍♀️ - EPI",
     "pergunta": "1. Conforme as disposições acerca dos Equipamentos de Proteção Individual (EPI), a principal função do Certificado de Aprovação (CA) é:",
     "alternativa1": "Garantir que o equipamento cumpra a função de proteção exigida para o uso proposto, após ser submetido a testes e aprovado.",
     "alternativa2": "Atestar a validade do EPI para fins de comercialização no mercado nacional.",
@@ -16693,7 +16693,7 @@ const questoes = [
     "gabaritoComentado": "O Certificado de Aprovação (CA) garante que o equipamento cumpra a função exigida para o uso proposto, significando que ele foi submetido a testes e aprovado pelo órgão nacional competente em matéria de SST."
   },
   {
-    "tema": "👷🏽‍♀️NR 06 - EPI",
+    "tema": "NR 06👷🏽‍♀️ - EPI",
     "pergunta": "2. No que tange às responsabilidades da organização em relação aos Equipamentos de Proteção Individual (EPI), assinale a opção correta.",
     "alternativa1": "A organização é responsável por adquirir EPI de qualquer fornecedor, desde que possua nota fiscal de compra.",
     "alternativa2": "A organização deve adquirir somente o EPI aprovado pelo órgão de âmbito nacional competente, em matéria de segurança e saúde no trabalho.",
@@ -16704,7 +16704,7 @@ const questoes = [
     "gabaritoComentado": "Conforme as fontes, a organização, em relação aos EPIs, é responsável por adquirir somente o aprovado pelo órgão de âmbito nacional competente, em matéria de segurança e saúde no trabalho."
   },
   {
-    "tema": "👷🏽‍♀️NR 06 - EPI",
+    "tema": "NR 06👷🏽‍♀️ - EPI",
     "pergunta": "3. Com base nos exemplos mencionados nas fontes, assinale a opção que apresenta um item que, quando utilizado como proteção individual no trabalho, é considerado EPI e necessita de Certificado de Aprovação (CA).",
     "alternativa1": "Boné simples para proteção solar.",
     "alternativa2": "Chapéu de palha para trabalho a céu aberto.",
@@ -16715,7 +16715,7 @@ const questoes = [
     "gabaritoComentado": "As fontes mencionam o exemplo da chamada 'touca árabe', enquadrada como 'capuz ou balaclava', que é considerada EPI e necessita de CA, em contraste com bonés ou chapéus de palha que não se encontram no Anexo I da NR 6 e, portanto, não são considerados EPI."
   },
   {
-    "tema": "👷🏽‍♀️NR 06 - EPI",
+    "tema": "NR 06👷🏽‍♀️ - EPI",
     "pergunta": "4. Dentre as responsabilidades do empregador no que se refere ao Equipamento de Proteção Individual (EPI), inclui-se:",
     "alternativa1": "Dispensar o treinamento sobre o uso adequado do EPI para trabalhadores com experiência comprovada.",
     "alternativa2": "Garantir que o empregado adquira seu próprio EPI, a ser reembolsado posteriormente.",
@@ -16726,7 +16726,7 @@ const questoes = [
     "gabaritoComentado": "Uma das responsabilidades da organização, conforme as fontes, é orientar e treinar o empregado sobre o uso adequado do EPI."
   },
   {
-    "tema": "👷🏽‍♀️NR 06 - EPI",
+    "tema": "NR 06👷🏽‍♀️ - EPI",
     "pergunta": "5. De acordo com as fontes consultadas, assinale a opção que apresenta uma responsabilidade do trabalhador em relação ao Equipamento de Proteção Individual (EPI).",
     "alternativa1": "Definir qual EPI é mais adequado para a sua atividade, buscando orientação técnica.",
     "alternativa2": "Adquirir e custear a manutenção do EPI, garantindo seu bom estado.",
@@ -16737,7 +16737,7 @@ const questoes = [
     "gabaritoComentado": "Uma das responsabilidades do trabalhador citada nas fontes é utilizar o EPI apenas para a finalidade a que se destina."
   },
   {
-    "tema": "👷🏽‍♀️NR 06 - EPI",
+    "tema": "NR 06👷🏽‍♀️ - EPI",
     "pergunta": "6. Sobre o fornecimento de Equipamentos de Proteção Individual (EPI) pela organização, assinale a afirmativa correta.",
     "alternativa1": "O EPI deve ser fornecido gratuitamente ao empregado, adequado ao risco, em perfeito estado de conservação e funcionamento.",
     "alternativa2": "O fornecimento gratuito do EPI é exigido apenas para atividades consideradas de alto risco.",
@@ -16748,7 +16748,7 @@ const questoes = [
     "gabaritoComentado": "As fontes indicam que a organização é responsável por fornecer, ao empregado, gratuitamente, EPI adequado ao risco, em perfeito estado e funcionamento."
   },
   {
-    "tema": "👷🏽‍♀️NR 06 - EPI",
+    "tema": "NR 06👷🏽‍♀️ - EPI",
     "pergunta": "7. No que diz respeito ao registro de fornecimento de Equipamentos de Proteção Individual (EPI) aos trabalhadores, a NR 6:",
     "alternativa1": "Exige, obrigatoriamente, a utilização de fichas individuais de controle, sendo vedado o uso de sistemas eletrônicos.",
     "alternativa2": "Permite que o modo de registro seja uma liberalidade da empresa, podendo adotar fichas, livros ou sistemas eletrônicos que permitam a extração de relatórios.",
@@ -16759,7 +16759,7 @@ const questoes = [
     "gabaritoComentado": "As fontes esclarecem que o modo de registro de fornecimento de EPI aos trabalhadores é uma liberalidade da empresa, que pode adotar fichas, livros ou sistemas eletrônicos, desde que este último permita a extração de relatórios."
   },
   {
-    "tema": "👷🏽‍♀️NR 06 - EPI",
+    "tema": "NR 06👷🏽‍♀️ - EPI",
     "pergunta": "8. A seleção de Equipamentos de Proteção Individual (EPIs) deve ser reavaliada pela organização, conforme as fontes, em situações específicas. Uma dessas situações ocorre:",
     "alternativa1": "A cada dois anos, independentemente de mudanças nas condições de trabalho.",
     "alternativa2": "Exclusivamente por determinação judicial ou recomendação do Ministério Público do Trabalho.",
@@ -16770,7 +16770,7 @@ const questoes = [
     "gabaritoComentado": "As fontes indicam que a seleção dos EPIs deve ser reavaliada nas 'situações previstas no subitem 1.5.4.4.6 da NR-01, quando couber', e uma dessas situações é 'após implementação das medidas de prevenção, para avaliação de riscos residuais'."
   },
   {
-    "tema": "👷🏽‍♀️NR 06 - EPI",
+    "tema": "NR 06👷🏽‍♀️ - EPI",
     "pergunta": "9. As normas de segurança e saúde no trabalho preveem a aplicação da NR 6 – Equipamentos de Proteção Individual – a diversas atividades laborais. No que se refere ao trabalho rural, conforme abordado nas fontes, a aplicação da NR 6:",
     "alternativa1": "É integralmente substituída pelas disposições específicas da NR 31.",
     "alternativa2": "Ocorre apenas para atividades rurais que utilizem máquinas e equipamentos sujeitos à NR 12.",
@@ -16781,7 +16781,7 @@ const questoes = [
     "gabaritoComentado": "As fontes explicam que, para as atividades da agricultura, pecuária, silvicultura, exploração florestal e aquicultura, aplica-se somente o disposto na NR-31, salvo algumas exceções previstas no próprio texto da NR-31. Uma das exceções é quando houver remissão expressa à aplicação de outras NRs, como acontece em relação aos EPIs, onde a NR-31 faz remissão expressa à NR-6, 'chamando' a aplicação de toda a NR-6 ao trabalho rural."
   },
   {
-    "tema": "👷🏽‍♀️NR 06 - EPI",
+    "tema": "NR 06👷🏽‍♀️ - EPI",
     "pergunta": "10. Caso um Equipamento de Proteção Individual (EPI) sofra dano ou seja extraviado, qual providência imediata a organização deve tomar, de acordo com as responsabilidades estabelecidas na NR 6?",
     "alternativa1": "Notificar o ocorrido ao sindicato da categoria.",
     "alternativa2": "Abrir um processo de investigação para apurar a responsabilidade do empregado.",
@@ -16792,7 +16792,7 @@ const questoes = [
     "gabaritoComentado": "Dentre as responsabilidades da organização listadas nas fontes, está a de substituir imediatamente o EPI quando danificado ou extraviado."
   },
   {
-    "tema": "👷🏽‍♀️NR 06 - EPI",
+    "tema": "NR 06👷🏽‍♀️ - EPI",
     "pergunta": "11. É dever do trabalhador, em relação ao Equipamento de Proteção Individual (EPI), conforme mencionado nas fontes:",
     "alternativa1": "Comunicar imediatamente ao empregador qualquer anomalia verificada no EPI.",
     "alternativa2": "Realizar a manutenção periódica do EPI, seguindo as orientações do fabricante.",
@@ -16803,7 +16803,7 @@ const questoes = [
     "gabaritoComentado": "As fontes listam, como uma responsabilidade do trabalhador, comunicar imediatamente ao empregador qualquer anomalia verificada no EPI."
   },
   {
-    "tema": "👷🏽‍♀️NR 06 - EPI",
+    "tema": "NR 06👷🏽‍♀️ - EPI",
     "pergunta": "12. Conforme o contexto apresentado nas fontes, o conceito de Equipamento Conjugado de Proteção Individual (EPI) refere-se:",
     "alternativa1": "Ao EPI que pode ser utilizado por mais de um trabalhador, mediante revezamento.",
     "alternativa2": "Ao equipamento composto por vários dispositivos de segurança que, utilizados em conjunto, protegem o trabalhador contra um ou mais riscos existentes no processo de trabalho.",
@@ -16814,7 +16814,7 @@ const questoes = [
     "gabaritoComentado": "Baseado na opção correta da Questão 113 apresentada nas fontes, o Equipamento Conjugado de Proteção Individual (EPI) é aquele composto por vários dispositivos de segurança que, utilizados em conjunto, protegem o trabalhador contra um ou mais riscos existentes no processo de trabalho."
   },
   {
-    "tema": "👷🏽‍♀️NR 06 - EPI",
+    "tema": "NR 06👷🏽‍♀️ - EPI",
     "pergunta": "13. A organização, ao fornecer Equipamentos de Proteção Individual (EPI) aos seus empregados, deve, entre outras medidas, inspecionar sua integridade. Assinale a opção correta sobre essa responsabilidade.",
     "alternativa1": "A inspeção da integridade do EPI é responsabilidade exclusiva do trabalhador usuário.",
     "alternativa2": "A inspeção da integridade do EPI é realizada apenas no momento da sua aquisição.",
@@ -16825,7 +16825,7 @@ const questoes = [
     "gabaritoComentado": "As fontes estabelecem como responsabilidade da organização inspecionar a integridade do EPI e informar o fabricante ou importador sobre irregularidades observadas."
   },
   {
-    "tema": "👷🏽‍♀️NR 06 - EPI",
+    "tema": "NR 06👷🏽‍♀️ - EPI",
     "pergunta": "14. Em relação ao registro de fornecimento de Equipamentos de Proteção Individual (EPI), há uma especificidade mencionada nas fontes para determinados tipos de EPIs. Qual é essa especificidade e para quais EPIs ela se aplica?",
     "alternativa1": "Para EPIs descartáveis ou cremes de proteção, o registro de fornecimento é dispensado.",
     "alternativa2": "Para capacetes de segurança e luvas, o registro deve ser feito exclusivamente em sistema eletrônico.",
@@ -16836,7 +16836,7 @@ const questoes = [
     "gabaritoComentado": "As fontes indicam que, no caso de EPI descartável ou cremes de proteção, o registro de fornecimento pode ser feito através de controle coletivo ou documento administrativo, após consulta aos empregados usuários e a CIPA (ou designado)."
   },
   {
-    "tema": "👷🏽‍♀️NR 06 - EPI",
+    "tema": "NR 06👷🏽‍♀️ - EPI",
     "pergunta": "15. O Equipamento de Proteção Individual (EPI), para ser considerado adequado e ter seu uso permitido, deve ser aprovado por qual entidade, segundo as fontes?",
     "alternativa1": "Pela Comissão Interna de Prevenção de Acidentes (CIPA) da empresa.",
     "alternativa2": "Pelo Serviço Especializado em Segurança e Medicina do Trabalho (SESMT) da empresa.",
@@ -16847,7 +16847,7 @@ const questoes = [
     "gabaritoComentado": "As fontes, ao tratar do CA e das responsabilidades da organização, referem-se ao 'órgão de âmbito nacional competente, em matéria de segurança e saúde no trabalho' como o responsável pela aprovação do EPI."
   },
   {
-    "tema": "👷🏽‍♀️NR 06 - EPI",
+    "tema": "NR 06👷🏽‍♀️ - EPI",
     "pergunta": "16. Além de utilizar o EPI para a finalidade a que se destina, o trabalhador possui outras responsabilidades, conforme as normas. Uma delas é:",
     "alternativa1": "Armazenar adequadamente o EPI, seguindo as orientações do empregador.",
     "alternativa2": "Realizar a limpeza e higienização do EPI, mesmo que exija procedimentos técnicos específicos.",
@@ -16858,7 +16858,7 @@ const questoes = [
     "gabaritoComentado": "As fontes listam, como uma responsabilidade do trabalhador, armazenar adequadamente o EPI."
   },
   {
-    "tema": "👷🏽‍♀️NR 06 - EPI",
+    "tema": "NR 06👷🏽‍♀️ - EPI",
     "pergunta": "17. A reavaliação da seleção de Equipamentos de Proteção Individual (EPIs) pela organização é exigida em diversas situações. Uma dessas situações, conforme a NR 1, à qual a NR 6 faz remissão, é:",
     "alternativa1": "Ao final de cada mandato da CIPA.",
     "alternativa2": "Após a ocorrência de acidentes ou doenças relacionadas ao trabalho.",
@@ -16869,7 +16869,7 @@ const questoes = [
     "gabaritoComentado": "As fontes indicam que a seleção dos EPIs deve ser reavaliada nas 'situações previstas no subitem 1.5.4.4.6 da NR-01, quando couber', e uma dessas situações é 'após inovações e modificações nas tecnologias, ambientes, processos, condições, quando acidentes ou doenças relacionadas ao trabalho ocorrerem'."
   },
   {
-    "tema": "👷🏽‍♀️NR 06 - EPI",
+    "tema": "NR 06👷🏽‍♀️ - EPI",
     "pergunta": "18. Com base nos exemplos apresentados nas fontes, assinale a opção que NÃO é considerada Equipamento de Proteção Individual (EPI) e, portanto, NÃO necessita de Certificado de Aprovação (CA).",
     "alternativa1": "Capuz ou balaclava.",
     "alternativa2": "Luvas de segurança para proteção contra agentes químicos.",
@@ -16880,7 +16880,7 @@ const questoes = [
     "gabaritoComentado": "As fontes mencionam que bonés ou chapéus de palha não se encontram no Anexo I da NR 6 e, logo, não podem ser considerados EPI, tampouco necessitam da emissão de CA, em contraste com o capuz ou balaclava, que é considerado EPI."
   },
   {
-    "tema": "👷🏽‍♀️NR 06 - EPI",
+    "tema": "NR 06👷🏽‍♀️ - EPI",
     "pergunta": "19. A organização, ao fornecer Equipamentos de Proteção Individual (EPI) aos seus empregados, tem a responsabilidade de:",
     "alternativa1": "Assegurar que o trabalhador decida livremente sobre o uso do EPI.",
     "alternativa2": "Delegar ao trabalhador a compra do EPI e o posterior reembolso.",
@@ -16891,7 +16891,7 @@ const questoes = [
     "gabaritoComentado": "Dentre as responsabilidades da organização listadas nas fontes, está a de exigir o uso do EPI pelo empregado."
   },
   {
-    "tema": "👷🏽‍♀️NR 06 - EPI",
+    "tema": "NR 06👷🏽‍♀️ - EPI",
     "pergunta": "20. Uma das responsabilidades do trabalhador, conforme as fontes, ao utilizar o Equipamento de Proteção Individual (EPI) é:",
     "alternativa1": "Adaptar o EPI para melhor conforto, mesmo que altere suas características originais.",
     "alternativa2": "Compartilhar o EPI com colegas, caso haja necessidade e o equipamento esteja limpo.",
@@ -16902,7 +16902,7 @@ const questoes = [
     "gabaritoComentado": "As fontes listam, como uma responsabilidade do trabalhador, cumprir as determinações do empregador sobre o uso adequado do EPI."
   },
   {
-    "tema": "👷🏽‍♀️NR 06 - EPI",
+    "tema": "NR 06👷🏽‍♀️ - EPI",
     "pergunta": "21. Assinale a opção que apresenta corretamente um conjunto de responsabilidades da organização relacionadas aos Equipamentos de Proteção Individual (EPI), conforme as fontes.",
     "alternativa1": "Adquirir somente EPI aprovado pelo órgão competente; fornecer gratuitamente ao empregado; orientar e treinar o empregado; exigir o uso.",
     "alternativa2": "Determinar que o empregado adquira o EPI; fiscalizar o uso; manter o registro de fornecimento.",
@@ -16913,7 +16913,7 @@ const questoes = [
     "gabaritoComentado": "As fontes listam como responsabilidades da organização: adquirir somente o aprovado pelo órgão competente; fornecer gratuitamente; orientar e treinar o empregado; e exigir o uso."
   },
   {
-    "tema": "👷🏽‍♀️NR 06 - EPI",
+    "tema": "NR 06👷🏽‍♀️ - EPI",
     "pergunta": "22. Assinale a opção que apresenta corretamente um conjunto de responsabilidades do trabalhador em relação aos Equipamentos de Proteção Individual (EPI), conforme as fontes.",
     "alternativa1": "Definir o tipo de EPI adequado; realizar a manutenção do EPI; comunicar irregularidades ao sindicato.",
     "alternativa2": "Utilizar o EPI apenas para o fim a que se destina; armazenar adequadamente; comunicar ao empregador qualquer anomalia verificada; cumprir determinações do empregador sobre uso adequado.",
@@ -16924,7 +16924,7 @@ const questoes = [
     "gabaritoComentado": "As fontes listam como responsabilidades do trabalhador: utilizar o EPI apenas para a finalidade a que se destina; armazenar adequadamente; comunicar imediatamente ao empregador qualquer anomalia verificada; e cumprir as determinações do empregador sobre o uso adequado."
   },
   {
-    "tema": "👷🏽‍♀️NR 06 - EPI",
+    "tema": "NR 06👷🏽‍♀️ - EPI",
     "pergunta": "23. A reavaliação da seleção de Equipamentos de Proteção Individual (EPIs) pela organização é um processo contínuo, conforme as fontes. Uma situação que exige essa reavaliação é:",
     "alternativa1": "A cada troca de turno de trabalho.",
     "alternativa2": "Somente quando houver solicitação direta da Inspeção do Trabalho.",
@@ -16935,7 +16935,7 @@ const questoes = [
     "gabaritoComentado": "As fontes indicam que a seleção dos EPIs deve ser reavaliada nas 'situações previstas no subitem 1.5.4.4.6 da NR-01, quando couber', e uma dessas situações é 'após inovações e modificações nas tecnologias, ambientes, processos, condições'."
   },
   {
-    "tema": "👷🏽‍♀️NR 06 - EPI",
+    "tema": "NR 06👷🏽‍♀️ - EPI",
     "pergunta": "24. Se a organização optar por utilizar sistemas eletrônicos para o registro de fornecimento de Equipamentos de Proteção Individual (EPI), qual é um requisito essencial para esse sistema, segundo as fontes?",
     "alternativa1": "Ser integrado ao sistema de folha de pagamento para desconto automático em caso de extravio.",
     "alternativa2": "Ser acessível diretamente pelos trabalhadores, sem a necessidade de intermediação do empregador.",
@@ -16946,7 +16946,7 @@ const questoes = [
     "gabaritoComentado": "As fontes esclarecem que, se a opção for por sistemas eletrônicos para registro de fornecimento de EPI, este deve permitir a extração de relatórios."
   },
   {
-    "tema": "👷🏽‍♀️NR 06 - EPI",
+    "tema": "NR 06👷🏽‍♀️ - EPI",
     "pergunta": "25. As fontes mencionam 'dispositivos de proteção pessoal' previstos em outras NRs, como a NR-31, que não possuem Certificado de Aprovação (CA). Qual a principal razão apontada para a ausência do CA para esses dispositivos?",
     "alternativa1": "Por serem de uso opcional e não obrigatório.",
     "alternativa2": "Por não serem considerados EPI, mesmo que protejam o trabalhador.",
@@ -16957,7 +16957,7 @@ const questoes = [
     "gabaritoComentado": "As fontes esclarecem que os dispositivos de proteção pessoal previstos na NR-31 (que não estão listados no Anexo I da NR 6) não possuem CA por não existir, atualmente, metodologia aplicável para os testes, aprovação e obtenção do CA para o uso prescrito nessa norma."
   },
   {
-    "tema": "👷🏽‍♀️NR 06 - EPI",
+    "tema": "NR 06👷🏽‍♀️ - EPI",
     "pergunta": "26. Conforme as responsabilidades da organização em relação aos EPIs, ao observar qualquer irregularidade no Equipamento de Proteção Individual, a organização deve:",
     "alternativa1": "Comunicar a irregularidade ao órgão de âmbito nacional competente, em matéria de segurança e saúde no trabalho.",
     "alternativa2": "Suspender imediatamente as atividades que exijam o uso do EPI em questão.",
@@ -16968,7 +16968,7 @@ const questoes = [
     "gabaritoComentado": "As fontes indicam que uma das responsabilidades da organização é comunicar ao órgão de âmbito nacional competente, em matéria de segurança e saúde no trabalho, qualquer irregularidade observada no EPI."
   },
   {
-    "tema": "👷🏽‍♀️NR 06 - EPI",
+    "tema": "NR 06👷🏽‍♀️ - EPI",
     "pergunta": "27. Além de comunicar as irregularidades observadas no EPI ao órgão competente, a organização também tem a responsabilidade de informar a irregularidade:",
     "alternativa1": "Ao sindicato da categoria profissional do trabalhador usuário.",
     "alternativa2": "Ao fabricante ou importador do EPI.",
@@ -16979,7 +16979,7 @@ const questoes = [
     "gabaritoComentado": "As fontes estabelecem como responsabilidade da organização inspecionar a integridade do EPI e informar o fabricante ou importador sobre irregularidades observadas."
   },
   {
-    "tema": "👷🏽‍♀️NR 06 - EPI",
+    "tema": "NR 06👷🏽‍♀️ - EPI",
     "pergunta": "28. Ao selecionar o Equipamento de Proteção Individual (EPI) para um empregado, a organização deve, obrigatoriamente, considerar que o EPI seja:",
     "alternativa1": "O mais barato disponível no mercado, desde que possua Certificado de Aprovação (CA).",
     "alternativa2": "De cor visível e padronizada para todos os empregados da mesma função.",
@@ -16990,7 +16990,7 @@ const questoes = [
     "gabaritoComentado": "As fontes listam como responsabilidade da organização fornecer, ao empregado, gratuitamente, EPI adequado ao risco."
   },
   {
-    "tema": "👷🏽‍♀️NR 06 - EPI",
+    "tema": "NR 06👷🏽‍♀️ - EPI",
     "pergunta": "29. Em linhas gerais, qual a finalidade primordial da utilização do Equipamento de Proteção Individual (EPI) no ambiente de trabalho?",
     "alternativa1": "Reduzir os custos operacionais da empresa com medidas de segurança coletiva.",
     "alternativa2": "Substituir integralmente as medidas de proteção coletiva e administrativas.",
@@ -17001,7 +17001,7 @@ const questoes = [
     "gabaritoComentado": "Embora as fontes não apresentem uma definição única e explícita da finalidade do EPI, o contexto geral das normas de segurança e saúde no trabalho e a própria natureza do EPI, que protege o trabalhador contra riscos, indicam que sua finalidade primordial é proteger a saúde e a integridade física do trabalhador."
   },
   {
-    "tema": "👷🏽‍♀️NR 06 - EPI",
+    "tema": "NR 06👷🏽‍♀️ - EPI",
     "pergunta": "30. No caso de Equipamentos de Proteção Individual descartáveis ou cremes de proteção, as fontes indicam uma particularidade em relação ao registro de fornecimento. Qual é essa particularidade?",
     "alternativa1": "O registro de fornecimento deve ser individualizado e assinado pelo trabalhador em cada entrega.",
     "alternativa2": "O registro é obrigatório e deve ser feito exclusivamente em meio eletrônico.",
@@ -17353,7 +17353,7 @@ const questoes = [
     "gabaritoComentado": "O texto afirma que a colaboração entre Auditores-Fiscais do Trabalho e procuradores da AGU é 'essencial para a defesa dos autos de infração e outras medidas adotadas pela fiscalização, quando questionadas judicialmente'."
   },
     {
-    "tema": "🏛️O papel do direito do trabalho na dinâmica do mercado de trabalho",
+    "tema": "O papel do direito do trabalho na dinâmica do mercado de trabalho🏛️",
     "pergunta": "1. Conforme as fontes, a Aprendizagem Profissional no Brasil se formaliza por meio de um contrato especial de trabalho com características específicas. Sobre este contrato, assinale a alternativa correta.",
     "alternativa1": "Deve ser por escrito e por prazo determinado, com duração máxima de dois anos, exceto para aprendizes com deficiência.",
     "alternativa2": "Pode ser pactuado verbalmente em situações excepcionais, desde que a entidade formadora seja responsável pela formalização posterior.",
@@ -17364,7 +17364,7 @@ const questoes = [
     "gabaritoComentado": "As fontes indicam que o contrato de aprendizagem deve ser por escrito e por prazo determinado de, no máximo, dois anos, exceto quando se tratar de aprendiz com deficiência, hipótese em que o prazo poderá ultrapassar o limite de dois anos. A possibilidade de contratação pela entidade formadora (contratação indireta) apenas autoriza uma formalização diferenciada do contrato, mas a obrigação da cota segue pertencendo ao estabelecimento."
   },
   {
-    "tema": "🏛️O papel do direito do trabalho na dinâmica do mercado de trabalho",
+    "tema": "O papel do direito do trabalho na dinâmica do mercado de trabalho🏛️",
     "pergunta": "2. No contexto do Gerenciamento de Riscos Ocupacionais (GRO) e Programa de Gerenciamento de Riscos (PGR), a NR 1 estabelece a necessidade de avaliação dos riscos. Segundo as fontes, qual é um dos requisitos mínimos estabelecidos pela NR 1 para a gradação da probabilidade de ocorrência das lesões ou agravos à saúde?",
     "alternativa1": "A probabilidade deve ser estabelecida com base na chance de ocorrência das lesões ou agravos à saúde, permitindo a avaliação qualitativa considerando as características da exposição.",
     "alternativa2": "A gradação da probabilidade deve ser estabelecida exclusivamente com base na análise histórica de acidentes da própria organização.",
@@ -17375,7 +17375,7 @@ const questoes = [
     "gabaritoComentado": "As fontes, referindo-se à NR 1, indicam que a probabilidade deve ser estabelecida com base na chance de ocorrência das lesões ou agravos à saúde (subitem 1.5.4.4.5), o que constitui uma definição ampla que permite a avaliação qualitativa do risco, considerando as características da exposição. A comparação com valores de referência da NR 9 ou outros critérios estabelecidos na NR 9 é mencionada como um caso específico onde a probabilidade está vinculada a essa comparação."
   },
   {
-    "tema": "🏛️O papel do direito do trabalho na dinâmica do mercado de trabalho",
+    "tema": "O papel do direito do trabalho na dinâmica do mercado de trabalho🏛️",
     "pergunta": "3. As fontes descrevem o contrato de aprendizagem como um contrato de trabalho especial. Uma das diferenças em relação a outros contratos por prazo determinado diz respeito às hipóteses de rescisão antecipada por iniciativa do empregador. Quais são as hipóteses legais de rescisão do contrato de aprendizagem, conforme mencionado?",
     "alternativa1": "Desempenho insuficiente ou inadaptação do aprendiz, falta disciplinar grave, e fechamento do estabelecimento.",
     "alternativa2": "Falta disciplinar grave, ausência injustificada ao trabalho, e extinção da empresa.",
@@ -17386,7 +17386,7 @@ const questoes = [
     "gabaritoComentado": "Segundo as fontes, as hipóteses de rescisão antecipada do contrato de aprendizagem são: por desempenho insuficiente ou inadaptação do aprendiz, falta disciplinar grave, ausência injustificada à escola que implique perda do ano letivo, e a pedido do próprio aprendiz."
   },
   {
-    "tema": "🏛️O papel do direito do trabalho na dinâmica do mercado de trabalho",
+    "tema": "O papel do direito do trabalho na dinâmica do mercado de trabalho🏛️",
     "pergunta": "4. A Análise Ergonômica do Trabalho (AET), tratada na NR 17 e nas fontes, é um instrumento importante para diagnosticar e corrigir situações de potencial nocivo no ambiente laboral. Em relação aos seus desencadeadores, as fontes indicam situações que obrigam a realização da AET. Assinale a alternativa que apresenta uma situação que NÃO é, segundo as fontes, um motivo que obrigue a realização da AET.",
     "alternativa1": "Quando houver indicação de causa relacionada às condições de trabalho na análise de acidentes e doenças relacionadas ao trabalho.",
     "alternativa2": "Quando solicitada formalmente pela Comissão Interna de Prevenção de Acidentes (CIPA) ou pelo representante nomeado da NR 5.",
@@ -17397,7 +17397,7 @@ const questoes = [
     "gabaritoComentado": "As fontes, ao abordar a obrigatoriedade da AET segundo a NR 17, listam os seguintes motivos: identificação de inadequações/insuficiências das medidas de prevenção por meio da análise ergonômica preliminar ou vigilância em saúde; sugestão pelo acompanhamento de saúde no PCMSO ou evidências de associação entre lesões/agravos e riscos/condições de trabalho; e indicação de causa relacionada às condições de trabalho na análise de acidentes/doenças. Embora a CIPA possa solicitar a revisão da avaliação de riscos no GRO/PGR com base em suas verificações, a solicitação formal da CIPA/Nomeado não é listada nas fontes como um desencadeador obrigatório direto da AET, mas sim a indicação via outros mecanismos como a análise preliminar, PCMSO ou análise de acidentes/doenças. A opção B não está explicitamente listada entre os motivos obrigatórios apresentados."
   },
   {
-    "tema": "🏛️O papel do direito do trabalho na dinâmica do mercado de trabalho",
+    "tema": "O papel do direito do trabalho na dinâmica do mercado de trabalho🏛️",
     "pergunta": "5. O Direito Coletivo do Trabalho, conforme descrito nas fontes, estuda as normas e princípios das relações laborais dos trabalhadores enquanto grupo organizado perante os empregadores. Qual é o principal objeto deste ramo jurídico, segundo a compreensão apresentada?",
     "alternativa1": "As relações individuais de trabalho, aprofundando temas como férias, salário e rescisão.",
     "alternativa2": "A negociação, mediação, conciliação e arbitragem em conflitos individuais de trabalho.",
@@ -17408,7 +17408,7 @@ const questoes = [
     "gabaritoComentado": "As fontes definem o Direito Coletivo do Trabalho como o ramo que estuda as normas e princípios das relações laborais dos trabalhadores enquanto grupo organizado perante os empregadores, abrangendo a organização sindical, representação dos empregados na empresa, conflitos coletivos e seus mecanismos de solução e composição. O objeto deste ramo jurídico é, à luz dessa compreensão, as relações entre entidades obreiras e empregadores diretamente, bem como as relações surgidas na dinâmica da representação e atuação coletiva de trabalhadores."
   },
   {
-    "tema": "🏛️O papel do direito do trabalho na dinâmica do mercado de trabalho",
+    "tema": "O papel do direito do trabalho na dinâmica do mercado de trabalho🏛️",
     "pergunta": "6. As fontes tratam da Análise de Acidentes de Trabalho (AAT), abordando diferentes metodologias e a importância de investigar os fatores causais. Comparando o acidente a uma erva daninha em um jardim, a abordagem sistêmica busca o quê para evitar a recorrência do evento?",
     "alternativa1": "Cortar o caule e folhas da erva daninha (fatores imediatos) para eliminar o problema.",
     "alternativa2": "Analisar o acidente para encontrar os fatores causais subjacentes e latentes (cortar o mal pela raiz).",
@@ -17419,7 +17419,7 @@ const questoes = [
     "gabaritoComentado": "As fontes utilizam a analogia da erva daninha para explicar a abordagem da análise profunda. Para evitar que a erva rebrote, não basta cortar o caule e folhas (fatores imediatos). É preciso analisar o acidente para encontrar os fatores causais subjacentes e latentes, cortando o mal pela raiz, o que contribui para uma gestão mais eficaz de riscos. Isso contrasta com medidas superficiais como reciclagem de treinamentos que não alteram o ambiente de trabalho."
   },
   {
-    "tema": "🏛️O papel do direito do trabalho na dinâmica do mercado de trabalho",
+    "tema": "O papel do direito do trabalho na dinâmica do mercado de trabalho🏛️",
     "pergunta": "7. Segundo as fontes, a Comissão Interna de Prevenção de Acidentes e de Assédio (CIPA) possui diversas atribuições essenciais para a prevenção de acidentes e doenças relacionadas ao trabalho. Qual das alternativas abaixo NÃO corresponde a uma atribuição da CIPA mencionada nas fontes?",
     "alternativa1": "Realizar, periodicamente, verificações nos ambientes e condições de trabalho.",
     "alternativa2": "Registrar a percepção dos riscos dos trabalhadores por meio do mapa de risco ou outra técnica.",
@@ -17430,7 +17430,7 @@ const questoes = [
     "gabaritoComentado": "As fontes listam as atribuições da CIPA: realizar verificações periódicas, registrar a percepção dos riscos (mapa de risco ou outra técnica), participar da análise de acidentes e doenças relacionadas ao trabalho, e solicitar informações sobre processos/condições de trabalho e análise de acidentes/doenças. O acompanhamento da implantação das medidas e a elaboração do plano de ação no GRO/PGR são responsabilidades da organização, embora a CIPA possa contribuir e solicitar revisão. A elaboração do plano de ação não é explicitada como atribuição da CIPA nas fontes."
   },
   {
-    "tema": "🏛️O papel do direito do trabalho na dinâmica do mercado de trabalho",
+    "tema": "O papel do direito do trabalho na dinâmica do mercado de trabalho🏛️",
     "pergunta": "8. As Normas Regulamentadoras (NRs) estabelecem requisitos e medidas de segurança e saúde no trabalho. A NR 35, conforme as fontes, trata do trabalho em altura. Em relação aos treinamentos previstos por esta norma, qual a periodicidade estabelecida para o treinamento periódico?",
     "alternativa1": "A cada ano, com carga horária mínima de 4 horas.",
     "alternativa2": "A cada dois anos, com carga horária e conteúdo definidos pelo empregador.",
@@ -17441,7 +17441,7 @@ const questoes = [
     "gabaritoComentado": "As fontes informam que o treinamento periódico na NR 35 deve ser realizado a cada dois anos. A carga horária é a mesma do treinamento inicial (no mínimo 8 horas), mas a grande diferença é que o conteúdo programático, neste caso, é definido pelo empregador."
   },
   {
-    "tema": "🏛️O papel do direito do trabalho na dinâmica do mercado de trabalho",
+    "tema": "O papel do direito do trabalho na dinâmica do mercado de trabalho🏛️",
     "pergunta": "9. O Gerenciamento de Riscos Ocupacionais (GRO), previsto na NR 1, visa estruturar os processos de identificação de perigos, avaliação e controle de riscos. A medição de desempenho é uma etapa desse processo. Segundo as fontes, o que o acompanhamento do desempenho deve possibilitar?",
     "alternativa1": "Exclusivamente a aplicação de penalidades aos trabalhadores que não seguirem os procedimentos de segurança.",
     "alternativa2": "A comprovação de que a organização está livre de acidentes e doenças ocupacionais.",
@@ -17452,7 +17452,7 @@ const questoes = [
     "gabaritoComentado": "As fontes destacam a importância do acompanhamento do desempenho no GRO/PGR, indicando que ele é uma maneira importantíssima de prover informações sobre a eficácia das ações e proporcionar informações que possam ser usadas para a melhoria contínua. Além disso, mencionam que a revisão das medidas de prevenção deve ocorrer se os dados obtidos no acompanhamento indicarem ineficácia em seu desempenho, reforçando o compromisso com a melhoria contínua."
   },
   {
-    "tema": "🏛️O papel do direito do trabalho na dinâmica do mercado de trabalho",
+    "tema": "O papel do direito do trabalho na dinâmica do mercado de trabalho🏛️",
     "pergunta": "10. A NR 17 aborda a Ergonomia, incluindo a organização do trabalho e a relação entre o trabalho prescrito e o trabalho real. As fontes citam situações em que a discrepância entre esses dois modos de trabalho pode gerar adoecimentos e acidentes. Em um frigorífico, qual situação ilustra essa discrepância?",
     "alternativa1": "O trabalhador seguindo rigorosamente o procedimento de corte de carnes com os instrumentos disponibilizados.",
     "alternativa2": "O carregamento manual de uma chapa de aço pesada por dois trabalhadores simultaneamente, conforme o procedimento prescrito.",
@@ -17463,7 +17463,7 @@ const questoes = [
     "gabaritoComentado": "As fontes explicam que a discrepância entre trabalho prescrito e real pode gerar adoecimentos e acidentes. O trabalho prescrito é o que a organização define (procedimentos, normas), enquanto o trabalho real é o que o trabalhador efetivamente faz para cumprir a tarefa. Improvisar ferramentas ou desviar-se de procedimentos (opção E) é um exemplo típico dessa discrepância, onde o trabalhador adapta o trabalho real para lidar com as condições (nem sempre ideais), o que pode estar na gênese de agravos. As demais opções descrevem situações em conformidade com o prescrito ou condições que mitigam o risco."
   },
   {
-    "tema": "🏛️O papel do direito do trabalho na dinâmica do mercado de trabalho",
+    "tema": "O papel do direito do trabalho na dinâmica do mercado de trabalho🏛️",
     "pergunta": "11. O Nexo Técnico Epidemiológico Previdenciário (NTEP) é um mecanismo utilizado para estabelecer a relação entre o agravo (doença/lesão) e o trabalho. De acordo com as fontes, quando será estabelecido o NTEP?",
     "alternativa1": "Sempre que houver emissão de Comunicação de Acidente do Trabalho (CAT).",
     "alternativa2": "Exclusivamente pela perícia médica do INSS.",
@@ -17474,7 +17474,7 @@ const questoes = [
     "gabaritoComentado": "As fontes afirmam que o NTEP será estabelecido quando houver significância estatística entre o agravo e a atividade econômica da empresa (CNAE), conforme lista C, do anexo II, do Decreto nº 3.048/99. A nota reforça que o NTEP não depende da emissão da CAT."
   },
   {
-    "tema": "🏛️O papel do direito do trabalho na dinâmica do mercado de trabalho",
+    "tema": "O papel do direito do trabalho na dinâmica do mercado de trabalho🏛️",
     "pergunta": "12. As fontes descrevem a estrutura do sistema sindical brasileiro, baseada na divisão entre categoria econômica e categoria profissional. O que define a categoria profissional, nos termos apresentados?",
     "alternativa1": "A identidade dos empregadores, independentemente da atividade econômica exercida.",
     "alternativa2": "Exclusivamente a similitude das condições de vida, desconsiderando a profissão ou atividade econômica.",
@@ -17485,7 +17485,7 @@ const questoes = [
     "gabaritoComentado": "Segundo as fontes, a similitude de condições de vida, oriunda da profissão ou trabalho em comum, em situação de emprego na mesma atividade econômica ou em atividades econômicas similares ou conexas, compõe a expressão social elementar, compreendida como categoria profissional."
   },
   {
-    "tema": "🏛️O papel do direito do trabalho na dinâmica do mercado de trabalho",
+    "tema": "O papel do direito do trabalho na dinâmica do mercado de trabalho🏛️",
     "pergunta": "13. A NR 12 trata da segurança no trabalho em máquinas e equipamentos, estabelecendo medidas de proteção. As fontes destacam os requisitos para os dispositivos de parada de emergência. Qual característica NÃO é exigida para esses dispositivos, segundo as fontes?",
     "alternativa1": "Devem ser de fácil acionamento.",
     "alternativa2": "Devem suportar as condições de operação previstas e ao meio em que são utilizados.",
@@ -17496,7 +17496,7 @@ const questoes = [
     "gabaritoComentado": "As fontes listam as características exigidas para os dispositivos de parada de emergência, incluindo que devem ser de fácil acionamento, suportar as condições de operação, prevalecer sobre outros comandos, e provocar a parada em tempo reduzido. Em contraste, explicitam que o dispositivo 'Não deve gerar riscos adicionais'. A opção D contradiz diretamente este requisito."
   },
   {
-    "tema": "🏛️O papel do direito do trabalho na dinâmica do mercado de trabalho",
+    "tema": "O papel do direito do trabalho na dinâmica do mercado de trabalho🏛️",
     "pergunta": "14. As fontes abordam os acidentes de trabalho e a questão da ocultação de dados. Uma das explicações apontadas para a não declaração ou sub-registro de ocorrências nas estatísticas oficiais de acidentes de trabalho está relacionada a um possível custo adicional para as empresas. Qual custo adicional é citado como motivo para que grande maioria de empresas não declarem os acidentes?",
     "alternativa1": "O custo da multa aplicada pelo Ministério do Trabalho e Emprego.",
     "alternativa2": "O custo da indenização a ser paga ao trabalhador acidentado.",
@@ -17507,7 +17507,7 @@ const questoes = [
     "gabaritoComentado": "As fontes citam uma perspectiva histórica de 1977, onde 'uma grande maioria de empresas, para evitar esse acréscimo de serviço, não vai declarar os acidentes'. O 'acréscimo de serviço' refere-se ao esforço burocrático e operacional necessário para a declaração dos acidentes."
   },
   {
-    "tema": "🏛️O papel do direito do trabalho na dinâmica do mercado de trabalho",
+    "tema": "O papel do direito do trabalho na dinâmica do mercado de trabalho🏛️",
     "pergunta": "15. O pagamento do salário possui regras gerais estabelecidas na legislação. Segundo as fontes, qual a regra de periodicidade para o pagamento do salário?",
     "alternativa1": "Deve ser pago semanalmente, até o 5º dia útil da semana subsequente.",
     "alternativa2": "Deve ser pago quinzenalmente, com intervalo máximo de 15 dias.",
@@ -17518,7 +17518,7 @@ const questoes = [
     "gabaritoComentado": "As fontes, referindo-se às Regras Gerais sobre o Pagamento do Salário, estabelecem a periodicidade: 'o salário deve ser pago com intervalo máximo de um mês, devendo, mensalmente, ocorrer até o 5º dia útil do mês subsequente (art. 459, § 1º, CLT)'."
   },
   {
-    "tema": "🏛️O papel do direito do trabalho na dinâmica do mercado de trabalho",
+    "tema": "O papel do direito do trabalho na dinâmica do mercado de trabalho🏛️",
     "pergunta": "16. Em relação à Análise de Acidentes de Trabalho (AAT), as fontes apresentam diferentes modelos e a evolução do olhar sobre suas causas. O modelo de acidente organizacional de James Reason, sintetizado nas fontes, mostra que o acidente pode ter origens em condições latentes. O que essas condições latentes representam neste modelo?",
     "alternativa1": "Falhas ativas praticadas pelos operadores no momento do acidente.",
     "alternativa2": "Erros humanos conscientes e racionais dos trabalhadores.",
@@ -17529,7 +17529,7 @@ const questoes = [
     "gabaritoComentado": "As fontes descrevem o modelo de acidente organizacional de James Reason, no qual o acidente é mostrado como tendo origens em condições latentes, que são 'escolhas estratégicas enraizadas no sistema e que se associam às suas condições materiais'."
   },
   {
-    "tema": "🏛️O papel do direito do trabalho na dinâmica do mercado de trabalho",
+    "tema": "O papel do direito do trabalho na dinâmica do mercado de trabalho🏛️",
     "pergunta": "17. O Gerenciamento de Riscos Ocupacionais (GRO) exige que a organização estabeleça critérios para a avaliação e classificação dos riscos. Segundo a NR 1, conforme as fontes, quais informações mínimas devem constar no documento sobre critérios utilizados no GRO/PGR?",
     "alternativa1": "Os critérios das gradações de severidade e probabilidade, os níveis de risco, os critérios de classificação de riscos e de tomada de decisão.",
     "alternativa2": "Apenas os critérios das gradações de severidade e de probabilidade.",
@@ -17540,7 +17540,7 @@ const questoes = [
     "gabaritoComentado": "As fontes, ao descreverem o documento sobre critérios no GRO/PGR (subitem 1.5.4.4.2.2, da NR 1), indicam que ele deve conter, no mínimo, o detalhamento sobre os critérios das gradações de severidade, os critérios das gradações de probabilidade, os níveis de risco resultantes da combinação de severidade e probabilidade, e os critérios de classificação de riscos e de tomada de decisão."
   },
   {
-    "tema": "🏛️O papel do direito do trabalho na dinâmica do mercado de trabalho",
+    "tema": "O papel do direito do trabalho na dinâmica do mercado de trabalho🏛️",
     "pergunta": "18. As Convenções e Acordos Coletivos de Trabalho podem prever benefícios para os empregados. No entanto, em relação aos aprendizes, a aplicação das cláusulas sociais previstas nesses instrumentos possui uma regra específica, conforme o Decreto nº 9.579/2018 citado nas fontes. Qual é essa regra?",
     "alternativa1": "As cláusulas sociais das convenções e acordos coletivos se estendem automaticamente aos aprendizes.",
     "alternativa2": "As convenções e acordos coletivos apenas estenderão suas cláusulas sociais ao aprendiz quando expressamente previsto.",
@@ -17551,7 +17551,7 @@ const questoes = [
     "gabaritoComentado": "Segundo as fontes, o art. 69, do Decreto nº 9.579/2018 estabelece que 'as convenções e os acordos coletivos apenas estenderão suas cláusulas sociais ao aprendiz quando expressamente previsto'."
   },
   {
-    "tema": "🏛️O papel do direito do trabalho na dinâmica do mercado de trabalho",
+    "tema": "O papel do direito do trabalho na dinâmica do mercado de trabalho🏛️",
     "pergunta": "19. As fontes mencionam o conceito de categoria diferenciada. O que caracteriza uma categoria profissional diferenciada?",
     "alternativa1": "Trabalhadores de profissões ou funções que possuem estatuto profissional especial.",
     "alternativa2": "Trabalhadores que exercem a mesma atividade econômica em estabelecimentos distintos.",
@@ -17562,7 +17562,7 @@ const questoes = [
     "gabaritoComentado": "As fontes explicam que a categoria profissional diferenciada é aquela 'composta por trabalhadores de profissões ou funções que possuem estatuto profissional especial'."
   },
   {
-    "tema": "🏛️O papel do direito do trabalho na dinâmica do mercado de trabalho",
+    "tema": "O papel do direito do trabalho na dinâmica do mercado de trabalho🏛️",
     "pergunta": "20. A Análise de Riscos, no contexto da NR 35 (Trabalho em Altura), deve prever os possíveis cenários de situações de emergência. O que o Plano de Resgate para espaços confinados deve especificar, segundo as fontes?",
     "alternativa1": "Apenas o telefone de contato para chamar o SAMU.",
     "alternativa2": "Os nomes e contatos dos trabalhadores autorizados a entrar no espaço confinado.",
@@ -17573,7 +17573,7 @@ const questoes = [
     "gabaritoComentado": "As fontes, ao tratar do Plano de Resgate para espaços confinados na NR 35, indicam que ele deve ser 'real', com 'especificação dos meios (tripés, respiradores, macas, etc.) disponíveis na unidade, com descrição de procedimentos em relação aos espaços confinados existentes, considerando sua geometria, acessos, etc.'."
   },
   {
-    "tema": "🏛️O papel do direito do trabalho na dinâmica do mercado de trabalho",
+    "tema": "O papel do direito do trabalho na dinâmica do mercado de trabalho🏛️",
     "pergunta": "21. As fontes abordam diferentes espécies de dissídios coletivos. Qual tipo de dissídio coletivo visa estabelecer normas e condições de trabalho para uma categoria específica quando as partes (sindicatos e empregadores) não chegam a um acordo em negociações?",
     "alternativa1": "Dissídio coletivo de greve.",
     "alternativa2": "Dissídio coletivo de revisão.",
@@ -17584,7 +17584,7 @@ const questoes = [
     "gabaritoComentado": "As fontes definem as sentenças normativas proferidas pela Justiça do Trabalho como 'decisões judiciais proferidas em dissídios coletivos, que visam estabelecer normas e condições de trabalho para uma categoria específica de trabalhadores. Quando as partes (sindicatos de trabalhadores e empregadores) não conseguem chegar a um acordo em suas negociações, uma delas pode recorrer à Justiça do Trabalho para resolver a disputa'. Este tipo de dissídio é geralmente referido como 'dissídio coletivo de natureza econômica' (embora o termo não apareça explicitamente como subtítulo, a descrição se encaixa)."
   },
   {
-    "tema": "🏛️O papel do direito do trabalho na dinâmica do mercado de trabalho",
+    "tema": "O papel do direito do trabalho na dinâmica do mercado de trabalho🏛️",
     "pergunta": "22. O Programa de Controle Médico de Saúde Ocupacional (PCMSO), previsto na NR 7, tem como objetivo descrever os possíveis agravos à saúde relacionados aos riscos ocupacionais. O que o PCMSO deve conter, conforme as fontes, em relação a avaliações clínicas e exames complementares?",
     "alternativa1": "Um planejamento para a realização tanto das avaliações clínicas quanto dos exames complementares necessários, conforme os riscos ocupacionais identificados e as exigências dos anexos da NR 7.",
     "alternativa2": "Apenas a lista de exames complementares obrigatórios para todos os trabalhadores.",
@@ -17595,7 +17595,7 @@ const questoes = [
     "gabaritoComentado": "As fontes informam que o PCMSO deve 'conter um planejamento para a realização tanto das avaliações clínicas quanto dos exames complementares necessários, conforme os riscos ocupacionais identificados e as exigências contidas nos anexos da NR 7'."
   },
   {
-    "tema": "🏛️O papel do direito do trabalho na dinâmica do mercado de trabalho",
+    "tema": "O papel do direito do trabalho na dinâmica do mercado de trabalho🏛️",
     "pergunta": "23. As fontes descrevem o inventário de riscos ocupacionais, que faz parte da documentação do PGR. Este documento deve conter informações mínimas sobre os perigos identificados. Qual informação DEVE constar no inventário de riscos ocupacionais, segundo as fontes?",
     "alternativa1": "O nome e assinatura do médico responsável pelo PCMSO.",
     "alternativa2": "O registro da entrega de Equipamentos de Proteção Individual (EPI).",
@@ -17606,7 +17606,7 @@ const questoes = [
     "gabaritoComentado": "As fontes listam as informações mínimas que devem constar no Inventário de Riscos Ocupacionais. Entre elas está a 'caracterização da exposição dos trabalhadores aos perigos'."
   },
   {
-    "tema": "🏛️O papel do direito do trabalho na dinâmica do mercado de trabalho",
+    "tema": "O papel do direito do trabalho na dinâmica do mercado de trabalho🏛️",
     "pergunta": "24. No âmbito da Higiene Ocupacional, o reconhecimento dos agentes nocivos no ambiente laboral é uma etapa fundamental. Quais elementos devem ser levados em consideração para identificar adequadamente esses agentes e suas fontes, conforme descrito nas fontes?",
     "alternativa1": "Exclusivamente os agentes químicos visíveis e seus recipientes.",
     "alternativa2": "Apenas a opinião dos trabalhadores sobre os riscos.",
@@ -17617,7 +17617,7 @@ const questoes = [
     "gabaritoComentado": "As fontes indicam que, para identificar os agentes nocivos, deve-se levar em consideração 'os materiais, os equipamentos, os trabalhadores, o sistema de trabalho e o próprio recinto'. Além disso, é necessário estudar o(s) processo(s), consultar literatura, conversar com trabalhadores, transitar e observar o local, verificar fichas de segurança e analisar dados do estabelecimento."
   },
   {
-    "tema": "🏛️O papel do direito do trabalho na dinâmica do mercado de trabalho",
+    "tema": "O papel do direito do trabalho na dinâmica do mercado de trabalho🏛️",
     "pergunta": "25. Em relação ao uso de Equipamentos de Proteção Individual (EPI), as fontes mencionam a responsabilidade da organização. Qual alternativa descreve corretamente uma das responsabilidades da organização em relação aos EPIs, segundo as fontes?",
     "alternativa1": "Fornecer o EPI adequado ao risco, mas a aquisição pode ser feita diretamente pelo empregado.",
     "alternativa2": "Substituir o EPI danificado ou extraviado imediatamente.",
@@ -17628,7 +17628,7 @@ const questoes = [
     "gabaritoComentado": "As fontes listam as responsabilidades da organização em relação aos EPIs, incluindo 'substituir imediatamente, quando danificado ou extraviado'. As demais opções estão incorretas: a organização deve adquirir somente o aprovado pelo órgão nacional competente; o registro pode ser feito em meio físico ou eletrônico; a organização deve orientar e treinar o empregado; e a aprovação deve ser do órgão nacional competente."
   },
   {
-    "tema": "🏛️O papel do direito do trabalho na dinâmica do mercado de trabalho",
+    "tema": "O papel do direito do trabalho na dinâmica do mercado de trabalho🏛️",
     "pergunta": "26. As fontes tratam do trabalho em altura na NR 35 e dos sistemas de proteção contra quedas. Qual é a regra geral para a proteção contra o risco de queda, conforme mencionado?",
     "alternativa1": "O uso preferencial de Equipamento de Proteção Individual (EPI) como medida primária.",
     "alternativa2": "A implementação de medidas administrativas, como a restrição de acesso às áreas de risco.",
@@ -17639,7 +17639,7 @@ const questoes = [
     "gabaritoComentado": "As fontes indicam que 'Para proteção contra o risco de queda, a regra é que se utilize um Sistema de Proteção Coletiva Contra Quedas – SPCQ'. O SPIQ é o sistema individual, utilizado quando o SPCQ não é viável ou suficiente."
   },
   {
-    "tema": "🏛️O papel do direito do trabalho na dinâmica do mercado de trabalho",
+    "tema": "O papel do direito do trabalho na dinâmica do mercado de trabalho🏛️",
     "pergunta": "27. A composição do salário abrange diversas parcelas além do salário-base. De acordo com a jurisprudência do STF, conforme citada nas fontes (Recurso Extraordinário 565714), qual é o entendimento sobre as verbas que devem integrar o salário?",
     "alternativa1": "Apenas o salário-base pactuado integra o salário.",
     "alternativa2": "Somente as comissões e gratificações pagas com habitualidade integram o salário.",
@@ -17650,7 +17650,7 @@ const questoes = [
     "gabaritoComentado": "As fontes citam a jurisprudência do STF no Recurso Extraordinário 565714, indicando que 'o entendimento é de que qualquer verba paga com habitualidade e caráter retributivo deve integrar o salário, independentemente da denominação'."
   },
   {
-    "tema": "🏛️O papel do direito do trabalho na dinâmica do mercado de trabalho",
+    "tema": "O papel do direito do trabalho na dinâmica do mercado de trabalho🏛️",
     "pergunta": "28. As fontes descrevem o processo de elaboração de novas convenções da Organização Internacional do Trabalho (OIT). Qual ator é incluído no processo de negociação das convenções da OIT, de forma a diferenciar este método negocial dos tratados convencionais?",
     "alternativa1": "Exclusivamente representantes de governos.",
     "alternativa2": "Apenas representantes de empregadores e trabalhadores.",
@@ -17661,7 +17661,7 @@ const questoes = [
     "gabaritoComentado": "As fontes explicam que o método negocial das convenções da OIT difere dos tratados convencionais, por envolver representantes de governos, empregadores e trabalhadores. Além disso, o processo começa com o Conselho de Administração da OIT e inclui consulta a especialistas e comitês técnicos."
   },
   {
-    "tema": "🏛️O papel do direito do trabalho na dinâmica do mercado de trabalho",
+    "tema": "O papel do direito do trabalho na dinâmica do mercado de trabalho🏛️",
     "pergunta": "29. No âmbito da Análise de Acidentes de Trabalho (AAT), as fontes contrastam a abordagem tradicional (velho olhar) com abordagens mais modernas (novo olhar). O 'velho olhar' ou paradigma tradicional explica o acidente de modo simplista, atribuindo-o principalmente a quê?",
     "alternativa1": "Falhas na gestão de saúde e segurança do trabalho.",
     "alternativa2": "Falhas por atos ou omissões dos operadores envolvidos na atividade.",
@@ -17672,7 +17672,7 @@ const questoes = [
     "gabaritoComentado": "As fontes descrevem a abordagem tradicional ou 'velho olhar' da análise de acidentes como aquela em que o acidente é explicado de modo simplista, 'atribuídos a falhas por atos ou omissões dos operadores envolvidos na atividade'."
   },
   {
-    "tema": "🏛️O papel do direito do trabalho na dinâmica do mercado de trabalho",
+    "tema": "O papel do direito do trabalho na dinâmica do mercado de trabalho🏛️",
     "pergunta": "30. O trabalho rural, regido pela NR 31, possui especificidades em relação à segurança e saúde. Em relação aos treinamentos ou capacitações previstos nesta Norma Regulamentadora, qual modalidade de ensino é permitida para ministrá-los?",
     "alternativa1": "Exclusivamente na modalidade presencial.",
     "alternativa2": "Apenas na modalidade semipresencial.",
@@ -17683,7 +17683,7 @@ const questoes = [
     "gabaritoComentado": "As fontes indicam que os treinamentos ou capacitações na NR 31 podem ser ministrados nas modalidades 'presencial, semipresencial ou de ensino à distância, desde que atendidos os requisitos operacionais, administrativos, tecnológicos e de estruturação pedagógica, previstos no Anexo II, da Norma Regulamentadora nº 1'. No entanto, o conteúdo prático deve ser presencial."
   },
   {
-    "tema": "🌐OIT – o processo de elaboração e aprovação de convenções internacionais",
+    "tema": "OIT – Elaboração e aprovação de convenções 🌐",
     "pergunta": "De acordo com o texto apresentado, as convenções da Organização Internacional do Trabalho (OIT) são definidas como:",
     "alternativa1": "Tratados multilaterais abertos, de natureza normativa, elaborados pela Conferência Internacional do Trabalho (CIT).",
     "alternativa2": "Sugestões não obrigatórias para os estados-membros, utilizadas para guiar políticas públicas.",
@@ -17694,7 +17694,7 @@ const questoes = [
     "gabaritoComentado": "O texto define as convenções da OIT como 'tratados multilaterais abertos, de natureza normativa, elaborados pela Conferência Internacional do Trabalho (CIT)'."
   },
   {
-    "tema": "🌐OIT – o processo de elaboração e aprovação de convenções internacionais",
+    "tema": "OIT – Elaboração e aprovação de convenções 🌐",
     "pergunta": "Sobre a diferença entre convenções e recomendações da OIT, o texto afirma corretamente que:",
     "alternativa1": "Convenções e recomendações têm a mesma eficácia legal após a aprovação pela CIT.",
     "alternativa2": "Convenções exigem ratificação pelos estados-membros para terem eficácia, enquanto recomendações são apenas sugestões.",
@@ -17705,7 +17705,7 @@ const questoes = [
     "gabaritoComentado": "Segundo o texto, a diferença entre convenções e recomendações é formal, pois convenções exigem ratificação pelos estados-membros para terem eficácia, enquanto recomendações são apenas sugestões."
   },
   {
-    "tema": "🌐OIT – o processo de elaboração e aprovação de convenções internacionais",
+    "tema": "OIT – Elaboração e aprovação de convenções 🌐",
     "pergunta": "O conjunto normativo formado pelas convenções e recomendações da OIT é denominado, de acordo com o texto, como:",
     "alternativa1": "Direito Internacional do Trabalho.",
     "alternativa2": "Código Tripartite Laboral.",
@@ -17716,7 +17716,7 @@ const questoes = [
     "gabaritoComentado": "O texto informa que o conjunto normativo das convenções e recomendações da OIT é chamado de \"Código Internacional do Trabalho\"."
   },
   {
-    "tema": "🌐OIT – o processo de elaboração e aprovação de convenções internacionais",
+    "tema": "OIT – Elaboração e aprovação de convenções 🌐",
     "pergunta": "Um aspecto distintivo do método negocial das convenções da OIT, mencionado no texto, é que ele envolve:",
     "alternativa1": "Exclusivamente representantes dos governos dos estados-membros.",
     "alternativa2": "Somente representantes de empregadores e trabalhadores, sem a participação governamental.",
@@ -17727,7 +17727,7 @@ const questoes = [
     "gabaritoComentado": "O texto destaca que o método negocial das convenções da OIT difere dos tratados convencionais por envolver representantes de governos, empregadores e trabalhadores (participação tripartite)."
   },
   {
-    "tema": "🌐OIT – o processo de elaboração e aprovação de convenções internacionais",
+    "tema": "OIT – Elaboração e aprovação de convenções 🌐",
     "pergunta": "O processo de desenvolvimento de novas convenções da OIT começa com:",
     "alternativa1": "A ratificação de convenções anteriores por um grande número de estados-membros.",
     "alternativa2": "A denúncia de violações de normas por parte de trabalhadores e empregadores.",
@@ -17738,7 +17738,7 @@ const questoes = [
     "gabaritoComentado": "Segundo o texto, o desenvolvimento de novas convenções começa com a identificação de questões emergentes no mundo do trabalho, seguida de pesquisas e consultas prévias."
   },
   {
-    "tema": "🌐OIT – o processo de elaboração e aprovação de convenções internacionais",
+    "tema": "OIT – Elaboração e aprovação de convenções 🌐",
     "pergunta": "No processo de elaboração de convenções da OIT, o Escritório Internacional do Trabalho tem a função de:",
     "alternativa1": "Elaborar um relatório sobre a legislação e a prática dos estados-membros e enviá-lo para comentários antes da primeira discussão na CIT.",
     "alternativa2": "Conceder o Certificado de Aprovação (CA) para Equipamentos de Proteção Individual (EPI).",
@@ -17749,7 +17749,7 @@ const questoes = [
     "gabaritoComentado": "O texto afirma que o Escritório Internacional do Trabalho elabora um relatório sobre a legislação e a prática dos estados-membros, enviando-o para comentários antes da primeira discussão na CIT."
   },
   {
-    "tema": "🌐OIT – o processo de elaboração e aprovação de convenções internacionais",
+    "tema": "OIT – Elaboração e aprovação de convenções 🌐",
     "pergunta": "O processo de \"dupla discussão\" na Conferência Internacional do Trabalho (CIT) para a aprovação de convenções da OIT permite:",
     "alternativa1": "Que apenas os estados-membros fundadores participem da discussão final.",
     "alternativa2": "O exame detalhado da minuta, com tempo para comentários, submetendo um projeto de instrumento à discussão na sessão seguinte da CIT.",
@@ -17760,7 +17760,7 @@ const questoes = [
     "gabaritoComentado": "O texto descreve o processo de \"dupla discussão\" como aquele em que um projeto de instrumento é preparado e submetido à discussão na sessão seguinte da CIT, permitindo o exame detalhado da minuta com tempo para comentários."
   },
   {
-    "tema": "🌐OIT – o processo de elaboração e aprovação de convenções internacionais",
+    "tema": "OIT – Elaboração e aprovação de convenções 🌐",
     "pergunta": "Para que uma convenção da OIT seja aprovada pela Conferência Internacional do Trabalho (CIT), é necessário:",
     "alternativa1": "A aprovação por unanimidade dos membros presentes.",
     "alternativa2": "A maioria simples dos governos dos estados-membros.",
@@ -17771,7 +17771,7 @@ const questoes = [
     "gabaritoComentado": "O texto especifica que, para que uma convenção seja aprovada, é necessária a maioria de dois terços dos membros presentes na conferência."
   },
   {
-    "tema": "🌐OIT – o processo de elaboração e aprovação de convenções internacionais",
+    "tema": "OIT – Elaboração e aprovação de convenções 🌐",
     "pergunta": "Após a aprovação pela CIT, uma convenção da OIT entra em vigor depois de:",
     "alternativa1": "Sua publicação oficial no jornal da OIT.",
     "alternativa2": "Sua análise de compatibilidade com a legislação nacional de todos os estados-membros.",
@@ -17782,7 +17782,7 @@ const questoes = [
     "gabaritoComentado": "O texto informa que, uma vez aprovada, a convenção entra em vigor após a ratificação por, no mínimo, dois estados-membros."
   },
   {
-    "tema": "🌐OIT – o processo de elaboração e aprovação de convenções internacionais",
+    "tema": "OIT – Elaboração e aprovação de convenções 🌐",
     "pergunta": "As \"cláusulas de flexibilidade\" encontradas em algumas Normas Internacionais do Trabalho (NIT) permitem, segundo o texto:",
     "alternativa1": "Que os estados-membros façam reservas ao texto da convenção.",
     "alternativa2": "A suspensão temporária da aplicação da convenção em caso de crise econômica.",
@@ -17793,7 +17793,7 @@ const questoes = [
     "gabaritoComentado": "O texto explica que algumas NIT contêm \"cláusulas de flexibilidade\", permitindo ajustes temporários, exclusões de categorias de trabalhadores ou aplicação apenas de parte do instrumento."
   },
   {
-    "tema": "🌐OIT – o processo de elaboração e aprovação de convenções internacionais",
+    "tema": "OIT – Elaboração e aprovação de convenções 🌐",
     "pergunta": "Com relação às reservas às convenções da OIT, o texto é claro ao afirmar que elas:",
     "alternativa1": "São permitidas, desde que notificadas ao diretor-geral da OIT.",
     "alternativa2": "Não são permitidas.",
@@ -17804,7 +17804,7 @@ const questoes = [
     "gabaritoComentado": "O texto estabelece explicitamente que Reservas às Convenções da OIT não são permitidas."
   },
   {
-    "tema": "🌐OIT – o processo de elaboração e aprovação de convenções internacionais",
+    "tema": "OIT – Elaboração e aprovação de convenções 🌐",
     "pergunta": "Para atualizar as normas existentes e responder à evolução do mundo do trabalho, a OIT utiliza, conforme mencionado:",
     "alternativa1": "Apenas o processo de dupla discussão em novas sessões da CIT.",
     "alternativa2": "Convenções revisadas ou protocolos.",
@@ -17815,7 +17815,7 @@ const questoes = [
     "gabaritoComentado": "O texto indica que a OIT utiliza convenções revisadas ou protocolos para atualizar as normas existentes, respondendo à evolução do mundo do trabalho."
   },
   {
-    "tema": "🌐OIT – o processo de elaboração e aprovação de convenções internacionais",
+    "tema": "OIT – Elaboração e aprovação de convenções 🌐",
     "pergunta": "O Mecanismo de Revisão das Normas (SEM/SRM), criado pelo Conselho de Administração da OIT e operacionalizado em 2015, visa:",
     "alternativa1": "Facilitar o processo de ratificação das convenções pelos estados-membros.",
     "alternativa2": "Aumentar o número de denúncias recebidas pela Comissão de Peritos.",
@@ -17826,7 +17826,7 @@ const questoes = [
     "gabaritoComentado": "O texto explica que o Mecanismo de Revisão das Normas (SEM/SRM) visa garantir um conjunto coerente e atualizado de NIT."
   },
   {
-    "tema": "🌐OIT – o processo de elaboração e aprovação de convenções internacionais",
+    "tema": "OIT – Elaboração e aprovação de convenções 🌐",
     "pergunta": "No âmbito do Mecanismo de Revisão das Normas (SEM/SRM), um Grupo de Trabalho Tripartite tem a função de:",
     "alternativa1": "Elaborar os relatórios iniciais sobre a legislação e prática dos estados-membros.",
     "alternativa2": "Decidir sobre a ratificação das convenções pelos estados-membros.",
@@ -17837,7 +17837,7 @@ const questoes = [
     "gabaritoComentado": "O texto informa que um Grupo de Trabalho Tripartite revisa as normas com base em uma abordagem temática, fazendo recomendações ao Conselho de Administração."
   },
   {
-    "tema": "🌐OIT – o processo de elaboração e aprovação de convenções internacionais",
+    "tema": "OIT – Elaboração e aprovação de convenções 🌐",
     "pergunta": "A revogação de convenções que perderam sua utilidade ou propósito foi fortalecida com a entrada em vigor do Instrumento de Emenda à Constituição da OIT em 1997. Essa revogação pode ocorrer com base no trabalho do:",
     "alternativa1": "Conselho de Administração da OIT.",
     "alternativa2": "Escritório Internacional do Trabalho.",
@@ -17848,7 +17848,7 @@ const questoes = [
     "gabaritoComentado": "O texto associa a possibilidade de revogação de convenções que perderam sua utilidade ao fortalecimento do SRM pela entrada em vigor do Instrumento de Emenda à Constituição da OIT em 1997, e menciona que a CIT já revogou convenções com base no trabalho do SRM."
   },
   {
-    "tema": "🌐OIT – o processo de elaboração e aprovação de convenções internacionais",
+    "tema": "OIT – Elaboração e aprovação de convenções 🌐",
     "pergunta": "Qual comissão da OIT é responsável por fiscalizar o cumprimento das convenções pelos estados-membros?",
     "alternativa1": "Comissão de Peritos em Aplicação de Normas Internacionais.",
     "alternativa2": "Comissão Tripartite Paritária Permanente (CTPP).",
@@ -17859,7 +17859,7 @@ const questoes = [
     "gabaritoComentado": "O texto afirma que a Comissão de Peritos em Aplicação de Normas Internacionais, da OIT, fiscaliza o cumprimento das convenções pelos estados-membros."
   },
   {
-    "tema": "🌐OIT – o processo de elaboração e aprovação de convenções internacionais",
+    "tema": "OIT – Elaboração e aprovação de convenções 🌐",
     "pergunta": "A Comissão de Peritos em Aplicação de Normas Internacionais da OIT é composta por:",
     "alternativa1": "Representantes de governos, empregadores e trabalhadores.",
     "alternativa2": "Vinte juristas.",
@@ -17870,7 +17870,7 @@ const questoes = [
     "gabaritoComentado": "O texto especifica que a Comissão de Peritos em Aplicação de Normas Internacionais é composta por 20 juristas."
   },
   {
-    "tema": "🌐OIT – o processo de elaboração e aprovação de convenções internacionais",
+    "tema": "OIT – Elaboração e aprovação de convenções 🌐",
     "pergunta": "Além da Comissão de Peritos, quem mais pode denunciar violações de convenções da OIT?",
     "alternativa1": "Somente os governos dos estados-membros.",
     "alternativa2": "Apenas o Escritório Internacional do Trabalho.",
@@ -17881,7 +17881,7 @@ const questoes = [
     "gabaritoComentado": "O texto menciona que, além da Comissão de Peritos, trabalhadores e empregadores podem denunciar violações à OIT."
   },
   {
-    "tema": "🌐OIT – o processo de elaboração e aprovação de convenções internacionais",
+    "tema": "OIT – Elaboração e aprovação de convenções 🌐",
     "pergunta": "Sobre a relação do Brasil com a OIT, o texto destaca que o Brasil é:",
     "alternativa1": "Um dos estados-membros mais recentes a aderir à organização.",
     "alternativa2": "Um dos membros fundadores da organização em 1919.",
@@ -17892,7 +17892,7 @@ const questoes = [
     "gabaritoComentado": "O texto afirma que o Brasil tem uma relação longa e produtiva com a OIT, sendo um dos membros fundadores da organização em 1919."
   },
   {
-    "tema": "🌐OIT – o processo de elaboração e aprovação de convenções internacionais",
+    "tema": "OIT – Elaboração e aprovação de convenções 🌐",
     "pergunta": "No Brasil, em relação à hierarquia das normas, o texto menciona o princípio de que:",
     "alternativa1": "As convenções da OIT prevalecem sempre sobre as normas internas.",
     "alternativa2": "As normas internas mais favoráveis ao trabalhador prevaleçam sobre as convenções ou recomendações.",
@@ -17903,7 +17903,7 @@ const questoes = [
     "gabaritoComentado": "O texto aborda o princípio de que as normas internas mais favoráveis ao trabalhador prevaleçam sobre as convenções ou recomendações."
   },
   {
-    "tema": "🌐OIT – o processo de elaboração e aprovação de convenções internacionais",
+    "tema": "OIT – Elaboração e aprovação de convenções 🌐",
     "pergunta": "Conforme o texto, tratados internacionais sobre direitos humanos ratificados pelo Brasil, aprovados com o quórum de três quintos dos votos dos membros de cada Casa do Congresso Nacional, em dois turnos, serão equivalentes a:",
     "alternativa1": "Emendas constitucionais.",
     "alternativa2": "Normas supralegais.",
@@ -17914,7 +17914,7 @@ const questoes = [
     "gabaritoComentado": "O texto, citando o artigo 5º, parágrafo 3º, da Constituição Federal, estabelece que tratados internacionais sobre direitos humanos, aprovados com o quórum e rito mencionados, serão equivalentes às emendas constitucionais."
   },
   {
-    "tema": "🌐OIT – o processo de elaboração e aprovação de convenções internacionais",
+    "tema": "OIT – Elaboração e aprovação de convenções 🌐",
     "pergunta": "Ainda sobre a hierarquia dos tratados no Brasil, o texto, em linha com o posicionamento do STF, indica que tratados sobre direitos humanos que não alcançam o quórum especial do art. 5º, § 3º da CF/88 possuem status de:",
     "alternativa1": "Emenda constitucional.",
     "alternativa2": "Supralegalidade (acima das leis, mas abaixo da constituição).",
@@ -17925,7 +17925,7 @@ const questoes = [
     "gabaritoComentado": "O texto, refletindo o posicionamento do STF, afirma que tratados sobre direitos humanos que não alcançam o quórum especial possuem status de supralegalidade (acima das leis, mas abaixo da constituição)."
   },
   {
-    "tema": "🌐OIT – o processo de elaboração e aprovação de convenções internacionais",
+    "tema": "OIT – Elaboração e aprovação de convenções 🌐",
     "pergunta": "No processo de aprovação das convenções internacionais no Brasil, a primeira etapa, após a assinatura pelo país, é a:",
     "alternativa1": "Promulgação por decreto presidencial.",
     "alternativa2": "Submissão direta ao Supremo Tribunal Federal para validação.",
@@ -17936,7 +17936,7 @@ const questoes = [
     "gabaritoComentado": "O texto descreve a primeira etapa da ratificação nacional, após a assinatura, como a análise pelo governo federal, sob coordenação do Ministério das Relações Exteriores juntamente com o Ministério do Trabalho."
   },
   {
-    "tema": "🌐OIT – o processo de elaboração e aprovação de convenções internacionais",
+    "tema": "OIT – Elaboração e aprovação de convenções 🌐",
     "pergunta": "Após a análise pelo governo federal, a convenção considerada pertinente é formalmente transmitida ao Congresso Nacional sob a forma de:",
     "alternativa1": "Projeto de Lei.",
     "alternativa2": "Medida Provisória.",
@@ -17947,7 +17947,7 @@ const questoes = [
     "gabaritoComentado": "O texto indica que a convenção considerada pertinente é formalmente transmitida ao Congresso Nacional sob a forma de uma mensagem presidencial."
   },
   {
-    "tema": "🌐OIT – o processo de elaboração e aprovação de convenções internacionais",
+    "tema": "OIT – Elaboração e aprovação de convenções 🌐",
     "pergunta": "No trâmite legislativo para a ratificação de uma convenção da OIT no Brasil, é correto afirmar que:",
     "alternativa1": "A convenção é examinada apenas por comissões técnicas específicas, sem passar pelas comissões de mérito.",
     "alternativa2": "Somente a Câmara dos Deputados precisa aprovar o texto para a ratificação.",
@@ -17958,7 +17958,7 @@ const questoes = [
     "gabaritoComentado": "O texto especifica que no Congresso, a convenção é encaminhada às comissões pertinentes e ambas as Casas devem aprovar o texto para que a convenção seja ratificada."
   },
   {
-    "tema": "🌐OIT – o processo de elaboração e aprovação de convenções internacionais",
+    "tema": "OIT – Elaboração e aprovação de convenções 🌐",
     "pergunta": "Após a aprovação legislativa no Brasil, a convenção da OIT é ratificada através de:",
     "alternativa1": "Um decreto legislativo.",
     "alternativa2": "Um parecer normativo da Inspeção do Trabalho.",
@@ -17971,7 +17971,7 @@ const questoes = [
     "gabaritoComentado": "O texto afirma que, após a aprovação legislativa, a convenção é ratificada através de um decreto presidencial."
   },
   {
-    "tema": "🌐OIT – o processo de elaboração e aprovação de convenções internacionais",
+    "tema": "OIT – Elaboração e aprovação de convenções 🌐",
     "pergunta": "Qual dos seguintes aspectos é mencionado no texto como um desafio na ratificação prática de convenções da OIT no Brasil?",
     "alternativa1": "A falta de interesse do governo federal em normas internacionais.",
     "alternativa2": "A necessidade de adaptação de leis nacionais e possíveis resistências de setores econômicos impactados.",
@@ -17982,7 +17982,7 @@ const questoes = [
     "gabaritoComentado": "O texto menciona que a ratificação prática pode encontrar desafios, como a necessidade de adaptação de leis nacionais e possíveis resistências de setores econômicos impactados."
   },
   {
-    "tema": "🌐OIT – o processo de elaboração e aprovação de convenções internacionais",
+    "tema": "OIT – Elaboração e aprovação de convenções 🌐",
     "pergunta": "O texto afirma que a promulgação do decreto presidencial, na etapa de ratificação, tem como efeito principal:",
     "alternativa1": "A submissão do texto da convenção para nova aprovação pela CIT.",
     "alternativa2": "A integração da convenção ao ordenamento jurídico brasileiro, obrigando o país a se adequar às normas internacionais estabelecidas.",
@@ -17993,7 +17993,7 @@ const questoes = [
     "gabaritoComentado": "O texto estabelece que a promulgação do decreto integra a convenção ao ordenamento jurídico brasileiro, obrigando o país a se adequar às normas internacionais estabelecidas."
   },
   {
-    "tema": "🌐OIT – o processo de elaboração e aprovação de convenções internacionais",
+    "tema": "OIT – Elaboração e aprovação de convenções 🌐",
     "pergunta": "O texto menciona que uma convenção da OIT sobre \"violência e assédio\", ratificada pelo Brasil em 2021 e que entrou em vigor em 2022, é a Convenção de número:",
     "alternativa1": "29.",
     "alternativa2": "81.",
@@ -18004,7 +18004,7 @@ const questoes = [
     "gabaritoComentado": "O texto cita a Convenção 190 (violência e assédio) como tendo sido ratificada pelo Brasil em 2021 e entrado em vigor em 2022."
   },
   {
-    "tema": "🌐OIT – o processo de elaboração e aprovação de convenções internacionais",
+    "tema": "OIT – Elaboração e aprovação de convenções 🌐",
     "pergunta": "Conforme o texto, qual convenção da OIT, sobre \"trabalho forçado\", foi enviada ao Congresso Nacional em 2023?",
     "alternativa1": "Convenção 29.",
     "alternativa2": "Convenção 138.",
@@ -18015,7 +18015,7 @@ const questoes = [
     "gabaritoComentado": "O texto informa que a Convenção 29 (trabalho forçado) foi enviada ao Congresso em 2023."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "Qual é o objetivo principal da Norma Regulamentadora nº 13 (NR-13)?",
     "alternativa1": "Estabelecer diretrizes para a elaboração do Programa de Controle Médico de Saúde Ocupacional (PCMSO).",
     "alternativa2": "Normatizar as condições de segurança e saúde no trabalho na indústria da construção civil.",
@@ -18026,7 +18026,7 @@ const questoes = [
     "gabaritoComentado": "O objetivo principal da NR-13 é <b>estabelecer requisitos mínimos para a gestão da integridade estrutural de caldeiras, vasos de pressão, suas tubulações de interligação e tanques metálicos de armazenamento<b>, visando a segurança e saúde dos trabalhadores."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "Quais equipamentos estão no escopo de aplicação da NR-13?",
     "alternativa1": "Apenas caldeiras e vasos de pressão.",
     "alternativa2": "Caldeiras, vasos de pressão, suas tubulações de interligação e tanques metálicos de armazenamento.",
@@ -18037,7 +18037,7 @@ const questoes = [
     "gabaritoComentado": "A NR-13 abrange <b>caldeiras, vasos de pressão, suas tubulações de interligação e tanques metálicos de armazenamento<b>."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "O que é um 'Prontuário da Caldeira' conforme a NR-13?",
     "alternativa1": "Um registro das manutenções preventivas e corretivas realizadas na caldeira.",
     "alternativa2": "Um certificado de inspeção emitido por um profissional habilitado.",
@@ -18048,7 +18048,7 @@ const questoes = [
     "gabaritoComentado": "O Prontuário da Caldeira é um <b>conjunto de documentos, incluindo, dentre outros, o registro do teste hidrostático de fabricação e os dados dos dispositivos de segurança, além de dados, como o código de construção, o ano de edição, o ano de fabricação e a categoria da caldeira<b>."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "Qual documento deve informar todas as ocorrências importantes capazes de influir nas condições de segurança de uma caldeira?",
     "alternativa1": "Relatório de Inspeção de Segurança.",
     "alternativa2": "Manual de Operação.",
@@ -18059,7 +18059,7 @@ const questoes = [
     "gabaritoComentado": "O <b>Registro de Segurança<b> deve informar todas as ocorrências importantes capazes de influir nas condições de segurança da caldeira, as alterações de prazos de inspeção e a anotação das inspeções de segurança."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "Com que frequência mínima as caldeiras da categoria 'C' devem passar por inspeção de segurança periódica, segundo a NR-13?",
     "alternativa1": "Não há periodicidade definida para caldeiras da categoria 'C'.",
     "alternativa2": "A cada 18 meses.",
@@ -18070,7 +18070,7 @@ const questoes = [
     "gabaritoComentado": "Embora a fonte não detalhe especificamente a periodicidade para a categoria C, geralmente as inspeções periódicas para caldeiras ocorrem com <b>periodicidade máxima definida na NR-13<b>, sendo que a categoria influencia esse prazo."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "Em quais situações deve ser realizada uma inspeção de segurança extraordinária em uma caldeira?",
     "alternativa1": "Anualmente, antes do início do período de maior demanda de vapor.",
     "alternativa2": "Apenas quando houver alteração do Proprietário da caldeira.",
@@ -18081,7 +18081,7 @@ const questoes = [
     "gabaritoComentado": "A inspeção de segurança extraordinária deve ser realizada quando a <b>caldeira for danificada por acidente ou outra ocorrência, capaz de comprometer sua segurança<b>."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "Quem pode operar e controlar uma caldeira, de acordo com a NR-13?",
     "alternativa1": "Operador de caldeira que cumpra o disposto no Anexo I da NR-13.",
     "alternativa2": "Apenas o profissional legalmente habilitado (PLH).",
@@ -18092,7 +18092,7 @@ const questoes = [
     "gabaritoComentado": "Toda caldeira deve estar, obrigatoriamente, sob operação e controle de <b>operador de caldeira, cumprindo o disposto no item 1, do Anexo I, da NR 13<b>."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "Qual documento é similar ao 'Prontuário da Caldeira' e deve ser elaborado para vasos de pressão?",
     "alternativa1": "Prontuário do Vaso de Pressão.",
     "alternativa2": "Manual de Operação do Vaso de Pressão.",
@@ -18103,7 +18103,7 @@ const questoes = [
     "gabaritoComentado": "Os mesmos documentos devem ser elaborados para os vasos de pressão, exceto o projeto de instalação, incluindo o <b>prontuário do vaso<b>."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "Vasos de pressão enquadrados em quais categorias devem possuir manual de operação próprio?",
     "alternativa1": "Apenas categoria I.",
     "alternativa2": "Categorias I ou II.",
@@ -18114,7 +18114,7 @@ const questoes = [
     "gabaritoComentado": "Os vasos de pressão, enquadrados nas <b>categorias I ou II<b>, devem possuir manual de operação próprio."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "Quem deve cumprir as obrigações do item 2 do Anexo I da NR-13 em unidades de processo que contenham vasos de pressão da categoria I ou II?",
     "alternativa1": "O supervisor da área.",
     "alternativa2": "O técnico de segurança do trabalho.",
@@ -18125,7 +18125,7 @@ const questoes = [
     "gabaritoComentado": "Os <b>operadores de unidades de processo que contenham vasos de pressão da categoria I ou II<b> devem cumprir as obrigações do item 2, do Anexo I, da NR 13."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "Qual a periodicidade máxima admitida para a inspeção de segurança periódica de vasos de pressão, exceto em situações específicas?",
     "alternativa1": "24 meses.",
     "alternativa2": "12 meses.",
@@ -18136,7 +18136,7 @@ const questoes = [
     "gabaritoComentado": "De forma similar às caldeiras, os vasos de pressão devem ser submetidos a inspeções de segurança periódicas, sendo que a periodicidade máxima admitida é de <b>12 (doze) meses<b>, podendo haver exceções."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "O que deve constar obrigatoriamente na placa de identificação de um vaso de pressão?",
     "alternativa1": "Placa de identificação indelével e indicação da categoria do vaso de pressão, além do seu número ou código de identificação no corpo do equipamento.",
     "alternativa2": "Apenas o nome do fabricante e o ano de fabricação.",
@@ -18147,7 +18147,7 @@ const questoes = [
     "gabaritoComentado": "Todo vaso de pressão deve possuir, em local de fácil acesso e visível, <b>placa de identificação indelével e indicação da categoria do vaso de pressão, além do seu número ou código de identificação no corpo do equipamento<b>."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "A operação de quais equipamentos enquadrados na NR-13 sem os dispositivos de segurança é considerada item de risco grave e iminente?",
     "alternativa1": "Apenas caldeiras.",
     "alternativa2": "Apenas vasos de pressão.",
@@ -18158,7 +18158,7 @@ const questoes = [
     "gabaritoComentado": "Para <b>todos os equipamentos enquadrados na NR-13<b>, a <b>operação sem os dispositivos de segurança<b> é considerada item de risco grave e iminente."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "Quem deve ser o profissional legalmente habilitado (PLH) para as atividades relacionadas à NR-13?",
     "alternativa1": "Qualquer engenheiro com registro no conselho profissional.",
     "alternativa2": "Engenheiro de segurança do trabalho.",
@@ -18169,7 +18169,7 @@ const questoes = [
     "gabaritoComentado": "O PLH deve ser <b>engenheiro com habilitação no conselho profissional representativo no país, além de ter atribuição compatível com as operações de construção, operação, manutenção, inspeção e supervisão de inspeção de caldeiras, vasos de pressão, tubulações e tanques metálicos de armazenamento<b>."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "O que o PLH deve indicar no relatório de inspeção de um vaso de pressão quando não for possível realizar o exame interno devido a danos previsíveis?",
     "alternativa1": "Tal situação no relatório de inspeção e definir o(s) exame(s) substituto(s).",
     "alternativa2": "A impossibilidade de determinar a integridade do vaso.",
@@ -18180,7 +18180,7 @@ const questoes = [
     "gabaritoComentado": "O PH deve <b>indicar tal situação no relatório de inspeção e definir o(s) exame(s) substituto(s)<b> quando não for possível realizar o exame interno devido a danos previsíveis."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "Qual a periodicidade do exame externo para vasos criogênicos que operem em condições nas quais a experiência mostre que não ocorre deterioração?",
     "alternativa1": "A cada ano.",
     "alternativa2": "A cada 3 (três) anos.",
@@ -18191,7 +18191,7 @@ const questoes = [
     "gabaritoComentado": "Vasos de pressão criogênicos devem ser submetidos a <b>exame externo a cada 2 (dois) anos<b> em condições específicas."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "Qual é um dos requisitos de instalação para caldeiras em ambiente fechado, conforme a NR-13?",
     "alternativa1": "Pé-direito mínimo de 2 metros.",
     "alternativa2": "Isolamento térmico das paredes.",
@@ -18202,7 +18202,7 @@ const questoes = [
     "gabaritoComentado": "Um dos requisitos de instalação de caldeiras em ambiente fechado é <b>dispor de sensor para detecção de vazamento de gás, quando se tratar de caldeira a combustível gasoso<b>."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "O relatório de inspeção de segurança de uma caldeira deve ser elaborado em até quantos dias após a inspeção?",
     "alternativa1": "15 dias.",
     "alternativa2": "30 dias.",
@@ -18213,7 +18213,7 @@ const questoes = [
     "gabaritoComentado": "De forma geral, os relatórios de inspeção de segurança devem ser elaborados em até <b>60 (sessenta) dias<b>."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "Quais informações mínimas devem constar no relatório de inspeção de segurança de um vaso de pressão?",
     "alternativa1": "Apenas a data da inspeção e a assinatura do inspetor.",
     "alternativa2": "A categoria do vaso de pressão, o tipo de inspeção executada e o parecer conclusivo quanto à integridade.",
@@ -18224,7 +18224,7 @@ const questoes = [
     "gabaritoComentado": "O relatório de inspeção de segurança de um vaso de pressão deve conter informações mínimas, destacando-se a <b>categoria do vaso de pressão, o tipo de inspeção executada e o parecer conclusivo quanto à integridade<b>."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "O empregador deve registrar e implementar as recomendações decorrentes das inspeções de segurança, determinando os:",
     "alternativa1": "Custos e o setor responsável pela execução.",
     "alternativa2": "Prazos e os responsáveis pela execução.",
@@ -18235,7 +18235,7 @@ const questoes = [
     "gabaritoComentado": "As recomendações decorrentes das inspeções de segurança devem ser registradas e implementadas pelo empregador, com a <b>determinação dos prazos e dos responsáveis pela execução<b>."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "Qual a carga horária mínima do treinamento para operadores de caldeiras?",
     "alternativa1": "8 horas.",
     "alternativa2": "40 horas.",
@@ -18246,7 +18246,7 @@ const questoes = [
     "gabaritoComentado": "Conforme a referência, o <b>Certificado de Treinamento<b> para operadores de caldeiras menciona uma carga horária de <b>40h<b>."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "Além do treinamento, qual outra exigência é feita para operadores de unidades de processo que contenham vasos de pressão das categorias I e II?",
     "alternativa1": "Prática profissional supervisionada de 300 horas.",
     "alternativa2": "Participação em simulados anuais de emergência.",
@@ -18257,7 +18257,7 @@ const questoes = [
     "gabaritoComentado": "Esquema 6 indica que, para operador de unidades de processo (CAT I e II), além do treinamento de 40h, é necessária <b>Prática Profissional Supervisionada de 300h<b>."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "Em que situação um projeto alternativo de instalação para caldeiras deve ser elaborado pelo empregador?",
     "alternativa1": "Quando a caldeira for instalada em área externa.",
     "alternativa2": "Quando a caldeira possuir sistemas de controle automatizados.",
@@ -18268,7 +18268,7 @@ const questoes = [
     "gabaritoComentado": "Caso não seja possível o cumprimento de quaisquer alíneas dos subitens 13.4.2.3 e 13.4.2.4, o empregador deverá elaborar um <b>projeto alternativo de instalação<b>."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "Para caldeiras da categoria A, qual condição permite que a inspeção de segurança periódica seja realizada em até 24 meses?",
     "alternativa1": "Se a caldeira possuir certificação ISO 9001.",
     "alternativa2": "Se houver um programa de manutenção preventiva rigoroso.",
@@ -18279,7 +18279,7 @@ const questoes = [
     "gabaritoComentado": "Para caldeiras da categoria A, o prazo para inspeção periódica pode ser de até <b>24 (vinte e quatro) meses, desde que aos doze meses sejam testadas as pressões de abertura das válvulas de segurança<b>."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "O bloqueio de dispositivos de segurança em equipamentos da NR-13, sem a devida justificativa técnica, é considerado:",
     "alternativa1": "Uma não conformidade de grau leve.",
     "alternativa2": "Uma prática aceitável em situações de emergência.",
@@ -18290,7 +18290,7 @@ const questoes = [
     "gabaritoComentado": "A <b>ausência ou bloqueio de dispositivos de segurança, sem a devida justificativa técnica<b>, baseada em códigos, normas ou procedimentos formais de operação do equipamento, é um item de <b>risco grave e iminente<b> na NR 13."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "Para caldeiras de recuperação de álcalis de qualquer categoria, qual o prazo máximo para a inspeção de segurança periódica?",
     "alternativa1": "6 meses.",
     "alternativa2": "18 (dezoito) meses.",
@@ -18301,7 +18301,7 @@ const questoes = [
     "gabaritoComentado": "O prazo máximo para inspeção periódica de caldeiras de recuperação de álcalis de qualquer categoria é de <b>18 (dezoito) meses<b>."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "Qual das alternativas abaixo NÃO é uma informação mínima que deve constar no manual de operação atualizado de uma caldeira?",
     "alternativa1": "Procedimentos de partidas e paradas.",
     "alternativa2": "Procedimentos operacionais de rotina.",
@@ -18312,7 +18312,7 @@ const questoes = [
     "gabaritoComentado": "O manual de operação atualizado de toda caldeira deve conter <b>procedimentos de partidas e paradas, operacionais de rotina, situações de emergência e aqueles gerais de segurança, de saúde e de preservação do meio ambiente<b>, sendo a lista de operadores habilitados não um requisito do manual em si."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "Para caldeiras da categoria B com sistema de gerenciamento de combustão (SGC) que atendam ao Anexo IV da NR-13, qual o prazo máximo para a inspeção de segurança periódica?",
     "alternativa1": "12 meses.",
     "alternativa2": "30 (trinta) meses.",
@@ -18323,7 +18323,7 @@ const questoes = [
     "gabaritoComentado": "Para caldeiras de categoria B, com sistema de gerenciamento de combustão – SGC, que atendam ao disposto no Anexo IV, da NR 13, o prazo para inspeção periódica pode ser de até <b>30 (trinta) meses<b>."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "Em relação aos relatórios de inspeção de segurança de caldeiras e vasos de pressão, qual o prazo geral para sua elaboração após a inspeção?",
     "alternativa1": "Até 15 dias.",
     "alternativa2": "Até 30 dias.",
@@ -18334,7 +18334,7 @@ const questoes = [
     "gabaritoComentado": "De forma geral, os relatórios de inspeção de segurança de caldeiras e vasos de pressão devem ser elaborados em até <b>60 (sessenta) dias<b>."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "O registro de segurança de uma caldeira deve ser realizado:",
     "alternativa1": "Imediatamente após a inspeção de segurança da caldeira.",
     "alternativa2": "Anualmente pelo técnico de segurança do trabalho.",
@@ -18345,7 +18345,7 @@ const questoes = [
     "gabaritoComentado": "Tal registro [de segurança] deve ser realizado <b>imediatamente após a inspeção de segurança da caldeira<b>."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "Qual documento deve conter os procedimentos de partidas e paradas de uma caldeira?",
     "alternativa1": "Prontuário da Caldeira.",
     "alternativa2": "Registro de Segurança.",
@@ -18356,7 +18356,7 @@ const questoes = [
     "gabaritoComentado": "Toda caldeira deve possuir <b>manual de operação atualizado<b>, em língua portuguesa, contendo os procedimentos de partidas e paradas."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "Os vasos de pressão com temperatura de operação inferior a zero grau Celsius e que operem sem deterioração devem ser submetidos a exame interno:",
     "alternativa1": "Anualmente.",
     "alternativa2": "A cada dois anos.",
@@ -18367,7 +18367,7 @@ const questoes = [
     "gabaritoComentado": "Vasos de pressão com temperatura de operação inferior a zero grau Celsius devem ser submetidos a exame interno <b>quando exigido pelo código de construção ou a critério do PLH<b>."
   },
   {
-    "tema": "💨NR 13 - Caldeiras e Vasos de Pressão ",
+    "tema": "NR 13💨 - Caldeiras e Vasos de Pressão ",
     "pergunta": "Qual a finalidade do registro do teste hidrostático de fabricação que consta no prontuário da caldeira?",
     "alternativa1": "Atestar a resistência da caldeira à pressão interna de projeto.",
     "alternativa2": "Verificar a eficiência energética do equipamento.",
@@ -18378,7 +18378,7 @@ const questoes = [
     "gabaritoComentado": "O registro do teste hidrostático de fabricação no prontuário visa a <b>atestar a resistência da caldeira à pressão interna de projeto<b>."
   },
   {
-    "tema": "🏗️NR 18 - Construção Civil",
+    "tema": "NR 18🏗️ - Construção Civil",
     "pergunta": "Qual é a principal finalidade da NR-18 na indústria da construção civil?",
     "alternativa1": "Aumentar a produtividade dos trabalhadores.",
     "alternativa2": "Estabelecer diretrizes administrativas e medidas de controle de segurança.",
@@ -18389,7 +18389,7 @@ const questoes = [
     "gabaritoComentado": "A NR-18 tem como objetivo estabelecer diretrizes administrativas, de planejamento e organização para implementar medidas de controle e sistemas preventivos de segurança, conforme descrito no item 2 do documento."
   },
   {
-    "tema": "🏗️NR 18 - Construção Civil",
+    "tema": "NR 18🏗️ - Construção Civil",
     "pergunta": "Qual é a profundidade máxima permitida para escavações manuais de tubulões sem exigências adicionais?",
     "alternativa1": "3 metros",
     "alternativa2": "5 metros",
@@ -18400,7 +18400,7 @@ const questoes = [
     "gabaritoComentado": "A NR-18 proíbe escavações manuais de tubulões com profundidade superior a 15 metros, conforme destacado no item 6.2."
   },
   {
-    "tema": "🏗️NR 18 - Construção Civil",
+    "tema": "NR 18🏗️ - Construção Civil",
     "pergunta": "Qual medida é obrigatória para escavações com profundidade superior a 1,25 metros?",
     "alternativa1": "Uso de equipamentos automatizados.",
     "alternativa2": "Proteção com taludes ou escoramentos projetados por PLH.",
@@ -18411,7 +18411,7 @@ const questoes = [
     "gabaritoComentado": "Escavações acima de 1,25m exigem taludes ou escoramentos definidos em projeto por profissional habilitado, conforme item 6.1."
   },
   {
-    "tema": "🏗️NR 18 - Construção Civil",
+    "tema": "NR 18🏗️ - Construção Civil",
     "pergunta": "Qual é a altura mínima exigida para o tapume que cerca o canteiro de obras?",
     "alternativa1": "1 metro",
     "alternativa2": "1,5 metros",
@@ -18422,7 +18422,7 @@ const questoes = [
     "gabaritoComentado": "O tapume deve ter altura mínima de 2m para impedir acesso de pessoas não autorizadas, conforme item 4."
   },
   {
-    "tema": "🏗️NR 18 - Construção Civil",
+    "tema": "NR 18🏗️ - Construção Civil",
     "pergunta": "O que deve ser disponibilizado nas áreas de vivência dos trabalhadores?",
     "alternativa1": "Academia e sala de jogos.",
     "alternativa2": "Instalação sanitária e local para refeições.",
@@ -18433,7 +18433,7 @@ const questoes = [
     "gabaritoComentado": "As áreas de vivência devem incluir instalação sanitária, vestiário, local para refeições e alojamento (se necessário), conforme item 5."
   },
   {
-    "tema": "🏗️NR 18 - Construção Civil",
+    "tema": "NR 18🏗️ - Construção Civil",
     "pergunta": "Qual é a principal causa de acidentes fatais no setor da construção civil, segundo os dados apresentados?",
     "alternativa1": "Queda de materiais.",
     "alternativa2": "Queda de pessoas com diferença de nível.",
@@ -18444,7 +18444,7 @@ const questoes = [
     "gabaritoComentado": "Queda de pessoas com diferença de nível foi a principal causa de mortes no setor, conforme Gráfico 3 do documento."
   },
   {
-    "tema": "🏗️NR 18 - Construção Civil",
+    "tema": "NR 18🏗️ - Construção Civil",
     "pergunta": "Qual norma complementar deve ser observada nas áreas de vivência?",
     "alternativa1": "NR-12",
     "alternativa2": "NR-24",
@@ -18455,7 +18455,7 @@ const questoes = [
     "gabaritoComentado": "As áreas de vivência devem atender também à NR-24, que detalha condições de conforto e higiene, conforme item 5."
   },
   {
-    "tema": "🏗️NR 18 - Construção Civil",
+    "tema": "NR 18🏗️ - Construção Civil",
     "pergunta": "O que é obrigatório para a execução de desmonte de rochas com explosivos?",
     "alternativa1": "Presença de um engenheiro ambiental.",
     "alternativa2": "Elaboração de um Plano de Fogo por profissional habilitado.",
@@ -18466,7 +18466,7 @@ const questoes = [
     "gabaritoComentado": "O Plano de Fogo, elaborado por profissional habilitado, é obrigatório para desmonte com explosivos, conforme item 6.3."
   },
   {
-    "tema": "🏗️NR 18 - Construção Civil",
+    "tema": "NR 18🏗️ - Construção Civil",
     "pergunta": "Qual é a distância máxima permitida entre o posto de trabalho e a instalação sanitária?",
     "alternativa1": "50 metros",
     "alternativa2": "100 metros",
@@ -18477,7 +18477,7 @@ const questoes = [
     "gabaritoComentado": "As instalações sanitárias devem estar a até 150m dos postos de trabalho, conforme item 5."
   },
   {
-    "tema": "🏗️NR 18 - Construção Civil",
+    "tema": "NR 18🏗️ - Construção Civil",
     "pergunta": "Qual dispositivo é obrigatório em plataformas elevatórias móveis de trabalho (PEMT)?",
     "alternativa1": "Ar-condicionado.",
     "alternativa2": "Botão de parada de emergência.",
@@ -18488,7 +18488,7 @@ const questoes = [
     "gabaritoComentado": "A PEMT deve ter botão de parada de emergência, conforme item 8.4."
   },
   {
-    "tema": "🏗️NR 18 - Construção Civil",
+    "tema": "NR 18🏗️ - Construção Civil",
     "pergunta": "O que é proibido durante a operação de andaimes suspensos?",
     "alternativa1": "Uso de capacete.",
     "alternativa2": "Transporte de materiais não vinculados ao serviço.",
@@ -18499,7 +18499,7 @@ const questoes = [
     "gabaritoComentado": "É proibido transportar materiais ou pessoas não relacionados ao serviço, conforme item 8.2."
   },
   {
-    "tema": "🏗️NR 18 - Construção Civil",
+    "tema": "NR 18🏗️ - Construção Civil",
     "pergunta": "Qual é a carga mínima que os pontos de ancoragem devem suportar?",
     "alternativa1": "500 kgf",
     "alternativa2": "750 kgf",
@@ -18510,7 +18510,7 @@ const questoes = [
     "gabaritoComentado": "Os pontos de ancoragem devem suportar pelo menos 1.500 kgf, conforme item 8 (ancoragem predial)."
   },
   {
-    "tema": "🏗️NR 18 - Construção Civil",
+    "tema": "NR 18🏗️ - Construção Civil",
     "pergunta": "Qual é a exigência para redes de segurança usadas na periferia de edificações?",
     "alternativa1": "Devem ser substituídas mensalmente.",
     "alternativa2": "Precisam ter malhas de tamanho variável.",
@@ -18521,7 +18521,7 @@ const questoes = [
     "gabaritoComentado": "As redes de segurança requerem inspeção semanal, conforme item 7."
   },
   {
-    "tema": "🏗️NR 18 - Construção Civil",
+    "tema": "NR 18🏗️ - Construção Civil",
     "pergunta": "O que é obrigatório em escavações próximas a cabos elétricos?",
     "alternativa1": "Medidas preventivas adicionais.",
     "alternativa2": "Presença de bombeiros.",
@@ -18532,7 +18532,7 @@ const questoes = [
     "gabaritoComentado": "Medidas preventivas adicionais são exigidas para escavações próximas a cabos elétricos, conforme item 6.1."
   },
   {
-    "tema": "🏗️NR 18 - Construção Civil",
+    "tema": "NR 18🏗️ - Construção Civil",
     "pergunta": "Qual é a altura mínima para instalação de dispositivos de ancoragem em edificações?",
     "alternativa1": "6 metros",
     "alternativa2": "9 metros",
@@ -18543,7 +18543,7 @@ const questoes = [
     "gabaritoComentado": "Edificações com altura igual ou superior a 12m devem ter dispositivos de ancoragem, conforme item 8."
   },
   {
-    "tema": "🏗️NR 18 - Construção Civil",
+    "tema": "NR 18🏗️ - Construção Civil",
     "pergunta": "O que é vedado em relação aos resíduos orgânicos nos canteiros de obra?",
     "alternativa1": "Reciclagem.",
     "alternativa2": "Acúmulo em locais inadequados.",
@@ -18554,7 +18554,7 @@ const questoes = [
     "gabaritoComentado": "É proibido acumular resíduos orgânicos em locais inadequados, conforme item 10."
   },
   {
-    "tema": "🏗️NR 18 - Construção Civil",
+    "tema": "NR 18🏗️ - Construção Civil",
     "pergunta": "Qual é a exigência para a capacitação de operadores de PEMT?",
     "alternativa1": "Ter ensino superior completo.",
     "alternativa2": "Ser capacitado para o modelo específico do equipamento.",
@@ -18565,7 +18565,7 @@ const questoes = [
     "gabaritoComentado": "A capacitação deve ser compatível com a marca e modelo do equipamento, conforme item 8.4."
   },
   {
-    "tema": "🏗️NR 18 - Construção Civil",
+    "tema": "NR 18🏗️ - Construção Civil",
     "pergunta": "Qual é a largura mínima da plataforma de trabalho em andaimes suspensos?",
     "alternativa1": "0,40 metros",
     "alternativa2": "0,50 metros",
@@ -18576,7 +18576,7 @@ const questoes = [
     "gabaritoComentado": "A largura útil mínima é de 0,65m para andaimes suspensos, conforme item 8.2."
   },
   {
-    "tema": "🏗️NR 18 - Construção Civil",
+    "tema": "NR 18🏗️ - Construção Civil",
     "pergunta": "O que deve ser feito em caso de acidente fatal no canteiro de obras?",
     "alternativa1": "Contatar imediatamente o sindicato e isolar o local.",
     "alternativa2": "Realizar uma reunião com os trabalhadores.",
@@ -18587,7 +18587,7 @@ const questoes = [
     "gabaritoComentado": "É obrigatório comunicar o órgão competente e isolar o local, conforme item 10."
   },
   {
-    "tema": "🏗️NR 18 - Construção Civil",
+    "tema": "NR 18🏗️ - Construção Civil",
     "pergunta": "Qual é a proibição relacionada a plataformas de trabalho sobre cavaletes?",
     "alternativa1": "Uso em dias chuvosos.",
     "alternativa2": "Altura superior a 1,5m e largura inferior a 0,90m.",
@@ -18598,7 +18598,7 @@ const questoes = [
     "gabaritoComentado": "Plataformas sobre cavaletes não podem ter altura >1,5m e largura <0,90m, conforme item 8."
   },
   {
-    "tema": "🏗️NR 18 - Construção Civil",
+    "tema": "NR 18🏗️ - Construção Civil",
     "pergunta": "Qual é a finalidade do sistema de ventilação em tubulões escavados manualmente?",
     "alternativa1": "Reduzir o ruído.",
     "alternativa2": "Controlar a umidade.",
@@ -18609,7 +18609,7 @@ const questoes = [
     "gabaritoComentado": "Ventilação por insuflação de ar é obrigatória para garantir segurança, conforme item 6.2."
   },
   {
-    "tema": "🏗️NR 18 - Construção Civil",
+    "tema": "NR 18🏗️ - Construção Civil",
     "pergunta": "O que é exigido para a utilização de cadeiras suspensas?",
     "alternativa1": "Uso prioritário em todas as obras.",
     "alternativa2": "Capacitação do trabalhador em NR-35 e ponto de ancoragem independente.",
@@ -18620,7 +18620,7 @@ const questoes = [
     "gabaritoComentado": "A cadeira suspensa exige capacitação em NR-35 e ponto de ancoragem independente, conforme item 8.5."
   },
   {
-    "tema": "🏗️NR 18 - Construção Civil",
+    "tema": "NR 18🏗️ - Construção Civil",
     "pergunta": "Qual é a exigência para o tráfego próximo a escavações?",
     "alternativa1": "Desvio obrigatório ou redução de velocidade.",
     "alternativa2": "Uso de semáforos inteligentes.",
@@ -18631,7 +18631,7 @@ const questoes = [
     "gabaritoComentado": "O tráfego próximo deve ser desviado ou ter velocidade reduzida, conforme item 6.1."
   },
   {
-    "tema": "🏗️NR 18 - Construção Civil",
+    "tema": "NR 18🏗️ - Construção Civil",
     "pergunta": "O que é obrigatório em andaimes simplesmente apoiados móveis?",
     "alternativa1": "Rodízios com travas para evitar deslocamento acidental.",
     "alternativa2": "Sistema de refrigeração.",
@@ -18642,7 +18642,7 @@ const questoes = [
     "gabaritoComentado": "Andaimes móveis devem ter rodízios com travas, conforme item 8.1."
   },
   {
-    "tema": "🏗️NR 18 - Construção Civil",
+    "tema": "NR 18🏗️ - Construção Civil",
     "pergunta": "Qual é a altura mínima para anteparos rígidos de proteção contra quedas?",
     "alternativa1": "0,80 metros",
     "alternativa2": "1,00 metro",
@@ -18653,7 +18653,7 @@ const questoes = [
     "gabaritoComentado": "Anteparos rígidos devem ter altura mínima de 1,20m, conforme item 7."
   },
   {
-    "tema": "🏗️NR 18 - Construção Civil",
+    "tema": "NR 18🏗️ - Construção Civil",
     "pergunta": "O que é proibido em relação ao uso de copos em áreas de vivência?",
     "alternativa1": "Copos descartáveis.",
     "alternativa2": "Copos coletivos.",
@@ -18664,7 +18664,7 @@ const questoes = [
     "gabaritoComentado": "É vedado o uso de copos coletivos, conforme item 5."
   },
   {
-    "tema": "🏗️NR 18 - Construção Civil",
+    "tema": "NR 18🏗️ - Construção Civil",
     "pergunta": "Qual documento deve ser elaborado antes do início das atividades em uma obra?",
     "alternativa1": "Comunicação Prévia de Obras à SIT.",
     "alternativa2": "Relatório de Impacto Ambiental.",
@@ -18675,7 +18675,7 @@ const questoes = [
     "gabaritoComentado": "A Comunicação Prévia de Obras à SIT é obrigatória, conforme item 4."
   },
   {
-    "tema": "🏗️NR 18 - Construção Civil",
+    "tema": "NR 18🏗️ - Construção Civil",
     "pergunta": "Qual é a periodicidade da inspeção em escoramentos de escavações?",
     "alternativa1": "Semanal",
     "alternativa2": "Mensal",
@@ -18686,7 +18686,7 @@ const questoes = [
     "gabaritoComentado": "Os escoramentos devem ser inspecionados diariamente, conforme item 6.1."
   },
   {
-    "tema": "🧗NR 35 - Trabalho em Altura",
+    "tema": "NR 35🧗 - Trabalho em Altura",
     "pergunta": "O que deve ser feito com os elementos do Sistema de Proteção Individual Contra Quedas (SPIQ) que forem reprovados na inspeção por apresentarem defeitos ou deformações, de acordo com a NR-35?",
     "alternativa1": "Devem ser armazenados separadamente para possível reparo.",
     "alternativa2": "Devem ser inutilizados e descartados.",
@@ -18697,7 +18697,7 @@ const questoes = [
     "gabaritoComentado": "Elementos do SPIQ recusados por motivos de defeitos, degradação, deformação ou por motivo de terem sofrido impactos de queda, <b>devem ser inutilizados e descartados<b>."
   },
   {
-    "tema": "🧗NR 35 - Trabalho em Altura",
+    "tema": "NR 35🧗 - Trabalho em Altura",
     "pergunta": "Qual a recomendação da NR-35 em relação ao posicionamento do talabarte e do trava-quedas em um SPIQ de retenção de queda?",
     "alternativa1": "Devem ser posicionados de forma a permitir a maior distância de queda livre possível.",
     "alternativa2": "Não há recomendações específicas sobre o posicionamento.",
@@ -18708,7 +18708,7 @@ const questoes = [
     "gabaritoComentado": "O talabarte e o dispositivo trava-quedas devem ser posicionados de modo a <b>restringir a distância de queda livre<b> e de forma que, em caso de ocorrência de queda, o trabalhador <b>não colida com estrutura inferior<b>."
   },
   {
-    "tema": "🧗NR 35 - Trabalho em Altura",
+    "tema": "NR 35🧗 - Trabalho em Altura",
     "pergunta": "Quais são os tipos de inspeção que devem ser realizadas nos elementos do Sistema de Proteção Individual Contra Quedas (SPIQ), segundo a NR-35?",
     "alternativa1": "Inicial e final.",
     "alternativa2": "Inicial, rotineira e periódica.",
@@ -18719,7 +18719,7 @@ const questoes = [
     "gabaritoComentado": "A NR-35 define <b>3 (três) tipos de inspeções<b>: a inicial, a rotineira e a periódica."
   },
   {
-    "tema": "🧗NR 35 - Trabalho em Altura",
+    "tema": "NR 35🧗 - Trabalho em Altura",
     "pergunta": "Quais são os três tipos de Sistemas de Proteção Individual Contra Quedas (SPIQ) mencionados na NR-35?",
     "alternativa1": "Retenção de queda, trava-quedas e linha de vida.",
     "alternativa2": "Retenção de queda, posicionamento no trabalho e acesso por cordas.",
@@ -18730,7 +18730,7 @@ const questoes = [
     "gabaritoComentado": "O SPIQ pode ser utilizado para <b>retenção de queda<b>, <b>posicionamento no trabalho<b> e <b>acesso por cordas<b>."
   },
   {
-    "tema": "🧗NR 35 - Trabalho em Altura",
+    "tema": "NR 35🧗 - Trabalho em Altura",
     "pergunta": "Qual a exigência da NR-35 em relação à aptidão dos trabalhadores para trabalho em altura?",
     "alternativa1": "Apresentar atestado de bons antecedentes.",
     "alternativa2": "Não há exigências específicas além da experiência profissional.",
@@ -18741,7 +18741,7 @@ const questoes = [
     "gabaritoComentado": "A NR-35 exige que a organização avalie o <b>estado de saúde dos empregados<b> que exercem atividades de trabalho em altura, de acordo com o estabelecido na NR-07 (Programa de Controle Médico de Saúde Ocupacional), em especial pelo item 7.5.3, considerando as patologias que poderão ocasionar mal súbito e/ou queda de altura."
   },
   {
-    "tema": "🧗NR 35 - Trabalho em Altura",
+    "tema": "NR 35🧗 - Trabalho em Altura",
     "pergunta": "De acordo com a NR-35, qual a condição para que uma atividade seja considerada trabalho em altura?",
     "alternativa1": "Atividade realizada acima de 2 metros do nível inferior onde haja risco de queda.",
     "alternativa2": "Toda atividade realizada acima de 1,5 metros do nível inferior.",
@@ -18752,7 +18752,7 @@ const questoes = [
     "gabaritoComentado": "A NR-35 define trabalho em altura como toda atividade executada acima de <b>2 (dois) metros<b> do nível inferior, onde houver risco de queda."
   },
   {
-    "tema": "🧗NR 35 - Trabalho em Altura",
+    "tema": "NR 35🧗 - Trabalho em Altura",
     "pergunta": "Qual a condição para que um treinamento realizado há menos de dois anos possa ser aproveitado na mesma organização para trabalho em altura, conforme a NR-35 e a NR-1?",
     "alternativa1": "Se o treinamento anterior foi ministrado pelo mesmo instrutor.",
     "alternativa2": "Apenas se o trabalhador tiver a mesma função.",
@@ -18763,7 +18763,7 @@ const questoes = [
     "gabaritoComentado": "O treinamento realizado há menos de dois anos pode ser aproveitado na mesma organização desde que <b>o conteúdo e a carga horária requeridos no novo treinamento estejam compreendidos no treinamento anterior<b> e seja <b>validado pelo responsável técnico<b>."
   },
   {
-    "tema": "🧗NR 35 - Trabalho em Altura",
+    "tema": "NR 35🧗 - Trabalho em Altura",
     "pergunta": "Quem deve ministrar os treinamentos para trabalho em altura, de acordo com a NR-35?",
     "alternativa1": "Instrutores com comprovada proficiência no assunto, sob responsabilidade de profissional qualificado ou legalmente habilitado em segurança do trabalho.",
     "alternativa2": "Bombeiros civis ou militares.",
@@ -18774,7 +18774,7 @@ const questoes = [
     "gabaritoComentado": "Os treinamentos para trabalho em altura devem ser ministrados por <b>instrutores com comprovada proficiência no assunto<b>, sob a responsabilidade de <b>profissional qualificado ou legalmente habilitado<b> em segurança do trabalho."
   },
   {
-    "tema": "🧗NR 35 - Trabalho em Altura",
+    "tema": "NR 35🧗 - Trabalho em Altura",
     "pergunta": "Quem é o responsável por assegurar a realização da Análise de Risco (AR) e, quando aplicável, a emissão da Permissão de Trabalho (PT), conforme a NR-35?",
     "alternativa1": "A organização (empregador).",
     "alternativa2": "O profissional legalmente habilitado (PLH) em segurança do trabalho.",
@@ -18785,7 +18785,7 @@ const questoes = [
     "gabaritoComentado": "É responsabilidade da <b>organização<b> (empregador) assegurar a realização da Análise de Risco (AR) e, quando aplicável, a emissão da Permissão de Trabalho (PT)."
   },
   {
-    "tema": "🧗NR 35 - Trabalho em Altura",
+    "tema": "NR 35🧗 - Trabalho em Altura",
     "pergunta": "Segundo a NR-35, qual deve ser a carga horária mínima do treinamento inicial e periódico para trabalho em altura?",
     "alternativa1": "8 horas.",
     "alternativa2": "Depende do nível de risco da atividade.",
@@ -18796,7 +18796,7 @@ const questoes = [
     "gabaritoComentado": "A NR-35 estabelece que a carga horária mínima tanto para o <b>treinamento inicial<b> quanto para o <b>periódico<b> é de <b>8 horas<b>."
   },
   {
-    "tema": "🧗NR 35 - Trabalho em Altura",
+    "tema": "NR 35🧗 - Trabalho em Altura",
     "pergunta": "Qual a importância de se considerar o tempo de suspensão inerte do trabalhador em caso de queda durante o planejamento do resgate em trabalho em altura, conforme a NR-35 e o Manual?",
     "alternativa1": "Para calcular o custo total da operação de resgate.",
     "alternativa2": "Para determinar a cor da corda de resgate a ser utilizada.",
@@ -18807,7 +18807,7 @@ const questoes = [
     "gabaritoComentado": "Ficar pendurado pelo cinto de segurança pode ser perigoso devido à <b>prolongada suspensão<b>, sendo fundamental reduzir o tempo de suspensão inerte e realizar o resgate e tratamento o mais rápido possível."
   },
   {
-    "tema": "🧗NR 35 - Trabalho em Altura",
+    "tema": "NR 35🧗 - Trabalho em Altura",
     "pergunta": "Qual a validade da Permissão de Trabalho (PT) para trabalho em altura, conforme a NR-35?",
     "alternativa1": "Uma semana.",
     "alternativa2": "Validade limitada à duração da atividade, restrita ao turno ou à jornada de trabalho.",
@@ -18818,7 +18818,7 @@ const questoes = [
     "gabaritoComentado": "A NR-35 dispõe que a <b>PT tem validade limitada à duração da atividade<b>, restrita ao turno ou à jornada de trabalho."
   },
   {
-    "tema": "🧗NR 35 - Trabalho em Altura",
+    "tema": "NR 35🧗 - Trabalho em Altura",
     "pergunta": "Quais aspectos devem ser considerados na Análise de Risco (AR) para trabalho em altura, além dos riscos inerentes à atividade em altura?",
     "alternativa1": "Apenas o tipo de equipamento a ser utilizado.",
     "alternativa2": "Somente as condições climáticas.",
@@ -18829,7 +18829,7 @@ const questoes = [
     "gabaritoComentado": "Além dos riscos inerentes ao trabalho em altura, a AR deve considerar: o <b>risco de queda de materiais e ferramentas<b>; os <b>trabalhos simultâneos<b> que apresentem riscos específicos; os <b>riscos adicionais<b>; as <b>condições impeditivas<b>; as situações de emergência e o planejamento do resgate e primeiros socorros, entre outros."
   },
   {
-    "tema": "🧗NR 35 - Trabalho em Altura",
+    "tema": "NR 35🧗 - Trabalho em Altura",
     "pergunta": "Qual a periodicidade mínima recomendada para a realização da inspeção periódica dos Sistemas de Proteção Individual Contra Quedas (SPIQ), conforme a NR-35?",
     "alternativa1": "A cada dois anos.",
     "alternativa2": "Mensalmente.",
@@ -18840,7 +18840,7 @@ const questoes = [
     "gabaritoComentado": "A inspeção periódica do SPIQ deve ser realizada, <b>no mínimo, uma vez a cada doze meses<b>, podendo o intervalo ser reduzido em função do tipo e frequência de uso ou exposição a agentes agressivos."
   },
   {
-    "tema": "🧗NR 35 - Trabalho em Altura",
+    "tema": "NR 35🧗 - Trabalho em Altura",
     "pergunta": "O que deve ser considerado pelo fabricante ou importador de Equipamentos de Proteção Individual (EPI) para trabalho em altura em relação ao desempenho dos equipamentos, conforme a NR-35?",
     "alternativa1": "O preço de mercado dos equipamentos similares.",
     "alternativa2": "Apenas a durabilidade do material.",
@@ -18851,7 +18851,7 @@ const questoes = [
     "gabaritoComentado": "O fabricante ou o importador de EPI deve disponibilizar informações quanto ao desempenho dos equipamentos e os limites de uso, considerando a <b>massa total aplicada ao sistema (trabalhador e equipamentos)<b> e os demais aspectos relacionados, como a <b>distância de queda livre<b>, o <b>fator de queda<b> e a <b>zona livre de queda<b>."
   },
   {
-    "tema": "🧗NR 35 - Trabalho em Altura",
+    "tema": "NR 35🧗 - Trabalho em Altura",
     "pergunta": "Qual é a regra geral para a utilização de Sistemas de Proteção Contra Quedas (SPQ) em trabalhos em altura, conforme a NR-35?",
     "alternativa1": "A escolha do sistema é livre, desde que atenda às normas técnicas.",
     "alternativa2": "Priorizar o Sistema de Proteção Coletiva Contra Quedas (SPCQ).",
@@ -18862,7 +18862,7 @@ const questoes = [
     "gabaritoComentado": "Para proteção contra o risco de queda, a regra é que se utilize um <b>Sistema de Proteção Coletiva Contra Quedas – SPCQ<b>, que deverá ser projetado por um Profissional Legalmente Habilitado."
   },
   {
-    "tema": "🧗NR 35 - Trabalho em Altura",
+    "tema": "NR 35🧗 - Trabalho em Altura",
     "pergunta": "Segundo a NR-35, qual a prioridade a ser observada na adoção de medidas de proteção contra quedas?",
     "alternativa1": "Eliminação do risco de queda, sempre que possível.",
     "alternativa2": "Utilização de Equipamentos de Proteção Individual (EPI).",
@@ -18873,7 +18873,7 @@ const questoes = [
     "gabaritoComentado": "A NR-35 estabelece uma hierarquia das medidas de prevenção, sendo a prioridade <b>evitar o trabalho em altura<b>, sempre que existir meio alternativo de execução. Na impossibilidade, deve-se <b>eliminar o risco de queda<b> por meio de medidas de proteção coletiva."
   },
   {
-    "tema": "🧗NR 35 - Trabalho em Altura",
+    "tema": "NR 35🧗 - Trabalho em Altura",
     "pergunta": "O que deve ser assegurado pela organização antes de permitir o início de qualquer trabalho em altura, conforme a NR-35?",
     "alternativa1": "Apenas a emissão da Permissão de Trabalho (PT).",
     "alternativa2": "Que todos os trabalhadores tenham experiência prévia na função.",
@@ -18884,7 +18884,7 @@ const questoes = [
     "gabaritoComentado": "Antes de o trabalhador iniciar a atividade em altura, a organização deve assegurar a realização de <b>avaliação prévia das condições no local do trabalho<b>, contemplando normas e regulamentos aplicáveis, Análise de Risco (AR) e condições impeditivas, riscos potenciais e medidas de prevenção e controle."
   },
   {
-    "tema": "🧗NR 35 - Trabalho em Altura",
+    "tema": "NR 35🧗 - Trabalho em Altura",
     "pergunta": "Na organização do trabalho em altura, qual a importância da supervisão, segundo a NR-35?",
     "alternativa1": "Serve apenas para fiscalizar o tempo de execução da tarefa.",
     "alternativa2": "Não tem impacto na segurança da atividade.",
@@ -18895,7 +18895,7 @@ const questoes = [
     "gabaritoComentado": "Na fase da organização do trabalho em altura, uma <b>supervisão é fundamental e obrigatória<b>. A forma desta supervisão deve ser definida pela Análise de Risco (AR) ou pelo Procedimento Operacional (PO), de acordo com as peculiaridades da atividade."
   },
   {
-    "tema": "🧗NR 35 - Trabalho em Altura",
+    "tema": "NR 35🧗 - Trabalho em Altura",
     "pergunta": "O que é um talabarte, utilizado em Sistemas de Proteção Individual Contra Quedas (SPIQ), conforme a NR-35 e a Figura 4 da fonte?",
     "alternativa1": "Um equipamento de proteção para a cabeça.",
     "alternativa2": "Um dispositivo de ancoragem fixo na estrutura.",
@@ -18906,7 +18906,7 @@ const questoes = [
     "gabaritoComentado": "Um talabarte é um <b>elemento de ligação entre o cinto de segurança e um ponto de ancoragem<b> [133, Figura 4]."
   },
   {
-    "tema": "🧗NR 35 - Trabalho em Altura",
+    "tema": "NR 35🧗 - Trabalho em Altura",
     "pergunta": "Qual a definição de Análise de Risco (AR) para trabalho em altura, conforme o Manual da NR-35 citado na fonte?",
     "alternativa1": "Um inventário dos Equipamentos de Proteção Individual (EPIs) a serem utilizados.",
     "alternativa2": "Um procedimento para solicitar permissão para trabalho em altura.",
@@ -18917,7 +18917,7 @@ const questoes = [
     "gabaritoComentado": "Segundo o Manual da NR-35, AR é “<b>um método sistemático de exame e avaliação de todas as etapas e elementos de um determinado serviço que o trabalhador executará<b>”."
   },
   {
-    "tema": "🧗NR 35 - Trabalho em Altura",
+    "tema": "NR 35🧗 - Trabalho em Altura",
     "pergunta": "Qual a importância de se prever situações de emergência e procedimentos de resgate na Análise de Risco (AR) para trabalho em altura, conforme a NR-35?",
     "alternativa1": "Para transferir a responsabilidade em caso de acidentes.",
     "alternativa2": "Para dificultar a investigação de acidentes.",
@@ -18928,7 +18928,7 @@ const questoes = [
     "gabaritoComentado": "Na Análise de Riscos devem ser previstos os possíveis cenários de situações de emergência e respectivos procedimentos, além de recursos necessários para as respostas de resgate e primeiros socorros, visando <b>reduzir o tempo da suspensão inerte do trabalhador<b> e realizar o resgate e tratamento o mais rápido possível."
   },
   {
-    "tema": "🧗NR 35 - Trabalho em Altura",
+    "tema": "NR 35🧗 - Trabalho em Altura",
     "pergunta": "Segundo a NR-35, qual a responsabilidade do trabalhador em relação ao trabalho em altura?",
     "alternativa1": "Selecionar os Equipamentos de Proteção Individual (EPIs) que irá utilizar.",
     "alternativa2": "Apenas comparecer ao treinamento.",
@@ -18939,7 +18939,7 @@ const questoes = [
     "gabaritoComentado": "Embora a fonte não detalhe as responsabilidades do trabalhador na NR-35, é implícito que ele deve <b>cumprir as determinações e procedimentos de segurança<b> relacionados ao trabalho em altura, conforme as normas e orientações fornecidas."
   },
   {
-    "tema": "🧗NR 35 - Trabalho em Altura",
+    "tema": "NR 35🧗 - Trabalho em Altura",
     "pergunta": "Em atividades de trabalho em altura classificadas como não rotineiras, qual documento é exigido pela NR-35 para autorizar sua execução?",
     "alternativa1": "Registro no livro de ocorrências.",
     "alternativa2": "Lista de presença dos trabalhadores.",
@@ -18950,7 +18950,7 @@ const questoes = [
     "gabaritoComentado": "Para atividades não rotineiras em altura, é necessária a autorização da sua execução por meio de um <b>documento escrito, contendo o conjunto de medidas de controle que visam ao desenvolvimento de trabalho em altura seguro, além de medidas de emergência e resgate<b>, que é a Permissão de Trabalho (PT)."
   },
   {
-    "tema": "🧗NR 35 - Trabalho em Altura",
+    "tema": "NR 35🧗 - Trabalho em Altura",
     "pergunta": "Qual o objetivo principal do Sistema de Proteção Contra Quedas (SPQ), conforme a NR-35?",
     "alternativa1": "Facilitar a execução do trabalho em altura.",
     "alternativa2": "Reduzir os custos com segurança do trabalho.",
@@ -18961,7 +18961,7 @@ const questoes = [
     "gabaritoComentado": "O objetivo do Sistema de Proteção Contra Quedas (SPQ) é <b>impedir a ocorrência de quedas ou, caso ocorram, reduzir as suas consequências<b>."
   },
   {
-    "tema": "🧗NR 35 - Trabalho em Altura",
+    "tema": "NR 35🧗 - Trabalho em Altura",
     "pergunta": "Em um Sistema de Proteção Individual Contra Quedas (SPIQ) de retenção de queda, qual o limite máximo de força de impacto que deve ser transmitido ao trabalhador em caso de queda, conforme a NR-35?",
     "alternativa1": "5 kN.",
     "alternativa2": "6 kN.",
@@ -18972,7 +18972,7 @@ const questoes = [
     "gabaritoComentado": "O SPIQ deve ser selecionado de forma que a força de impacto transmitida ao trabalhador seja de, no máximo, <b>6 kN<b>, quando de uma eventual queda."
   },
   {
-    "tema": "🧗NR 35 - Trabalho em Altura",
+    "tema": "NR 35🧗 - Trabalho em Altura",
     "pergunta": "Qual a periodicidade mínima para a realização do treinamento periódico para trabalho em altura, conforme estabelece a NR-35?",
     "alternativa1": "Bienal (a cada dois anos).",
     "alternativa2": "A cada 18 meses.",
@@ -18983,7 +18983,7 @@ const questoes = [
     "gabaritoComentado": "A NR-35 define que o <b>treinamento periódico<b> deve ser realizado a cada <b>dois anos<b>."
   },
   {
-    "tema": "🧗NR 35 - Trabalho em Altura",
+    "tema": "NR 35🧗 - Trabalho em Altura",
     "pergunta": "Segundo a NR-35, o que deve ser previsto pela organização em relação aos meios e recursos necessários para primeiros socorros em trabalhos em altura?",
     "alternativa1": "Apenas a comunicação com o serviço médico local.",
     "alternativa2": "Um plano de comunicação de acidentes.",
@@ -18994,7 +18994,7 @@ const questoes = [
     "gabaritoComentado": "A NR-35, em consonância com a NR-01, dispõe que a organização deve prever os <b>meios e recursos necessários para os primeiros socorros, encaminhamento de acidentados e abandono de área<b>."
   },
   {
-    "tema": "🧗NR 35 - Trabalho em Altura",
+    "tema": "NR 35🧗 - Trabalho em Altura",
     "pergunta": "Qual documento é obrigatório ser elaborado para toda atividade de trabalho em altura, de acordo com a NR-35?",
     "alternativa1": "Análise de Risco (AR) e, quando aplicável, Permissão de Trabalho (PT).",
     "alternativa2": "Programa de Prevenção de Riscos Ambientais (PPRA).",
@@ -19005,7 +19005,7 @@ const questoes = [
     "gabaritoComentado": "A NR-35 determina que todo trabalho em altura deve ser precedido de <b>Análise de Risco (AR)<b> e, para atividades não rotineiras, também da <b>Permissão de Trabalho (PT)<b>."
   },
   {
-    "tema": "🧗NR 35 - Trabalho em Altura",
+    "tema": "NR 35🧗 - Trabalho em Altura",
     "pergunta": "O Sistema de Proteção Contra Quedas (SPQ) deve ser selecionado de acordo com qual critério principal, segundo a NR-35?",
     "alternativa1": "A norma técnica internacional mais recente.",
     "alternativa2": "A Análise de Risco (AR) e adequado à tarefa a ser executada.",
@@ -19016,7 +19016,7 @@ const questoes = [
     "gabaritoComentado": "O Sistema de Proteção Contra Quedas (SPQ) deve ser selecionado de acordo com a <b>Análise de Risco – AR e adequado à tarefa que será executada<b>."
   },
     {
-    "tema": "👨‍🌾NR 31 - Trabalho Rural",
+    "tema": "NR 31👨‍🌾 - Trabalho Rural",
     "pergunta": "1. De acordo com a Norma Regulamentadora nº 31 (NR-31), que trata da Segurança e Saúde no Trabalho na Agricultura, Pecuária, Silvicultura, Exploração Florestal e Aquicultura, qual é o seu objetivo primordial?",
     "alternativa1": "Definir os procedimentos para o transporte seguro de trabalhadores rurais em veículos adequados.",
     "alternativa2": "Estabelecer diretrizes para o uso correto de Equipamentos de Proteção Individual (EPI) no trabalho rural.",
@@ -19027,7 +19027,7 @@ const questoes = [
     "gabaritoComentado": "O objetivo da NR-31 é estabelecer os preceitos para a organização e o ambiente de trabalho rural, tornando compatível o planejamento e o desenvolvimento das atividades com a prevenção de acidentes e doenças relacionadas ao trabalho rural."
   },
   {
-    "tema": "👨‍🌾NR 31 - Trabalho Rural",
+    "tema": "NR 31👨‍🌾 - Trabalho Rural",
     "pergunta": "2. Conforme a NR-31, qual é a regra geral quanto à aplicação de outras Normas Regulamentadoras (NRs) às atividades de agricultura, pecuária, silvicultura, exploração florestal e aquicultura?",
     "alternativa1": "As NRs relativas a trabalho em altura (NR-35) e espaços confinados (NR-33) são as únicas, além da NR-31, que se aplicam ao trabalho rural.",
     "alternativa2": "Aplica-se somente o disposto na NR-31, salvo exceções previstas no próprio texto da Norma.",
@@ -19038,7 +19038,7 @@ const questoes = [
     "gabaritoComentado": "A regra geral é que para as atividades da agricultura, pecuária, silvicultura, exploração florestal e aquicultura aplica-se somente o disposto na NR-31, salvo algumas exceções previstas no próprio texto da NR-31."
   },
   {
-    "tema": "👨‍🌾NR 31 - Trabalho Rural",
+    "tema": "NR 31👨‍🌾 - Trabalho Rural",
     "pergunta": "3. No contexto das responsabilidades do empregador rural ou equiparado, a NR-31 estabelece diversas obrigações. Assinale a opção que NÃO constitui uma responsabilidade do empregador, segundo a Norma:",
     "alternativa1": "Garantir que os trabalhadores rurais cumpram as determinações sobre as formas seguras de desenvolver suas atividades.",
     "alternativa2": "Realizar periodicamente avaliações ambientais nos locais de trabalho e informar os resultados aos trabalhadores.",
@@ -19049,7 +19049,7 @@ const questoes = [
     "gabaritoComentado": "Cumprir as determinações sobre as formas seguras de desenvolver suas atividades e adotar as medidas de prevenção determinadas pelo empregador é uma obrigação do trabalhador rural, não do empregador."
   },
   {
-    "tema": "👨‍🌾NR 31 - Trabalho Rural",
+    "tema": "NR 31👨‍🌾 - Trabalho Rural",
     "pergunta": "4. A NR-31 prevê a criação da Comissão Interna de Prevenção de Acidentes e de Assédio do Trabalho Rural (CIPATR). Além das medidas gerais de prevenção de acidentes e doenças, a Norma impõe medidas específicas para a prevenção e o combate ao assédio sexual e outras formas de violência no trabalho. Qual das alternativas abaixo NÃO corresponde a uma medida obrigatória para este fim, segundo a NR-31?",
     "alternativa1": "Criação de um canal de denúncia exclusivo para casos de assédio e violência, gerido por entidade externa à empresa.",
     "alternativa2": "Inclusão de regras de conduta sobre assédio sexual e violência nas normas internas da empresa, com ampla divulgação.",
@@ -19060,7 +19060,7 @@ const questoes = [
     "gabaritoComentado": "As medidas obrigatórias incluem a inclusão de regras de conduta nas normas internas, fixação de procedimentos para denúncias (garantindo anonimato na denúncia), e realização de ações de capacitação a cada 12 meses. A criação de um canal de denúncia externo gerido por outra entidade não é mencionada como obrigatória nos requisitos apresentados."
   },
   {
-    "tema": "👨‍🌾NR 31 - Trabalho Rural",
+    "tema": "NR 31👨‍🌾 - Trabalho Rural",
     "pergunta": "5. A NR-31 estabelece requisitos para a capacitação e treinamento dos trabalhadores rurais. Em relação ao aproveitamento de conteúdos de treinamentos ministrados pelo mesmo empregador, qual condição é NECESSÁRIA para que este aproveitamento seja válido?",
     "alternativa1": "O trabalhador deve apresentar um certificado de proficiência emitido por órgão externo.",
     "alternativa2": "O treinamento anterior deve ter sido realizado há menos de 5 anos.",
@@ -19071,7 +19071,7 @@ const questoes = [
     "gabaritoComentado": "Para o aproveitamento de conteúdos de treinamentos na mesma organização, é necessário que o conteúdo e a carga horária requeridos no novo treinamento estejam compreendidos no treinamento anterior, que tenha sido ministrado em prazo inferior ao estabelecido na NR-31 ou há menos de 2 anos, e seja validado pelo responsável técnico do treinamento."
   },
   {
-    "tema": "👨‍🌾NR 31 - Trabalho Rural",
+    "tema": "NR 31👨‍🌾 - Trabalho Rural",
     "pergunta": "6. A NR-31 introduz o conceito de Dispositivos de Proteção Pessoal, diferenciando-os dos Equipamentos de Proteção Individual (EPI). Qual a principal característica que distingue um Dispositivo de Proteção Pessoal de um EPI, segundo a NR-31?",
     "alternativa1": "Os EPIs destinam-se apenas à proteção contra riscos físicos, enquanto os Dispositivos de Proteção Pessoal abrangem riscos biológicos e químicos.",
     "alternativa2": "Os Dispositivos de Proteção Pessoal são de uso opcional, enquanto os EPIs são obrigatórios.",
@@ -19082,7 +19082,7 @@ const questoes = [
     "gabaritoComentado": "A diferença entre EPIs e Dispositivos de Proteção Pessoal, conforme a NR-31, é que os EPIs possuem Certificado de Aprovação (CA), enquanto os Dispositivos de Proteção Pessoal não o possuem."
   },
   {
-    "tema": "👨‍🌾NR 31 - Trabalho Rural",
+    "tema": "NR 31👨‍🌾 - Trabalho Rural",
     "pergunta": "7. No que se refere ao transporte de trabalhadores rurais, a NR-31 estabelece requisitos para os veículos utilizados. Qual das alternativas a seguir NÃO apresenta um requisito obrigatório para os veículos, conforme a Norma?",
     "alternativa1": "Serem dotados de cobertura que proteja os trabalhadores contra intempéries.",
     "alternativa2": "Possuírem, em local visível, todas as instruções de segurança cabíveis aos passageiros.",
@@ -19093,7 +19093,7 @@ const questoes = [
     "gabaritoComentado": "Os requisitos listados incluem cobertura contra intempéries, pisos antiderrapantes na carroceria com guardas laterais, compartimento separado para ferramentas/materiais perigosos, e instruções de segurança visíveis aos passageiros. A exigência de bancos com encosto e cinto de segurança para todos os passageiros não está expressa no trecho fornecido."
   },
   {
-    "tema": "👨‍🌾NR 31 - Trabalho Rural",
+    "tema": "NR 31👨‍🌾 - Trabalho Rural",
     "pergunta": "8. Sobre o uso de agrotóxicos, aditivos, adjuvantes e produtos afins no trabalho rural, a NR-31 apresenta diversas vedações. É expressamente vedado, segundo a Norma:",
     "alternativa1": "A manipulação de agrotóxicos em desacordo com as indicações do rótulo e bula.",
     "alternativa2": "O transporte de agrotóxicos em veículos específicos para este fim.",
@@ -19104,7 +19104,7 @@ const questoes = [
     "gabaritoComentado": "A NR-31 veda expressamente a manipulação de quaisquer agrotóxicos, aditivos, adjuvantes e produtos afins em desacordo com a receita e as indicações do rótulo e bula."
   },
   {
-    "tema": "👨‍🌾NR 31 - Trabalho Rural",
+    "tema": "NR 31👨‍🌾 - Trabalho Rural",
     "pergunta": "9. Em relação às condições sanitárias e de conforto no trabalho rural, a NR-31 estabelece que o empregador deve disponibilizar aos trabalhadores áreas de vivência. Quais instalações devem compor essas áreas de vivência, conforme a Norma?",
     "alternativa1": "Instalações sanitárias, refeitórios, alojamentos, local para preparo de alimentos e lavanderias.",
     "alternativa2": "Alojamentos, lavanderias, área de convivência e refeitório.",
@@ -19115,7 +19115,7 @@ const questoes = [
     "gabaritoComentado": "Para proporcionar adequadas condições sanitárias e de conforto, a NR-31 determina que o empregador rural deve disponibilizar áreas de vivência compostas de instalações sanitárias, locais para refeição, alojamentos, local adequado para preparo de alimentos (exceto quando preparados fora da propriedade) e lavanderias."
   },
   {
-    "tema": "👨‍🌾NR 31 - Trabalho Rural",
+    "tema": "NR 31👨‍🌾 - Trabalho Rural",
     "pergunta": "10. A NR-31 aborda as instalações sanitárias nas frentes de trabalho rural. O que a Norma exige que esteja presente nas instalações sanitárias disponibilizadas em todas as frentes de trabalho?",
     "alternativa1": "Chuveiro e vaso sanitário com descarga hídrica.",
     "alternativa2": "Lavatório, mictório e área para higienização de mãos.",
@@ -19126,7 +19126,7 @@ const questoes = [
     "gabaritoComentado": "A NR 31 prevê que o empregador disponibilize instalações sanitárias em todas as frentes de trabalho, compostas por vaso sanitário e lavatório."
   },
   {
-    "tema": "👨‍🌾NR 31 - Trabalho Rural",
+    "tema": "NR 31👨‍🌾 - Trabalho Rural",
     "pergunta": "11. De acordo com a NR-31, em relação às condições de conforto no trabalho rural, especialmente no que se refere à hidratação, qual a exigência quanto ao fornecimento de água?",
     "alternativa1": "A água fornecida deve ser mineral, em embalagens lacradas.",
     "alternativa2": "O empregador deve fornecer água filtrada e fresca apenas nos locais de refeição.",
@@ -19137,7 +19137,7 @@ const questoes = [
     "gabaritoComentado": "O empregador rural ou equiparado deve garantir o fornecimento de água potável e fresca em todos os locais de trabalho, inclusive as frentes de trabalho."
   },
   {
-    "tema": "👨‍🌾NR 31 - Trabalho Rural",
+    "tema": "NR 31👨‍🌾 - Trabalho Rural",
     "pergunta": "12. No que diz respeito ao trabalho em espaços confinados no âmbito rural, a NR-31, em complemento à NR-33, estabelece a necessidade de um Plano de Resgate. Qual dos itens abaixo NÃO é um componente obrigatório deste Plano de Resgate?",
     "alternativa1": "Cálculo do Índice de Bulbo Úmido Termômetro de Globo (IBUTG) nos espaços confinados.",
     "alternativa2": "Especificação dos meios e equipamentos disponíveis na unidade para resgate.",
@@ -19148,7 +19148,7 @@ const questoes = [
     "gabaritoComentado": "O Plano de Resgate deve conter identificação dos perigos, designação e dimensionamento da equipe, tempo de resposta, seleção de técnicas e equipamentos de resgate, especificação dos meios disponíveis (equipamentos) e previsão de simulados. O cálculo do IBUTG está relacionado à avaliação da exposição ao calor, não sendo um componente obrigatório do Plano de Resgate em Espaços Confinados."
   },
   {
-    "tema": "👨‍🌾NR 31 - Trabalho Rural",
+    "tema": "NR 31👨‍🌾 - Trabalho Rural",
     "pergunta": "13. A NR-31 remete à aplicação da NR-6 - Equipamentos de Proteção Individual (EPI). De acordo com a NR-6, conforme citado no contexto da NR-31, qual a exigência fundamental para que um EPI, de fabricação nacional ou importado, possa ser posto à venda ou utilizado?",
     "alternativa1": "Deve apresentar selo de conformidade do fabricante.",
     "alternativa2": "Deve ser acompanhado de manual de instruções em língua portuguesa.",
@@ -19159,7 +19159,7 @@ const questoes = [
     "gabaritoComentado": "Conforme a NR-6, citada na NR-31, o EPI, de fabricação nacional ou importado, só pode ser posto à venda ou utilizado com a indicação do Certificado de Aprovação (CA), expedido pelo órgão de âmbito nacional competente, em matéria de segurança e saúde no trabalho."
   },
   {
-    "tema": "👨‍🌾NR 31 - Trabalho Rural",
+    "tema": "NR 31👨‍🌾 - Trabalho Rural",
     "pergunta": "14. A NR-31 lista alguns dispositivos de proteção pessoal específicos para as atividades rurais, que não são enquadrados como EPI. Assinale a opção que apresenta um desses dispositivos, conforme listado na Norma:",
     "alternativa1": "Perneira contra picadas de animais peçonhentos.",
     "alternativa2": "Óculos de segurança com proteção lateral.",
@@ -19170,7 +19170,7 @@ const questoes = [
     "gabaritoComentado": "A NR-31 lista os dispositivos de proteção pessoal, que não são EPIs, incluindo perneira contra picadas de animais peçonhentos."
   },
   {
-    "tema": "👨‍🌾NR 31 - Trabalho Rural",
+    "tema": "NR 31👨‍🌾 - Trabalho Rural",
     "pergunta": "15. No treinamento e capacitação dos trabalhadores rurais, a NR-31 permite que sejam ministrados em diferentes modalidades. Qual modalidade é OBRIGATÓRIA para o conteúdo prático do treinamento ou capacitação?",
     "alternativa1": "Pode ser em qualquer modalidade, a critério do empregador.",
     "alternativa2": "Ensino à distância ou semipresencial, conforme o Anexo II da NR-1.",
@@ -19181,7 +19181,7 @@ const questoes = [
     "gabaritoComentado": "A NR-31 permite modalidades presencial, semipresencial ou EaD para treinamentos, desde que atendidos os requisitos da NR-1, Anexo II. No entanto, o conteúdo prático do treinamento ou capacitação deve ser ministrado na modalidade presencial."
   },
   {
-    "tema": "👨‍🌾NR 31 - Trabalho Rural",
+    "tema": "NR 31👨‍🌾 - Trabalho Rural",
     "pergunta": "16. A NR-31 trata das edificações rurais. Qual o objetivo principal dos requisitos estabelecidos neste capítulo da Norma?",
     "alternativa1": "Determinar o tipo de material a ser utilizado nas edificações.",
     "alternativa2": "Estabelecer padrões estéticos para as construções rurais.",
@@ -19192,7 +19192,7 @@ const questoes = [
     "gabaritoComentado": "A NR-31 trata, no capítulo 31.16, das edificações rurais, definindo requisitos visando preservar a segurança e saúde dos trabalhadores durante as atividades nas edificações rurais."
   },
   {
-    "tema": "👨‍🌾NR 31 - Trabalho Rural",
+    "tema": "NR 31👨‍🌾 - Trabalho Rural",
     "pergunta": "17. Segundo a NR-31, as ferramentas manuais e seus acessórios utilizados pelos trabalhadores rurais devem ser fornecidos gratuitamente pelo empregador. Além disso, qual outra característica é exigida para essas ferramentas?",
     "alternativa1": "Devem ser seguras e eficientes para os fins a que se destinam, com condições anatômicas.",
     "alternativa2": "Devem possuir Certificado de Aprovação (CA).",
@@ -19203,7 +19203,7 @@ const questoes = [
     "gabaritoComentado": "As ferramentas manuais devem ser fornecidas gratuitamente, substituídas quando necessário e serem seguras e eficientes para os fins a que se destinam, com condições anatômicas."
   },
   {
-    "tema": "👨‍🌾NR 31 - Trabalho Rural",
+    "tema": "NR 31👨‍🌾 - Trabalho Rural",
     "pergunta": "18. Conforme a NR-31, a manipulação de agrotóxicos, aditivos, adjuvantes e produtos afins é vedada em algumas situações, independentemente do registro e autorização pelos órgãos governamentais competentes e do cumprimento das indicações do rótulo e bula. É vedada a manipulação por:",
     "alternativa1": "Trabalhadores com menos de 2 anos de experiência na atividade.",
     "alternativa2": "Trabalhadores menores de 18 anos, maiores de 60 anos e mulheres gestantes ou em período de lactação.",
@@ -19214,7 +19214,7 @@ const questoes = [
     "gabaritoComentado": "A NR-31 veda expressamente a manipulação de agrotóxicos, aditivos, adjuvantes e produtos afins por menores de 18 anos, por maiores de 60 anos e por mulheres gestantes e em período de lactação."
   },
   {
-    "tema": "👨‍🌾NR 31 - Trabalho Rural",
+    "tema": "NR 31👨‍🌾 - Trabalho Rural",
     "pergunta": "19. A NR-31 estabelece os direitos dos trabalhadores rurais em matéria de segurança e saúde no trabalho. Qual dos itens abaixo NÃO é um direito do trabalhador rural, segundo a Norma?",
     "alternativa1": "Ter ambientes de trabalho seguros e saudáveis.",
     "alternativa2": "Ser consultado, por meio de seus representantes na CIPATR, sobre as medidas de prevenção.",
@@ -19225,7 +19225,7 @@ const questoes = [
     "gabaritoComentado": "Os direitos dos trabalhadores rurais incluem ter ambientes seguros e saudáveis, ser consultado via CIPATR, escolher sua representação em SST, e receber instruções/orientação em SST. Recusar injustificadamente as medidas de prevenção determinadas pelo empregador constitui ato faltoso, conforme as obrigações do trabalhador."
   },
   {
-    "tema": "👨‍🌾NR 31 - Trabalho Rural",
+    "tema": "NR 31👨‍🌾 - Trabalho Rural",
     "pergunta": "20. No contexto da aplicação da NR-31, para os alojamentos disponibilizados aos trabalhadores rurais, a Norma exige que sejam atendidos requisitos específicos. Qual das alternativas a seguir NÃO é um requisito para os alojamentos, conforme a NR-31?",
     "alternativa1": "Possuir sistema de refrigeração central para manter a temperatura constante.",
     "alternativa2": "Serem mantidos em condições adequadas de conservação, higiene e limpeza.",
@@ -19236,7 +19236,7 @@ const questoes = [
     "gabaritoComentado": "Os requisitos para alojamentos incluem camas com colchões higienizados, instalações sanitárias e lavanderia, conservação/higiene/limpeza, e área mínima/ventilação. A exigência de sistema de refrigeração central não está prevista no trecho da norma apresentado sobre alojamentos."
   },
   {
-    "tema": "👨‍🌾NR 31 - Trabalho Rural",
+    "tema": "NR 31👨‍🌾 - Trabalho Rural",
     "pergunta": "21. Em relação ao conteúdo programático mínimo para a capacitação sobre prevenção de acidentes com agrotóxicos para trabalhadores em exposição direta, a NR-31 exige diversos temas. Qual item deve OBRIGATORIAMENTE fazer parte desse treinamento?",
     "alternativa1": "Métodos de marketing e venda de produtos agrícolas.",
     "alternativa2": "Histórico da evolução dos agrotóxicos no Brasil.",
@@ -19247,7 +19247,7 @@ const questoes = [
     "gabaritoComentado": "O treinamento sobre prevenção de acidentes com agrotóxicos deve incluir, entre outros, procedimentos de emergência e primeiros socorros em caso de intoxicação. As demais alternativas não são requisitos obrigatórios para este treinamento."
   },
   {
-    "tema": "👨‍🌾NR 31 - Trabalho Rural",
+    "tema": "NR 31👨‍🌾 - Trabalho Rural",
     "pergunta": "22. A NR-31 estabelece que, ao término dos treinamentos ou capacitações, deve ser emitido um certificado. Qual informação DEVE constar neste certificado, conforme a Norma?",
     "alternativa1": "A avaliação de desempenho do trabalhador no treinamento.",
     "alternativa2": "O resultado da avaliação de riscos da atividade para a qual o treinamento foi ministrado.",
@@ -19258,7 +19258,7 @@ const questoes = [
     "gabaritoComentado": "O certificado deve conter o nome do trabalhador, o conteúdo programático, a carga horária, a data, o local de realização do treinamento, o nome e a qualificação dos instrutores, e a assinatura do responsável técnico."
   },
   {
-    "tema": "👨‍🌾NR 31 - Trabalho Rural",
+    "tema": "NR 31👨‍🌾 - Trabalho Rural",
     "pergunta": "23. No que tange aos riscos biológicos no trabalho rural, a NR-31 e a literatura técnica associada mencionam exemplos de agentes de risco biológicos. Qual das opções abaixo NÃO é citada como um exemplo de agente de risco biológico no trato de animais?",
     "alternativa1": "Radiação solar.",
     "alternativa2": "Fungos.",
@@ -19269,7 +19269,7 @@ const questoes = [
     "gabaritoComentado": "No trato de animais, são comuns microrganismos (bactérias, fungos, protozoários e vírus), toxinas e parasitas, incluindo os príons. A radiação solar é classificada como um agente de risco físico, relacionado à exposição ao calor."
   },
   {
-    "tema": "👨‍🌾NR 31 - Trabalho Rural",
+    "tema": "NR 31👨‍🌾 - Trabalho Rural",
     "pergunta": "24. A NR-31, ao tratar de locais para refeição, estabelece requisitos para garantir condições higiênico-sanitárias e de conforto. Qual das seguintes opções é uma exigência para os locais de refeição, segundo a Norma?",
     "alternativa1": "Devem ter pisos revestidos com carpetes.",
     "alternativa2": "Devem ser localizados a uma distância máxima de 50 metros das frentes de trabalho.",
@@ -19280,7 +19280,7 @@ const questoes = [
     "gabaritoComentado": "Os locais para refeição devem ter pisos e paredes limpas e conservadas, oferecer condições de higiene e conforto, ser dotados de lavatórios exclusivos para o pessoal que manipula alimentos (nos locais de preparo). O trecho específico sobre locais para refeição lista outros requisitos como ventilação, iluminação, assentos, mesas e água potável."
   },
   {
-    "tema": "👨‍🌾NR 31 - Trabalho Rural",
+    "tema": "NR 31👨‍🌾 - Trabalho Rural",
     "pergunta": "25. Em relação aos riscos relacionados à ergonomia no trabalho rural, a NR-31 e a literatura técnica associada identificam diversos fatores. Qual atividade é citada como exemplo de esforço com sobrecarga muscular e repetitivo, ou permanência de posturas inadequadas?",
     "alternativa1": "Trabalho administrativo em escritório rural.",
     "alternativa2": "Colheita de cana-de-açúcar.",
@@ -19291,7 +19291,7 @@ const questoes = [
     "gabaritoComentado": "A atividade rural frequentemente abrange esforços com sobrecarga muscular e repetitivos, como a colheita de cana-de-açúcar, transporte manual de sacolas com frutas e trabalho realizado no nível do solo, determinando flexões contínuas do tronco."
   },
   {
-    "tema": "👨‍🌾NR 31 - Trabalho Rural",
+    "tema": "NR 31👨‍🌾 - Trabalho Rural",
     "pergunta": "26. A NR-31 aborda a questão dos armários para guarda de vestuário. Em quais situações devem ser fornecidos armários de compartimentos duplos ou dois armários simples?",
     "alternativa1": "Quando houver necessidade de guarda de itens de valor pessoal do trabalhador.",
     "alternativa2": "Em locais de trabalho com mais de 10 trabalhadores.",
@@ -19302,7 +19302,7 @@ const questoes = [
     "gabaritoComentado": "Armários de compartimentos duplos ou dois armários simples devem ser fornecidos nas atividades laborais em que haja exposição e manuseio de material infectante, substâncias tóxicas, irritantes ou aerodispersóides, bem como naquelas em que haja contato com substâncias que provoquem deposição de poeiras que impregnem a pele e as roupas do trabalhador."
   },
   {
-    "tema": "👨‍🌾NR 31 - Trabalho Rural",
+    "tema": "NR 31👨‍🌾 - Trabalho Rural",
     "pergunta": "27. No que se refere à aptidão dos trabalhadores para atividades em espaços confinados, a NR-31 (em relação à NR-33) exige avaliação específica. Além da aptidão física e mental, qual aspecto adicional deve ser considerado e consignado no Atestado de Saúde Ocupacional (ASO), nos termos da NR-07?",
     "alternativa1": "A experiência prévia do trabalhador em espaços confinados.",
     "alternativa2": "O nível de escolaridade do trabalhador.",
@@ -19313,7 +19313,7 @@ const questoes = [
     "gabaritoComentado": "Além da capacitação, os trabalhadores designados para atividades em espaços confinados devem ser avaliados quanto à aptidão física e mental, considerando os fatores de riscos psicossociais. A aptidão deve estar consignada no Atestado de Saúde Ocupacional - ASO, nos termos da NR-07."
   },
   {
-    "tema": "👨‍🌾NR 31 - Trabalho Rural",
+    "tema": "NR 31👨‍🌾 - Trabalho Rural",
     "pergunta": "28. A NR-31 estabelece que o aproveitamento de conteúdos de treinamentos ministrados pelo mesmo empregador, realizado há menos de 2 anos, pode ser aproveitado, desde que validado pelo responsável técnico. A validade do novo treinamento, nesses casos, passa a considerar:",
     "alternativa1": "A data de validação pelo responsável técnico.",
     "alternativa2": "A data de realização do treinamento aproveitado (mais antigo).",
@@ -19324,7 +19324,7 @@ const questoes = [
     "gabaritoComentado": "Conforme a NR-1, referenciada na NR-31, a validade do novo treinamento passa a considerar a data do treinamento mais antigo aproveitado."
   },
   {
-    "tema": "👨‍🌾NR 31 - Trabalho Rural",
+    "tema": "NR 31👨‍🌾 - Trabalho Rural",
     "pergunta": "29. No que se refere à aplicação da Norma Regulamentadora nº 24 (NR-24) - Condições Sanitárias e de Conforto nos Locais de Trabalho - às atividades rurais, a NR-31 determina que:",
     "alternativa1": "A NR-31 e a NR-24 se aplicam simultaneamente para todas as condições sanitárias e de conforto.",
     "alternativa2": "A aplicação da NR-24 é opcional, a critério do empregador rural.",
@@ -19335,7 +19335,7 @@ const questoes = [
     "gabaritoComentado": "Em nenhum momento a NR-31 prevê a aplicação da NR-24. Seguindo a regra de aplicação da NR-31 (que somente se aplicam outras NRs quando há remissão expressa), conclui-se que a NR-24 não se aplica ao trabalho rural, para condições sanitárias e de conforto, aplicando-se exclusivamente a NR-31 neste caso."
   },
   {
-    "tema": "👨‍🌾NR 31 - Trabalho Rural",
+    "tema": "NR 31👨‍🌾 - Trabalho Rural",
     "pergunta": "30. Qual a definição de 'Água potável', segundo o glossário da NR-31?",
     "alternativa1": "Água mineral engarrafada, fornecida diariamente aos trabalhadores.",
     "alternativa2": "Água tratada quimicamente e armazenada em reservatórios.",
@@ -19346,7 +19346,7 @@ const questoes = [
     "gabaritoComentado": "De acordo com o glossário da NR 31, água potável é aquela destinada à ingestão, preparação e produção de alimentos, que atenda ao padrão de potabilidade estabelecido pelas normas governamentais."
   },
     {
-    "tema": "🚽NR 24 - Instalações Sanitárias",
+    "tema": "NR 24🚽 - Instalações Sanitárias",
     "pergunta": "Conforme a Norma Regulamentadora nº 24 (NR 24), que estabelece as condições sanitárias e de conforto nos locais de trabalho, a quem se aplica esta norma regulamentadora após sua revisão pela Portaria SEPRT nº 1.066, de 23 de setembro de 2019?",
     "alternativa1": "Somente às empresas de construção civil localizadas em áreas urbanas.",
     "alternativa2": "Às organizações de qualquer tipo de atividade econômica urbana que possua trabalhadores em seus quadros.",
@@ -19357,7 +19357,7 @@ const questoes = [
     "gabaritoComentado": "A fonte afirma que a NR 24, em sua revisão, estabelece as condições mínimas de higiene e de conforto a serem observadas pelas organizações de qualquer tipo de atividade econômica urbana que possua trabalhadores em seus quadros."
   },
   {
-    "tema": "🚽NR 24 - Instalações Sanitárias",
+    "tema": "NR 24🚽 - Instalações Sanitárias",
     "pergunta": "Segundo a NR 24, qual é o critério principal para o dimensionamento das instalações de higiene e conforto nas organizações?",
     "alternativa1": "O número de trabalhadores que necessitam utilizar as instalações.",
     "alternativa2": "O número total de equipamentos e máquinas existentes no local.",
@@ -19368,7 +19368,7 @@ const questoes = [
     "gabaritoComentado": "A fonte indica que o dimensionamento das instalações das organizações para a higiene e o conforto dos trabalhadores deve ser feito em função do número de trabalhadores que necessitam utilizá-las."
   },
   {
-    "tema": "🚽NR 24 - Instalações Sanitárias",
+    "tema": "NR 24🚽 - Instalações Sanitárias",
     "pergunta": "No que se refere aos vestiários, a NR 24 estabelece a necessidade de assentos. Qual deve ser o número desses assentos?",
     "alternativa1": "Deve ser um número fixo de 10 assentos por vestiário.",
     "alternativa2": "Apenas um número mínimo de 5 assentos por vestiário é suficiente, independentemente do número de trabalhadores.",
@@ -19379,7 +19379,7 @@ const questoes = [
     "gabaritoComentado": "A fonte estabelece que os vestiários devem possuir assentos (bancos) em número compatível com o de trabalhadores."
   },
   {
-    "tema": "🚽NR 24 - Instalações Sanitárias",
+    "tema": "NR 24🚽 - Instalações Sanitárias",
     "pergunta": "Sobre o uso de armários em vestiários conforme a NR 24, em quais situações é obrigatório o fornecimento de armários de compartimentos duplos ou dois armários simples?",
     "alternativa1": "Somente para trabalhadores que necessitam guardar Equipamentos de Proteção Individual (EPI).",
     "alternativa2": "Para todos os trabalhadores, independentemente da atividade, para garantir a guarda segura de pertences.",
@@ -19390,7 +19390,7 @@ const questoes = [
     "gabaritoComentado": "A fonte determina que, nas atividades laborais em que haja exposição e manuseio de material infectante, substâncias tóxicas, irritantes ou aerodispersóides, bem como naquelas em que haja contato com substâncias que provoquem deposição de poeiras que impregnem a pele e as roupas do trabalhador, devem ser fornecidos armários de compartimentos duplos ou dois armários simples."
   },
   {
-    "tema": "🚽NR 24 - Instalações Sanitárias",
+    "tema": "NR 24🚽 - Instalações Sanitárias",
     "pergunta": "A NR 24 dispensa a necessidade de fornecer armários de compartimentos duplos ou dois armários simples sob qual condição?",
     "alternativa1": "Quando o estabelecimento possuir lavanderia própria para os uniformes.",
     "alternativa2": "Quando os trabalhadores concordarem em compartilhar armários.",
@@ -19401,7 +19401,7 @@ const questoes = [
     "gabaritoComentado": "A fonte estabelece que a NR 24 dispensa a necessidade de fornecimento de 2 (dois) armários simples ou armário duplo para as organizações que promovam a higienização diária de vestimentas ou EPIs contaminados com substâncias tóxicas, irritantes ou que provoquem sujidade intensa."
   },
   {
-    "tema": "🚽NR 24 - Instalações Sanitárias",
+    "tema": "NR 24🚽 - Instalações Sanitárias",
     "pergunta": "Para locais de trabalho sem instalações permanentes, como frentes de trabalho temporárias ou unidades móveis, a NR 24 exige a disponibilização de instalações sanitárias. Quais características mínimas essas instalações devem ter?",
     "alternativa1": "É aceitável que os trabalhadores utilizem instalações sanitárias em estabelecimentos próximos, sem necessidade de transporte fornecido pela organização.",
     "alternativa2": "Devem ser instalações fixas de alvenaria com vaso sanitário e lavatório.",
@@ -19412,7 +19412,7 @@ const questoes = [
     "gabaritoComentado": "A fonte detalha os requisitos para instalações sanitárias em locais de trabalho sem instalações permanentes, incluindo a possibilidade de módulos móveis com as características listadas na alternativa E."
   },
   {
-    "tema": "🚽NR 24 - Instalações Sanitárias",
+    "tema": "NR 24🚽 - Instalações Sanitárias",
     "pergunta": "No que diz respeito aos locais para refeição, a NR 24 estabelece requisitos para garantir a higiene e o conforto. Qual dos itens abaixo NÃO é um requisito para esses locais?",
     "alternativa1": "Dispor de água limpa para higienização.",
     "alternativa2": "Ter recipientes para lixo, com tampas.",
@@ -19423,7 +19423,7 @@ const questoes = [
     "gabaritoComentado": "A fonte lista os requisitos para locais para refeição. O uso de copo coletivo é expressamente proibido, tornando a alternativa D incorreta de acordo com a norma."
   },
   {
-    "tema": "🚽NR 24 - Instalações Sanitárias",
+    "tema": "NR 24🚽 - Instalações Sanitárias",
     "pergunta": "Em locais de trabalho com atividades que demandam exposição a material infectante, substâncias tóxicas ou irritantes, qual tipo de armário deve ser fornecido aos trabalhadores, de acordo com a NR 24?",
     "alternativa1": "Armários com ventilação forçada.",
     "alternativa2": "Armários coletivos para até 5 trabalhadores.",
@@ -19434,7 +19434,7 @@ const questoes = [
     "gabaritoComentado": "A fonte especifica que, para atividades com exposição e manuseio de material infectante, substâncias tóxicas, irritantes, ou que causem sujidade intensa, devem ser fornecidos armários de compartimentos duplos ou dois armários simples."
   },
   {
-    "tema": "🚽NR 24 - Instalações Sanitárias",
+    "tema": "NR 24🚽 - Instalações Sanitárias",
     "pergunta": "Qual a condição para que o uso dos armários em vestiários possa ocorrer em sistema de rodízio entre os usuários, conforme a NR 24?",
     "alternativa1": "Quando os armários não forem utilizados para a guarda de EPI e vestimentas expostas a material infectante, substâncias tóxicas, irritantes ou que provoquem sujidade.",
     "alternativa2": "Independentemente da finalidade do armário, o rodízio é sempre permitido.",
@@ -19445,7 +19445,7 @@ const questoes = [
     "gabaritoComentado": "A fonte permite o uso de armários em sistema de rodízio, exceto nos casos em que estes sejam utilizados para a guarda de Equipamentos de Proteção Individual - EPI e de vestimentas expostas a material infectante, substâncias tóxicas, irritantes ou que provoquem sujidade."
   },
   {
-    "tema": "🚽NR 24 - Instalações Sanitárias",
+    "tema": "NR 24🚽 - Instalações Sanitárias",
     "pergunta": "Em relação à água potável nos locais de refeição, a NR 24 proíbe expressamente:",
     "alternativa1": "O uso de copo coletivo.",
     "alternativa2": "O uso de copos descartáveis.",
@@ -19456,7 +19456,7 @@ const questoes = [
     "gabaritoComentado": "A fonte estabelece que os locais para refeição devem dispor de água potável em condições higiênicas, sendo proibido o uso de copo coletivo."
   },
   {
-    "tema": "🚽NR 24 - Instalações Sanitárias",
+    "tema": "NR 24🚽 - Instalações Sanitárias",
     "pergunta": "Para as instalações sanitárias localizadas em frentes de trabalho temporárias ou unidades móveis, a NR 24 proíbe o uso de:",
     "alternativa1": "Sistema de ventilação.",
     "alternativa2": "Toalhas coletivas.",
@@ -19467,7 +19467,7 @@ const questoes = [
     "gabaritoComentado": "A fonte lista as características que as instalações sanitárias móveis devem ter, e especifica a proibição do uso de toalhas coletivas, exigindo material para lavagem e enxugo das mãos."
   },
   {
-    "tema": "🚽NR 24 - Instalações Sanitárias",
+    "tema": "NR 24🚽 - Instalações Sanitárias",
     "pergunta": "A NR 24 se aplica às atividades rurais?",
     "alternativa1": "Depende do estado onde a atividade rural é realizada.",
     "alternativa2": "Sim, mas apenas nos casos em que a NR 31 fizer remissão expressa à NR 24.",
@@ -19478,7 +19478,7 @@ const questoes = [
     "gabaritoComentado": "As fontes esclarecem que a NR 24 se aplica a atividades urbanas, enquanto a NR 31 se aplica ao trabalho rural, e a NR 31 não remete à NR 24 para condições sanitárias e de conforto no campo."
   },
   {
-    "tema": "🚽NR 24 - Instalações Sanitárias",
+    "tema": "NR 24🚽 - Instalações Sanitárias",
     "pergunta": "Os locais para refeição devem estar protegidos contra as intempéries e em condições de higiene. Além disso, a NR 24 exige que eles:",
     "alternativa1": "Permitam a guarda e conservação de refeições em condições higiênicas.",
     "alternativa2": "Disponham de equipamentos de ginástica leve para uso durante o intervalo.",
@@ -19489,7 +19489,7 @@ const questoes = [
     "gabaritoComentado": "A fonte lista entre os requisitos para locais de refeição a disposição de local ou recipiente para guarda e conservação de refeições em condições higiênicas."
   },
   {
-    "tema": "🚽NR 24 - Instalações Sanitárias",
+    "tema": "NR 24🚽 - Instalações Sanitárias",
     "pergunta": "Qual a exigência da NR 24 em relação ao sistema de trancamento dos armários individuais (simples e/ou duplos) nos vestiários?",
     "alternativa1": "Somente os armários duplos precisam ter sistema de trancamento.",
     "alternativa2": "Pode ser substituído pela vigilância permanente do vestiário.",
@@ -19500,7 +19500,7 @@ const questoes = [
     "gabaritoComentado": "A fonte estabelece que os vestiários devem possuir armários individuais simples e/ou duplos com sistema de trancamento."
   },
   {
-    "tema": "🚽NR 24 - Instalações Sanitárias",
+    "tema": "NR 24🚽 - Instalações Sanitárias",
     "pergunta": "Para trabalhadores cujas vestimentas ou EPIs são expostos a material infectante, substâncias tóxicas, irritantes ou que provoquem sujidade, a NR 24 permite o uso dos armários em sistema de rodízio?",
     "alternativa1": "Sim, se a organização fornecer armários duplos.",
     "alternativa2": "Sim, desde que haja higienização diária dos armários.",
@@ -19511,7 +19511,7 @@ const questoes = [
     "gabaritoComentado": "A fonte explicitamente exclui a possibilidade de uso de armários em sistema de rodízio quando estes são utilizados para a guarda de vestimentas ou EPIs expostos a material infectante, substâncias tóxicas, irritantes ou que provoquem sujidade."
   },
   {
-    "tema": "🚽NR 24 - Instalações Sanitárias",
+    "tema": "NR 24🚽 - Instalações Sanitárias",
     "pergunta": "Em locais de trabalho sem instalações permanentes, como frentes de trabalho, as instalações sanitárias móveis, conforme a NR 24, devem possuir material para lavagem e enxugo das mãos. O que é proibido para o enxugo?",
     "alternativa1": "O uso de toalhas coletivas.",
     "alternativa2": "A secagem natural das mãos.",
@@ -19522,7 +19522,7 @@ const questoes = [
     "gabaritoComentado": "A fonte estabelece que as instalações sanitárias móveis devem possuir material para lavagem e enxugo das mãos, sendo proibido o uso de toalhas coletivas."
   },
   {
-    "tema": "🚽NR 24 - Instalações Sanitárias",
+    "tema": "NR 24🚽 - Instalações Sanitárias",
     "pergunta": "Os locais para refeição devem ter capacidade para atender aos trabalhadores com assentos suficientes, observadas as escalas de intervalos para refeição. As mesas, por sua vez, devem possuir características específicas. Quais características são exigidas para as superfícies das mesas?",
     "alternativa1": "Devem ser de madeira maciça e polida.",
     "alternativa2": "Devem ser de vidro temperado.",
@@ -19533,7 +19533,7 @@ const questoes = [
     "gabaritoComentado": "A fonte determina que os locais para refeição devem ter mesas com superfícies ou coberturas lisas, laváveis ou descartáveis."
   },
   {
-    "tema": "🚽NR 24 - Instalações Sanitárias",
+    "tema": "NR 24🚽 - Instalações Sanitárias",
     "pergunta": "Em atividades que exigem que o estabelecimento disponibilize chuveiro, o dimensionamento dos vestiários deve considerar:",
     "alternativa1": "O tipo de risco químico presente.",
     "alternativa2": "O grau de risco da atividade econômica principal.",
@@ -19544,7 +19544,7 @@ const questoes = [
     "gabaritoComentado": "A fonte informa que os vestiários devem ser dimensionados em função do número de trabalhadores que necessitam utilizá-los, o que se aplica também quando a atividade exige chuveiro."
   },
   {
-    "tema": "🚽NR 24 - Instalações Sanitárias",
+    "tema": "NR 24🚽 - Instalações Sanitárias",
     "pergunta": "Considerando o escopo da NR 24, qual afirmação sobre sua aplicação é correta?",
     "alternativa1": "Tem aplicação restrita a estabelecimentos comerciais com mais de 10 funcionários.",
     "alternativa2": "É aplicável apenas a indústrias de transformação.",
@@ -19555,7 +19555,7 @@ const questoes = [
     "gabaritoComentado": "A fonte define o escopo da NR 24 como estabelecendo as condições mínimas de higiene e conforto para as organizações de qualquer tipo de atividade econômica urbana que possua trabalhadores."
   },
   {
-    "tema": "🚽NR 24 - Instalações Sanitárias",
+    "tema": "NR 24🚽 - Instalações Sanitárias",
     "pergunta": "Para garantir as condições de higiene nos locais de trabalho sem instalações permanentes, as instalações sanitárias móveis devem ter higienização:",
     "alternativa1": "A cada uso.",
     "alternativa2": "Diária.",
@@ -19566,7 +19566,7 @@ const questoes = [
     "gabaritoComentado": "A fonte exige que as instalações sanitárias móveis tenham garantida a higienização diária dos módulos."
   },
   {
-    "tema": "🚽NR 24 - Instalações Sanitárias",
+    "tema": "NR 24🚽 - Instalações Sanitárias",
     "pergunta": "Em relação aos recipientes para lixo nos locais para refeição, a NR 24 estabelece que eles devem possuir:",
     "alternativa1": "Volume mínimo de 50 litros.",
     "alternativa2": "Rodinhas para fácil movimentação.",
@@ -19577,7 +19577,7 @@ const questoes = [
     "gabaritoComentado": "A fonte lista entre os requisitos para locais para refeição a exigência de recipientes para lixo, com tampas."
   },
   {
-    "tema": "🚽NR 24 - Instalações Sanitárias",
+    "tema": "NR 24🚽 - Instalações Sanitárias",
     "pergunta": "Qual o tipo de água que deve ser disponibilizada nos locais para refeição, em condições higiênicas, conforme a NR 24?",
     "alternativa1": "Água mineral.",
     "alternativa2": "Água potável.",
@@ -19588,7 +19588,7 @@ const questoes = [
     "gabaritoComentado": "A fonte determina que os locais para refeição devem dispor de água potável em condições higiênicas."
   },
   {
-    "tema": "🚽NR 24 - Instalações Sanitárias",
+    "tema": "NR 24🚽 - Instalações Sanitárias",
     "pergunta": "Segundo a NR 24, o que é necessário para que as instalações sanitárias móveis localizadas em frentes de trabalho atendam aos requisitos da norma?",
     "alternativa1": "A norma não prevê instalações sanitárias móveis, apenas fixas.",
     "alternativa2": "Devem estar localizadas a no máximo 100 metros dos locais de trabalho.",
@@ -19599,7 +19599,7 @@ const questoes = [
     "gabaritoComentado": "A fonte descreve as características exigidas para as instalações sanitárias móveis, que incluem módulos com tratamento químico e outros elementos mencionados na alternativa D."
   },
   {
-    "tema": "🚽NR 24 - Instalações Sanitárias",
+    "tema": "NR 24🚽 - Instalações Sanitárias",
     "pergunta": "Quando é dispensada a necessidade de fornecimento de armários de compartimentos duplos ou dois armários simples, mesmo em atividades que envolvam sujidade intensa, de acordo com a NR 24?",
     "alternativa1": "Quando houver rodízio de turnos e uso compartilhado dos armários.",
     "alternativa2": "Quando o número de trabalhadores expostos for inferior a 5.",
@@ -19610,7 +19610,7 @@ const questoes = [
     "gabaritoComentado": "A fonte dispensa a necessidade de armários duplos ou dois simples para as organizações que promovam a higienização diária de vestimentas ou EPIs contaminados com substâncias que provoquem sujidade intensa."
   },
   {
-    "tema": "🚽NR 24 - Instalações Sanitárias",
+    "tema": "NR 24🚽 - Instalações Sanitárias",
     "pergunta": "De acordo com a NR 24, os vestiários devem possuir armários individuais. Qual requisito é essencial para esses armários?",
     "alternativa1": "Serem pintados na cor branca.",
     "alternativa2": "Possuírem espelho na parte interna da porta.",
@@ -19621,7 +19621,7 @@ const questoes = [
     "gabaritoComentado": "A fonte estabelece que os vestiários devem possuir armários individuais simples e/ou duplos com sistema de trancamento."
   },
   {
-    "tema": "🚽NR 24 - Instalações Sanitárias",
+    "tema": "NR 24🚽 - Instalações Sanitárias",
     "pergunta": "Qual das seguintes instituições NÃO é diretamente contemplada pela aplicação da Norma Regulamentadora nº 24?",
     "alternativa1": "Uma fábrica de móveis em área urbana.",
     "alternativa2": "Uma propriedade rural que cultiva grãos.",
@@ -19632,7 +19632,7 @@ const questoes = [
     "gabaritoComentado": "A fonte indica que a NR 24 se aplica a organizações de atividade econômica urbana. A fonte esclarece que para o trabalho rural se aplica a NR 31, e a NR 24 não se aplica ao trabalho rural."
   },
   {
-    "tema": "🚽NR 24 - Instalações Sanitárias",
+    "tema": "NR 24🚽 - Instalações Sanitárias",
     "pergunta": "Nos locais para refeição, além da água potável, a NR 24 exige que haja água limpa para qual finalidade?",
     "alternativa1": "Para limpeza dos pisos.",
     "alternativa2": "Para lavagem dos alimentos crus.",
@@ -19643,7 +19643,7 @@ const questoes = [
     "gabaritoComentado": "A fonte lista entre os requisitos para locais para refeição a disposição de água limpa para higienização."
   },
   {
-    "tema": "🚽NR 24 - Instalações Sanitárias",
+    "tema": "NR 24🚽 - Instalações Sanitárias",
     "pergunta": "Conforme a NR 24, como devem ser as mesas nos locais de refeição para garantir as condições de higiene?",
     "alternativa1": "Devem ter superfícies lisas, laváveis ou descartáveis.",
     "alternativa2": "Devem ser revestidas com material antiderrapante.",
@@ -19654,7 +19654,7 @@ const questoes = [
     "gabaritoComentado": "A fonte especifica que as mesas nos locais para refeição devem ter superfícies ou coberturas lisas, laváveis ou descartáveis."
   },
   {
-    "tema": "🚽NR 24 - Instalações Sanitárias",
+    "tema": "NR 24🚽 - Instalações Sanitárias",
     "pergunta": "A NR 24 determina que o dimensionamento das instalações de higiene e conforto deve ser baseado no número de trabalhadores que as utilizam. Isso inclui:",
     "alternativa1": "Todos os trabalhadores presentes no turno de maior contingente.",
     "alternativa2": "Apenas os trabalhadores do setor administrativo.",
@@ -19665,7 +19665,7 @@ const questoes = [
     "gabaritoComentado": "Embora a fonte apenas diga 'número de trabalhadores que necessitam utilizá-los', o dimensionamento lógico para atender a demanda real deve considerar o pico de uso, que geralmente ocorre no turno com maior número de empregados. A norma visa garantir que as instalações sejam suficientes para a população de trabalhadores que as utilizarão durante suas jornadas."
   },
   {
-    "tema": "🚽NR 24 - Instalações Sanitárias",
+    "tema": "NR 24🚽 - Instalações Sanitárias",
     "pergunta": "Em locais de trabalho sem instalações permanentes, a NR 24 exige que as instalações sanitárias, sejam fixas ou móveis, sejam compostas por:",
     "alternativa1": "Vaso sanitário e lavatório.",
     "alternativa2": "Chuveiro e vaso sanitário.",
@@ -19676,7 +19676,7 @@ const questoes = [
     "gabaritoComentado": "A fonte determina que o empregador disponibilize instalações sanitárias em todas as frentes de trabalho, compostas por vaso sanitário e lavatório."
   },
   {
-    "tema": "🌾💊Trabalho rural e agravos à saúde",
+    "tema": "Trabalho rural e agravos à saúde🌾💊",
     "pergunta": "1. De acordo com a NR-31, no que se refere ao Programa de Gerenciamento de Riscos no Trabalho Rural (PGRTR), cabe ao empregador rural, inicialmente, identificar os agentes de riscos e adotar medidas para as necessidades e peculiaridades de sua atividade rural. Nesse contexto, assinale a opção CORRETA sobre como o empregador deve proceder para realizar essa identificação e adoção de medidas.",
     "alternativa1": "Com base exclusivamente na experiência dos trabalhadores mais antigos, sem necessidade de consulta a literatura técnica.",
     "alternativa2": "Utilizando apenas informações fornecidas por órgãos governamentais, sem necessidade de profissionais qualificados.",
@@ -19687,7 +19687,7 @@ const questoes = [
     "gabaritoComentado": "O texto da NR-31, no capítulo 'Trabalho Rural e Agravos à Saúde', especifica que cabe ao empregador rural, inicialmente, identificar os agentes de riscos e adotar medidas para as necessidades e peculiaridades de sua atividade rural, com o apoio de literatura técnica e profissionais qualificados."
   },
   {
-    "tema": "🌾💊Trabalho rural e agravos à saúde",
+    "tema": "Trabalho rural e agravos à saúde🌾💊",
     "pergunta": "2. A Norma Regulamentadora nº 31 (NR-31) estabelece os preceitos a serem observados na organização e no ambiente de trabalho rural, visando compatibilizar o planejamento e o desenvolvimento das atividades do setor com a prevenção de acidentes e doenças relacionadas ao trabalho. Sobre as obrigações do empregador rural, assinale a opção CORRETA.",
     "alternativa1": "Garantir que os trabalhadores rurais cumpram suas determinações sobre as formas seguras de desenvolver suas atividades apenas por meio de ordens de serviço verbais.",
     "alternativa2": "Informar aos trabalhadores apenas sobre as situações de riscos mais graves decorrentes do trabalho, sem detalhar as medidas de prevenção.",
@@ -19698,7 +19698,7 @@ const questoes = [
     "gabaritoComentado": "O texto da NR-31 especifica que é obrigação do empregador rural informar aos trabalhadores as situações de riscos decorrentes do trabalho e as medidas de prevenção implantadas, inclusive em relação a novas tecnologias adotadas e os resultados das avaliações ambientais realizadas."
   },
   {
-    "tema": "🌾💊Trabalho rural e agravos à saúde",
+    "tema": "Trabalho rural e agravos à saúde🌾💊",
     "pergunta": "3. O trabalho rural, devido às suas características, pode expor os trabalhadores a diversos riscos ergonômicos. Conforme abordado na NR-31, qual das opções a seguir apresenta exemplos de atividades rurais que frequentemente envolvem riscos ergonômicos como sobrecarga muscular e repetitivos, bem como permanência de posturas inadequadas?",
     "alternativa1": "Colheita de cana-de-açúcar, transporte manual de sacolas com frutas e trabalho realizado no nível do solo.",
     "alternativa2": "Operação de tratores de grande porte e máquinas agrícolas automatizadas.",
@@ -19709,7 +19709,7 @@ const questoes = [
     "gabaritoComentado": "O texto da NR-31 cita explicitamente a colheita de cana-de-açúcar, o transporte manual de sacolas com frutas e o trabalho realizado no nível do solo como exemplos de atividades que frequentemente envolvem esforços com sobrecarga muscular e repetitivos, além de permanência de posturas inadeônicas."
   },
   {
-    "tema": "🌾💊Trabalho rural e agravos à saúde",
+    "tema": "Trabalho rural e agravos à saúde🌾💊",
     "pergunta": "4. A Comissão Interna de Prevenção de Acidentes e de Assédio do Trabalho Rural (CIPATR), nos termos da NR-31, possui um papel relevante na prevenção de acidentes e doenças relacionadas ao trabalho, assim como no combate ao assédio e outras formas de violência. Em relação às medidas de prevenção e combate ao assédio sexual e outras formas de violência, as organizações obrigadas a constituir CIPATR devem adotar diversas ações. Assinale a opção CORRETA sobre uma dessas medidas obrigatórias.",
     "alternativa1": "Realização de ações de capacitação, orientação e sensibilização sobre assédio e violência apenas para a alta gestão da empresa.",
     "alternativa2": "Inclusão de regras de conduta sobre assédio e violência nas normas internas da empresa, sem necessidade de divulgação aos empregados.",
@@ -19720,7 +19720,7 @@ const questoes = [
     "gabaritoComentado": "Conforme a NR-31, as organizações obrigadas a constituir CIPATR devem fixar procedimentos para recebimento e acompanhamento de denúncias, para apuração dos fatos e, quando for o caso, para aplicação de sanções administrativas, garantindo o anonimato da pessoa denunciante."
   },
   {
-    "tema": "🌾💊Trabalho rural e agravos à saúde",
+    "tema": "Trabalho rural e agravos à saúde🌾💊",
     "pergunta": "5. Os trabalhadores rurais possuem direitos em matéria de segurança e saúde no trabalho, conforme estabelecido na NR-31. Um desses direitos é o de serem consultados, por meio de seus representantes na CIPATR, sobre as medidas de prevenção que serão adotadas pelo empregador. Além disso, o trabalhador rural tem a obrigação de cumprir determinadas ações para garantir sua segurança e saúde. Qual das alternativas a seguir apresenta uma obrigação do trabalhador rural de acordo com a NR-31?",
     "alternativa1": "Submeter-se aos exames médicos previstos na NR-31, sendo esta uma recusa injustificada passível de constituir ato faltoso.",
     "alternativa2": "Negar a adoção de medidas de prevenção determinadas pelo empregador caso discorde de sua efetividade.",
@@ -19731,7 +19731,7 @@ const questoes = [
     "gabaritoComentado": "O texto da NR-31 estabelece que cabe ao trabalhador rural adotar as medidas de prevenção determinadas pelo empregador, em conformidade com esta Norma Regulamentadora, sob pena de constituir ato faltoso à recusa injustificada. Também é obrigação submeter-se aos exames médicos."
   },
   {
-    "tema": "🌾💊Trabalho rural e agravos à saúde",
+    "tema": "Trabalho rural e agravos à saúde🌾💊",
     "pergunta": "6. A capacitação e o treinamento dos trabalhadores rurais são aspectos importantes abordados na NR-31 para a prevenção de agravos à saúde. Sobre a realização desses treinamentos, a norma prevê diferentes modalidades. Assinale a opção que indica as modalidades em que os treinamentos ou capacitações podem ser ministrados, conforme a NR-31.",
     "alternativa1": "Exclusivamente na modalidade presencial, para garantir a participação e o acompanhamento.",
     "alternativa2": "Presencial, semipresencial ou de ensino à distância, desde que atendidos os requisitos operacionais, administrativos, tecnológicos e de estruturação pedagógica previstos no Anexo II, da Norma Regulamentadora nº 1.",
@@ -19742,7 +19742,7 @@ const questoes = [
     "gabaritoComentado": "Conforme a NR-31, os treinamentos ou capacitações podem ser ministrados nas modalidades presencial, semipresencial ou de ensino à distância, desde que atendidos os requisitos previstos no Anexo II da NR-1."
   },
   {
-    "tema": "🌾💊Trabalho rural e agravos à saúde",
+    "tema": "Trabalho rural e agravos à saúde🌾💊",
     "pergunta": "7. As áreas de vivência no trabalho rural, conforme a NR-31, devem proporcionar adequadas condições sanitárias e de conforto aos trabalhadores. Sobre a composição obrigatória dessas áreas de vivência, assinale a opção CORRETA.",
     "alternativa1": "Instalações sanitárias, locais para refeição e área de descanso ao ar livre.",
     "alternativa2": "Locais para refeição, alojamentos e posto de enfermagem com profissional em tempo integral.",
@@ -19753,7 +19753,7 @@ const questoes = [
     "gabaritoComentado": "A NR-31 determina que o empregador rural deve disponibilizar aos trabalhadores áreas de vivência compostas por: instalações sanitárias; locais para refeição; alojamentos; local adequado para preparo de alimentos, exceto quando os alimentos forem preparados fora da propriedade; e lavanderias."
   },
   {
-    "tema": "🌾💊Trabalho rural e agravos à saúde",
+    "tema": "Trabalho rural e agravos à saúde🌾💊",
     "pergunta": "8. O aproveitamento de conteúdos de treinamentos realizados pelo trabalhador rural é uma possibilidade prevista na NR-31 para otimizar o processo de capacitação. Para que esse aproveitamento seja válido, algumas condições devem ser atendidas. Assinale a alternativa CORRETA sobre uma dessas condições.",
     "alternativa1": "O conteúdo e a carga horária requeridos no novo treinamento devem estar compreendidos no treinamento anterior.",
     "alternativa2": "O treinamento anterior pode ter sido ministrado a qualquer tempo, independentemente da periodicidade estabelecida na norma.",
@@ -19764,7 +19764,7 @@ const questoes = [
     "gabaritoComentado": "O texto da NR-31 especifica que é permitido o aproveitamento de conteúdos de treinamentos ministrados pelo mesmo empregador desde que o conteúdo e a carga horária requeridos no novo treinamento estejam compreendidos no treinamento anterior. Outras condições incluem o prazo do treinamento anterior e a validação por responsável técnico."
   },
   {
-    "tema": "🌾💊Trabalho rural e agravos à saúde",
+    "tema": "Trabalho rural e agravos à saúde🌾💊",
     "pergunta": "9. A NR-31, ao tratar das medidas de proteção pessoal, faz distinção entre Equipamentos de Proteção Individual (EPI) e Dispositivos de Proteção Pessoal. Uma característica fundamental que diferencia um EPI de um Dispositivo de Proteção Pessoal, conforme a norma, é a posse do Certificado de Aprovação (C.A.). Assinale a opção CORRETA sobre o C.A. em relação a EPIs e Dispositivos de Proteção Pessoal.",
     "alternativa1": "Tanto EPIs quanto Dispositivos de Proteção Pessoal exigem Certificado de Aprovação (C.A.) para sua utilização.",
     "alternativa2": "Dispositivos de Proteção Pessoal possuem Certificado de Aprovação (C.A.), enquanto EPIs não necessitam deste certificado no trabalho rural.",
@@ -19775,7 +19775,7 @@ const questoes = [
     "gabaritoComentado": "O texto da NR-31 esclarece que EPIs possuem Certificado de Aprovação (C.A.), que garante que o equipamento cumpre os requisitos de proteção, enquanto os Dispositivos de Proteção Pessoal, embora tenham finalidade de proteção, não possuem C.A., pois não existe metodologia aplicável para testes e obtenção do C.A. para o uso prescrito na NR-31."
   },
   {
-    "tema": "🌾💊Trabalho rural e agravos à saúde",
+    "tema": "Trabalho rural e agravos à saúde🌾💊",
     "pergunta": "10. A NR-31 estabelece a obrigatoriedade do fornecimento gratuito de Equipamentos de Proteção Individual (EPI) aos trabalhadores rurais, nos termos da NR-6. Isso significa que a NR-6, que trata de EPI, é aplicável ao trabalho rural. Além do fornecimento, a NR-6 impõe diversas responsabilidades à organização em relação aos EPIs. Qual das alternativas a seguir NÃO é uma responsabilidade da organização em relação aos EPIs, conforme a NR-6, que se aplica ao trabalho rural?",
     "alternativa1": "Adquirir somente o aprovado pelo órgão de âmbito nacional competente, em matéria de segurança e saúde no trabalho.",
     "alternativa2": "Orientar e treinar o empregado sobre o uso adequado do EPI.",
@@ -19786,7 +19786,7 @@ const questoes = [
     "gabaritoComentado": "A NR-6 determina que a organização é responsável por registrar o fornecimento de EPI, mas oferece liberalidade quanto ao método, permitindo o uso de livros, fichas ou sistema eletrônico (inclusive biométrico), desde que este último permita a extração de relatórios. A opção D restringe o método de registro de forma incorreta."
   },
   {
-    "tema": "🌾💊Trabalho rural e agravos à saúde",
+    "tema": "Trabalho rural e agravos à saúde🌾💊",
     "pergunta": "11. O manejo de agrotóxicos, aditivos, adjuvantes e produtos afins no trabalho rural é regulamentado na NR-31 devido aos riscos associados à saúde dos trabalhadores. As embalagens desses produtos contêm informações importantes em rótulos e bulas. Assinale a opção CORRETA sobre a importância e o conteúdo dessas informações, de acordo com a NR-31.",
     "alternativa1": "Rótulos e bulas fornecem apenas informações sobre o modo de aplicação e a classificação toxicológica, sendo as demais informações de menor importância.",
     "alternativa2": "Rótulos e bulas apresentam informações importantes como classificação toxicológica, instruções de uso, informações sobre proteção à saúde humana, precauções, sintomas de intoxicação e tratamento, dados ambientais, armazenamento, transporte e descarte, e telefone de emergência.",
@@ -19797,7 +19797,7 @@ const questoes = [
     "gabaritoComentado": "O texto da NR-31 detalha o conteúdo importante dos rótulos e bulas de agrotóxicos, incluindo classificação toxicológica, instruções de uso, modo de ação e aplicação, informações de proteção à saúde humana, precauções, dados químicos e toxicológicos, sintomas e sinais clínicos, tratamento em caso de intoxicação, contraindicações, efeitos agudo e crônico, dados ambientais, armazenamento, transporte, descarte e telefone de emergência. A leitura atenta dessas informações é fundamental, sendo vedada a manipulação em desacordo com elas."
   },
   {
-    "tema": "🌾💊Trabalho rural e agravos à saúde",
+    "tema": "Trabalho rural e agravos à saúde🌾💊",
     "pergunta": "12. As ferramentas manuais são amplamente utilizadas nas atividades do trabalho rural. A NR-31 estabelece requisitos para o fornecimento e as características dessas ferramentas, visando garantir a segurança e a saúde dos trabalhadores e prevenir agravos decorrentes de seu uso. Assinale a opção CORRETA sobre as exigências da NR-31 em relação às ferramentas manuais no trabalho rural.",
     "alternativa1": "As ferramentas manuais podem ser fornecidas de forma onerosa aos trabalhadores, desde que o valor seja acessível.",
     "alternativa2": "As ferramentas manuais devem ser substituídas apenas em caso de quebra total, permitindo o uso com pequenos defeitos.",
@@ -19808,7 +19808,7 @@ const questoes = [
     "gabaritoComentado": "A NR-31 determina que as ferramentas manuais com seus acessórios, utilizadas pelos trabalhadores rurais, devem ser fornecidas gratuitamente pelos empregadores e serem substituídas sempre que for necessário ou estiverem com defeito. Elas também devem ser seguras, eficientes e possuir condições anatômicas adequadas."
   },
   {
-    "tema": "🌾💊Trabalho rural e agravos à saúde",
+    "tema": "Trabalho rural e agravos à saúde🌾💊",
     "pergunta": "13. No que tange aos Dispositivos de Proteção Pessoal (DPP) no trabalho rural, a NR-31 lista especificamente quais são esses dispositivos e para quais finalidades se destinam, destacando que eles não possuem Certificado de Aprovação (C.A.). Assinale a opção que apresenta um Dispositivo de Proteção Pessoal listado na NR-31 e sua respectiva finalidade.",
     "alternativa1": "Capacete de segurança com jugular, contra impactos na cabeça.",
     "alternativa2": "Óculos de segurança, contra projeção de partículas.",
@@ -19819,7 +19819,7 @@ const questoes = [
     "gabaritoComentado": "O texto da NR-31 lista os dispositivos de proteção pessoal e suas finalidades. Entre eles, estão o chapéu ou boné, tipo árabe ou legionário, contra o sol. Os demais itens listados nas alternativas (capacete, óculos, luvas, protetor auditivo) são exemplos clássicos de Equipamentos de Proteção Individual (EPI) que necessitam de C.A., conforme a NR-6."
   },
   {
-    "tema": "🌾💊Trabalho rural e agravos à saúde",
+    "tema": "Trabalho rural e agravos à saúde🌾💊",
     "pergunta": "14. As condições sanitárias e de conforto no trabalho rural são tratadas na NR-31. A norma enfatiza que, para essas condições, aplica-se exclusivamente a NR-31, não sendo aplicável a NR-24, que trata das condições sanitárias e de conforto para atividades em geral. Considerando as instalações sanitárias nas frentes de trabalho rural, assinale a opção CORRETA de acordo com a NR-31.",
     "alternativa1": "O empregador rural deve disponibilizar instalações sanitárias em todas as frentes de trabalho, compostas por vaso sanitário e lavatório.",
     "alternativa2": "As instalações sanitárias nas frentes de trabalho são obrigatórias apenas para atividades que envolvem o uso de agrotóxicos.",
@@ -19830,7 +19830,7 @@ const questoes = [
     "gabaritoComentado": "O texto da NR-31 estabelece que o empregador rural deve disponibilizar instalações sanitárias em todas as frentes de trabalho, compostas por vaso sanitário e lavatório. A norma distingue requisitos para instalações fixas e móveis, mas a composição básica (vaso sanitário e lavatório) na frente de trabalho é uma exigência geral."
   },
   {
-    "tema": "🌾💊Trabalho rural e agravos à saúde",
+    "tema": "Trabalho rural e agravos à saúde🌾💊",
     "pergunta": "15. No trabalho rural, a prevenção de agravos à saúde relacionados ao calor em atividades a céu aberto é importante. A NR-31 destaca a exposição ao calor e seus possíveis efeitos fisiológicos. Qual das alternativas apresenta exemplos de efeitos fisiológicos relacionados ao calor, conforme citado no guia de orientações gerais referenciado pela NR-31?",
     "alternativa1": "Cefaleia, insônia e irritabilidade.",
     "alternativa2": "Problemas de visão, tontura e desmaio.",
@@ -19841,7 +19841,7 @@ const questoes = [
     "gabaritoComentado": "O texto da NR-31, ao tratar dos riscos físicos como a exposição ao calor, cita que o Guia de orientações gerais 'Exposição ao calor em trabalhos a céu aberto' elaborado pela FUNDACENTRO (2024, p. 13) apresenta em detalhes uma série de efeitos fisiológicos relacionados ao calor, como as câimbras musculares, síncope ou tontura, exaustão por calor e insolação (choque hipertérmico)."
   },
   {
-    "tema": "🌾💊Trabalho rural e agravos à saúde",
+    "tema": "Trabalho rural e agravos à saúde🌾💊",
     "pergunta": "16. No que se refere aos Dispositivos de Proteção Pessoal (DPP) no trabalho rural, a NR-31 prevê o fornecimento de determinados itens com finalidades específicas, mesmo que não possuam Certificado de Aprovação (C.A.). Assinale a opção que lista corretamente alguns exemplos de DPP e suas finalidades, conforme a NR-31.",
     "alternativa1": "Touca descartável para proteção biológica e cinto de segurança tipo paraquedista para trabalho em altura.",
     "alternativa2": "Máscara facial contra poeiras e luvas impermeáveis para manuseio de produtos químicos.",
@@ -19852,7 +19852,7 @@ const questoes = [
     "gabaritoComentado": "O texto da NR-31 lista os dispositivos de proteção pessoal. Entre eles estão: perneira contra picadas de animais peçonhentos e protetor solar para proteção da exposição à radiação solar. A opção C também lista DPPs válidos (protetor facial/óculos, colete/tiras refletivas), mas a opção D lista outros dois exemplos corretos de acordo com a norma."
   },
   {
-    "tema": "🌾💊Trabalho rural e agravos à saúde",
+    "tema": "Trabalho rural e agravos à saúde🌾💊",
     "pergunta": "17. A NR-31 estabelece requisitos para os alojamentos no trabalho rural, visando garantir condições adequadas de higiene, conforto e segurança para os trabalhadores que necessitam pernoitar na propriedade. Sobre as camas nos alojamentos, assinale a opção CORRETA.",
     "alternativa1": "É permitido o uso de camas coletivas, desde que sejam separadas por divisórias.",
     "alternativa2": "Os membros da tripulação devem dispor de camas individuais, em analogia com requisitos de outras NRs aplicáveis ao trabalho rural.",
@@ -19863,7 +19863,7 @@ const questoes = [
     "gabaritoComentado": "Embora a pergunta use o termo 'membros da tripulação', o texto da NR-31 em relação a alojamentos no trabalho aquaviário (NR-30), que é referenciada em outros contextos, estabelece que 'os membros da tripulação devem dispor de camas individuais'. No contexto do trabalho rural (NR-31), embora a fonte não detalhe explicitamente as camas nos alojamentos rurais, ao abordar temas como alojamentos, a norma busca padrões de higiene e conforto. A NR-31 também prevê a aplicação de outras NRs quando remetido. Contudo, o texto focado em NR31 Alojamentos rurais não especifica detalhes das camas. Analisando a estrutura da fonte e a questão focada em 'Trabalho Rural e Agravos à Saúde', e dada a presença da informação sobre camas individuais para tripulação no material, pode haver uma inferência pretendida, mas a questão como formulada ('membros da tripulação') direciona para a NR-30. No entanto, dentro do contexto das 'áreas de vivência' no rural, alojamentos são listados. A fonte não detalha os requisitos específicos das camas para alojamentos *rurais* dentro do capítulo sobre trabalho rural. Há uma aparente inconsistência na questão formulada em relação ao capítulo 'Trabalho Rural'. No entanto, aceitando a questão como está e buscando a resposta mais plausível *dentro do contexto das fontes fornecidas*, a única menção sobre camas individuais é para 'membros da tripulação' na seção da NR-30. Se a questão pretendia se restringir estritamente ao capítulo 'Trabalho Rural e Agravos à Saúde', essa pergunta seria inadequada. Assumindo que a banca pode misturar informações de diferentes NRs presentes na fonte, e que a NR-31 remete a outras NRs, a resposta B é a única que menciona camas individuais, conforme presente nas fontes. <b>Reforçando:<b> Esta questão parece mal formulada para o tema específico 'Trabalho Rural e Agravos à Saúde' e utiliza informação de outra NR (NR-30) presente nas fontes. No entanto, seguindo a instrução de usar as fontes, esta é a única informação sobre camas individuais."
   },
   {
-    "tema": "🌾💊Trabalho rural e agravos à saúde",
+    "tema": "Trabalho rural e agravos à saúde🌾💊",
     "pergunta": "18. Os vestiários no trabalho rural são importantes para garantir a higiene e a guarda de pertences dos trabalhadores. A NR-31 estabelece requisitos para esses locais, incluindo o fornecimento de armários. Sobre os armários nos vestiários, assinale a opção CORRETA de acordo com a NR-31.",
     "alternativa1": "Os armários devem ser individuais duplos para todos os trabalhadores, sem exceção.",
     "alternativa2": "Os armários individuais simples são suficientes, desde que possuam sistema de trancamento.",
@@ -19874,7 +19874,7 @@ const questoes = [
     "gabaritoComentado": "O texto da NR-31 detalha os requisitos para armários em vestiários rurais. Ele permite armários simples (dois para cada trabalhador) ou duplos (um para cada), com trancamento. Contudo, especifica que em atividades com exposição a material infectante, substâncias tóxicas, irritantes ou poeiras que impregnem roupas e pele, devem ser fornecidos armários de compartimentos duplos ou dois armários simples. Permite o rodízio, *exceto* para casos com material infectante, substâncias tóxicas, etc.. A opção E reflete corretamente a exigência para situações de maior risco de contaminação."
   },
   {
-    "tema": "🌾💊Trabalho rural e agravos à saúde",
+    "tema": "Trabalho rural e agravos à saúde🌾💊",
     "pergunta": "19. O calor excessivo em atividades rurais a céu aberto pode levar a agravos à saúde dos trabalhadores. O guia referenciado na NR-31 sobre exposição ao calor detalha diversos efeitos fisiológicos. Qual das alternativas a seguir apresenta um efeito fisiológico *NÃO* explicitamente citado como relacionado ao calor excessivo no guia referenciado pela NR-31?",
     "alternativa1": "Convulsões.",
     "alternativa2": "Câimbras musculares.",
@@ -19885,7 +19885,7 @@ const questoes = [
     "gabaritoComentado": "O texto da NR-31, ao citar o guia sobre exposição ao calor, lista explicitamente câimbras musculares, síncope ou tontura, exaustão por calor e insolação (choque hipertérmico) como efeitos fisiológicos relacionados ao calor. Convulsões não são citadas nessa lista específica da fonte."
   },
   {
-    "tema": "🌾💊Trabalho rural e agravos à saúde",
+    "tema": "Trabalho rural e agravos à saúde🌾💊",
     "pergunta": "20. O uso de agrotóxicos no trabalho rural exige cuidados rigorosos para a prevenção de intoxicações. A NR-31 estabelece medidas de controle e proibições relacionadas à manipulação desses produtos. Qual das alternativas a seguir apresenta uma proibição expressa na NR-31 referente à manipulação de agrotóxicos, aditivos, adjuvantes e produtos afins?",
     "alternativa1": "A manipulação de agrotóxicos em áreas abertas e ventiladas.",
     "alternativa2": "A utilização de Equipamentos de Proteção Individual (EPI) durante a manipulação.",
@@ -19896,7 +19896,7 @@ const questoes = [
     "gabaritoComentado": "O texto da NR-31 estabelece de forma expressa a vedação, ou seja, a proibição, da manipulação de quaisquer agrotóxicos, aditivos, adjuvantes e produtos afins em desacordo com a receita e as indicações do rótulo e bula, previstos em legislação vigente."
   },
   {
-    "tema": "🌾💊Trabalho rural e agravos à saúde",
+    "tema": "Trabalho rural e agravos à saúde🌾💊",
     "pergunta": "21. A NR-31 tem por objetivo estabelecer os preceitos a serem observados na organização e no ambiente de trabalho rural. O campo de aplicação da NR-31 determina quando esta norma se aplica e quando outras Normas Regulamentadoras podem ser aplicadas no contexto rural. Assinale a opção CORRETA sobre o campo de aplicação da NR-31 e a aplicação de outras NRs.",
     "alternativa1": "As atividades previstas na NR-31 estão sujeitas, prioritariamente, à aplicação integral de todas as demais Normas Regulamentadoras, exceto em casos de embargo e interdição.",
     "alternativa2": "Nas atividades previstas na NR-31, somente se aplica o disposto nesta norma, exceto quando houver remissão expressa à aplicação de outras NRs na própria NR-31, em situações de embargo e interdição, e na existência de caldeiras, vasos de pressão, tubulações e tanques metálicos de armazenamento (NR-13).",
@@ -19907,7 +19907,7 @@ const questoes = [
     "gabaritoComentado": "O texto da NR-31 estabelece claramente que, nas atividades previstas na norma (agricultura, pecuária, silvicultura, exploração florestal e aquicultura), somente se aplica o disposto na própria NR-31, exceto quando ocorrerem remissão expressa a outras NRs na NR-31, situações de embargo e interdição (NR-3), e existência de caldeiras, vasos de pressão, tubulações e tanques metálicos de armazenamento (NR-13)."
   },
   {
-    "tema": "🌾💊Trabalho rural e agravos à saúde",
+    "tema": "Trabalho rural e agravos à saúde🌾💊",
     "pergunta": "22. A capacitação e treinamento dos trabalhadores rurais, promovidos pelo empregador, devem estar em conformidade com a NR-31. A norma exige que, ao término dos treinamentos, seja emitido um certificado com informações específicas. Qual das alternativas a seguir NÃO é uma informação de preenchimento obrigatório no certificado de treinamento, conforme a NR-31?",
     "alternativa1": "A data de validade da capacitação do trabalhador.",
     "alternativa2": "O nome do trabalhador, o conteúdo programático, a carga horária, a data e o local de realização do treinamento.",
@@ -19918,7 +19918,7 @@ const questoes = [
     "gabaritoComentado": "O texto da NR-31 lista as informações obrigatórias no certificado de treinamento: nome do trabalhador, conteúdo programático, carga horária, data, local de realização, nome e qualificação dos instrutores, assinatura do responsável técnico, e a assinatura do trabalhador. A data de validade da capacitação não é um item listado como obrigatório no certificado em si, embora os treinamentos tenham periodicidade definida e possam ter aproveitamento de conteúdo."
   },
   {
-    "tema": "🌾💊Trabalho rural e agravos à saúde",
+    "tema": "Trabalho rural e agravos à saúde🌾💊",
     "pergunta": "23. Os treinamentos e capacitações no trabalho rural, conforme a NR-31, podem ser avaliados pelo empregador e convalidados ou complementados, considerando o histórico profissional do trabalhador. Para realizar essa convalidação ou complementação, o empregador deve considerar diversos fatores. Qual das alternativas a seguir NÃO é um fator a ser considerado pelo empregador rural para convalidação ou complementação de treinamentos?",
     "alternativa1": "As atividades desenvolvidas pelo trabalhador no empregador anterior.",
     "alternativa2": "As atividades que o trabalhador desempenhará no novo empregador.",
@@ -19929,7 +19929,7 @@ const questoes = [
     "gabaritoComentado": "O texto da NR-31 lista os fatores a serem considerados para convalidação ou complementação de treinamentos: atividades desenvolvidas no empregador anterior, atividades que desempenhará, conteúdo e carga horária cumpridos, conteúdo e carga horária exigidos, e que o último treinamento tenha sido realizado em período inferior ao estabelecido na norma ou há menos de 2 anos. A data do treinamento mais antigo aproveitado é um fator considerado para a *validade* do novo treinamento, mas não explicitamente como um fator para a *convalidação ou complementação* em si, que se baseia na equivalência e atualização de conteúdos e prazos."
   },
   {
-    "tema": "🌾💊Trabalho rural e agravos à saúde",
+    "tema": "Trabalho rural e agravos à saúde🌾💊",
     "pergunta": "24. As ferramentas manuais e seus acessórios, utilizados pelos trabalhadores rurais, devem atender a certos requisitos de segurança e eficiência, conforme a NR-31, para prevenir agravos à saúde e acidentes. Além de serem fornecidas gratuitamente e substituídas quando necessário ou defeituosas, essas ferramentas devem possuir certas características. Assinale a opção CORRETA sobre as características exigidas para as ferramentas manuais, de acordo com a NR-31.",
     "alternativa1": "Devem ser leves o suficiente para serem transportadas facilmente, independentemente de sua eficiência para a tarefa.",
     "alternativa2": "Devem ser de material resistente, mesmo que não possuam condições anatômicas adequadas.",
@@ -19940,7 +19940,7 @@ const questoes = [
     "gabaritoComentado": "O texto da NR-31 determina que as ferramentas manuais devem ser seguras e eficientes para que possam ser utilizadas de forma adequada para os fins a que se destinam, com condições anatômicas, para garantir boa aderência durante o seu manuseio e facilitando a sua empunhadura pelo trabalhador."
   },
   {
-    "tema": "🌾💊Trabalho rural e agravos à saúde",
+    "tema": "Trabalho rural e agravos à saúde🌾💊",
     "pergunta": "25. As condições sanitárias e de conforto no trabalho rural, abordadas na NR-31, incluem a necessidade de fornecimento de água potável aos trabalhadores. Assinale a opção CORRETA sobre a obrigatoriedade de fornecimento de água potável no trabalho rural, conforme a NR-31.",
     "alternativa1": "A água potável deve ser fornecida apenas nos locais fixos da propriedade rural, como alojamentos e refeitórios.",
     "alternativa2": "O fornecimento de água potável é necessário apenas para atividades que exijam grande esforço físico.",
@@ -19951,7 +19951,7 @@ const questoes = [
     "gabaritoComentado": "O texto da NR-31 estabelece que deve haver água potável fresca em todos os locais de trabalho, inclusive nas frentes de trabalho."
   },
   {
-    "tema": "🌾💊Trabalho rural e agravos à saúde",
+    "tema": "Trabalho rural e agravos à saúde🌾💊",
     "pergunta": "26. Os Equipamentos de Proteção Individual (EPI) e os Dispositivos de Proteção Pessoal (DPP) no trabalho rural são importantes para a prevenção de agravos à saúde. A NR-31, ao remeter à NR-6, estabelece a obrigatoriedade do fornecimento de EPIs. Além disso, a NR-31 prevê o fornecimento de DPPs para finalidades específicas. Assinale a opção CORRETA sobre a obrigatoriedade do fornecimento de EPIs e DPPs no trabalho rural, conforme a NR-31.",
     "alternativa1": "É obrigatório o fornecimento gratuito aos trabalhadores de Equipamentos de Proteção Individual – EPI, nos termos da Norma Regulamentadora nº 6, e de Dispositivos de Proteção Pessoal (DPP) para as finalidades previstas na NR-31.",
     "alternativa2": "O fornecimento de EPIs é obrigatório e gratuito, enquanto o fornecimento de DPPs é opcional e pode ser cobrado dos trabalhadores.",
@@ -19962,7 +19962,7 @@ const questoes = [
     "gabaritoComentado": "O texto da NR-31 estabelece a obrigatoriedade do fornecimento gratuito de EPIs nos termos da NR-6. Adicionalmente, o texto trata do fornecimento de Dispositivos de Proteção Pessoal (DPP) para finalidades específicas no trabalho rural. Portanto, ambos devem ser fornecidos gratuitamente para as situações previstas."
   },
   {
-    "tema": "🌾💊Trabalho rural e agravos à saúde",
+    "tema": "Trabalho rural e agravos à saúde🌾💊",
     "pergunta": "27. No trabalho rural, o trabalhador também possui responsabilidades em relação ao uso dos Equipamentos de Proteção Individual (EPI) e dos Dispositivos de Proteção Pessoal (DPP). A NR-31, ao remeter à NR-6 para EPIs e ao estabelecer regras para DPPs, define obrigações para o trabalhador. Qual das alternativas a seguir apresenta uma responsabilidade do trabalhador em relação a EPIs e DPPs, conforme as normas aplicáveis ao trabalho rural?",
     "alternativa1": "Decidir sobre a necessidade do uso do equipamento em cada tarefa.",
     "alternativa2": "Usar o equipamento fornecido pela organização, utilizá-lo apenas para a finalidade a que se destina, responsabilizar-se por sua limpeza, guarda e conservação, e comunicar à organização em caso de extravio, dano ou qualquer alteração que o torne impróprio para uso, além de cumprir as determinações do empregador sobre o uso adequado.",
@@ -19973,7 +19973,7 @@ const questoes = [
     "gabaritoComentado": "O texto da NR-6, aplicável aos EPIs no trabalho rural por remissão da NR-31, lista as responsabilidades do trabalhador, que incluem usar o equipamento fornecido, utilizá-lo apenas para a finalidade a que se destina, responsabilizar-se por sua limpeza, guarda e conservação, comunicar à organização em caso de problemas e cumprir as determinações sobre o uso adequado. Essas responsabilidades se estendem, por analogia e pelo contexto da NR-31, aos DPPs."
   },
   {
-    "tema": "🌾💊Trabalho rural e agravos à saúde",
+    "tema": "Trabalho rural e agravos à saúde🌾💊",
     "pergunta": "28. Os riscos ergonômicos são relevantes no trabalho rural, podendo gerar agravos à saúde dos trabalhadores. A NR-31, ao abordar este tema, menciona fatores associados a esses riscos. Assinale a opção que apresenta corretamente fatores ergonômicos frequentemente presentes na atividade rural, conforme a NR-31.",
     "alternativa1": "Exposição a agentes químicos e biológicos.",
     "alternativa2": "Ruído excessivo e vibrações.",
@@ -19984,7 +19984,7 @@ const questoes = [
     "gabaritoComentado": "O texto da NR-31 lista como agentes/fatores ergonômicos um ritmo de trabalho determinado por máquinas, posturas (métodos de trabalho) antiergonômicas e esforços, tanto à repetição quanto à carga musculares, que figuram como inadequadas às capacidades e limitações dos trabalhadores."
   },
   {
-    "tema": "🌾💊Trabalho rural e agravos à saúde",
+    "tema": "Trabalho rural e agravos à saúde🌾💊",
     "pergunta": "29. O transporte de trabalhadores rurais em veículos é uma atividade que exige atenção à segurança para evitar acidentes e agravos à saúde. A NR-31 estabelece requisitos para os veículos utilizados nesse transporte. Qual dos requisitos a seguir NÃO é exigido pela NR-31 para os veículos de transporte de trabalhadores?",
     "alternativa1": "Possuir carroceria com laterais elevadas e piso antiderrapante.",
     "alternativa2": "Possuir compartimento resistente e fixo, separado dos passageiros, para transporte de ferramentas e materiais que acarretem riscos.",
@@ -19995,7 +19995,7 @@ const questoes = [
     "gabaritoComentado": "O texto da NR-31 lista os requisitos para veículos de transporte de trabalhadores rurais, incluindo carroceria com laterais elevadas e piso antiderrapante, cobertura contra intempéries e fechamento lateral, compartimento separado para ferramentas/materiais de risco e instruções de segurança visíveis. Sistema de ar condicionado não é um requisito listado."
   },
   {
-    "tema": "🌾💊Trabalho rural e agravos à saúde",
+    "tema": "Trabalho rural e agravos à saúde🌾💊",
     "pergunta": "30. Em relação às condições sanitárias e de conforto no trabalho rural, a NR-31 aborda os vestiários e a necessidade de armários, especialmente em atividades que envolvem exposição a certos materiais. A norma dispensa a necessidade de fornecer 2 (dois) armários simples ou armário duplo em uma situação específica relacionada à higiene. Qual é essa situação?",
     "alternativa1": "Quando o número de trabalhadores for inferior a 10.",
     "alternativa2": "Quando a atividade for de curta duração, inferior a 4 horas por dia.",
@@ -20006,7 +20006,7 @@ const questoes = [
     "gabaritoComentado": "O texto da NR-31 dispensa a necessidade de fornecer 2 (dois) armários simples ou armário duplo para as organizações que promovam a higienização diária de vestimentas expostas a material infectante, substâncias tóxicas, irritantes ou que provoquem sujidade."
   },
   {
-    "tema": "🕳️NR 33 - Espaço Confinado",
+    "tema": "NR 33🕳️ - Espaço Confinado",
     "pergunta": "Conforme a NR 33, qual é o percentual mínimo de oxigênio aceitável para entrada em espaços confinados?",
     "alternativa1": "18,5%",
     "alternativa2": "19,5%",
@@ -20017,7 +20017,7 @@ const questoes = [
     "gabaritoComentado": "A NR 33 estabelece que o percentual mínimo de oxigênio aceitável para entrada em espaços confinados é 19,5%, desde que a causa da redução seja conhecida e controlada."
   },
   {
-    "tema": "🕳️NR 33 - Espaço Confinado",
+    "tema": "NR 33🕳️ - Espaço Confinado",
     "pergunta": "Qual elemento NÃO compõe o pentágono da explosão de poeira combustível em espaços confinados?",
     "alternativa1": "Oxigênio presente no ar",
     "alternativa2": "Poeira combustível em dispersão",
@@ -20028,7 +20028,7 @@ const questoes = [
     "gabaritoComentado": "O pentágono da explosão inclui oxigênio, poeira combustível dispersa, ambiente confinado, fonte de ignição e concentração adequada. Vapor d'água não é um componente essencial."
   },
   {
-    "tema": "🕳️NR 33 - Espaço Confinado",
+    "tema": "NR 33🕳️ - Espaço Confinado",
     "pergunta": "Qual é a obrigação do empregador em relação à Permissão de Entrada e Trabalho (PET)?",
     "alternativa1": "Emitir a PET apenas para espaços confinados ativos",
     "alternativa2": "Arquivar a PET por no mínimo 2 anos",
@@ -20039,7 +20039,7 @@ const questoes = [
     "gabaritoComentado": "A NR 33 exige que o empregador garanta o arquivamento da PET por no mínimo 5 anos e que seja rastreável."
   },
   {
-    "tema": "🕳️NR 33 - Espaço Confinado",
+    "tema": "NR 33🕳️ - Espaço Confinado",
     "pergunta": "O que caracteriza um espaço confinado segundo a NR 33?",
     "alternativa1": "Projetado para ocupação humana contínua",
     "alternativa2": "Possui ventilação natural suficiente",
@@ -20050,7 +20050,7 @@ const questoes = [
     "gabaritoComentado": "Um espaço confinado é caracterizado por ter meios limitados de entrada e saída, entre outros requisitos."
   },
   {
-    "tema": "🕳️NR 33 - Espaço Confinado",
+    "tema": "NR 33🕳️ - Espaço Confinado",
     "pergunta": "Qual medida é essencial para prevenir engolfamento em silos de grãos?",
     "alternativa1": "Uso de detectores de gases",
     "alternativa2": "Sistema de linha de vida e cabo guia",
@@ -20061,7 +20061,7 @@ const questoes = [
     "gabaritoComentado": "O uso de linha de vida e cabo guia é crucial para prevenir engolfamento durante o deslocamento sobre massa de grãos."
   },
   {
-    "tema": "🕳️NR 33 - Espaço Confinado",
+    "tema": "NR 33🕳️ - Espaço Confinado",
     "pergunta": "Qual função é responsável por preencher e assinar a PET?",
     "alternativa1": "Vigia",
     "alternativa2": "Trabalhador autorizado",
@@ -20072,7 +20072,7 @@ const questoes = [
     "gabaritoComentado": "O supervisor de entrada é capacitado para preencher e assinar a PET, conforme a NR 33."
   },
   {
-    "tema": "🕳️NR 33 - Espaço Confinado",
+    "tema": "NR 33🕳️ - Espaço Confinado",
     "pergunta": "O que deve conter o cadastro de espaços confinados?",
     "alternativa1": "Apenas a identificação do espaço",
     "alternativa2": "Número de trabalhadores autorizados",
@@ -20083,7 +20083,7 @@ const questoes = [
     "gabaritoComentado": "O cadastro deve incluir volume, aberturas, croqui, produtos armazenados e perigos existentes."
   },
   {
-    "tema": "🕳️NR 33 - Espaço Confinado",
+    "tema": "NR 33🕳️ - Espaço Confinado",
     "pergunta": "Qual gás NÃO é comumente associado à atmosfera IPVS em espaços confinados?",
     "alternativa1": "Metano (CH4)",
     "alternativa2": "Monóxido de Carbono (CO)",
@@ -20094,7 +20094,7 @@ const questoes = [
     "gabaritoComentado": "Nitrogênio não é tóxico, mas pode causar asfixia por deslocamento de oxigênio. Os gases listados na NR 33 são CH4, CO, H2S e variações de O2."
   },
   {
-    "tema": "🕳️NR 33 - Espaço Confinado",
+    "tema": "NR 33🕳️ - Espaço Confinado",
     "pergunta": "O que é obrigatório antes da entrada em espaço confinado?",
     "alternativa1": "Realização de teste de resposta (bump test) nos detectores",
     "alternativa2": "Treinamento opcional dos trabalhadores",
@@ -20105,7 +20105,7 @@ const questoes = [
     "gabaritoComentado": "O bump test é necessário para verificar a funcionalidade dos detectores de gases antes do uso."
   },
   {
-    "tema": "🕳️NR 33 - Espaço Confinado",
+    "tema": "NR 33🕳️ - Espaço Confinado",
     "pergunta": "Qual é uma atribuição do vigia conforme a NR 33?",
     "alternativa1": "Entrar no espaço confinado para auxiliar",
     "alternativa2": "Emitir a PET",
@@ -20116,7 +20116,7 @@ const questoes = [
     "gabaritoComentado": "O vigia deve garantir que apenas trabalhadores autorizados na PET ingressem no espaço confinado."
   },
   {
-    "tema": "🕳️NR 33 - Espaço Confinado",
+    "tema": "NR 33🕳️ - Espaço Confinado",
     "pergunta": "Qual medida previne explosões em espaços com poeira combustível?",
     "alternativa1": "Uso de equipamentos elétricos não certificados",
     "alternativa2": "Acúmulo de poeira em camadas",
@@ -20127,7 +20127,7 @@ const questoes = [
     "gabaritoComentado": "A limpeza contínua reduz poeiras em camadas, minimizando riscos de explosões secundárias."
   },
   {
-    "tema": "🕳️NR 33 - Espaço Confinado",
+    "tema": "NR 33🕳️ - Espaço Confinado",
     "pergunta": "O que deve ser feito em caso de troca de turnos durante bloqueio de energias?",
     "alternativa1": "Manter os dispositivos anteriores",
     "alternativa2": "Substituir dispositivos e etiquetas",
@@ -20138,7 +20138,7 @@ const questoes = [
     "gabaritoComentado": "Os dispositivos e etiquetas devem ser substituídos a cada troca de turno para garantir a segurança."
   },
   {
-    "tema": "🕳️NR 33 - Espaço Confinado",
+    "tema": "NR 33🕳️ - Espaço Confinado",
     "pergunta": "Qual documento comprova a aptidão física e mental para trabalhos em espaços confinados?",
     "alternativa1": "PET",
     "alternativa2": "Laudo técnico",
@@ -20149,7 +20149,7 @@ const questoes = [
     "gabaritoComentado": "O ASO, conforme a NR-07, atesta a aptidão física e mental do trabalhador."
   },
   {
-    "tema": "🕳️NR 33 - Espaço Confinado",
+    "tema": "NR 33🕳️ - Espaço Confinado",
     "pergunta": "O que é considerado atmosfera IPVS?",
     "alternativa1": "Atmosfera com oxigênio acima de 23%",
     "alternativa2": "Qualquer atmosfera com risco imediato à vida ou saúde",
@@ -20160,7 +20160,7 @@ const questoes = [
     "gabaritoComentado": "Atmosfera IPVS é aquela que apresenta risco imediato à vida ou causa efeito debilitante à saúde."
   },
   {
-    "tema": "🕳️NR 33 - Espaço Confinado",
+    "tema": "NR 33🕳️ - Espaço Confinado",
     "pergunta": "Qual é o objetivo do Plano de Resgate?",
     "alternativa1": "Substituir a PET",
     "alternativa2": "Garantir atendimento rápido em emergências",
@@ -20171,7 +20171,7 @@ const questoes = [
     "gabaritoComentado": "O Plano de Resgate visa garantir respostas eficazes em emergências, reduzindo tempo de exposição a riscos."
   },
   {
-    "tema": "🕳️NR 33 - Espaço Confinado",
+    "tema": "NR 33🕳️ - Espaço Confinado",
     "pergunta": "Qual norma técnica complementa a NR 33 para prevenção de acidentes?",
     "alternativa1": "NBR 16577",
     "alternativa2": "NR-35",
@@ -20182,7 +20182,7 @@ const questoes = [
     "gabaritoComentado": "A NBR 16577 estabelece procedimentos e medidas de proteção para espaços confinados, complementando a NR 33."
   },
   {
-    "tema": "🕳️NR 33 - Espaço Confinado",
+    "tema": "NR 33🕳️ - Espaço Confinado",
     "pergunta": "O que é necessário para a ventilação em espaços confinados?",
     "alternativa1": "Insufllação de ar externo sem análise",
     "alternativa2": "Dimensionamento conforme características do espaço",
@@ -20193,7 +20193,7 @@ const questoes = [
     "gabaritoComentado": "A ventilação deve ser dimensionada conforme características do espaço, como geometria e contaminantes."
   },
   {
-    "tema": "🕳️NR 33 - Espaço Confinado",
+    "tema": "NR 33🕳️ - Espaço Confinado",
     "pergunta": "Qual é uma falha comum em acidentes de asfixia em espaços confinados?",
     "alternativa1": "Uso de detectores de gases",
     "alternativa2": "Emissão adequada da PET",
@@ -20204,7 +20204,7 @@ const questoes = [
     "gabaritoComentado": "A falta de avaliação atmosférica prévia é uma falha crítica que leva a acidentes de asfixia."
   },
   {
-    "tema": "🕳️NR 33 - Espaço Confinado",
+    "tema": "NR 33🕳️ - Espaço Confinado",
     "pergunta": "Qual equipamento é usado para monitorar atmosferas perigosas?",
     "alternativa1": "Termômetro",
     "alternativa2": "Detector multigás",
@@ -20215,7 +20215,7 @@ const questoes = [
     "gabaritoComentado": "Detectores multigás monitoram O2, LIE, CO e H2S, essenciais para avaliar atmosferas perigosas."
   },
   {
-    "tema": "🕳️NR 33 - Espaço Confinado",
+    "tema": "NR 33🕳️ - Espaço Confinado",
     "pergunta": "O que caracteriza engolfamento conforme a NR 33?",
     "alternativa1": "Queda de altura",
     "alternativa2": "Envolvimento por material particulado sólido",
@@ -20226,7 +20226,7 @@ const questoes = [
     "gabaritoComentado": "Engolfamento é o envolvimento por material sólido que pode levar à inconsciência ou morte."
   },
   {
-    "tema": "🕳️NR 33 - Espaço Confinado",
+    "tema": "NR 33🕳️ - Espaço Confinado",
     "pergunta": "Qual é a função do Responsável Técnico?",
     "alternativa1": "Executar trabalhos no espaço confinado",
     "alternativa2": "Elaborar o cadastro de espaços confinados",
@@ -20237,7 +20237,7 @@ const questoes = [
     "gabaritoComentado": "O Responsável Técnico deve elaborar o cadastro de espaços confinados, entre outras atribuições."
   },
   {
-    "tema": "🕳️NR 33 - Espaço Confinado",
+    "tema": "NR 33🕳️ - Espaço Confinado",
     "pergunta": "Qual ação previne acidentes em túneis com poeira combustível?",
     "alternativa1": "Acumular poeira em camadas",
     "alternativa2": "Usar equipamentos não certificados",
@@ -20248,7 +20248,7 @@ const questoes = [
     "gabaritoComentado": "Limpeza contínua reduz poeiras em camadas, prevenindo explosões secundárias."
   },
   {
-    "tema": "🕳️NR 33 - Espaço Confinado",
+    "tema": "NR 33🕳️ - Espaço Confinado",
     "pergunta": "Qual é um requisito para o bloqueio de energias perigosas?",
     "alternativa1": "Uso de etiquetas não identificáveis",
     "alternativa2": "Bloqueio coletivo para toda a equipe",
@@ -20259,7 +20259,7 @@ const questoes = [
     "gabaritoComentado": "Cada trabalhador deve ter dispositivo de bloqueio individual, conforme a NR 33."
   },
   {
-    "tema": "🕳️NR 33 - Espaço Confinado",
+    "tema": "NR 33🕳️ - Espaço Confinado",
     "pergunta": "O que é essencial no Plano de Resgate?",
     "alternativa1": "Ignorar simulados",
     "alternativa2": "Designação de equipe externa ou interna",
@@ -20270,7 +20270,7 @@ const questoes = [
     "gabaritoComentado": "O Plano de Resgate deve designar equipe de emergência, interna ou externa, conforme os riscos."
   },
   {
-    "tema": "🕳️NR 33 - Espaço Confinado",
+    "tema": "NR 33🕳️ - Espaço Confinado",
     "pergunta": "Qual situação caracteriza um espaço confinado mesmo sem atmosfera perigosa?",
     "alternativa1": "Armazenamento de grãos com risco de engolfamento",
     "alternativa2": "Ambiente com ventilação adequada",
@@ -20281,7 +20281,7 @@ const questoes = [
     "gabaritoComentado": "Espaços com risco de engolfamento são considerados confinados mesmo sem atmosfera perigosa."
   },
   {
-    "tema": "🕳️NR 33 - Espaço Confinado",
+    "tema": "NR 33🕳️ - Espaço Confinado",
     "pergunta": "Qual é uma medida de prevenção contra atmosferas IPVS?",
     "alternativa1": "Ignorar a ventilação",
     "alternativa2": "Monitoramento contínuo da atmosfera",
@@ -20292,7 +20292,7 @@ const questoes = [
     "gabaritoComentado": "O monitoramento contínuo é essencial para detectar alterações na atmosfera durante a permanência."
   },
   {
-    "tema": "🕳️NR 33 - Espaço Confinado",
+    "tema": "NR 33🕳️ - Espaço Confinado",
     "pergunta": "Qual é a finalidade do 'bump test' em detectores de gases?",
     "alternativa1": "Calibrar o equipamento sem gases de teste",
     "alternativa2": "Verificar a funcionalidade dos sensores",
@@ -20303,7 +20303,7 @@ const questoes = [
     "gabaritoComentado": "O 'bump test' verifica se os sensores e alarmes do detector estão funcionando corretamente."
   },
   {
-    "tema": "🕳️NR 33 - Espaço Confinado",
+    "tema": "NR 33🕳️ - Espaço Confinado",
     "pergunta": "O que deve constar na sinalização provisória durante entrada em espaço confinado?",
     "alternativa1": "Liberação ou não da entrada",
     "alternativa2": "Dados financeiros da empresa",
@@ -20314,7 +20314,7 @@ const questoes = [
     "gabaritoComentado": "A sinalização provisória deve indicar se a entrada está liberada ou não para trabalhadores autorizados."
   },
   {
-    "tema": "🕳️NR 33 - Espaço Confinado",
+    "tema": "NR 33🕳️ - Espaço Confinado",
     "pergunta": "Qual é um risco associado a silos de grãos?",
     "alternativa1": "Queda de raios",
     "alternativa2": "Engolfamento e soterramento",
@@ -20325,7 +20325,7 @@ const questoes = [
     "gabaritoComentado": "Silos apresentam riscos de engolfamento e soterramento devido à movimentação da massa de grãos."
   },
   {
-    "tema": "🕳️NR 33 - Espaço Confinado",
+    "tema": "NR 33🕳️ - Espaço Confinado",
     "pergunta": "O que é necessário para a capacitação dos trabalhadores?",
     "alternativa1": "Avaliação física e mental periódica",
     "alternativa2": "Treinamento apenas inicial",
@@ -20336,7 +20336,7 @@ const questoes = [
     "gabaritoComentado": "A capacitação inclui avaliação física e mental periódica, conforme a NR 33 e NR-07."
   },
   {
-    "tema": "🕳️NR 33 - Espaço Confinado",
+    "tema": "NR 33🕳️ - Espaço Confinado",
     "pergunta": "Qual ação é proibida durante trabalho sobre massa de grãos?",
     "alternativa1": "Uso de linha de vida",
     "alternativa2": "Sistema de descarga em funcionamento",
@@ -20347,7 +20347,7 @@ const questoes = [
     "gabaritoComentado": "É proibido trabalhar sobre massa de grãos com o sistema de descarga em operação, devido ao risco de engolfamento."
   },
   {
-    "tema": "🕳️NR 33 - Espaço Confinado",
+    "tema": "NR 33🕳️ - Espaço Confinado",
     "pergunta": "O que é considerado na classificação de áreas explosivas?",
     "alternativa1": "Presença de poeira combustível em suspensão",
     "alternativa2": "Ausência de oxigênio",
@@ -20358,7 +20358,7 @@ const questoes = [
     "gabaritoComentado": "Áreas explosivas são classificadas considerando a presença de poeira combustível em suspensão, entre outros fatores."
   },
   {
-    "tema": "🚢NR 30 - Trabalho Aquaviário",
+    "tema": "NR 30🚢 - Trabalho Aquaviário",
     "pergunta": "De acordo com o item 30.2.3 da NR 30, quais Normas Regulamentadoras não se aplicam a embarcações classificadas de acordo com a Convenção SOLAS, desde que apresentados os certificados de classe?",
     "alternativa1": "NR 06, NR 10 e NR 13.",
     "alternativa2": "NR 10, NR 13 e NR 23.",
@@ -20369,7 +20369,7 @@ const questoes = [
     "gabaritoComentado": "Conforme o item 30.2.3 da NR 30, as embarcações classificadas de acordo com a Convenção SOLAS, cujas normas de segurança são auditadas pelas sociedades classificadoras, não precisam aplicar as Normas Regulamentadoras nº 10 (NR-10), 13 (NR-13) e 23 (NR-23), desde que apresentados os certificados de classe."
   },
   {
-    "tema": "🚢NR 30 - Trabalho Aquaviário",
+    "tema": "NR 30🚢 - Trabalho Aquaviário",
     "pergunta": "Sobre o campo de aplicação da NR 30, considere as afirmações a seguir:\<br>I. A NR 30 aplica-se a embarcações comerciais de bandeira nacional.\<br>II. Embarcações de bandeira estrangeira que realizem transporte de mercadorias entre portos brasileiros (cabotagem) devem obedecer à NR 30.\<br>III. A matéria de segurança e saúde no trabalho aquaviário é complementada pelas normas da autoridade marítima (NORMAM).\nEstá correto o que se afirma em:",
     "alternativa1": "I, apenas.",
     "alternativa2": "III, apenas.",
@@ -20380,7 +20380,7 @@ const questoes = [
     "gabaritoComentado": "A NR 30 se aplica a embarcações comerciais de bandeira nacional. Embarcações de bandeira estrangeira utilizadas no transporte de cargas ou passageiros no Brasil, como na cabotagem, também devem obedecer às leis brasileiras e, consequentemente, à NR 30. A segurança e saúde no trabalho aquaviário não se esgotam nas NRs, sendo complementada pelas normas da autoridade marítima (NORMAM)."
   },
   {
-    "tema": "🚢NR 30 - Trabalho Aquaviário",
+    "tema": "NR 30🚢 - Trabalho Aquaviário",
     "pergunta": "Conforme a NR 30, a responsabilidade pelo fornecimento, conservação e higienização dos colchões e roupas de cama dos membros da tripulação é:",
     "alternativa1": "Da tripulação.",
     "alternativa2": "Do cozinheiro.",
@@ -20391,7 +20391,7 @@ const questoes = [
     "gabaritoComentado": "De acordo com o item 30.9.7 da NR 30, o empregador deve fornecer, conservar e higienizar os colchões, bem como fazer o mesmo com as roupas de camas dos membros da tripulação."
   },
   {
-    "tema": "🚢NR 30 - Trabalho Aquaviário",
+    "tema": "NR 30🚢 - Trabalho Aquaviário",
     "pergunta": "Segundo a NR 30, nas embarcações com arqueação bruta (AB) superior a 3000 AB, devem ser instaladas salas de lazer. É correto afirmar que, em embarcações com arqueação bruta menor que 3000 AB, o refeitório:",
     "alternativa1": "É proibido de ser utilizado como sala de lazer.",
     "alternativa2": "Pode ser utilizado como sala de lazer, desde que haja mobiliário próprio para lazer.",
@@ -20402,7 +20402,7 @@ const questoes = [
     "gabaritoComentado": "O item 30.10.3 da NR 30 determina que embarcações maiores que 3000 AB devem ter salas de lazer com mobiliário próprio. O subitem 30.10.3.1 autoriza que o refeitório possa ser usado como sala de lazer em embarcações com arqueação bruta menor que três mil AB."
   },
   {
-    "tema": "🚢NR 30 - Trabalho Aquaviário",
+    "tema": "NR 30🚢 - Trabalho Aquaviário",
     "pergunta": "Em relação à segurança na manutenção em embarcações, conforme a NR 30, atividades de manutenção realizadas enquanto a embarcação está em operação exigem a elaboração de Análise de Risco (AR) e a emissão de:",
     "alternativa1": "Registro de Manutenção.",
     "alternativa2": "Ordem de Serviço.",
@@ -20413,7 +20413,7 @@ const questoes = [
     "gabaritoComentado": "Segundo o item 30.14.5 da NR 30, atividades de manutenção realizadas com a embarcação em operação exigem a realização da Análise de Risco (AR) e a emissão da Permissão de Trabalho (PT)."
   },
   {
-    "tema": "🚢NR 30 - Trabalho Aquaviário",
+    "tema": "NR 30🚢 - Trabalho Aquaviário",
     "pergunta": "Conforme a NR 30, sobre a aplicação de outras Normas Regulamentadoras em embarcações, é correto afirmar:",
     "alternativa1": "A NR 33 (Segurança e Saúde no Trabalho em Espaços Confinados) não se aplica em embarcações.",
     "alternativa2": "A NR 35 (Trabalho em Altura) aplica-se integralmente em embarcações, sem necessidade de providências adicionais.",
@@ -20424,7 +20424,7 @@ const questoes = [
     "gabaritoComentado": "O subitem 30.14.6 da NR 30 determina a aplicabilidade da NR 33 - Segurança e Saúde no Trabalho em Espaços Confinados na íntegra em embarcações."
   },
   {
-    "tema": "🚢NR 30 - Trabalho Aquaviário",
+    "tema": "NR 30🚢 - Trabalho Aquaviário",
     "pergunta": "De acordo com a NR 30, a recertificação dos equipamentos de guindar e acessórios deve ocorrer com prazo limitado a:",
     "alternativa1": "Doze meses.",
     "alternativa2": "Dois anos.",
@@ -20435,7 +20435,7 @@ const questoes = [
     "gabaritoComentado": "Conforme o subitem 30.15.1.1 da NR 30, a recertificação dos equipamentos de guindar e acessórios deve ter prazo limitado a cinco anos."
   },
   {
-    "tema": "🚢NR 30 - Trabalho Aquaviário",
+    "tema": "NR 30🚢 - Trabalho Aquaviário",
     "pergunta": "A NR 30 estabelece diferentes tipos de inspeções para equipamentos de guindar e acessórios. A inspeção realizada a cada jornada antes de iniciar qualquer movimentação é a inspeção:",
     "alternativa1": "Inicial.",
     "alternativa2": "Periódica.",
@@ -20446,7 +20446,7 @@ const questoes = [
     "gabaritoComentado": "Segundo o item 30.15.3.3 da NR 30, as inspeções diárias devem ser realizadas pelo operador do equipamento ou trabalhador capacitado a cada jornada antes de iniciar qualquer movimentação."
   },
   {
-    "tema": "🚢NR 30 - Trabalho Aquaviário",
+    "tema": "NR 30🚢 - Trabalho Aquaviário",
     "pergunta": "De acordo com a NR 30, no que se refere às inspeções periódicas dos equipamentos de guindar, é correto afirmar que:",
     "alternativa1": "Devem ser realizadas exclusivamente por sociedades classificadoras.",
     "alternativa2": "O prazo entre elas deve ser de, no máximo, 24 meses.",
@@ -20457,7 +20457,7 @@ const questoes = [
     "gabaritoComentado": "O subitem 30.15.3.1 da NR 30 estabelece que as inspeções iniciais e periódicas podem ser realizadas por trabalhador qualificado, sob supervisão de profissional legalmente habilitado (PLH)."
   },
   {
-    "tema": "🚢NR 30 - Trabalho Aquaviário",
+    "tema": "NR 30🚢 - Trabalho Aquaviário",
     "pergunta": "Conforme a NR 30, o preparo e a execução de refeições a bordo devem ser realizados por cozinheiro, em conformidade com a NORMAM e a legislação sanitária aplicável. Embarcações estão dispensadas de cozinheiro caso as singraduras sejam inferiores a um determinado período e trafeguem em área com apoio de alimentação em terra com condições higiênico-sanitárias garantidas. Qual é esse período?",
     "alternativa1": "Oito horas.",
     "alternativa2": "Dez horas.",
@@ -20468,7 +20468,7 @@ const questoes = [
     "gabaritoComentado": "O subitem 30.8.1.2.1 da NR 30 dispensa de cozinheiro as embarcações cujas singraduras sejam inferiores a doze horas e trafeguem em área onde seja possível o apoio de alimentação proveniente de facilidades em terra, garantidas condições higiênico-sanitárias."
   },
   {
-    "tema": "🚢NR 30 - Trabalho Aquaviário",
+    "tema": "NR 30🚢 - Trabalho Aquaviário",
     "pergunta": "De acordo com a NR 30, para garantir o acesso seguro para embarque e desembarque em embarcações, as escadas de portaló que atendem à Convenção SOLAS devem ficar posicionadas em relação ao plano horizontal com ângulo de até:",
     "alternativa1": "45 graus.",
     "alternativa2": "50 graus.",
@@ -20479,7 +20479,7 @@ const questoes = [
     "gabaritoComentado": "Conforme o subitem 30.18.3.4.2 da NR 30, as escadas de portaló, atendendo à Convenção SOLAS, devem ficar posicionadas em relação ao plano horizontal com ângulo de até 55 graus, a menos que projetada e construída para uso em ângulos maiores e devidamente marcada."
   },
   {
-    "tema": "🚢NR 30 - Trabalho Aquaviário",
+    "tema": "NR 30🚢 - Trabalho Aquaviário",
     "pergunta": "A NR 30 estabelece requisitos para os locais de vivência a bordo. Em embarcações com arqueação bruta (AB) inferior a 500 AB, o empregador deve propiciar meios para:",
     "alternativa1": "Instalação de sala de lazer com mobiliário próprio.",
     "alternativa2": "Lavagem e secagem de roupas de trabalho.",
@@ -20490,7 +20490,7 @@ const questoes = [
     "gabaritoComentado": "Embora não especificado explicitamente na numeração dos itens fornecida, a seção 'Camarotes' e 'Salões de Refeições e Locais de Recreio' mencionam critérios baseados em arqueação bruta. A questão refere-se a embarcações com menos de 500 AB e a necessidade de propiciar meios para lavagem e secagem de roupas de trabalho, um detalhe comum nas disposições sobre áreas de vivência em normas de segurança. Embora o texto fornecido não detalhe explicitamente esta obrigação para embarcações menores que 500 AB, o contexto geral das NRs que tratam de áreas de vivência, e a provável menção em outras partes da NR 30 não incluídas na fonte, sugere esta resposta como a mais plausível dentro do escopo típico da norma."
   },
   {
-    "tema": "🚢NR 30 - Trabalho Aquaviário",
+    "tema": "NR 30🚢 - Trabalho Aquaviário",
     "pergunta": "Em relação ao armazenamento de recipientes de Gás Liquefeito de Petróleo (GLP) a bordo, a NR 30 exige que estes e suas conexões sejam certificados de acordo com as normas técnicas brasileiras ou internacionais aplicáveis. Além disso, os recipientes de GLP vazios e cheios devem ser armazenados:",
     "alternativa1": "Juntos, em local ventilado.",
     "alternativa2": "Separadamente, em local ventilado e protegido.",
@@ -20501,7 +20501,7 @@ const questoes = [
     "gabaritoComentado": "Conforme o item 30.11.2 da NR 30 e seus subitens, os recipientes de GLP devem ser certificados e instalados em local ventilado e protegido. Os subitens detalham que os recipientes vazios e cheios devem ser armazenados separadamente."
   },
   {
-    "tema": "🚢NR 30 - Trabalho Aquaviário",
+    "tema": "NR 30🚢 - Trabalho Aquaviário",
     "pergunta": "Conforme a NR 30, para o acesso seguro à embarcação, é correto afirmar que:",
     "alternativa1": "O acesso por equipamentos de guindar é o método prioritário.",
     "alternativa2": "Redes de segurança são exigidas apenas para escadas quebra-peito.",
@@ -20512,7 +20512,7 @@ const questoes = [
     "gabaritoComentado": "A NR 30, no item 30.18.2, determina que as escadas e pranchas de acesso devem ser mantidas em bom estado de conservação e limpeza. O acesso por equipamentos de guindar é proibido, exceto em condições específicas. Redes de segurança são exigidas sob escada ou estrutura complementar. A colocação de extensões, mangueiras, etc., nas estruturas e corrimões é proibida. Os cabos do guincho da escada de portaló não devem criar obstáculos à circulação."
   },
   {
-    "tema": "🚢NR 30 - Trabalho Aquaviário",
+    "tema": "NR 30🚢 - Trabalho Aquaviário",
     "pergunta": "Segundo a NR 30, o relatório de inspeção periódica de equipamentos de guindar de embarcações de bandeira estrangeira que iniciem a operação em águas jurisdicionais brasileiras:",
     "alternativa1": "Não é aceito, devendo ser realizada nova inspeção no Brasil.",
     "alternativa2": "É aceito inicialmente, mas a renovação deve atender aos requisitos de emissão de relatório da NR 30.",
@@ -20523,7 +20523,7 @@ const questoes = [
     "gabaritoComentado": "Conforme o item 30.15.3.1.3 da NR 30, no caso dos navios de bandeira estrangeira que iniciem a operação em águas jurisdicionais brasileiras, será aceito o relatório de inspeção do país de origem, devendo, em renovação, atender ao item 30.15.3.1.2.1 (que trata da emissão do relatório pelo PLH ou sociedade classificadora)."
   },
   {
-    "tema": "🚢NR 30 - Trabalho Aquaviário",
+    "tema": "NR 30🚢 - Trabalho Aquaviário",
     "pergunta": "A NR 30 dispõe sobre as condições dos salões de refeições e locais de recreio em embarcações. É correto afirmar que os pisos desses locais devem ser:",
     "alternativa1": "De madeira polida, para facilitar a limpeza.",
     "alternativa2": "Cobertos por carpete, para maior conforto.",
@@ -20534,7 +20534,7 @@ const questoes = [
     "gabaritoComentado": "O item 30.10.1 da NR 30 determina que os pisos dos salões de refeições e locais de recreio devem ser de material antiderrapante."
   },
   {
-    "tema": "🚢NR 30 - Trabalho Aquaviário",
+    "tema": "NR 30🚢 - Trabalho Aquaviário",
     "pergunta": "Conforme a NR 30, as anteparas nos salões de refeições e locais de recreio das embarcações não devem apresentar:",
     "alternativa1": "Cores vibrantes.",
     "alternativa2": "Decorações temáticas.",
@@ -20545,7 +20545,7 @@ const questoes = [
     "gabaritoComentado": "O item 30.10.1 da NR 30 estabelece que as anteparas nos salões de refeições e locais de recreio não devem apresentar irregularidades e depressões."
   },
   {
-    "tema": "🚢NR 30 - Trabalho Aquaviário",
+    "tema": "NR 30🚢 - Trabalho Aquaviário",
     "pergunta": "Sobre as inspeções periódicas de equipamentos de guindar em embarcações, a NR 30 estabelece que o prazo entre elas deve ser não superior a:",
     "alternativa1": "Seis meses.",
     "alternativa2": "Doze meses.",
@@ -20556,7 +20556,7 @@ const questoes = [
     "gabaritoComentado": "Conforme o item 30.15.3.1.2 da NR 30, as inspeções periódicas de equipamentos de guindar devem ter prazo entre elas não superior a doze meses."
   },
   {
-    "tema": "🚢NR 30 - Trabalho Aquaviário",
+    "tema": "NR 30🚢 - Trabalho Aquaviário",
     "pergunta": "Segundo a NR 30, qual das seguintes alternativas NÃO é uma condição que exige a realização de inspeção eventual em equipamentos de guindar?",
     "alternativa1": "Manutenção.",
     "alternativa2": "Reparo.",
@@ -20567,7 +20567,7 @@ const questoes = [
     "gabaritoComentado": "O item 30.15.3.2 da NR 30 define a inspeção eventual como aquela realizada quando da ocorrência de manutenção, reparo ou avaria que possa afetar a operação segura do equipamento, em conformidade com as recomendações do fabricante ou do órgão certificador. A alteração do operador não é uma condição listada para inspeção eventual."
   },
   {
-    "tema": "🚢NR 30 - Trabalho Aquaviário",
+    "tema": "NR 30🚢 - Trabalho Aquaviário",
     "pergunta": "A NR 30 aborda a segurança e saúde no trabalho aquaviário em embarcações comerciais, que são aquelas utilizadas no transporte de cargas ou passageiros, incluindo aquelas usadas na prestação de serviços. Além das Normas Regulamentadoras, a segurança e saúde no trabalho aquaviário em embarcações é complementada, entre outras, pelas normas da autoridade marítima, publicadas pela:",
     "alternativa1": "Organização Internacional do Trabalho (OIT).",
     "alternativa2": "Agência Nacional de Transportes Aquaviários (ANTAQ).",
@@ -20578,7 +20578,7 @@ const questoes = [
     "gabaritoComentado": "O texto introdutório sobre a NR 30 menciona que a matéria de segurança e saúde no trabalho aquaviário é complementada pelas normas da autoridade marítima (NORMAM) publicadas pela Marinha do Brasil."
   },
   {
-    "tema": "🚢NR 30 - Trabalho Aquaviário",
+    "tema": "NR 30🚢 - Trabalho Aquaviário",
     "pergunta": "Para embarcações com arqueação bruta (AB) superior a 500 AB, a NR 30 estabelece especificações adicionais para os:",
     "alternativa1": "Salões de refeições.",
     "alternativa2": "Áreas de carga.",
@@ -20589,7 +20589,7 @@ const questoes = [
     "gabaritoComentado": "O item 30.9.8 da NR 30 estabelece as condições de camarotes para embarcações com mais de quinhentos de arqueação bruta."
   },
   {
-    "tema": "🚢NR 30 - Trabalho Aquaviário",
+    "tema": "NR 30🚢 - Trabalho Aquaviário",
     "pergunta": "Conforme a NR 30, na cozinha das embarcações, a captação de fumaças, vapores e odores deve ser feita mediante a utilização de:",
     "alternativa1": "Um sistema de climatização.",
     "alternativa2": "Exaustores individuais nos fogões.",
@@ -20600,7 +20600,7 @@ const questoes = [
     "gabaritoComentado": "O item 30.11.1 da NR 30 determina que a captação de fumaças, vapores e odores na cozinha deve ser feita mediante a utilização de um sistema de exaustão."
   },
   {
-    "tema": "🚢NR 30 - Trabalho Aquaviário",
+    "tema": "NR 30🚢 - Trabalho Aquaviário",
     "pergunta": "De acordo com a NR 30, nas embarcações, os corredores, os camarotes, os refeitórios e as salas de recreação devem garantir segurança e proteção contra as intempéries e condições da navegação, bem como isolamento, exceto contra:",
     "alternativa1": "Calor excessivo.",
     "alternativa2": "Frio excessivo.",
@@ -20611,7 +20611,7 @@ const questoes = [
     "gabaritoComentado": "O item 30.19.1 da NR 30 determina que estes locais devem garantir segurança e proteção e isolamento do calor, do frio, do ruído excessivo, das vibrações e das emanações. A luminosidade excessiva não é mencionada como algo contra o qual deve haver isolamento nessa lista específica."
   },
   {
-    "tema": "🚢NR 30 - Trabalho Aquaviário",
+    "tema": "NR 30🚢 - Trabalho Aquaviário",
     "pergunta": "A NR 30 estabelece requisitos para o acesso seguro às embarcações. No caso de escada de portaló que atende à Convenção SOLAS, é exigido que, sob ela ou estrutura complementar, seja montada:",
     "alternativa1": "Uma lona protetora.",
     "alternativa2": "Uma rede de segurança.",
@@ -20622,7 +20622,7 @@ const questoes = [
     "gabaritoComentado": "Conforme o item 30.18.2.4 da NR 30, é exigido que sob a escada ou estrutura complementar seja montada rede de segurança."
   },
   {
-    "tema": "🚢NR 30 - Trabalho Aquaviário",
+    "tema": "NR 30🚢 - Trabalho Aquaviário",
     "pergunta": "Sobre a realização das inspeções periódicas de equipamentos de guindar, a NR 30 permite que sejam realizadas por sociedades classificadoras, desde que estas sejam:",
     "alternativa1": "Reconhecidas pelo fabricante do equipamento.",
     "alternativa2": "Credenciadas pelo Ministério do Trabalho e Emprego.",
@@ -20633,7 +20633,7 @@ const questoes = [
     "gabaritoComentado": "O subitem 30.15.3.1 da NR 30 estabelece que as inspeções iniciais e periódicas podem ser realizadas por sociedades classificadoras, desde que reconhecidas pela autoridade marítima e pela legislação nacional do país que a embarcação pertencer."
   },
   {
-    "tema": "🚢NR 30 - Trabalho Aquaviário",
+    "tema": "NR 30🚢 - Trabalho Aquaviário",
     "pergunta": "De acordo com a NR 30, qual das seguintes é uma das informações que o relatório de inspeção de segurança de equipamentos de guindar deve conter?",
     "alternativa1": "Histórico de navegação da embarcação.",
     "alternativa2": "Lista de todos os tripulantes a bordo.",
@@ -20644,7 +20644,7 @@ const questoes = [
     "gabaritoComentado": "Conforme o subitem 30.15.3.1.2.1 da NR 30, o relatório de inspeção deve conter diversas informações, incluindo o parecer conclusivo quanto à integridade do equipamento até a próxima inspeção. As outras opções não são informações requeridas no relatório de inspeção pela NR 30."
   },
   {
-    "tema": "🚢NR 30 - Trabalho Aquaviário",
+    "tema": "NR 30🚢 - Trabalho Aquaviário",
     "pergunta": "A NR 30 exige que os membros da tripulação disponham de camas individuais. O item 30.9.7 estabelece que o empregador é responsável por fornecer, conservar e higienizar os colchões. Além disso, ele também é responsável por fornecer, conservar e higienizar:",
     "alternativa1": "As redes de segurança.",
     "alternativa2": "Os equipamentos de proteção individual.",
@@ -20655,7 +20655,7 @@ const questoes = [
     "gabaritoComentado": "O item 30.9.7 da NR 30 determina que o empregador deve fornecer, conservar e higienizar os colchões, bem como fazer o mesmo com as roupas de camas."
   },
   {
-    "tema": "🚢NR 30 - Trabalho Aquaviário",
+    "tema": "NR 30🚢 - Trabalho Aquaviário",
     "pergunta": "Em relação ao acesso seguro à embarcação, a NR 30 proíbe a colocação de certos itens nas estruturas e corrimões das escadas e pranchas de acesso. Qual das seguintes alternativas lista um desses itens proibidos?",
     "alternativa1": "Sinalização de segurança.",
     "alternativa2": "Redes de segurança.",
@@ -20666,7 +20666,7 @@ const questoes = [
     "gabaritoComentado": "O item 30.18.2.3 da NR 30 proíbe a colocação de extensões elétricas, mangueiras, mangotes e assemelhados nas estruturas e corrimões das escadas e pranchas de acesso das embarcações."
   },
   {
-    "tema": "🚢NR 30 - Trabalho Aquaviário",
+    "tema": "NR 30🚢 - Trabalho Aquaviário",
     "pergunta": "Conforme a NR 30, quem é responsável pela realização das inspeções diárias dos equipamentos de guindar?",
     "alternativa1": "Profissional Legalmente Habilitado (PLH).",
     "alternativa2": "Sociedade classificadora.",
@@ -20677,7 +20677,7 @@ const questoes = [
     "gabaritoComentado": "O item 30.15.3.3 da NR 30 estabelece que as inspeções diárias devem ser realizadas pelo operador do equipamento ou trabalhador capacitado a cada jornada antes de iniciar qualquer movimentação."
   },
   {
-    "tema": "🚢NR 30 - Trabalho Aquaviário",
+    "tema": "NR 30🚢 - Trabalho Aquaviário",
     "pergunta": "A NR 30 aplica-se a embarcações comerciais. Uma exceção à aplicação integral de algumas NRs ocorre para embarcações classificadas conforme a Convenção SOLAS, desde que apresentados os certificados de classe. Essa exceção se baseia no fato de que as normas de segurança dessas embarcações são auditadas por:",
     "alternativa1": "OIT.",
     "alternativa2": "Autoridade Marítima.",
@@ -20688,7 +20688,7 @@ const questoes = [
     "gabaritoComentado": "O item 30.2.3 da NR 30 e a explicação subsequente indicam que as embarcações classificadas de acordo com a Convenção SOLAS, cujas normas de segurança são auditadas pelas sociedades classificadoras, têm exceções na aplicação de certas NRs."
   },
   {
-    "tema": "🚢NR 30 - Trabalho Aquaviário",
+    "tema": "NR 30🚢 - Trabalho Aquaviário",
     "pergunta": "A NR 30 trata da alimentação a bordo, especificando que o aprovisionamento de víveres e água potável deve observar, entre outros fatores, a duração e a natureza da viagem, o número de tripulantes e:",
     "alternativa1": "O tipo de carga transportada.",
     "alternativa2": "As condições meteorológicas previstas.",
@@ -20700,7 +20700,7 @@ const questoes = [
   },
 
   {
-    "tema": "🌊⚠️Trabalho aquaviário e acidentes",
+    "tema": "Trabalho aquaviário e acidentes 🌊⚠️",
     "pergunta": "Um dos acidentes mais comuns em navios é a queda de pessoa da escada de portaló. Qual das alternativas abaixo NÃO apresenta um fator que contribui para esse tipo de acidente?",
     "alternativa1": "Escorregamento nos degraus da escada devido à presença de óleo ou poeira.",
     "alternativa2": "Tropeços causados por objetos deixados na escada, como extensões elétricas.",
@@ -20711,7 +20711,7 @@ const questoes = [
     "gabaritoComentado": "A presença de rede de segurança é uma medida de proteção contra quedas, e não um fator que contribui para a ocorrência de acidentes. As demais alternativas apresentam fatores que podem levar à queda de pessoas da escada de portaló."
   },
   {
-    "tema": "🌊⚠️Trabalho aquaviário e acidentes",
+    "tema": "Trabalho aquaviário e acidentes 🌊⚠️",
     "pergunta": "Segundo a NR-30, como as escadas de portaló devem ser mantidas para prevenir acidentes?",
     "alternativa1": "Com extensões elétricas e mangueiras fixadas em sua estrutura.",
     "alternativa2": "Em bom estado de conservação e limpeza, preservando as características das superfícies antiderrapantes.",
@@ -20722,7 +20722,7 @@ const questoes = [
     "gabaritoComentado": "A NR-30 determina que as escadas devem ser mantidas em bom estado de conservação e limpeza, preservando as características das superfícies antiderrapantes para prevenir acidentes."
   },
   {
-    "tema": "🌊⚠️Trabalho aquaviário e acidentes",
+    "tema": "Trabalho aquaviário e acidentes 🌊⚠️",
     "pergunta": "Qual norma regulamentadora estabelece que as máquinas e equipamentos utilizados no trabalho aquaviário devem atender ao disposto na NR-12?",
     "alternativa1": "NR-30",
     "alternativa2": "NR-32",
@@ -20733,7 +20733,7 @@ const questoes = [
     "gabaritoComentado": "O item 30.16.1 da NR-30 estabelece que as máquinas e equipamentos utilizados no trabalho aquaviário devem atender ao disposto na NR-12."
   },
   {
-    "tema": "🌊⚠️Trabalho aquaviário e acidentes",
+    "tema": "Trabalho aquaviário e acidentes 🌊⚠️",
     "pergunta": "Onde é comum ocorrer acidentes com máquinas e equipamentos em embarcações?",
     "alternativa1": "Convés principal",
     "alternativa2": "Sala de máquinas",
@@ -20744,7 +20744,7 @@ const questoes = [
     "gabaritoComentado": "A sala de máquinas é um local onde ocorrem muitos acidentes com máquinas e equipamentos em embarcações."
   },
   {
-    "tema": "🌊⚠️Trabalho aquaviário e acidentes",
+    "tema": "Trabalho aquaviário e acidentes 🌊⚠️",
     "pergunta": "Qual tipo de acidente é comum de ocorrer com as correias de motores e equipamentos da embarcação?",
     "alternativa1": "Incêndio",
     "alternativa2": "Choque elétrico",
@@ -20755,7 +20755,7 @@ const questoes = [
     "gabaritoComentado": "Acidentes com correias de motores e equipamentos da embarcação podem resultar em perda de dedos/membros ou escalpelamento."
   },
   {
-    "tema": "🌊⚠️Trabalho aquaviário e acidentes",
+    "tema": "Trabalho aquaviário e acidentes 🌊⚠️",
     "pergunta": "Segundo a NR-12, o que deve ser feito com as transmissões de força e os componentes móveis que ofereçam risco?",
     "alternativa1": "Devem ser mantidos sem proteção para facilitar a manutenção.",
     "alternativa2": "Devem possuir proteções fixas ou móveis com dispositivos de intertravamento.",
@@ -20766,7 +20766,7 @@ const questoes = [
     "gabaritoComentado": "A NR-12 determina que as transmissões de força e os componentes móveis que ofereçam risco devem possuir proteções fixas ou móveis com dispositivos de intertravamento."
   },
   {
-    "tema": "🌊⚠️Trabalho aquaviário e acidentes",
+    "tema": "Trabalho aquaviário e acidentes 🌊⚠️",
     "pergunta": "Quem realiza as atividades de operar e dar manutenção nas máquinas e equipamentos na sala de máquinas?",
     "alternativa1": "Capitães e imediatos",
     "alternativa2": "Cozinheiros e garçons",
@@ -20777,7 +20777,7 @@ const questoes = [
     "gabaritoComentado": "As atividades de operar e dar manutenção nas máquinas e equipamentos na sala de máquinas são realizadas pelos marinheiros de máquinas e moços de máquinas."
   },
   {
-    "tema": "🌊⚠️Trabalho aquaviário e acidentes",
+    "tema": "Trabalho aquaviário e acidentes 🌊⚠️",
     "pergunta": "Qual item da NR-30 proíbe a colocação de extensões elétricas, mangueiras, mangotes e assemelhados nas estruturas e corrimãos das escadas e pranchas de acesso das embarcações?",
     "alternativa1": "30.18.2.1",
     "alternativa2": "30.18.2.2",
@@ -20788,7 +20788,7 @@ const questoes = [
     "gabaritoComentado": "O item 30.18.2.3 da NR-30 proíbe a colocação de extensões elétricas, mangueiras, mangotes e assemelhados nas estruturas e corrimãos das escadas e pranchas de acesso das embarcações."
   },
   {
-    "tema": "🌊⚠️Trabalho aquaviário e acidentes",
+    "tema": "Trabalho aquaviário e acidentes 🌊⚠️",
     "pergunta": "O que a NR-30 determina sobre os cabos do guincho que sustentam a escada de portaló?",
     "alternativa1": "Devem criar obstáculos à circulação de pessoas para garantir a estabilidade da escada.",
     "alternativa2": "Não devem criar obstáculos à circulação de pessoas e devem garantir a estabilidade da escada.",
@@ -20799,7 +20799,7 @@ const questoes = [
     "gabaritoComentado": "A NR-30 determina que os cabos do guincho que sustentam a escada de portaló não devem criar obstáculos à circulação de pessoas e devem garantir a estabilidade da escada."
   },
   {
-    "tema": "🌊⚠️Trabalho aquaviário e acidentes",
+    "tema": "Trabalho aquaviário e acidentes 🌊⚠️",
     "pergunta": "Em relação à queda de escada de portaló em navios, qual das alternativas está INCORRETA?",
     "alternativa1": "É um acidente muito comum.",
     "alternativa2": "A escada é feita de alumínio e articulada na altura do convés.",
@@ -20810,7 +20810,7 @@ const questoes = [
     "gabaritoComentado": "A Convenção Solas também se aplica às escadas de portaló. As demais alternativas estão corretas."
   },
     {
-    "tema": "🌊⚠️Trabalho aquaviário e acidentes",
+    "tema": "Trabalho aquaviário e acidentes 🌊⚠️",
     "pergunta": "Qual das opções abaixo NÃO é uma medida preventiva para evitar acidentes com escadas de portaló, conforme a NR-30?",
     "alternativa1": "Manter as escadas em bom estado de conservação e limpeza.",
     "alternativa2": "Garantir que as escadas disponham de corrimão resistente e com apoio em toda a extensão.",
@@ -20821,7 +20821,7 @@ const questoes = [
     "gabaritoComentado": "A NR-30 determina que os cabos do guincho não devem criar obstáculos à circulação de pessoas, e não o contrário. As demais opções são medidas preventivas corretas."
   },
   {
-    "tema": "🌊⚠️Trabalho aquaviário e acidentes",
+    "tema": "Trabalho aquaviário e acidentes 🌊⚠️",
     "pergunta": "Sobre os acidentes na sala de máquinas de embarcações, é correto afirmar que:",
     "alternativa1": "São raros, devido ao alto nível de automação das máquinas modernas.",
     "alternativa2": "Ocorrem principalmente com equipamentos de navegação.",
@@ -20832,7 +20832,7 @@ const questoes = [
     "gabaritoComentado": "As correias expostas de motores e equipamentos são um fator de risco significativo para acidentes na sala de máquinas, podendo causar lesões graves como perda de membros ou escalpelamento."
   },
   {
-    "tema": "🌊⚠️Trabalho aquaviário e acidentes",
+    "tema": "Trabalho aquaviário e acidentes 🌊⚠️",
     "pergunta": "Qual norma estabelece os requisitos para redes de segurança contra queda de pessoas em escadas de acesso às embarcações?",
     "alternativa1": "NR-12",
     "alternativa2": "NR-30",
@@ -20843,7 +20843,7 @@ const questoes = [
     "gabaritoComentado": "A NR-30 estabelece os requisitos e documentação para redes de segurança contra queda de pessoas em escadas de acesso às embarcações."
   },
   {
-    "tema": "🌊⚠️Trabalho aquaviário e acidentes",
+    "tema": "Trabalho aquaviário e acidentes 🌊⚠️",
     "pergunta": "Qual das alternativas NÃO apresenta um fator que contribui para a ocorrência de acidentes com correias de motores em embarcações?",
     "alternativa1": "Correias expostas.",
     "alternativa2": "Falta de manutenção dos equipamentos.",
@@ -20854,7 +20854,7 @@ const questoes = [
     "gabaritoComentado": "A presença de proteções fixas ou móveis com dispositivos de intertravamento é uma medida de segurança que previne acidentes, e não um fator que contribui para sua ocorrência."
   },
   {
-    "tema": "🌊⚠️Trabalho aquaviário e acidentes",
+    "tema": "Trabalho aquaviário e acidentes 🌊⚠️",
     "pergunta": "Segundo a NR-30, qual deve ser a condição dos corrimãos das escadas de portaló?",
     "alternativa1": "Devem ser feitos de corda e não precisam estar esticados.",
     "alternativa2": "Devem ser feitos de materiais frágeis para facilitar a substituição.",
@@ -20865,7 +20865,7 @@ const questoes = [
     "gabaritoComentado": "A NR-30 estabelece que as escadas devem dispor de corrimão que ofereça resistência e apoio em toda a sua extensão."
   },
   {
-    "tema": "🌊⚠️Trabalho aquaviário e acidentes",
+    "tema": "Trabalho aquaviário e acidentes 🌊⚠️",
     "pergunta": "Qual a principal função da sala de máquinas em uma embarcação?",
     "alternativa1": "Alojamento da tripulação.",
     "alternativa2": "Armazenamento de cargas.",
@@ -20876,7 +20876,7 @@ const questoes = [
     "gabaritoComentado": "A sala de máquinas é o local onde estão instaladas as máquinas para propulsão e geração de energia de uma embarcação."
   },
   {
-    "tema": "🌊⚠️Trabalho aquaviário e acidentes",
+    "tema": "Trabalho aquaviário e acidentes 🌊⚠️",
     "pergunta": "O que é escalpelamento, mencionado no texto como um dos riscos associados a acidentes com correias?",
     "alternativa1": "Fratura exposta.",
     "alternativa2": "Queimadura de terceiro grau.",
@@ -20887,7 +20887,7 @@ const questoes = [
     "gabaritoComentado": "Escalpelamento é o arrancamento do couro cabeludo, um dos graves riscos associados a acidentes com correias em embarcações."
   },
   {
-    "tema": "🌊⚠️Trabalho aquaviário e acidentes",
+    "tema": "Trabalho aquaviário e acidentes 🌊⚠️",
     "pergunta": "Qual das alternativas apresenta uma medida INCORRETA em relação à segurança em embarcações?",
     "alternativa1": "Utilizar rede de segurança em escadas de acesso.",
     "alternativa2": "Manter as escadas de portaló limpas e conservadas.",
@@ -20898,7 +20898,7 @@ const questoes = [
     "gabaritoComentado": "A presença de objetos que obstruam a passagem nas escadas é uma condição insegura que aumenta o risco de tropeços e quedas. As demais alternativas apresentam medidas de segurança corretas."
   },
   {
-    "tema": "🌊⚠️Trabalho aquaviário e acidentes",
+    "tema": "Trabalho aquaviário e acidentes 🌊⚠️",
     "pergunta": "Qual norma regulamentadora deve ser atendida pelas máquinas e equipamentos utilizados no trabalho aquaviário?",
     "alternativa1": "NR-33 (Segurança e Saúde no Trabalho em Espaços Confinados)",
     "alternativa2": "NR-35 (Trabalho em Altura)",
