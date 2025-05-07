@@ -17,15 +17,30 @@
             </div>
             <div id="auth-container">
                 <div id="login-form">
-                    <input type="email" id="email" placeholder="Email">
+                    <input type="text" id="inscricao" placeholder="240 000 000">
                     <input type="password" id="password" placeholder="Senha">
                     <button id="login-btn" class="auth-btn">Entrar</button>
-                    <button id="register-btn" class="auth-btn">Registrar</button>
+                    <button id="register-btn" class="auth-btn">Registrar (Nº Inscrição)</button>
                     <span id="auth-message"></span>
                 </div>
                 <div id="user-info" style="display: none;">
-                    <span>Logado como: <strong id="user-email-display"></strong></span>
+                    <span id="welcome-message" style="font-weight: bold;"></span>
                     <button id="logout-btn" class="auth-btn">Sair</button>
+                </div>
+                 <div id="set-name-modal" style="display: none; margin-top: 10px; padding: 10px; border: 1px solid #ccc; border-radius: 4px; background-color: #f9f9f9;">
+                    <p style="margin-bottom: 8px; font-size: 0.95em;">Para personalizar sua experiência, por favor, informe:</p>
+                    <label for="nome-escolhido" style="font-size: 0.9em; margin-bottom: 3px;">Nome para exibição:</label>
+                    <input type="text" id="nome-escolhido" placeholder="Como prefere ser chamado(a/e/x)?" style="width: calc(100% - 12px); padding: 5px; margin-bottom: 8px; font-size: 0.95em;">
+                    <label for="forma-tratamento" style="font-size: 0.9em; margin-bottom: 3px;">Forma de tratamento (Seja bem-vind...):</label>
+                    <select id="forma-tratamento" style="width: 100%; padding: 5px; margin-bottom: 10px; font-size: 0.95em;">
+                        <option value="o">o (bem-vindo)</option>
+                        <option value="a">a (bem-vinda)</option>
+                        <option value="e">e (bem-vinde)</option>
+                        <option value="x">x (bem-vindx)</option>
+                        <option value="@">@ (bem-vind@)</option>
+                        <option value="">Prefiro não usar</option> </select>
+                    <button id="save-name-btn" class="auth-btn" style="padding: 5px 10px; font-size: 0.9em;">Salvar</button>
+                    <span id="set-name-message" style="margin-left: 10px; font-size: 0.9em; color: green;"></span>
                 </div>
             </div>
         </div>
@@ -37,7 +52,7 @@
         </div>
 
         <div id="main-content">
-            <div id="filtros-navegacao">
+             <div id="filtros-navegacao">
                 <div class="filtro-tema-container">
                     <label for="filtro-tema">Filtrar por Tema:</label>
                     <select id="filtro-tema">
@@ -149,34 +164,28 @@
     <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore-compat.js"></script>
 
     <script>
-      // COLE SUAS CHAVES DO FIREBASE AQUI
       const firebaseConfig = {
-        apiKey: "AIzaSyAtO2G_qfrOTMYZAxXl2YBnCpuXaS9UpC0", // SUBSTITUA PELA SUA CHAVE REAL
+        apiKey: "AIzaSyAtO2G_qfrOTMYZAxXl2YBnCpuXaS9UpC0", // MANTENHA SUA CHAVE REAL
         authDomain: "aftec-b507a.firebaseapp.com",
         projectId: "aftec-b507a",
-        storageBucket: "aftec-b507a.firebasestorage.app",
+        storageBucket: "aftec-b507a.appspot.com", // Verifique se é .appspot.com ou .firebasestorage.app
         messagingSenderId: "389156716534",
         appId: "1:389156716534:web:cadbe9d8ac2b124e0f91d7"
       };
 
       let appFirebase;
-      // Verificação mais robusta para não inicializar com chaves placeholder
       if (firebaseConfig.apiKey && !firebaseConfig.apiKey.includes("SUA_API_KEY")) {
           try {
             appFirebase = firebase.initializeApp(firebaseConfig);
-            // console.log("Firebase SDK inicializado no index.html.");
           } catch (e) {
-            // console.error("Erro ao inicializar Firebase no HTML (provavelmente já inicializado):", e);
             if (firebase.apps.length) {
-                appFirebase = firebase.app(); // Pega a instância existente
-                // console.log("Firebase App já havia sido inicializado.");
+                appFirebase = firebase.app(); 
             } else {
                 console.warn("Falha crítica na inicialização do Firebase. Verifique suas chaves em firebaseConfig.");
             }
           }
       } else {
-          console.warn("Configuração do Firebase não fornecida ou está com placeholders. Funcionalidades online (login/salvamento Firestore) não estarão ativas.");
-          // Esconder área de login se Firebase não estiver configurado
+          console.warn("Configuração do Firebase não fornecida ou está com placeholders. Funcionalidades online não estarão ativas.");
           const authContainer = document.getElementById('auth-container');
           if(authContainer) authContainer.style.display = 'none';
           const storageWarning = document.getElementById('storage-warning');
