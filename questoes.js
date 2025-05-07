@@ -9317,7 +9317,7 @@ const questoes = [
     "alternativa4": "D. O trânsito de pessoas sobre escavações deve ser liberado sem necessidade de passarelas, desde que o solo esteja firme.",
     "alternativa5": "E. O projeto de escavação é exigido apenas para escavações superiores a 3 metros de profundidade.",
     "respostaCorreta": "B",
-    "gabaritoComentado": "A alternativa correta é a **B**. A NR-18 estabelece a obrigatoriedade de remoção de blocos desgarrados e pedras soltas dos taludes em escavações realizadas em encostas, visando prevenir acidentes. As demais alternativas estão incorretas conforme as disposições da norma."
+    "gabaritoComentado": "A alternativa correta é a <b>B</b>. A NR-18 estabelece a obrigatoriedade de remoção de blocos desgarrados e pedras soltas dos taludes em escavações realizadas em encostas, visando prevenir acidentes. As demais alternativas estão incorretas conforme as disposições da norma."
   },
   {
     "tema": "SimulNALDO",
@@ -9328,7 +9328,7 @@ const questoes = [
     "alternativa4": "D. As fundações profundas, como radier e sapatas, transmitem a carga diretamente à superfície do terreno.",
     "alternativa5": "E. As fundações superficiais são aplicadas exclusivamente em terrenos rochosos e de alta resistência.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "A alternativa correta é a **C**. Fundações superficiais, como sapatas e blocos, caracterizam-se por escavações rasas e geralmente não requerem equipamentos de grande porte para sua execução. As demais alternativas apresentam informações incorretas sobre as características e aplicações dos tipos de fundação."
+    "gabaritoComentado": "A alternativa correta é a <b>C</b>. Fundações superficiais, como sapatas e blocos, caracterizam-se por escavações rasas e geralmente não requerem equipamentos de grande porte para sua execução. As demais alternativas apresentam informações incorretas sobre as características e aplicações dos tipos de fundação."
   },
   {
     "tema": "SimulNALDO",
@@ -9339,7 +9339,7 @@ const questoes = [
     "alternativa4": "D. A utilização de tubulões de ar comprimido é restrita apenas a obras públicas.",
     "alternativa5": "E. A escavação manual de tubulões pode ser realizada sem limite de profundidade, desde que acompanhada por um técnico de segurança.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "A alternativa correta é a **A**. A NR-18 permite o uso de tubulão de ar comprimido, desde que haja autorização de um profissional legalmente habilitado, que deverá definir os procedimentos seguros para a atividade. As demais alternativas contêm informações que não correspondem às disposições da norma."
+    "gabaritoComentado": "A alternativa correta é a <b>A</b>. A NR-18 permite o uso de tubulão de ar comprimido, desde que haja autorização de um profissional legalmente habilitado, que deverá definir os procedimentos seguros para a atividade. As demais alternativas contêm informações que não correspondem às disposições da norma."
   },
   {
     "tema": "SimulNALDO",
@@ -9350,7 +9350,7 @@ const questoes = [
     "alternativa4": "D. A execução do desmonte com explosivos pode ser realizada por qualquer trabalhador treinado, sem necessidade de profissional específico.",
     "alternativa5": "E. O armazenamento e transporte de explosivos não exigem regras específicas além das determinadas pela própria obra.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "A alternativa correta é a **C**. De acordo com a NR-18, o Plano de Fogo para desmonte de rochas com explosivos deve ser elaborado por um profissional legalmente habilitado (PLH), enquanto a execução do desmonte é de responsabilidade do blaster, profissional capacitado para essa atividade. As demais alternativas apresentam informações incorretas sobre as responsabilidades e exigências para o desmonte de rochas com explosivos."
+    "gabaritoComentado": "A alternativa correta é a <b>C</b>. De acordo com a NR-18, o Plano de Fogo para desmonte de rochas com explosivos deve ser elaborado por um profissional legalmente habilitado (PLH), enquanto a execução do desmonte é de responsabilidade do blaster, profissional capacitado para essa atividade. As demais alternativas apresentam informações incorretas sobre as responsabilidades e exigências para o desmonte de rochas com explosivos."
   },
   {
     "tema": "SimulNALDO",
@@ -9361,7 +9361,7 @@ const questoes = [
     "alternativa4": "D. Os vãos no piso podem permanecer abertos durante a obra, desde que sinalizados com fitas de advertência visíveis.",
     "alternativa5": "E. A proteção da periferia da edificação só é exigida após a conclusão da última laje da construção.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "A alternativa correta é a **C**. A NR-18 estabelece que as redes de segurança, quando utilizadas como medida de proteção contra quedas, devem ser instaladas conforme as normas técnicas aplicáveis, inspecionadas semanalmente e complementadas por sistemas que impeçam a queda de materiais de pequeno porte. As demais alternativas apresentam informações que não estão em conformidade com as exigências da norma."
+    "gabaritoComentado": "A alternativa correta é a <b>C</b>. A NR-18 estabelece que as redes de segurança, quando utilizadas como medida de proteção contra quedas, devem ser instaladas conforme as normas técnicas aplicáveis, inspecionadas semanalmente e complementadas por sistemas que impeçam a queda de materiais de pequeno porte. As demais alternativas apresentam informações que não estão em conformidade com as exigências da norma."
   },
   {
     "tema": "SimulNALDO",
@@ -9372,7 +9372,7 @@ const questoes = [
     "alternativa4": "D. Podem ser removíveis, desde que suportem o peso do trabalhador durante o uso eventual.",
     "alternativa5": "E. São obrigatórios apenas em edificações com mais de cinco pavimentos ou altura superior a 12 metros.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "A alternativa correta é a **C**. A NR-18 exige que os dispositivos de ancoragem para proteção contra quedas sejam previstos no projeto estrutural da edificação, resistam a uma carga mínima de 1.500 kgf e sejam constituídos de material resistente às intempéries, garantindo sua durabilidade e segurança. As demais alternativas contêm informações que não correspondem aos requisitos estabelecidos pela norma."
+    "gabaritoComentado": "A alternativa correta é a <b>C</b>. A NR-18 exige que os dispositivos de ancoragem para proteção contra quedas sejam previstos no projeto estrutural da edificação, resistam a uma carga mínima de 1.500 kgf e sejam constituídos de material resistente às intempéries, garantindo sua durabilidade e segurança. As demais alternativas contêm informações que não correspondem aos requisitos estabelecidos pela norma."
   },
   {
     "tema": "SimulNALDO",
@@ -9383,7 +9383,7 @@ const questoes = [
     "alternativa4": "D. O uso de telas em andaimes fachadeiros é opcional, dependendo do tipo de atividade executada.",
     "alternativa5": "E. Não há necessidade de projeto por profissional legalmente habilitado (PLH) para interligação de pisos em andaimes, independentemente da altura.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "A alternativa correta é a **C**. A NR-18 determina que o acesso ao piso de trabalho de andaimes com altura superior a 1 metro deve ser feito por meio de escadas, sejam elas de mão (tipo marinheiro) ou escadas provisórias de madeira ou metálicas, garantindo um acesso seguro. As demais alternativas apresentam informações que não estão em conformidade com as exigências da norma."
+    "gabaritoComentado": "A alternativa correta é a <b>C</b>. A NR-18 determina que o acesso ao piso de trabalho de andaimes com altura superior a 1 metro deve ser feito por meio de escadas, sejam elas de mão (tipo marinheiro) ou escadas provisórias de madeira ou metálicas, garantindo um acesso seguro. As demais alternativas apresentam informações que não estão em conformidade com as exigências da norma."
   },
   {
     "tema": "SimulNALDO",
@@ -9394,7 +9394,7 @@ const questoes = [
     "alternativa4": "D. Movimentar o andaime suspenso com auxílio de guinchos automáticos homologados pelo fabricante.",
     "alternativa5": "E. Realizar pintura ou limpeza em fachadas utilizando andaimes suspensos com cabos de aço certificados.",
     "respostaCorreta": "B",
-    "gabaritoComentado": "A alternativa correta é a **B**. A NR-18 proíbe diversas práticas no uso de andaimes suspensos, incluindo a utilização de trechos em balanço, a interligação de estruturas diferentes, o transporte de pessoas ou materiais que não estejam diretamente relacionados ao serviço a ser executado no andaime e o ato de enrolar o cabo de sustentação no corpo do equipamento de elevação. Essas proibições visam garantir a segurança dos trabalhadores. As demais alternativas descrevem situações que não são necessariamente proibidas pela norma, ou até mesmo práticas recomendadas (como o uso de cabos de aço certificados)."
+    "gabaritoComentado": "A alternativa correta é a <b>B</b>. A NR-18 proíbe diversas práticas no uso de andaimes suspensos, incluindo a utilização de trechos em balanço, a interligação de estruturas diferentes, o transporte de pessoas ou materiais que não estejam diretamente relacionados ao serviço a ser executado no andaime e o ato de enrolar o cabo de sustentação no corpo do equipamento de elevação. Essas proibições visam garantir a segurança dos trabalhadores. As demais alternativas descrevem situações que não são necessariamente proibidas pela norma, ou até mesmo práticas recomendadas (como o uso de cabos de aço certificados)."
   },
   {
     "tema": "SimulNALDO",
@@ -9405,7 +9405,7 @@ const questoes = [
     "alternativa4": "D. a operação pode ser realizada por qualquer trabalhador presente na obra, desde que tenha experiência prática, dispensando capacitação formal.",
     "alternativa5": "E. a ancoragem da plataforma é opcional, independentemente da altura atingida pela estrutura.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "A alternativa correta é a **C**. A NR-18 estabelece que as plataformas de trabalho de cremalheira devem ser equipadas com dispositivos de segurança essenciais, como motofreio, freio automático de segurança que atue em caso de falha do motofreio, botoeira de comando com atuação por pressão contínua e sinalização sonora automática durante a movimentação. Esses dispositivos são cruciais para prevenir acidentes. As demais alternativas apresentam informações que não estão em conformidade com as exigências da norma."
+    "gabaritoComentado": "A alternativa correta é a <b>C</b>. A NR-18 estabelece que as plataformas de trabalho de cremalheira devem ser equipadas com dispositivos de segurança essenciais, como motofreio, freio automático de segurança que atue em caso de falha do motofreio, botoeira de comando com atuação por pressão contínua e sinalização sonora automática durante a movimentação. Esses dispositivos são cruciais para prevenir acidentes. As demais alternativas apresentam informações que não estão em conformidade com as exigências da norma."
   },
   {
     "tema": "SimulNALDO",
@@ -9416,7 +9416,7 @@ const questoes = [
     "alternativa4": "D. É permitido utilizar a PEMT como guindaste, desde que respeitadas as condições climáticas e as orientações gerais de segurança.",
     "alternativa5": "E. O operador da PEMT não necessita de capacitação específica, bastando experiência prática no canteiro de obras.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "A alternativa correta é a **C**. A NR-18 exige que as PEMT possuam dispositivos de segurança como botão de parada de emergência, sistema sonoro automático que entre em operação durante a movimentação e um dispositivo de emergência que permita a descida da plataforma em caso de falha do sistema normal. Esses dispositivos são fundamentais para garantir a segurança durante a operação. As demais alternativas descrevem práticas que são proibidas ou inadequadas segundo a norma."
+    "gabaritoComentado": "A alternativa correta é a <b>C</b>. A NR-18 exige que as PEMT possuam dispositivos de segurança como botão de parada de emergência, sistema sonoro automático que entre em operação durante a movimentação e um dispositivo de emergência que permita a descida da plataforma em caso de falha do sistema normal. Esses dispositivos são fundamentais para garantir a segurança durante a operação. As demais alternativas descrevem práticas que são proibidas ou inadequadas segundo a norma."
   },
   {
     "tema": "SimulNALDO",
@@ -13588,7 +13588,7 @@ const questoes = [
     "alternativa4": "Desenvolvimento de próteses e órteses para reabilitação.",
     "alternativa5": "Investigação de acidentes de trânsito relacionados a fatores humanos.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "A biomecânica ocupacional aplica os princípios da biomecânica para analisar e otimizar a interação entre trabalhadores e suas atividades, visando a **melhoria do desempenho e a prevenção de lesões** relacionadas ao trabalho."
+    "gabaritoComentado": "A biomecânica ocupacional aplica os princípios da biomecânica para analisar e otimizar a interação entre trabalhadores e suas atividades, visando a <b>melhoria do desempenho e a prevenção de lesões<b> relacionadas ao trabalho."
   },
   {
     "tema": "BIOMECÂNICA E FISIOLOGIA DO TRABALHO",
@@ -13599,7 +13599,7 @@ const questoes = [
     "alternativa4": "A amplitude e a frequência dos movimentos repetitivos.",
     "alternativa5": "A percepção do trabalhador sobre o esforço físico despendido.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "A **cinética** estuda as **forças associadas a um movimento**, incluindo tanto as forças internas produzidas pelos músculos quanto as forças externas que atuam sobre o corpo."
+    "gabaritoComentado": "A <b>cinética<b> estuda as <b>forças associadas a um movimento<b>, incluindo tanto as forças internas produzidas pelos músculos quanto as forças externas que atuam sobre o corpo."
   },
   {
     "tema": "BIOMECÂNICA E FISIOLOGIA DO TRABALHO",
@@ -13610,7 +13610,7 @@ const questoes = [
     "alternativa4": "Reduzir o tempo total dedicado à produção.",
     "alternativa5": "Facilitar a supervisão das atividades laborais.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "As pausas predefinidas são importantes medidas de prevenção ergonômica, visando a **recuperação psicofisiológica dos trabalhadores** frente às demandas do trabalho."
+    "gabaritoComentado": "As pausas predefinidas são importantes medidas de prevenção ergonômica, visando a <b>recuperação psicofisiológica dos trabalhadores<b> frente às demandas do trabalho."
   },
   {
     "tema": "BIOMECÂNICA E FISIOLOGIA DO TRABALHO",
@@ -13621,7 +13621,7 @@ const questoes = [
     "alternativa4": "Distância vertical da pega da carga ao solo de 75 cm e distância horizontal da pega ao ponto médio dos tornozelos de 25 cm.",
     "alternativa5": "Manter uma postura assimétrica durante o levantamento da carga.",
     "respostaCorreta": "D",
-    "gabaritoComentado": "As condições ideais para o carregamento manual de cargas, visando minimizar a sobrecarga na coluna, incluem uma **distância vertical da pega da carga ao solo de 75 cm** e uma **distância horizontal da pega ao ponto médio dos tornozelos de 25 cm**, sem torções no dorso e sem posturas assimétricas."
+    "gabaritoComentado": "As condições ideais para o carregamento manual de cargas, visando minimizar a sobrecarga na coluna, incluem uma <b>distância vertical da pega da carga ao solo de 75 cm<b> e uma <b>distância horizontal da pega ao ponto médio dos tornozelos de 25 cm<b>, sem torções no dorso e sem posturas assimétricas."
   },
   {
     "tema": "BIOMECÂNICA E FISIOLOGIA DO TRABALHO",
@@ -13632,7 +13632,7 @@ const questoes = [
     "alternativa4": "Ciclos de trabalho com duração superior a 30 segundos, onde o componente essencial ocupa menos de 50% do ciclo total.",
     "alternativa5": "Atividades que permitem a alternância constante de posturas e movimentos.",
     "respostaCorreta": "B",
-    "gabaritoComentado": "O **trabalho repetitivo** envolve a **realização de atividades com movimentos muito similares, de forma contínua e por um período considerável de tempo**."
+    "gabaritoComentado": "O <b>trabalho repetitivo<b> envolve a <b>realização de atividades com movimentos muito similares, de forma contínua e por um período considerável de tempo<b>."
   },
   {
     "tema": "BIOMECÂNICA E FISIOLOGIA DO TRABALHO",
@@ -13643,7 +13643,7 @@ const questoes = [
     "alternativa4": "Tempo de exposição de um trabalhador a um agente de risco.",
     "alternativa5": "Utilização de um equipamento de proteção individual específico.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "Os **indicadores biológicos de efeito** indicam uma **alteração bioquímica, fisiológica ou outra no organismo** que pode estar associada a um possível dano à saúde."
+    "gabaritoComentado": "Os <b>indicadores biológicos de efeito<b> indicam uma <b>alteração bioquímica, fisiológica ou outra no organismo<b> que pode estar associada a um possível dano à saúde."
   },
   {
     "tema": "BIOMECÂNICA E FISIOLOGIA DO TRABALHO",
@@ -13654,7 +13654,7 @@ const questoes = [
     "alternativa4": "Aplicação de questionários padronizados aos trabalhadores.",
     "alternativa5": "Medição quantitativa de todos os fatores de risco ergonômicos.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "A AET inicia-se pela **discussão do problema a ser resolvido e escolha de situações a serem analisadas**, seguido por um pré-diagnóstico e observações detalhadas."
+    "gabaritoComentado": "A AET inicia-se pela <b>discussão do problema a ser resolvido e escolha de situações a serem analisadas<b>, seguido por um pré-diagnóstico e observações detalhadas."
   },
   {
     "tema": "BIOMECÂNICA E FISIOLOGIA DO TRABALHO",
@@ -13665,7 +13665,7 @@ const questoes = [
     "alternativa4": "Unicamente a remuneração e as vantagens oferecidas aos trabalhadores.",
     "alternativa5": "Exclusivamente o nível de ruído e a iluminação do ambiente.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "A análise da organização do trabalho na AET deve abordar as **normas de produção, as exigências de tempo, o ritmo de trabalho** e os **aspectos cognitivos** que possam comprometer a segurança e a saúde do trabalhador."
+    "gabaritoComentado": "A análise da organização do trabalho na AET deve abordar as <b>normas de produção, as exigências de tempo, o ritmo de trabalho<b> e os <b>aspectos cognitivos<b> que possam comprometer a segurança e a saúde do trabalhador."
   },
   {
     "tema": "BIOMECÂNICA E FISIOLOGIA DO TRABALHO",
@@ -13676,7 +13676,7 @@ const questoes = [
     "alternativa4": "Três etapas: preliminar, intermediária e final.",
     "alternativa5": "Uma única etapa que combina métodos qualitativos e quantitativos.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "A NR 17 prevê que a avaliação das situações de trabalho seja realizada em **duas etapas**: uma inicial, por meio da **avaliação ergonômica preliminar (AEP)**, e uma etapa de aprofundamento, por meio da **Análise Ergonômica do Trabalho (AET)**."
+    "gabaritoComentado": "A NR 17 prevê que a avaliação das situações de trabalho seja realizada em <b>duas etapas<b>: uma inicial, por meio da <b>avaliação ergonômica preliminar (AEP)<b>, e uma etapa de aprofundamento, por meio da <b>Análise Ergonômica do Trabalho (AET)<b>."
   },
   {
     "tema": "BIOMECÂNICA E FISIOLOGIA DO TRABALHO",
@@ -13698,7 +13698,7 @@ const questoes = [
     "alternativa4": "No setor de construção civil com movimentação manual de cargas.",
     "alternativa5": "Em atividades de mineração com riscos de acidentes graves.",
     "respostaCorreta": "B",
-    "gabaritoComentado": "A ergonomia ganhou maior destaque nos tempos recentes ao se discutir questões **biomecânicas relativas ao trabalho assentado frente a telas de computadores**, no final do século passado."
+    "gabaritoComentado": "A ergonomia ganhou maior destaque nos tempos recentes ao se discutir questões <b>biomecânicas relativas ao trabalho assentado frente a telas de computadores<b>, no final do século passado."
   },
   {
     "tema": "BIOMECÂNICA E FISIOLOGIA DO TRABALHO",
@@ -13709,7 +13709,7 @@ const questoes = [
     "alternativa4": "Necessidade de consentimento informado do candidato para a realização dos exames.",
     "alternativa5": "Possibilidade de resultados falso-positivos, gerando preocupações desnecessárias.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "A utilização de indicadores biológicos de susceptibilidade em candidatos a emprego **caracteriza discriminação**, pois os ambientes de trabalho devem ser saudáveis para todos, inclusive para os indivíduos mais susceptíveis."
+    "gabaritoComentado": "A utilização de indicadores biológicos de susceptibilidade em candidatos a emprego <b>caracteriza discriminação<b>, pois os ambientes de trabalho devem ser saudáveis para todos, inclusive para os indivíduos mais susceptíveis."
   },
   {
     "tema": "BIOMECÂNICA E FISIOLOGIA DO TRABALHO",
@@ -13720,7 +13720,7 @@ const questoes = [
     "alternativa4": "Ser definida unilateralmente pelo empregador, sem a necessidade de discussão com os trabalhadores.",
     "alternativa5": "Substituir a necessidade de alternância de atividades.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "A NR 17 exige que a introdução de pausas não aumente a cadência individual, que as pausas sejam fora dos postos de trabalho e que seja **assegurada a saída dos postos para necessidades fisiológicas**, independentemente das pausas."
+    "gabaritoComentado": "A NR 17 exige que a introdução de pausas não aumente a cadência individual, que as pausas sejam fora dos postos de trabalho e que seja <b>assegurada a saída dos postos para necessidades fisiológicas<b>, independentemente das pausas."
   },
   {
     "tema": "BIOMECÂNICA E FISIOLOGIA DO TRABALHO",
@@ -13731,7 +13731,7 @@ const questoes = [
     "alternativa4": "Comparar a tecnologia utilizada com a de outras empresas do setor.",
     "alternativa5": "Atender a requisitos de auditorias financeiras.",
     "respostaCorreta": "B",
-    "gabaritoComentado": "A coleta de informações sobre o maquinário, ferramentas e equipamentos visa **identificar possíveis disfunções** que possam impactar o trabalho e a segurança dos trabalhadores."
+    "gabaritoComentado": "A coleta de informações sobre o maquinário, ferramentas e equipamentos visa <b>identificar possíveis disfunções<b> que possam impactar o trabalho e a segurança dos trabalhadores."
   },
   {
     "tema": "BIOMECÂNICA E FISIOLOGIA DO TRABALHO",
@@ -13742,7 +13742,7 @@ const questoes = [
     "alternativa4": "Unicamente a avaliação subjetiva do superior hierárquico.",
     "alternativa5": "Somente a aplicação de testes de habilidades específicas.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "Segundo o item 17.4.4 da NR 17, todo sistema de avaliação de desempenho deve levar em consideração **as repercussões sobre a saúde dos trabalhadores**."
+    "gabaritoComentado": "Segundo o item 17.4.4 da NR 17, todo sistema de avaliação de desempenho deve levar em consideração <b>as repercussões sobre a saúde dos trabalhadores<b>."
   },
   {
     "tema": "BIOMECÂNICA E FISIOLOGIA DO TRABALHO",
@@ -13753,7 +13753,7 @@ const questoes = [
     "alternativa4": "Responsabilidade exclusiva dos trabalhadores.",
     "alternativa5": "Aplicável somente em grandes organizações com programas de saúde ocupacional.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "A avaliação das situações de trabalho, por meio da AEP ou AET, é uma **obrigação empresarial, necessária para aplicação dos princípios de ergonomia** e adaptação das condições de trabalho às características psicofisiológicas dos trabalhadores."
+    "gabaritoComentado": "A avaliação das situações de trabalho, por meio da AEP ou AET, é uma <b>obrigação empresarial, necessária para aplicação dos princípios de ergonomia<b> e adaptação das condições de trabalho às características psicofisiológicas dos trabalhadores."
   },
   {
     "tema": "BIOMECÂNICA E FISIOLOGIA DO TRABALHO",
@@ -13764,7 +13764,7 @@ const questoes = [
     "alternativa4": "Restringir o escopo da análise a apenas um posto de trabalho.",
     "alternativa5": "Impedir a participação dos trabalhadores no processo.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "A instrução de uma demanda permite **clarificar os objetivos e aspectos a serem estudados na análise ergonômica**."
+    "gabaritoComentado": "A instrução de uma demanda permite <b>clarificar os objetivos e aspectos a serem estudados na análise ergonômica<b>."
   },
   {
     "tema": "BIOMECÂNICA E FISIOLOGIA DO TRABALHO",
@@ -13775,7 +13775,7 @@ const questoes = [
     "alternativa4": "Quando a avaliação ergonômica preliminar (AEP) não identifica nenhum risco.",
     "alternativa5": "Quando os trabalhadores realizam apenas tarefas administrativas.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "A AET deve ser realizada quando **observada a necessidade de uma avaliação mais aprofundada da situação**."
+    "gabaritoComentado": "A AET deve ser realizada quando <b>observada a necessidade de uma avaliação mais aprofundada da situação<b>."
   },
   {
     "tema": "BIOMECÂNICA E FISIOLOGIA DO TRABALHO",
@@ -13786,7 +13786,7 @@ const questoes = [
     "alternativa4": "Aplicar punições aos trabalhadores que não atingirem as metas estabelecidas.",
     "alternativa5": "Ignorar as dúvidas dos trabalhadores sobre o exercício de suas atividades.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "Os superiores hierárquicos devem ser orientados para **facilitar a compreensão das atribuições e responsabilidades** e **manter aberto o diálogo** com os trabalhadores."
+    "gabaritoComentado": "Os superiores hierárquicos devem ser orientados para <b>facilitar a compreensão das atribuições e responsabilidades<b> e <b>manter aberto o diálogo<b> com os trabalhadores."
   },
   {
     "tema": "BIOMECÂNICA E FISIOLOGIA DO TRABALHO",
@@ -13797,7 +13797,7 @@ const questoes = [
     "alternativa4": "Unicamente por meio da observação direta dos postos de trabalho.",
     "alternativa5": "Somente através da aplicação de questionários aos trabalhadores.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "A avaliação ergonômica preliminar pode ser realizada por meio de abordagens **qualitativas, semiquantitativas, quantitativas ou combinação dessas**."
+    "gabaritoComentado": "A avaliação ergonômica preliminar pode ser realizada por meio de abordagens <b>qualitativas, semiquantitativas, quantitativas ou combinação dessas<b>."
   },
   {
     "tema": "BIOMECÂNICA E FISIOLOGIA DO TRABALHO",
@@ -13808,7 +13808,7 @@ const questoes = [
     "alternativa4": "Redução da necessidade de exames médicos ocupacionais.",
     "alternativa5": "Implementação de medidas de controle sem a participação dos trabalhadores.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "Um dos resultados esperados da AET é a **explicitação da existência de sobrecargas estáticas ou dinâmicas do sistema osteomuscular**, a ser comparada com os dados de saúde da organização."
+    "gabaritoComentado": "Um dos resultados esperados da AET é a <b>explicitação da existência de sobrecargas estáticas ou dinâmicas do sistema osteomuscular<b>, a ser comparada com os dados de saúde da organização."
   },
   {
     "tema": "BIOMECÂNICA E FISIOLOGIA DO TRABALHO",
@@ -13819,7 +13819,7 @@ const questoes = [
     "alternativa4": "Focadas apenas em aspectos de organização do trabalho.",
     "alternativa5": "Elaboradas sem considerar os custos de implementação.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "As recomendações ergonômicas devem ser **relativas a correções e aprimoramento**, registradas em planos claros e **validadas pelos próprios trabalhadores envolvidos**."
+    "gabaritoComentado": "As recomendações ergonômicas devem ser <b>relativas a correções e aprimoramento<b>, registradas em planos claros e <b>validadas pelos próprios trabalhadores envolvidos<b>."
   },
   {
     "tema": "BIOMECÂNICA E FISIOLOGIA DO TRABALHO",
@@ -13830,7 +13830,7 @@ const questoes = [
     "alternativa4": "Ergonomia.",
     "alternativa5": "Fisiologia.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "A **cinemática** estuda os movimentos em si, considerando o **tamanho, sequência e cronologia do movimento**, sem se preocupar com as forças que os causam."
+    "gabaritoComentado": "A <b>cinemática<b> estuda os movimentos em si, considerando o <b>tamanho, sequência e cronologia do movimento<b>, sem se preocupar com as forças que os causam."
   },
   {
     "tema": "BIOMECÂNICA E FISIOLOGIA DO TRABALHO",
@@ -13841,7 +13841,7 @@ const questoes = [
     "alternativa4": "Utilização de indicadores biológicos de susceptibilidade em todos os exames ocupacionais.",
     "alternativa5": "Afastamento sistemático de trabalhadores expostos a qualquer agente de risco.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "O PCMSO estabelece a obrigatoriedade de descrever os possíveis agravos à saúde relacionados aos riscos ocupacionais e conter um **planejamento para a realização tanto das avaliações clínicas quanto dos exames complementares necessários**, conforme os riscos identificados."
+    "gabaritoComentado": "O PCMSO estabelece a obrigatoriedade de descrever os possíveis agravos à saúde relacionados aos riscos ocupacionais e conter um <b>planejamento para a realização tanto das avaliações clínicas quanto dos exames complementares necessários<b>, conforme os riscos identificados."
   },
   {
     "tema": "BIOMECÂNICA E FISIOLOGIA DO TRABALHO",
@@ -13852,7 +13852,7 @@ const questoes = [
     "alternativa4": "Realizados apenas em caso de suspeita de doença ocupacional.",
     "alternativa5": "Custeados pelo sindicato da categoria.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "A NR 7 estabelece a realização **obrigatória** dos exames médicos ocupacionais: admissionais, periódicos, de retorno ao trabalho, de mudança de risco ocupacional e demissionais."
+    "gabaritoComentado": "A NR 7 estabelece a realização <b>obrigatória<b> dos exames médicos ocupacionais: admissionais, periódicos, de retorno ao trabalho, de mudança de risco ocupacional e demissionais."
   },
   {
     "tema": "BIOMECÂNICA E FISIOLOGIA DO TRABALHO",
@@ -13863,7 +13863,7 @@ const questoes = [
     "alternativa4": "Apenas se o afastamento for de origem ocupacional.",
     "alternativa5": "Após 60 dias do retorno, para verificar a readaptação.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "No exame de retorno ao trabalho, a avaliação clínica deve ser realizada **antes que o trabalhador reassuma suas funções**, quando ausente por período igual ou superior a 30 dias."
+    "gabaritoComentado": "No exame de retorno ao trabalho, a avaliação clínica deve ser realizada <b>antes que o trabalhador reassuma suas funções<b>, quando ausente por período igual ou superior a 30 dias."
   },
   {
     "tema": "BIOMECÂNICA E FISIOLOGIA DO TRABALHO",
@@ -13874,7 +13874,7 @@ const questoes = [
     "alternativa4": "Unicamente a definição de apto ou inapto para a função atual.",
     "alternativa5": "A remuneração e o cargo do trabalhador na empresa.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "O ASO deve conter, entre outros itens, a **descrição dos perigos ou fatores de risco identificados e avaliados no ambiente de trabalho** do trabalhador."
+    "gabaritoComentado": "O ASO deve conter, entre outros itens, a <b>descrição dos perigos ou fatores de risco identificados e avaliados no ambiente de trabalho<b> do trabalhador."
   },
   {
     "tema": "BIOMECÂNICA E FISIOLOGIA DO TRABALHO",
@@ -13885,7 +13885,7 @@ const questoes = [
     "alternativa4": "Realizar uma nova avaliação de risco apenas se houver outros casos semelhantes.",
     "alternativa5": "Suspender o contrato de trabalho do empregado imediatamente.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "Constatada doença relacionada ao trabalho, o empregador deve, entre outras ações, **emitir eletronicamente a Comunicação de Acidente do Trabalho - CAT**."
+    "gabaritoComentado": "Constatada doença relacionada ao trabalho, o empregador deve, entre outras ações, <b>emitir eletronicamente a Comunicação de Acidente do Trabalho - CAT<b>."
   },
   {
     "tema": "BIOMECÂNICA E FISIOLOGIA DO TRABALHO",
@@ -13896,7 +13896,7 @@ const questoes = [
     "alternativa4": "Unicamente o planejamento das ações de saúde para o próximo ano.",
     "alternativa5": "A descrição detalhada dos prontuários médicos individuais.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "O relatório analítico anual do PCMSO deve conter, no mínimo, a **estatística de resultados anormais dos exames complementares, categorizados por tipo do exame e por unidade operacional, setor ou função**."
+    "gabaritoComentado": "O relatório analítico anual do PCMSO deve conter, no mínimo, a <b>estatística de resultados anormais dos exames complementares, categorizados por tipo do exame e por unidade operacional, setor ou função<b>."
   },
   {
     "tema": "BIOMECÂNICA E FISIOLOGIA DO TRABALHO",
@@ -13907,7 +13907,7 @@ const questoes = [
     "alternativa4": "Unicamente o cumprimento das normas de segurança existentes.",
     "alternativa5": "A identificação do culpado pelo acidente.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "A análise de acidentes e doenças relacionadas ao trabalho deve considerar **as situações geradoras dos eventos**, levando em conta diversos fatores como atividades, ambiente, organização do trabalho, materiais e processo produtivo."
+    "gabaritoComentado": "A análise de acidentes e doenças relacionadas ao trabalho deve considerar <b>as situações geradoras dos eventos<b>, levando em conta diversos fatores como atividades, ambiente, organização do trabalho, materiais e processo produtivo."
   },
   {
     "tema": "BIOMECÂNICA E FISIOLOGIA DO TRABALHO",
@@ -13918,7 +13918,7 @@ const questoes = [
     "alternativa4": "Selecionar os trabalhadores mais aptos para determinadas funções.",
     "alternativa5": "Reduzir os custos com equipamentos de proteção individual.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "Embora não explicitamente detalhado nos excertos, o conhecimento geral sobre fisiologia do trabalho e ergonomia indica que a **ginástica laboral** tem como um dos seus principais objetivos a **prevenção de LER/DORT**, atuando na fisiologia muscular e articular."
+    "gabaritoComentado": "Embora não explicitamente detalhado nos excertos, o conhecimento geral sobre fisiologia do trabalho e ergonomia indica que a <b>ginástica laboral<b> tem como um dos seus principais objetivos a <b>prevenção de LER/DORT<b>, atuando na fisiologia muscular e articular."
   },
   {
     "tema": "BIOMECÂNICA E FISIOLOGIA DO TRABALHO",
@@ -13929,7 +13929,7 @@ const questoes = [
     "alternativa4": "Unicamente a idade e o condicionamento físico do trabalhador.",
     "alternativa5": "Apenas a qualidade da alimentação e do sono do trabalhador fora do ambiente laboral.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "A **fadiga muscular** é um fenômeno complexo influenciado por diversos fatores, incluindo a **intensidade e duração do esforço**, a **adequação das pausas**, as **condições ambientais** (como temperatura e umidade) e os **fatores psicossociais** (como estresse e ritmo de trabalho)."
+    "gabaritoComentado": "A <b>fadiga muscular<b> é um fenômeno complexo influenciado por diversos fatores, incluindo a <b>intensidade e duração do esforço<b>, a <b>adequação das pausas<b>, as <b>condições ambientais<b> (como temperatura e umidade) e os <b>fatores psicossociais<b> (como estresse e ritmo de trabalho)."
   },
   {
     "tema": "BIOMECÂNICA E FISIOLOGIA DO TRABALHO",
@@ -13940,7 +13940,7 @@ const questoes = [
     "alternativa4": "Aceita, pois alguns postos de trabalho exigem tais condições.",
     "alternativa5": "Compensada com exercícios de alongamento ao final da jornada.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "Buscando garantir a aplicação dos princípios da ergonomia, é fundamental **evitar** que os trabalhadores adotem **posturas extremas ou nocivas**."
+    "gabaritoComentado": "Buscando garantir a aplicação dos princípios da ergonomia, é fundamental <b>evitar<b> que os trabalhadores adotem <b>posturas extremas ou nocivas<b>."
   },
   {
     "tema": "BIOMECÂNICA E FISIOLOGIA DO TRABALHO",
@@ -13951,7 +13951,7 @@ const questoes = [
     "alternativa4": "Quanto mais complexa a ferramenta, maior a eficiência do trabalho.",
     "alternativa5": "O custo da ferramenta seja o fator determinante na sua seleção.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "A NR 17 define que a organização deve selecionar as ferramentas manuais para que o **tipo, formato e a textura da empunhadura sejam apropriados à tarefa e ao eventual uso de luvas**."
+    "gabaritoComentado": "A NR 17 define que a organização deve selecionar as ferramentas manuais para que o <b>tipo, formato e a textura da empunhadura sejam apropriados à tarefa e ao eventual uso de luvas<b>."
   },
   {
     "tema": "FGTS E FAT",
@@ -13962,7 +13962,7 @@ const questoes = [
     "alternativa4": "Até o dia 7 do mês subsequente ao vencido.",
     "alternativa5": "Até o dia 5 do mês corrente.",
     "respostaCorreta": "D",
-    "gabaritoComentado": "Antes da Lei nº 14.438/2022, o prazo para recolhimento do FGTS mensal era até o dia **7 (sete) de cada mês** do mês subsequente ao vencido."
+    "gabaritoComentado": "Antes da Lei nº 14.438/2022, o prazo para recolhimento do FGTS mensal era até o dia <b>7 (sete) de cada mês<b> do mês subsequente ao vencido."
   },
   {
     "tema": "FGTS E FAT",
@@ -13973,7 +13973,7 @@ const questoes = [
     "alternativa4": "Até o último dia útil de cada mês.",
     "alternativa5": "Até o 20º (vigésimo) dia de cada mês.",
     "respostaCorreta": "E",
-    "gabaritoComentado": "Após a Lei nº 14.438/2022, o prazo para o recolhimento mensal do FGTS passou a ser até o **20º (vigésimo) dia de cada mês**."
+    "gabaritoComentado": "Após a Lei nº 14.438/2022, o prazo para o recolhimento mensal do FGTS passou a ser até o <b>20º (vigésimo) dia de cada mês<b>."
   },
   {
     "tema": "FGTS E FAT",
@@ -13984,7 +13984,7 @@ const questoes = [
     "alternativa4": "Taxa Referencial (TR) sobre a importância correspondente, acrescida de juros de mora de 1% a.m. e multa de 5%.",
     "alternativa5": "Taxa Referencial (TR) sobre a importância correspondente, acrescida de juros de mora de 0,5% a.m. e multa de 5%.",
     "respostaCorreta": "E",
-    "gabaritoComentado": "O empregador que não recolher o FGTS no prazo legal responderá pela incidência da **Taxa Referencial (TR)**, juros de mora de **0,5% a.m.**, e multa de **5%** caso o pagamento ocorra no mesmo mês do vencimento."
+    "gabaritoComentado": "O empregador que não recolher o FGTS no prazo legal responderá pela incidência da <b>Taxa Referencial (TR)<b>, juros de mora de <b>0,5% a.m.<b>, e multa de <b>5%<b> caso o pagamento ocorra no mesmo mês do vencimento."
   },
   {
     "tema": "FGTS E FAT",
@@ -13995,7 +13995,7 @@ const questoes = [
     "alternativa4": "5 anos.",
     "alternativa5": "Não há prazo máximo.",
     "respostaCorreta": "D",
-    "gabaritoComentado": "A fiscalização pode exigir documentos relativos às obrigações perante o FGTS por até **5 (cinco) anos após o fim de cada contrato**."
+    "gabaritoComentado": "A fiscalização pode exigir documentos relativos às obrigações perante o FGTS por até <b>5 (cinco) anos após o fim de cada contrato<b>."
   },
   {
     "tema": "FGTS E FAT",
@@ -14006,7 +14006,7 @@ const questoes = [
     "alternativa4": "Um ato administrativo meramente declaratório.",
     "alternativa5": "Uma sentença condenatória.",
     "respostaCorreta": "D",
-    "gabaritoComentado": "O documento fiscal no qual constarem os valores inadimplentes de FGTS, apurados com base no art. 17-A da Lei nº 8.036/90, constituir-se-á um **ato administrativo meramente declaratório**."
+    "gabaritoComentado": "O documento fiscal no qual constarem os valores inadimplentes de FGTS, apurados com base no art. 17-A da Lei nº 8.036/90, constituir-se-á um <b>ato administrativo meramente declaratório<b>."
   },
   {
     "tema": "FGTS E FAT",
@@ -14017,7 +14017,7 @@ const questoes = [
     "alternativa4": "Despedida sem justa causa.",
     "alternativa5": "Falecimento do empregador.",
     "respostaCorreta": "D",
-    "gabaritoComentado": "O encerramento do contrato de trabalho por **despedida sem justa causa** (inclusive a indireta, de culpa recíproca e de força maior) admite a movimentação da conta vinculada do FGTS."
+    "gabaritoComentado": "O encerramento do contrato de trabalho por <b>despedida sem justa causa<b> (inclusive a indireta, de culpa recíproca e de força maior) admite a movimentação da conta vinculada do FGTS."
   },
   {
     "tema": "FGTS E FAT",
@@ -14028,7 +14028,7 @@ const questoes = [
     "alternativa4": "Nenhum valor.",
     "alternativa5": "Metade do valor.",
     "respostaCorreta": "E",
-    "gabaritoComentado": "No caso do empregado doméstico, a extinção do contrato por culpa recíproca permitirá a movimentação de **metade do valor** da conta vinculada do FGTS."
+    "gabaritoComentado": "No caso do empregado doméstico, a extinção do contrato por culpa recíproca permitirá a movimentação de <b>metade do valor<b> da conta vinculada do FGTS."
   },
   {
     "tema": "FGTS E FAT",
@@ -14039,7 +14039,7 @@ const questoes = [
     "alternativa4": "Realização de curso de pós-graduação.",
     "alternativa5": "Doenças infectocontagiosas.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "A movimentação da conta vinculada do FGTS também é permitida para a **aquisição de órtese ou prótese para o trabalhador deficiente**."
+    "gabaritoComentado": "A movimentação da conta vinculada do FGTS também é permitida para a <b>aquisição de órtese ou prótese para o trabalhador deficiente<b>."
   },
   {
     "tema": "FGTS E FAT",
@@ -14050,7 +14050,7 @@ const questoes = [
     "alternativa4": "Fiscalização do cumprimento das obrigações.",
     "alternativa5": "Nenhuma das alternativas.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "Os resultados da avaliação ergonômica preliminar devem integrar o **inventário de riscos do PGR** da organização."
+    "gabaritoComentado": "Os resultados da avaliação ergonômica preliminar devem integrar o <b>inventário de riscos do PGR<b> da organização."
   },
   {
     "tema": "FGTS E FAT",
@@ -14061,7 +14061,7 @@ const questoes = [
     "alternativa4": "Alteração do 7º para o 20º dia de cada mês.",
     "alternativa5": "Não houve alteração no prazo.",
     "respostaCorreta": "D",
-    "gabaritoComentado": "A principal mudança foi a alteração do prazo do recolhimento mensal do FGTS do 7º para o **20º dia de cada mês**."
+    "gabaritoComentado": "A principal mudança foi a alteração do prazo do recolhimento mensal do FGTS do 7º para o <b>20º dia de cada mês<b>."
   },
   {
     "tema": "FGTS E FAT",
@@ -14072,7 +14072,7 @@ const questoes = [
     "alternativa4": "Beneficiar os trabalhadores com o depósito antecipado.",
     "alternativa5": "Reduzir os custos operacionais das empresas.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "O objetivo da alteração no prazo de recolhimento do FGTS foi o de **unificar a data do cumprimento de diversas obrigações trabalhistas**, simplificando o seu atendimento pelo empregador."
+    "gabaritoComentado": "O objetivo da alteração no prazo de recolhimento do FGTS foi o de <b>unificar a data do cumprimento de diversas obrigações trabalhistas<b>, simplificando o seu atendimento pelo empregador."
   },
   {
     "tema": "FGTS E FAT",
@@ -14083,7 +14083,7 @@ const questoes = [
     "alternativa4": "5%.",
     "alternativa5": "Não há previsão de multa.",
     "respostaCorreta": "D",
-    "gabaritoComentado": "Caso o pagamento do FGTS ocorra após o mês de vencimento, será aplicada uma **multa de 5%**."
+    "gabaritoComentado": "Caso o pagamento do FGTS ocorra após o mês de vencimento, será aplicada uma <b>multa de 5%<b>."
   },
   {
     "tema": "FGTS E FAT",
@@ -14094,7 +14094,7 @@ const questoes = [
     "alternativa4": "Os requisitos para a execução fiscal.",
     "alternativa5": "Os débitos com o FGTS.",
     "respostaCorreta": "E",
-    "gabaritoComentado": "As declarações prestadas em sistema de folha de pagamento eletrônica **caracterizam, por si só, os débitos** com o FGTS."
+    "gabaritoComentado": "As declarações prestadas em sistema de folha de pagamento eletrônica <b>caracterizam, por si só, os débitos<b> com o FGTS."
   },
   {
     "tema": "FGTS E FAT",
@@ -14105,7 +14105,7 @@ const questoes = [
     "alternativa4": "A decisão judicial favorável ao trabalhador.",
     "alternativa5": "A concordância do empregador.",
     "respostaCorreta": "B",
-    "gabaritoComentado": "A movimentação da conta vinculada do FGTS em caso de **desastre natural** é uma das hipóteses previstas, geralmente condicionada ao reconhecimento da situação de emergência ou estado de calamidade pública por órgão competente."
+    "gabaritoComentado": "A movimentação da conta vinculada do FGTS em caso de <b>desastre natural<b> é uma das hipóteses previstas, geralmente condicionada ao reconhecimento da situação de emergência ou estado de calamidade pública por órgão competente."
   },
   {
     "tema": "FGTS E FAT",
@@ -14116,7 +14116,7 @@ const questoes = [
     "alternativa4": "Governo Federal.",
     "alternativa5": "Instituição financeira.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "O **empregador** é o responsável pelo recolhimento dos valores de FGTS devidos."
+    "gabaritoComentado": "O <b>empregador<b> é o responsável pelo recolhimento dos valores de FGTS devidos."
   },
   {
     "tema": "FGTS E FAT",
@@ -14127,7 +14127,7 @@ const questoes = [
     "alternativa4": "Apenas no momento da rescisão contratual.",
     "alternativa5": "Após 30 dias de atraso.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "A Taxa Referencial (TR) sobre a importância correspondente ao FGTS não recolhido no prazo será cobrada **por dia de atraso**."
+    "gabaritoComentado": "A Taxa Referencial (TR) sobre a importância correspondente ao FGTS não recolhido no prazo será cobrada <b>por dia de atraso<b>."
   },
   {
     "tema": "FGTS E FAT",
@@ -14138,7 +14138,7 @@ const questoes = [
     "alternativa4": "O fim de cada contrato.",
     "alternativa5": "A publicação da lei.",
     "respostaCorreta": "D",
-    "gabaritoComentado": "O prazo para fiscalização das obrigações perante o FGTS é de até 5 anos após o **fim de cada contrato**."
+    "gabaritoComentado": "O prazo para fiscalização das obrigações perante o FGTS é de até 5 anos após o <b>fim de cada contrato<b>."
   },
   {
     "tema": "FGTS E FAT",
@@ -14149,7 +14149,7 @@ const questoes = [
     "alternativa4": "Despedida sem justa causa.",
     "alternativa5": "Doença grave do trabalhador.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "A legislação estabelece uma condição específica para a movimentação da conta vinculada do FGTS no caso de **culpa recíproca** na extinção do contrato do **empregado doméstico**, permitindo a movimentação de metade do valor."
+    "gabaritoComentado": "A legislação estabelece uma condição específica para a movimentação da conta vinculada do FGTS no caso de <b>culpa recíproca<b> na extinção do contrato do <b>empregado doméstico<b>, permitindo a movimentação de metade do valor."
   },
   {
     "tema": "FGTS E FAT",
@@ -14160,7 +14160,7 @@ const questoes = [
     "alternativa4": "Reduzir a arrecadação do FGTS.",
     "alternativa5": "Beneficiar apenas grandes empresas.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "O principal objetivo da unificação da data de cumprimento das obrigações trabalhistas, incluindo o FGTS, foi **simplificar o seu atendimento pelo empregador**."
+    "gabaritoComentado": "O principal objetivo da unificação da data de cumprimento das obrigações trabalhistas, incluindo o FGTS, foi <b>simplificar o seu atendimento pelo empregador<b>."
   },
   {
     "tema": "FGTS E FAT",
@@ -14171,7 +14171,7 @@ const questoes = [
     "alternativa4": "0,5% ao mês.",
     "alternativa5": "Não há previsão de juros de mora.",
     "respostaCorreta": "D",
-    "gabaritoComentado": "Os juros de mora aplicados sobre o FGTS pago em atraso são de **0,5% ao mês** ou fração."
+    "gabaritoComentado": "Os juros de mora aplicados sobre o FGTS pago em atraso são de <b>0,5% ao mês<b> ou fração."
   },
   {
     "tema": "FGTS E FAT",
@@ -14182,7 +14182,7 @@ const questoes = [
     "alternativa4": "Não possui força executiva.",
     "alternativa5": "Pode ser contestado administrativamente.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "O documento é meramente declaratório porque as **declarações prestadas em sistema de folha de pagamento eletrônica já caracterizam o débito**."
+    "gabaritoComentado": "O documento é meramente declaratório porque as <b>declarações prestadas em sistema de folha de pagamento eletrônica já caracterizam o débito<b>."
   },
   {
     "tema": "FGTS E FAT",
@@ -14193,7 +14193,7 @@ const questoes = [
     "alternativa4": "Despedida sem justa causa pelo empregador.",
     "alternativa5": "Falecimento do empregado.",
     "respostaCorreta": "D",
-    "gabaritoComentado": "A **despedida sem justa causa** pelo empregador permite a movimentação integral da conta vinculada do FGTS pelo trabalhador."
+    "gabaritoComentado": "A <b>despedida sem justa causa<b> pelo empregador permite a movimentação integral da conta vinculada do FGTS pelo trabalhador."
   },
   {
     "tema": "FGTS E FAT",
@@ -14204,7 +14204,7 @@ const questoes = [
     "alternativa4": "Irrenunciabilidade dos direitos.",
     "alternativa5": "Prevalência do negociado sobre o legislado.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "A obrigação de comunicar irregularidades reflete o princípio da **boa-fé objetiva**, que exige conduta leal e colaborativa entre as partes nas relações jurídicas."
+    "gabaritoComentado": "A obrigação de comunicar irregularidades reflete o princípio da <b>boa-fé objetiva<b>, que exige conduta leal e colaborativa entre as partes nas relações jurídicas."
   },
   {
     "tema": "FGTS E FAT",
@@ -14215,7 +14215,7 @@ const questoes = [
     "alternativa4": "Financiar programas de habitação e saneamento básico.",
     "alternativa5": "Complementar a renda dos trabalhadores de baixa escolaridade.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "Embora o FGTS também possa ser utilizado para outras finalidades, seu objetivo principal é **proteger o trabalhador em caso de perda do emprego**, constituindo uma reserva financeira para essa eventualidade."
+    "gabaritoComentado": "Embora o FGTS também possa ser utilizado para outras finalidades, seu objetivo principal é <b>proteger o trabalhador em caso de perda do emprego<b>, constituindo uma reserva financeira para essa eventualidade."
   },
   {
     "tema": "FGTS E FAT",
@@ -14226,7 +14226,7 @@ const questoes = [
     "alternativa4": "A arrecadação do FGTS.",
     "alternativa5": "O poder normativo dos sindicatos.",
     "respostaCorreta": "A",
-    "gabaritoComentado": "A unificação do prazo de recolhimento visou **reduzir a burocracia para o empregador**, simplificando o cumprimento de diversas obrigações."
+    "gabaritoComentado": "A unificação do prazo de recolhimento visou <b>reduzir a burocracia para o empregador<b>, simplificando o cumprimento de diversas obrigações."
   },
   {
     "tema": "FGTS E FAT",
@@ -14237,7 +14237,7 @@ const questoes = [
     "alternativa4": "Em até 30 dias após o vencimento.",
     "alternativa5": "Não há aplicação de multa com pagamento no mesmo mês.",
     "respostaCorreta": "B",
-    "gabaritoComentado": "A multa de 5% é aplicada caso o pagamento ocorra **no mesmo mês** do vencimento, porém após o prazo legal. Para pagamentos posteriores, a multa é progressiva (essa progressividade não detalhada no texto, mas a multa de 5% é para pagamento ainda no mesmo mês)."
+    "gabaritoComentado": "A multa de 5% é aplicada caso o pagamento ocorra <b>no mesmo mês<b> do vencimento, porém após o prazo legal. Para pagamentos posteriores, a multa é progressiva (essa progressividade não detalhada no texto, mas a multa de 5% é para pagamento ainda no mesmo mês)."
   },
   {
     "tema": "FGTS E FAT",
@@ -14248,7 +14248,7 @@ const questoes = [
     "alternativa4": "Todas as obrigações perante o FGTS.",
     "alternativa5": "Apenas as obrigações relacionadas à segurança e saúde no trabalho.",
     "respostaCorreta": "D",
-    "gabaritoComentado": "A fiscalização pode ocorrer para assegurar o cumprimento de **todas as obrigações perante o FGTS**."
+    "gabaritoComentado": "A fiscalização pode ocorrer para assegurar o cumprimento de <b>todas as obrigações perante o FGTS<b>."
   },
   {
     "tema": "FGTS E FAT",
@@ -14259,7 +14259,7 @@ const questoes = [
     "alternativa4": "Facilitar o acesso a crédito bancário.",
     "alternativa5": "Compensar financeiramente o trabalhador pela deficiência.",
     "respostaCorreta": "B",
-    "gabaritoComentado": "A movimentação da conta do FGTS nesta situação visa **promover a inclusão social e a melhoria da qualidade de vida do trabalhador deficiente**, facilitando o acesso a recursos necessários para sua saúde e bem-estar."
+    "gabaritoComentado": "A movimentação da conta do FGTS nesta situação visa <b>promover a inclusão social e a melhoria da qualidade de vida do trabalhador deficiente<b>, facilitando o acesso a recursos necessários para sua saúde e bem-estar."
   },
   {
     "tema": "FGTS E FAT",
@@ -14270,7 +14270,7 @@ const questoes = [
     "alternativa4": "Fortalecer os sindicatos de trabalhadores.",
     "alternativa5": "Diminuir a rotatividade de mão de obra.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "Uma das principais motivações da Lei nº 14.438/2022 foi **simplificar a vida do empregador em relação ao cumprimento de diversas obrigações trabalhistas**, unificando datas."
+    "gabaritoComentado": "Uma das principais motivações da Lei nº 14.438/2022 foi <b>simplificar a vida do empregador em relação ao cumprimento de diversas obrigações trabalhistas<b>, unificando datas."
   },
   {
     "tema": "FGTS E FAT",
@@ -14281,7 +14281,7 @@ const questoes = [
     "alternativa4": "O valor do depósito mensal devido.",
     "alternativa5": "O capital social da empresa.",
     "respostaCorreta": "D",
-    "gabaritoComentado": "A multa de 5% é aplicada sobre a **importância correspondente** aos valores de FGTS devidos."
+    "gabaritoComentado": "A multa de 5% é aplicada sobre a <b>importância correspondente<b> aos valores de FGTS devidos."
   },
   {
     "tema": "FGTS E FAT",
@@ -14292,7 +14292,7 @@ const questoes = [
     "alternativa4": "Impede a aplicação de multas por atraso.",
     "alternativa5": "Garante a confidencialidade dos dados dos trabalhadores.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "O sistema de escrituração eletrônica é importante porque as **declarações nele prestadas já caracterizam os valores inadimplentes** de FGTS, tornando o documento fiscal um ato meramente declaratório."
+    "gabaritoComentado": "O sistema de escrituração eletrônica é importante porque as <b>declarações nele prestadas já caracterizam os valores inadimplentes<b> de FGTS, tornando o documento fiscal um ato meramente declaratório."
   },
   {
     "tema": "FGTS E FAT",
@@ -14303,7 +14303,7 @@ const questoes = [
     "alternativa4": "O Governo Federal.",
     "alternativa5": "As instituições de caridade.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "Embora não detalhado especificamente nos excertos, é um conhecimento comum que em caso de falecimento do trabalhador, os **herdeiros ou dependentes** podem movimentar a conta do FGTS."
+    "gabaritoComentado": "Embora não detalhado especificamente nos excertos, é um conhecimento comum que em caso de falecimento do trabalhador, os <b>herdeiros ou dependentes<b> podem movimentar a conta do FGTS."
   },
   {
     "tema": "FGTS E FAT",
@@ -18023,7 +18023,7 @@ const questoes = [
     "alternativa4": "Determinar os critérios para a utilização de Equipamentos de Proteção Individual (EPIs) em ambientes pressurizados.",
     "alternativa5": "Estabelecer os procedimentos para a análise de risco em atividades com exposição a agentes físicos e químicos.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "O objetivo principal da NR-13 é **estabelecer requisitos mínimos para a gestão da integridade estrutural de caldeiras, vasos de pressão, suas tubulações de interligação e tanques metálicos de armazenamento**, visando a segurança e saúde dos trabalhadores."
+    "gabaritoComentado": "O objetivo principal da NR-13 é <b>estabelecer requisitos mínimos para a gestão da integridade estrutural de caldeiras, vasos de pressão, suas tubulações de interligação e tanques metálicos de armazenamento<b>, visando a segurança e saúde dos trabalhadores."
   },
   {
     "tema": "NR 13💨",
@@ -18034,7 +18034,7 @@ const questoes = [
     "alternativa4": "Vasos de pressão, tubulações e sistemas de ventilação.",
     "alternativa5": "Caldeiras, tanques metálicos de armazenamento e instalações elétricas.",
     "respostaCorreta": "B",
-    "gabaritoComentado": "A NR-13 abrange **caldeiras, vasos de pressão, suas tubulações de interligação e tanques metálicos de armazenamento**."
+    "gabaritoComentado": "A NR-13 abrange <b>caldeiras, vasos de pressão, suas tubulações de interligação e tanques metálicos de armazenamento<b>."
   },
   {
     "tema": "NR 13💨",
@@ -18045,7 +18045,7 @@ const questoes = [
     "alternativa4": "Um plano de inspeção detalhado com os cronogramas de verificação da caldeira.",
     "alternativa5": "Um manual de operação da caldeira traduzido para a língua portuguesa.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "O Prontuário da Caldeira é um **conjunto de documentos, incluindo, dentre outros, o registro do teste hidrostático de fabricação e os dados dos dispositivos de segurança, além de dados, como o código de construção, o ano de edição, o ano de fabricação e a categoria da caldeira**."
+    "gabaritoComentado": "O Prontuário da Caldeira é um <b>conjunto de documentos, incluindo, dentre outros, o registro do teste hidrostático de fabricação e os dados dos dispositivos de segurança, além de dados, como o código de construção, o ano de edição, o ano de fabricação e a categoria da caldeira<b>."
   },
   {
     "tema": "NR 13💨",
@@ -18056,7 +18056,7 @@ const questoes = [
     "alternativa4": "Registro de Segurança.",
     "alternativa5": "Projeto de Instalação da Caldeira.",
     "respostaCorreta": "D",
-    "gabaritoComentado": "O **Registro de Segurança** deve informar todas as ocorrências importantes capazes de influir nas condições de segurança da caldeira, as alterações de prazos de inspeção e a anotação das inspeções de segurança."
+    "gabaritoComentado": "O <b>Registro de Segurança<b> deve informar todas as ocorrências importantes capazes de influir nas condições de segurança da caldeira, as alterações de prazos de inspeção e a anotação das inspeções de segurança."
   },
   {
     "tema": "NR 13💨",
@@ -18067,7 +18067,7 @@ const questoes = [
     "alternativa4": "A cada 30 meses.",
     "alternativa5": "A cada 12 meses.",
     "respostaCorreta": "E",
-    "gabaritoComentado": "Embora a fonte não detalhe especificamente a periodicidade para a categoria C, geralmente as inspeções periódicas para caldeiras ocorrem com **periodicidade máxima definida na NR-13**, sendo que a categoria influencia esse prazo."
+    "gabaritoComentado": "Embora a fonte não detalhe especificamente a periodicidade para a categoria C, geralmente as inspeções periódicas para caldeiras ocorrem com <b>periodicidade máxima definida na NR-13<b>, sendo que a categoria influencia esse prazo."
   },
   {
     "tema": "NR 13💨",
@@ -18078,7 +18078,7 @@ const questoes = [
     "alternativa4": "A cada cinco anos, independentemente das condições da caldeira.",
     "alternativa5": "Sempre que o operador da caldeira solicitar a inspeção.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "A inspeção de segurança extraordinária deve ser realizada quando a **caldeira for danificada por acidente ou outra ocorrência, capaz de comprometer sua segurança**."
+    "gabaritoComentado": "A inspeção de segurança extraordinária deve ser realizada quando a <b>caldeira for danificada por acidente ou outra ocorrência, capaz de comprometer sua segurança<b>."
   },
   {
     "tema": "NR 13💨",
@@ -18089,7 +18089,7 @@ const questoes = [
     "alternativa4": "Técnico em segurança do trabalho com treinamento específico em caldeiras.",
     "alternativa5": "Estagiário de engenharia mecânica sob supervisão.",
     "respostaCorreta": "A",
-    "gabaritoComentado": "Toda caldeira deve estar, obrigatoriamente, sob operação e controle de **operador de caldeira, cumprindo o disposto no item 1, do Anexo I, da NR 13**."
+    "gabaritoComentado": "Toda caldeira deve estar, obrigatoriamente, sob operação e controle de <b>operador de caldeira, cumprindo o disposto no item 1, do Anexo I, da NR 13<b>."
   },
   {
     "tema": "NR 13💨",
@@ -18100,7 +18100,7 @@ const questoes = [
     "alternativa4": "Relatório de Inspeção do Vaso de Pressão.",
     "alternativa5": "Certificado de Teste Hidrostático do Vaso de Pressão.",
     "respostaCorreta": "A",
-    "gabaritoComentado": "Os mesmos documentos devem ser elaborados para os vasos de pressão, exceto o projeto de instalação, incluindo o **prontuário do vaso**."
+    "gabaritoComentado": "Os mesmos documentos devem ser elaborados para os vasos de pressão, exceto o projeto de instalação, incluindo o <b>prontuário do vaso<b>."
   },
   {
     "tema": "NR 13💨",
@@ -18111,7 +18111,7 @@ const questoes = [
     "alternativa4": "Apenas categoria II.",
     "alternativa5": "Todas as categorias de vasos de pressão.",
     "respostaCorreta": "B",
-    "gabaritoComentado": "Os vasos de pressão, enquadrados nas **categorias I ou II**, devem possuir manual de operação próprio."
+    "gabaritoComentado": "Os vasos de pressão, enquadrados nas <b>categorias I ou II<b>, devem possuir manual de operação próprio."
   },
   {
     "tema": "NR 13💨",
@@ -18122,7 +18122,7 @@ const questoes = [
     "alternativa4": "Os operadores de unidades de processo.",
     "alternativa5": "Todos os trabalhadores da unidade.",
     "respostaCorreta": "D",
-    "gabaritoComentado": "Os **operadores de unidades de processo que contenham vasos de pressão da categoria I ou II** devem cumprir as obrigações do item 2, do Anexo I, da NR 13."
+    "gabaritoComentado": "Os <b>operadores de unidades de processo que contenham vasos de pressão da categoria I ou II<b> devem cumprir as obrigações do item 2, do Anexo I, da NR 13."
   },
   {
     "tema": "NR 13💨",
@@ -18133,7 +18133,7 @@ const questoes = [
     "alternativa4": "6 meses.",
     "alternativa5": "36 meses.",
     "respostaCorreta": "D",
-    "gabaritoComentado": "De forma similar às caldeiras, os vasos de pressão devem ser submetidos a inspeções de segurança periódicas, sendo que a periodicidade máxima admitida é de **12 (doze) meses**, podendo haver exceções."
+    "gabaritoComentado": "De forma similar às caldeiras, os vasos de pressão devem ser submetidos a inspeções de segurança periódicas, sendo que a periodicidade máxima admitida é de <b>12 (doze) meses<b>, podendo haver exceções."
   },
   {
     "tema": "NR 13💨",
@@ -18144,7 +18144,7 @@ const questoes = [
     "alternativa4": "Apenas a pressão máxima de trabalho permitida (PMTA).",
     "alternativa5": "O volume interno do vaso e o tipo de fluido armazenado.",
     "respostaCorreta": "A",
-    "gabaritoComentado": "Todo vaso de pressão deve possuir, em local de fácil acesso e visível, **placa de identificação indelével e indicação da categoria do vaso de pressão, além do seu número ou código de identificação no corpo do equipamento**."
+    "gabaritoComentado": "Todo vaso de pressão deve possuir, em local de fácil acesso e visível, <b>placa de identificação indelével e indicação da categoria do vaso de pressão, além do seu número ou código de identificação no corpo do equipamento<b>."
   },
   {
     "tema": "NR 13💨",
@@ -18155,7 +18155,7 @@ const questoes = [
     "alternativa4": "Apenas caldeiras e vasos de pressão das categorias superiores.",
     "alternativa5": "Todos os equipamentos enquadrados na NR-13.",
     "respostaCorreta": "E",
-    "gabaritoComentado": "Para **todos os equipamentos enquadrados na NR-13**, a **operação sem os dispositivos de segurança** é considerada item de risco grave e iminente."
+    "gabaritoComentado": "Para <b>todos os equipamentos enquadrados na NR-13<b>, a <b>operação sem os dispositivos de segurança<b> é considerada item de risco grave e iminente."
   },
   {
     "tema": "NR 13💨",
@@ -18166,7 +18166,7 @@ const questoes = [
     "alternativa4": "Engenheiro com habilitação no conselho profissional representativo no país e atribuição compatível com as operações.",
     "alternativa5": "Inspetor de vasos de pressão certificado.",
     "respostaCorreta": "D",
-    "gabaritoComentado": "O PLH deve ser **engenheiro com habilitação no conselho profissional representativo no país, além de ter atribuição compatível com as operações de construção, operação, manutenção, inspeção e supervisão de inspeção de caldeiras, vasos de pressão, tubulações e tanques metálicos de armazenamento**."
+    "gabaritoComentado": "O PLH deve ser <b>engenheiro com habilitação no conselho profissional representativo no país, além de ter atribuição compatível com as operações de construção, operação, manutenção, inspeção e supervisão de inspeção de caldeiras, vasos de pressão, tubulações e tanques metálicos de armazenamento<b>."
   },
   {
     "tema": "NR 13💨",
@@ -18177,7 +18177,7 @@ const questoes = [
     "alternativa4": "A necessidade de realizar um teste de estanqueidade.",
     "alternativa5": "O aumento da frequência das inspeções externas.",
     "respostaCorreta": "A",
-    "gabaritoComentado": "O PH deve **indicar tal situação no relatório de inspeção e definir o(s) exame(s) substituto(s)** quando não for possível realizar o exame interno devido a danos previsíveis."
+    "gabaritoComentado": "O PH deve <b>indicar tal situação no relatório de inspeção e definir o(s) exame(s) substituto(s)<b> quando não for possível realizar o exame interno devido a danos previsíveis."
   },
   {
     "tema": "NR 13💨",
@@ -18188,7 +18188,7 @@ const questoes = [
     "alternativa4": "A cada 5 (cinco) anos.",
     "alternativa5": "Não há periodicidade definida.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "Vasos de pressão criogênicos devem ser submetidos a **exame externo a cada 2 (dois) anos** em condições específicas."
+    "gabaritoComentado": "Vasos de pressão criogênicos devem ser submetidos a <b>exame externo a cada 2 (dois) anos<b> em condições específicas."
   },
   {
     "tema": "NR 13💨",
@@ -18199,7 +18199,7 @@ const questoes = [
     "alternativa4": "Ventilação natural com área mínima de 1/3 da área do piso.",
     "alternativa5": "Dispor de sensor para detecção de vazamento de gás, quando se tratar de caldeira a combustível gasoso.",
     "respostaCorreta": "E",
-    "gabaritoComentado": "Um dos requisitos de instalação de caldeiras em ambiente fechado é **dispor de sensor para detecção de vazamento de gás, quando se tratar de caldeira a combustível gasoso**."
+    "gabaritoComentado": "Um dos requisitos de instalação de caldeiras em ambiente fechado é <b>dispor de sensor para detecção de vazamento de gás, quando se tratar de caldeira a combustível gasoso<b>."
   },
   {
     "tema": "NR 13💨",
@@ -18210,7 +18210,7 @@ const questoes = [
     "alternativa4": "90 dias.",
     "alternativa5": "60 dias.",
     "respostaCorreta": "E",
-    "gabaritoComentado": "De forma geral, os relatórios de inspeção de segurança devem ser elaborados em até **60 (sessenta) dias**."
+    "gabaritoComentado": "De forma geral, os relatórios de inspeção de segurança devem ser elaborados em até <b>60 (sessenta) dias<b>."
   },
   {
     "tema": "NR 13💨",
@@ -18221,7 +18221,7 @@ const questoes = [
     "alternativa4": "O histórico de manutenção e os dados do fabricante.",
     "alternativa5": "O número de trabalhadores expostos e os EPIs utilizados durante a inspeção.",
     "respostaCorreta": "B",
-    "gabaritoComentado": "O relatório de inspeção de segurança de um vaso de pressão deve conter informações mínimas, destacando-se a **categoria do vaso de pressão, o tipo de inspeção executada e o parecer conclusivo quanto à integridade**."
+    "gabaritoComentado": "O relatório de inspeção de segurança de um vaso de pressão deve conter informações mínimas, destacando-se a <b>categoria do vaso de pressão, o tipo de inspeção executada e o parecer conclusivo quanto à integridade<b>."
   },
   {
     "tema": "NR 13💨",
@@ -18232,7 +18232,7 @@ const questoes = [
     "alternativa4": "Indicadores de desempenho e as metas a serem atingidas.",
     "alternativa5": "Procedimentos de trabalho e as autorizações necessárias.",
     "respostaCorreta": "B",
-    "gabaritoComentado": "As recomendações decorrentes das inspeções de segurança devem ser registradas e implementadas pelo empregador, com a **determinação dos prazos e dos responsáveis pela execução**."
+    "gabaritoComentado": "As recomendações decorrentes das inspeções de segurança devem ser registradas e implementadas pelo empregador, com a <b>determinação dos prazos e dos responsáveis pela execução<b>."
   },
   {
     "tema": "NR 13💨",
@@ -18243,7 +18243,7 @@ const questoes = [
     "alternativa4": "16 horas.",
     "alternativa5": "60 horas.",
     "respostaCorreta": "B",
-    "gabaritoComentado": "Conforme a referência, o **Certificado de Treinamento** para operadores de caldeiras menciona uma carga horária de **40h**."
+    "gabaritoComentado": "Conforme a referência, o <b>Certificado de Treinamento<b> para operadores de caldeiras menciona uma carga horária de <b>40h<b>."
   },
   {
     "tema": "NR 13💨",
@@ -18254,7 +18254,7 @@ const questoes = [
     "alternativa4": "Certificação em normas internacionais de segurança.",
     "alternativa5": "Aprovação em exame médico específico.",
     "respostaCorreta": "A",
-    "gabaritoComentado": "Esquema 6 indica que, para operador de unidades de processo (CAT I e II), além do treinamento de 40h, é necessária **Prática Profissional Supervisionada de 300h**."
+    "gabaritoComentado": "Esquema 6 indica que, para operador de unidades de processo (CAT I e II), além do treinamento de 40h, é necessária <b>Prática Profissional Supervisionada de 300h<b>."
   },
   {
     "tema": "NR 13💨",
@@ -18265,7 +18265,7 @@ const questoes = [
     "alternativa4": "Quando a caldeira utilizar combustível diferente do especificado pelo fabricante.",
     "alternativa5": "Quando a empresa possuir um sistema de gestão de segurança certificado.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "Caso não seja possível o cumprimento de quaisquer alíneas dos subitens 13.4.2.3 e 13.4.2.4, o empregador deverá elaborar um **projeto alternativo de instalação**."
+    "gabaritoComentado": "Caso não seja possível o cumprimento de quaisquer alíneas dos subitens 13.4.2.3 e 13.4.2.4, o empregador deverá elaborar um <b>projeto alternativo de instalação<b>."
   },
   {
     "tema": "NR 13💨",
@@ -18276,7 +18276,7 @@ const questoes = [
     "alternativa4": "Se aos doze meses forem testadas as pressões de abertura das válvulas de segurança.",
     "alternativa5": "Se a empresa possuir um SESMT próprio.",
     "respostaCorreta": "D",
-    "gabaritoComentado": "Para caldeiras da categoria A, o prazo para inspeção periódica pode ser de até **24 (vinte e quatro) meses, desde que aos doze meses sejam testadas as pressões de abertura das válvulas de segurança**."
+    "gabaritoComentado": "Para caldeiras da categoria A, o prazo para inspeção periódica pode ser de até <b>24 (vinte e quatro) meses, desde que aos doze meses sejam testadas as pressões de abertura das válvulas de segurança<b>."
   },
   {
     "tema": "NR 13💨",
@@ -18287,7 +18287,7 @@ const questoes = [
     "alternativa4": "Uma decisão do operador da caldeira.",
     "alternativa5": "Uma medida temporária permitida por procedimento interno.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "A **ausência ou bloqueio de dispositivos de segurança, sem a devida justificativa técnica**, baseada em códigos, normas ou procedimentos formais de operação do equipamento, é um item de **risco grave e iminente** na NR 13."
+    "gabaritoComentado": "A <b>ausência ou bloqueio de dispositivos de segurança, sem a devida justificativa técnica<b>, baseada em códigos, normas ou procedimentos formais de operação do equipamento, é um item de <b>risco grave e iminente<b> na NR 13."
   },
   {
     "tema": "NR 13💨",
@@ -18298,7 +18298,7 @@ const questoes = [
     "alternativa4": "24 meses.",
     "alternativa5": "30 meses.",
     "respostaCorreta": "B",
-    "gabaritoComentado": "O prazo máximo para inspeção periódica de caldeiras de recuperação de álcalis de qualquer categoria é de **18 (dezoito) meses**."
+    "gabaritoComentado": "O prazo máximo para inspeção periódica de caldeiras de recuperação de álcalis de qualquer categoria é de <b>18 (dezoito) meses<b>."
   },
   {
     "tema": "NR 13💨",
@@ -18309,7 +18309,7 @@ const questoes = [
     "alternativa4": "Lista de todos os operadores habilitados da caldeira.",
     "alternativa5": "Procedimentos gerais de segurança, de saúde e de preservação do meio ambiente.",
     "respostaCorreta": "D",
-    "gabaritoComentado": "O manual de operação atualizado de toda caldeira deve conter **procedimentos de partidas e paradas, operacionais de rotina, situações de emergência e aqueles gerais de segurança, de saúde e de preservação do meio ambiente**, sendo a lista de operadores habilitados não um requisito do manual em si."
+    "gabaritoComentado": "O manual de operação atualizado de toda caldeira deve conter <b>procedimentos de partidas e paradas, operacionais de rotina, situações de emergência e aqueles gerais de segurança, de saúde e de preservação do meio ambiente<b>, sendo a lista de operadores habilitados não um requisito do manual em si."
   },
   {
     "tema": "NR 13💨",
@@ -18320,7 +18320,7 @@ const questoes = [
     "alternativa4": "18 meses.",
     "alternativa5": "36 meses.",
     "respostaCorreta": "B",
-    "gabaritoComentado": "Para caldeiras de categoria B, com sistema de gerenciamento de combustão – SGC, que atendam ao disposto no Anexo IV, da NR 13, o prazo para inspeção periódica pode ser de até **30 (trinta) meses**."
+    "gabaritoComentado": "Para caldeiras de categoria B, com sistema de gerenciamento de combustão – SGC, que atendam ao disposto no Anexo IV, da NR 13, o prazo para inspeção periódica pode ser de até <b>30 (trinta) meses<b>."
   },
   {
     "tema": "NR 13💨",
@@ -18331,7 +18331,7 @@ const questoes = [
     "alternativa4": "Até 45 dias.",
     "alternativa5": "Até 90 dias.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "De forma geral, os relatórios de inspeção de segurança de caldeiras e vasos de pressão devem ser elaborados em até **60 (sessenta) dias**."
+    "gabaritoComentado": "De forma geral, os relatórios de inspeção de segurança de caldeiras e vasos de pressão devem ser elaborados em até <b>60 (sessenta) dias<b>."
   },
   {
     "tema": "NR 13💨",
@@ -18342,7 +18342,7 @@ const questoes = [
     "alternativa4": "Ao final de cada turno de trabalho.",
     "alternativa5": "A cada seis meses pelo profissional habilitado.",
     "respostaCorreta": "A",
-    "gabaritoComentado": "Tal registro [de segurança] deve ser realizado **imediatamente após a inspeção de segurança da caldeira**."
+    "gabaritoComentado": "Tal registro [de segurança] deve ser realizado <b>imediatamente após a inspeção de segurança da caldeira<b>."
   },
   {
     "tema": "NR 13💨",
@@ -18353,7 +18353,7 @@ const questoes = [
     "alternativa4": "Relatório de Inspeção de Segurança.",
     "alternativa5": "Manual de Operação atualizado.",
     "respostaCorreta": "E",
-    "gabaritoComentado": "Toda caldeira deve possuir **manual de operação atualizado**, em língua portuguesa, contendo os procedimentos de partidas e paradas."
+    "gabaritoComentado": "Toda caldeira deve possuir <b>manual de operação atualizado<b>, em língua portuguesa, contendo os procedimentos de partidas e paradas."
   },
   {
     "tema": "NR 13💨",
@@ -18364,7 +18364,7 @@ const questoes = [
     "alternativa4": "Apenas quando houver alteração do fluido armazenado.",
     "alternativa5": "Quando exigido pelo código de construção ou a critério do PLH.",
     "respostaCorreta": "E",
-    "gabaritoComentado": "Vasos de pressão com temperatura de operação inferior a zero grau Celsius devem ser submetidos a exame interno **quando exigido pelo código de construção ou a critério do PLH**."
+    "gabaritoComentado": "Vasos de pressão com temperatura de operação inferior a zero grau Celsius devem ser submetidos a exame interno <b>quando exigido pelo código de construção ou a critério do PLH<b>."
   },
   {
     "tema": "NR 13💨",
@@ -18375,7 +18375,7 @@ const questoes = [
     "alternativa4": "Registrar as inspeções de segurança iniciais.",
     "alternativa5": "Informar os dados de instalação da caldeira.",
     "respostaCorreta": "A",
-    "gabaritoComentado": "O registro do teste hidrostático de fabricação no prontuário visa a **atestar a resistência da caldeira à pressão interna de projeto**."
+    "gabaritoComentado": "O registro do teste hidrostático de fabricação no prontuário visa a <b>atestar a resistência da caldeira à pressão interna de projeto<b>."
   },
   {
     "tema": "NR 18🏗️",
@@ -18694,7 +18694,7 @@ const questoes = [
     "alternativa4": "Devem ser devolvidos ao fabricante para avaliação.",
     "alternativa5": "Podem ser utilizados em atividades de menor risco.",
     "respostaCorreta": "B",
-    "gabaritoComentado": "Elementos do SPIQ recusados por motivos de defeitos, degradação, deformação ou por motivo de terem sofrido impactos de queda, **devem ser inutilizados e descartados**."
+    "gabaritoComentado": "Elementos do SPIQ recusados por motivos de defeitos, degradação, deformação ou por motivo de terem sofrido impactos de queda, <b>devem ser inutilizados e descartados<b>."
   },
   {
     "tema": "NR 35 🧗",
@@ -18705,7 +18705,7 @@ const questoes = [
     "alternativa4": "Devem ser posicionados de modo a restringir a distância de queda livre e evitar a colisão do trabalhador com estruturas inferiores em caso de queda.",
     "alternativa5": "Devem ser posicionados na lateral do corpo do trabalhador.",
     "respostaCorreta": "D",
-    "gabaritoComentado": "O talabarte e o dispositivo trava-quedas devem ser posicionados de modo a **restringir a distância de queda livre** e de forma que, em caso de ocorrência de queda, o trabalhador **não colida com estrutura inferior**."
+    "gabaritoComentado": "O talabarte e o dispositivo trava-quedas devem ser posicionados de modo a <b>restringir a distância de queda livre<b> e de forma que, em caso de ocorrência de queda, o trabalhador <b>não colida com estrutura inferior<b>."
   },
   {
     "tema": "NR 35 🧗",
@@ -18716,7 +18716,7 @@ const questoes = [
     "alternativa4": "Antes do uso e após o uso.",
     "alternativa5": "Mensal e anual.",
     "respostaCorreta": "B",
-    "gabaritoComentado": "A NR-35 define **3 (três) tipos de inspeções**: a inicial, a rotineira e a periódica."
+    "gabaritoComentado": "A NR-35 define <b>3 (três) tipos de inspeções<b>: a inicial, a rotineira e a periódica."
   },
   {
     "tema": "NR 35 🧗",
@@ -18727,7 +18727,7 @@ const questoes = [
     "alternativa4": "Cinto de segurança tipo paraquedista, talabarte e capacete.",
     "alternativa5": "Escada, plataforma e andaime.",
     "respostaCorreta": "B",
-    "gabaritoComentado": "O SPIQ pode ser utilizado para **retenção de queda**, **posicionamento no trabalho** e **acesso por cordas**."
+    "gabaritoComentado": "O SPIQ pode ser utilizado para <b>retenção de queda<b>, <b>posicionamento no trabalho<b> e <b>acesso por cordas<b>."
   },
   {
     "tema": "NR 35 🧗",
@@ -18738,7 +18738,7 @@ const questoes = [
     "alternativa4": "Realizar um teste prático de habilidades.",
     "alternativa5": "Apenas ter concluído o treinamento.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "A NR-35 exige que a organização avalie o **estado de saúde dos empregados** que exercem atividades de trabalho em altura, de acordo com o estabelecido na NR-07 (Programa de Controle Médico de Saúde Ocupacional), em especial pelo item 7.5.3, considerando as patologias que poderão ocasionar mal súbito e/ou queda de altura."
+    "gabaritoComentado": "A NR-35 exige que a organização avalie o <b>estado de saúde dos empregados<b> que exercem atividades de trabalho em altura, de acordo com o estabelecido na NR-07 (Programa de Controle Médico de Saúde Ocupacional), em especial pelo item 7.5.3, considerando as patologias que poderão ocasionar mal súbito e/ou queda de altura."
   },
   {
     "tema": "NR 35 🧗",
@@ -18749,7 +18749,7 @@ const questoes = [
     "alternativa4": "Atividade que necessite de proteção individual contra quedas.",
     "alternativa5": "Trabalho realizado em qualquer altura com a utilização de escadas.",
     "respostaCorreta": "A",
-    "gabaritoComentado": "A NR-35 define trabalho em altura como toda atividade executada acima de **2 (dois) metros** do nível inferior, onde houver risco de queda."
+    "gabaritoComentado": "A NR-35 define trabalho em altura como toda atividade executada acima de <b>2 (dois) metros<b> do nível inferior, onde houver risco de queda."
   },
   {
     "tema": "NR 35 🧗",
@@ -18760,7 +18760,7 @@ const questoes = [
     "alternativa4": "Se o trabalhador concordar com o aproveitamento.",
     "alternativa5": "Se o conteúdo e a carga horária requeridos no novo treinamento estiverem compreendidos no treinamento anterior e seja validado pelo responsável técnico.",
     "respostaCorreta": "E",
-    "gabaritoComentado": "O treinamento realizado há menos de dois anos pode ser aproveitado na mesma organização desde que **o conteúdo e a carga horária requeridos no novo treinamento estejam compreendidos no treinamento anterior** e seja **validado pelo responsável técnico**."
+    "gabaritoComentado": "O treinamento realizado há menos de dois anos pode ser aproveitado na mesma organização desde que <b>o conteúdo e a carga horária requeridos no novo treinamento estejam compreendidos no treinamento anterior<b> e seja <b>validado pelo responsável técnico<b>."
   },
   {
     "tema": "NR 35 🧗",
@@ -18771,7 +18771,7 @@ const questoes = [
     "alternativa4": "Trabalhadores designados pela CIPA.",
     "alternativa5": "Técnicos de segurança do trabalho da própria empresa.",
     "respostaCorreta": "A",
-    "gabaritoComentado": "Os treinamentos para trabalho em altura devem ser ministrados por **instrutores com comprovada proficiência no assunto**, sob a responsabilidade de **profissional qualificado ou legalmente habilitado** em segurança do trabalho."
+    "gabaritoComentado": "Os treinamentos para trabalho em altura devem ser ministrados por <b>instrutores com comprovada proficiência no assunto<b>, sob a responsabilidade de <b>profissional qualificado ou legalmente habilitado<b> em segurança do trabalho."
   },
   {
     "tema": "NR 35 🧗",
@@ -18782,7 +18782,7 @@ const questoes = [
     "alternativa4": "A Comissão Interna de Prevenção de Acidentes (CIPA).",
     "alternativa5": "O Serviço Especializado em Segurança e Medicina do Trabalho (SESMT).",
     "respostaCorreta": "A",
-    "gabaritoComentado": "É responsabilidade da **organização** (empregador) assegurar a realização da Análise de Risco (AR) e, quando aplicável, a emissão da Permissão de Trabalho (PT)."
+    "gabaritoComentado": "É responsabilidade da <b>organização<b> (empregador) assegurar a realização da Análise de Risco (AR) e, quando aplicável, a emissão da Permissão de Trabalho (PT)."
   },
   {
     "tema": "NR 35 🧗",
@@ -18793,7 +18793,7 @@ const questoes = [
     "alternativa4": "4 horas.",
     "alternativa5": "12 horas.",
     "respostaCorreta": "A",
-    "gabaritoComentado": "A NR-35 estabelece que a carga horária mínima tanto para o **treinamento inicial** quanto para o **periódico** é de **8 horas**."
+    "gabaritoComentado": "A NR-35 estabelece que a carga horária mínima tanto para o <b>treinamento inicial<b> quanto para o <b>periódico<b> é de <b>8 horas<b>."
   },
   {
     "tema": "NR 35 🧗",
@@ -18804,7 +18804,7 @@ const questoes = [
     "alternativa4": "Apenas para fins estatísticos de acidentes de trabalho.",
     "alternativa5": "Ficar pendurado pelo cinto de segurança pode ser perigoso devido à prolongada suspensão, sendo crucial reduzir esse tempo para evitar problemas de saúde.",
     "respostaCorreta": "E",
-    "gabaritoComentado": "Ficar pendurado pelo cinto de segurança pode ser perigoso devido à **prolongada suspensão**, sendo fundamental reduzir o tempo de suspensão inerte e realizar o resgate e tratamento o mais rápido possível."
+    "gabaritoComentado": "Ficar pendurado pelo cinto de segurança pode ser perigoso devido à <b>prolongada suspensão<b>, sendo fundamental reduzir o tempo de suspensão inerte e realizar o resgate e tratamento o mais rápido possível."
   },
   {
     "tema": "NR 35 🧗",
@@ -18815,7 +18815,7 @@ const questoes = [
     "alternativa4": "30 dias.",
     "alternativa5": "60 dias.",
     "respostaCorreta": "B",
-    "gabaritoComentado": "A NR-35 dispõe que a **PT tem validade limitada à duração da atividade**, restrita ao turno ou à jornada de trabalho."
+    "gabaritoComentado": "A NR-35 dispõe que a <b>PT tem validade limitada à duração da atividade<b>, restrita ao turno ou à jornada de trabalho."
   },
   {
     "tema": "NR 35 🧗",
@@ -18826,7 +18826,7 @@ const questoes = [
     "alternativa4": "Apenas a experiência dos trabalhadores envolvidos.",
     "alternativa5": "Somente os custos da atividade.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "Além dos riscos inerentes ao trabalho em altura, a AR deve considerar: o **risco de queda de materiais e ferramentas**; os **trabalhos simultâneos** que apresentem riscos específicos; os **riscos adicionais**; as **condições impeditivas**; as situações de emergência e o planejamento do resgate e primeiros socorros, entre outros."
+    "gabaritoComentado": "Além dos riscos inerentes ao trabalho em altura, a AR deve considerar: o <b>risco de queda de materiais e ferramentas<b>; os <b>trabalhos simultâneos<b> que apresentem riscos específicos; os <b>riscos adicionais<b>; as <b>condições impeditivas<b>; as situações de emergência e o planejamento do resgate e primeiros socorros, entre outros."
   },
   {
     "tema": "NR 35 🧗",
@@ -18837,7 +18837,7 @@ const questoes = [
     "alternativa4": "A cada utilização.",
     "alternativa5": "No mínimo, uma vez a cada doze meses.",
     "respostaCorreta": "E",
-    "gabaritoComentado": "A inspeção periódica do SPIQ deve ser realizada, **no mínimo, uma vez a cada doze meses**, podendo o intervalo ser reduzido em função do tipo e frequência de uso ou exposição a agentes agressivos."
+    "gabaritoComentado": "A inspeção periódica do SPIQ deve ser realizada, <b>no mínimo, uma vez a cada doze meses<b>, podendo o intervalo ser reduzido em função do tipo e frequência de uso ou exposição a agentes agressivos."
   },
   {
     "tema": "NR 35 🧗",
@@ -18848,7 +18848,7 @@ const questoes = [
     "alternativa4": "Somente o peso do equipamento.",
     "alternativa5": "A massa total aplicada ao sistema (trabalhador e equipamentos), a distância de queda livre, o fator de queda e a zona livre de queda, entre outros.",
     "respostaCorreta": "E",
-    "gabaritoComentado": "O fabricante ou o importador de EPI deve disponibilizar informações quanto ao desempenho dos equipamentos e os limites de uso, considerando a **massa total aplicada ao sistema (trabalhador e equipamentos)** e os demais aspectos relacionados, como a **distância de queda livre**, o **fator de queda** e a **zona livre de queda**."
+    "gabaritoComentado": "O fabricante ou o importador de EPI deve disponibilizar informações quanto ao desempenho dos equipamentos e os limites de uso, considerando a <b>massa total aplicada ao sistema (trabalhador e equipamentos)<b> e os demais aspectos relacionados, como a <b>distância de queda livre<b>, o <b>fator de queda<b> e a <b>zona livre de queda<b>."
   },
   {
     "tema": "NR 35 🧗",
@@ -18859,7 +18859,7 @@ const questoes = [
     "alternativa4": "Priorizar o Sistema de Proteção Individual Contra Quedas (SPIQ).",
     "alternativa5": "Utilizar o sistema mais simples disponível.",
     "respostaCorreta": "B",
-    "gabaritoComentado": "Para proteção contra o risco de queda, a regra é que se utilize um **Sistema de Proteção Coletiva Contra Quedas – SPCQ**, que deverá ser projetado por um Profissional Legalmente Habilitado."
+    "gabaritoComentado": "Para proteção contra o risco de queda, a regra é que se utilize um <b>Sistema de Proteção Coletiva Contra Quedas – SPCQ<b>, que deverá ser projetado por um Profissional Legalmente Habilitado."
   },
   {
     "tema": "NR 35 🧗",
@@ -18870,7 +18870,7 @@ const questoes = [
     "alternativa4": "Realização de treinamento e capacitação dos trabalhadores.",
     "alternativa5": "Emissão da Permissão de Trabalho (PT) para todas as atividades.",
     "respostaCorreta": "A",
-    "gabaritoComentado": "A NR-35 estabelece uma hierarquia das medidas de prevenção, sendo a prioridade **evitar o trabalho em altura**, sempre que existir meio alternativo de execução. Na impossibilidade, deve-se **eliminar o risco de queda** por meio de medidas de proteção coletiva."
+    "gabaritoComentado": "A NR-35 estabelece uma hierarquia das medidas de prevenção, sendo a prioridade <b>evitar o trabalho em altura<b>, sempre que existir meio alternativo de execução. Na impossibilidade, deve-se <b>eliminar o risco de queda<b> por meio de medidas de proteção coletiva."
   },
   {
     "tema": "NR 35 🧗",
@@ -18881,7 +18881,7 @@ const questoes = [
     "alternativa4": "Que o tempo de execução da tarefa seja o menor possível.",
     "alternativa5": "Apenas a disponibilidade dos Equipamentos de Proteção Individual (EPIs).",
     "respostaCorreta": "C",
-    "gabaritoComentado": "Antes de o trabalhador iniciar a atividade em altura, a organização deve assegurar a realização de **avaliação prévia das condições no local do trabalho**, contemplando normas e regulamentos aplicáveis, Análise de Risco (AR) e condições impeditivas, riscos potenciais e medidas de prevenção e controle."
+    "gabaritoComentado": "Antes de o trabalhador iniciar a atividade em altura, a organização deve assegurar a realização de <b>avaliação prévia das condições no local do trabalho<b>, contemplando normas e regulamentos aplicáveis, Análise de Risco (AR) e condições impeditivas, riscos potenciais e medidas de prevenção e controle."
   },
   {
     "tema": "NR 35 🧗",
@@ -18892,7 +18892,7 @@ const questoes = [
     "alternativa4": "É fundamental e obrigatória, sendo a sua forma definida pela Análise de Risco (AR) ou pelo Procedimento Operacional (PO).",
     "alternativa5": "Pode ser realizada por qualquer trabalhador experiente.",
     "respostaCorreta": "D",
-    "gabaritoComentado": "Na fase da organização do trabalho em altura, uma **supervisão é fundamental e obrigatória**. A forma desta supervisão deve ser definida pela Análise de Risco (AR) ou pelo Procedimento Operacional (PO), de acordo com as peculiaridades da atividade."
+    "gabaritoComentado": "Na fase da organização do trabalho em altura, uma <b>supervisão é fundamental e obrigatória<b>. A forma desta supervisão deve ser definida pela Análise de Risco (AR) ou pelo Procedimento Operacional (PO), de acordo com as peculiaridades da atividade."
   },
   {
     "tema": "NR 35 🧗",
@@ -18903,7 +18903,7 @@ const questoes = [
     "alternativa4": "Um elemento de ligação entre o cinto de segurança e um ponto de ancoragem.",
     "alternativa5": "Um dispositivo utilizado para ascensão e descensão por cordas.",
     "respostaCorreta": "D",
-    "gabaritoComentado": "Um talabarte é um **elemento de ligação entre o cinto de segurança e um ponto de ancoragem** [133, Figura 4]."
+    "gabaritoComentado": "Um talabarte é um <b>elemento de ligação entre o cinto de segurança e um ponto de ancoragem<b> [133, Figura 4]."
   },
   {
     "tema": "NR 35 🧗",
@@ -18914,7 +18914,7 @@ const questoes = [
     "alternativa4": "Um método sistemático de exame e avaliação de todas as etapas e elementos de um determinado serviço que o trabalhador executará.",
     "alternativa5": "Um registro das condições climáticas no momento da execução do trabalho.",
     "respostaCorreta": "D",
-    "gabaritoComentado": "Segundo o Manual da NR-35, AR é “**um método sistemático de exame e avaliação de todas as etapas e elementos de um determinado serviço que o trabalhador executará**”."
+    "gabaritoComentado": "Segundo o Manual da NR-35, AR é “<b>um método sistemático de exame e avaliação de todas as etapas e elementos de um determinado serviço que o trabalhador executará<b>”."
   },
   {
     "tema": "NR 35 🧗",
@@ -18925,7 +18925,7 @@ const questoes = [
     "alternativa4": "Para evitar multas e sanções.",
     "alternativa5": "Apenas para cumprir uma exigência legal.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "Na Análise de Riscos devem ser previstos os possíveis cenários de situações de emergência e respectivos procedimentos, além de recursos necessários para as respostas de resgate e primeiros socorros, visando **reduzir o tempo da suspensão inerte do trabalhador** e realizar o resgate e tratamento o mais rápido possível."
+    "gabaritoComentado": "Na Análise de Riscos devem ser previstos os possíveis cenários de situações de emergência e respectivos procedimentos, além de recursos necessários para as respostas de resgate e primeiros socorros, visando <b>reduzir o tempo da suspensão inerte do trabalhador<b> e realizar o resgate e tratamento o mais rápido possível."
   },
   {
     "tema": "NR 35 🧗",
@@ -18936,7 +18936,7 @@ const questoes = [
     "alternativa4": "Responsabilizar-se pela elaboração da Análise de Risco (AR).",
     "alternativa5": "Decidir se a atividade apresenta risco de queda ou não.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "Embora a fonte não detalhe as responsabilidades do trabalhador na NR-35, é implícito que ele deve **cumprir as determinações e procedimentos de segurança** relacionados ao trabalho em altura, conforme as normas e orientações fornecidas."
+    "gabaritoComentado": "Embora a fonte não detalhe as responsabilidades do trabalhador na NR-35, é implícito que ele deve <b>cumprir as determinações e procedimentos de segurança<b> relacionados ao trabalho em altura, conforme as normas e orientações fornecidas."
   },
   {
     "tema": "NR 35 🧗",
@@ -18947,7 +18947,7 @@ const questoes = [
     "alternativa4": "Comunicação verbal ao supervisor.",
     "alternativa5": "Ordem de Serviço (OS) simples.",
     "respostaCorreta": "C",
-    "gabaritoComentado": "Para atividades não rotineiras em altura, é necessária a autorização da sua execução por meio de um **documento escrito, contendo o conjunto de medidas de controle que visam ao desenvolvimento de trabalho em altura seguro, além de medidas de emergência e resgate**, que é a Permissão de Trabalho (PT)."
+    "gabaritoComentado": "Para atividades não rotineiras em altura, é necessária a autorização da sua execução por meio de um <b>documento escrito, contendo o conjunto de medidas de controle que visam ao desenvolvimento de trabalho em altura seguro, além de medidas de emergência e resgate<b>, que é a Permissão de Trabalho (PT)."
   },
   {
     "tema": "NR 35 🧗",
@@ -18958,7 +18958,7 @@ const questoes = [
     "alternativa4": "Impedir a ocorrência de quedas ou minimizar suas consequências.",
     "alternativa5": "Garantir a mobilidade do trabalhador em altura.",
     "respostaCorreta": "D",
-    "gabaritoComentado": "O objetivo do Sistema de Proteção Contra Quedas (SPQ) é **impedir a ocorrência de quedas ou, caso ocorram, reduzir as suas consequências**."
+    "gabaritoComentado": "O objetivo do Sistema de Proteção Contra Quedas (SPQ) é <b>impedir a ocorrência de quedas ou, caso ocorram, reduzir as suas consequências<b>."
   },
   {
     "tema": "NR 35 🧗",
@@ -18969,7 +18969,7 @@ const questoes = [
     "alternativa4": "10 kN.",
     "alternativa5": "4 kN.",
     "respostaCorreta": "B",
-    "gabaritoComentado": "O SPIQ deve ser selecionado de forma que a força de impacto transmitida ao trabalhador seja de, no máximo, **6 kN**, quando de uma eventual queda."
+    "gabaritoComentado": "O SPIQ deve ser selecionado de forma que a força de impacto transmitida ao trabalhador seja de, no máximo, <b>6 kN<b>, quando de uma eventual queda."
   },
   {
     "tema": "NR 35 🧗",
@@ -18980,7 +18980,7 @@ const questoes = [
     "alternativa4": "Anual.",
     "alternativa5": "Não há periodicidade definida, dependendo da atividade.",
     "respostaCorreta": "A",
-    "gabaritoComentado": "A NR-35 define que o **treinamento periódico** deve ser realizado a cada **dois anos**."
+    "gabaritoComentado": "A NR-35 define que o <b>treinamento periódico<b> deve ser realizado a cada <b>dois anos<b>."
   },
   {
     "tema": "NR 35 🧗",
@@ -18991,7 +18991,7 @@ const questoes = [
     "alternativa4": "Somente trabalhadores com treinamento em primeiros socorros.",
     "alternativa5": "Os meios e recursos necessários para os primeiros socorros, encaminhamento de acidentados e abandono de área.",
     "respostaCorreta": "E",
-    "gabaritoComentado": "A NR-35, em consonância com a NR-01, dispõe que a organização deve prever os **meios e recursos necessários para os primeiros socorros, encaminhamento de acidentados e abandono de área**."
+    "gabaritoComentado": "A NR-35, em consonância com a NR-01, dispõe que a organização deve prever os <b>meios e recursos necessários para os primeiros socorros, encaminhamento de acidentados e abandono de área<b>."
   },
   {
     "tema": "NR 35 🧗",
@@ -19002,7 +19002,7 @@ const questoes = [
     "alternativa4": "Ordem de Serviço (OS) detalhada.",
     "alternativa5": "Análise Preliminar de Riscos (APR).",
     "respostaCorreta": "A",
-    "gabaritoComentado": "A NR-35 determina que todo trabalho em altura deve ser precedido de **Análise de Risco (AR)** e, para atividades não rotineiras, também da **Permissão de Trabalho (PT)**."
+    "gabaritoComentado": "A NR-35 determina que todo trabalho em altura deve ser precedido de <b>Análise de Risco (AR)<b> e, para atividades não rotineiras, também da <b>Permissão de Trabalho (PT)<b>."
   },
   {
     "tema": "NR 35 🧗",
@@ -19013,7 +19013,7 @@ const questoes = [
     "alternativa4": "A preferência do trabalhador.",
     "alternativa5": "A disponibilidade do equipamento no mercado.",
     "respostaCorreta": "B",
-    "gabaritoComentado": "O Sistema de Proteção Contra Quedas (SPQ) deve ser selecionado de acordo com a **Análise de Risco – AR e adequado à tarefa que será executada**."
+    "gabaritoComentado": "O Sistema de Proteção Contra Quedas (SPQ) deve ser selecionado de acordo com a <b>Análise de Risco – AR e adequado à tarefa que será executada<b>."
   },
     {
     "tema": "NR 31👨‍🌾",
@@ -19860,7 +19860,7 @@ const questoes = [
     "alternativa4": "O tipo e número de camas devem ser definidos em negociação coletiva, sem especificação mínima pela norma.",
     "alternativa5": "As camas devem ser individuais, mas é permitido o uso de beliches sem restrições.",
     "respostaCorreta": "B",
-    "gabaritoComentado": "Embora a pergunta use o termo 'membros da tripulação', o texto da NR-31 em relação a alojamentos no trabalho aquaviário (NR-30), que é referenciada em outros contextos, estabelece que 'os membros da tripulação devem dispor de camas individuais'. No contexto do trabalho rural (NR-31), embora a fonte não detalhe explicitamente as camas nos alojamentos rurais, ao abordar temas como alojamentos, a norma busca padrões de higiene e conforto. A NR-31 também prevê a aplicação de outras NRs quando remetido. Contudo, o texto focado em NR31 Alojamentos rurais não especifica detalhes das camas. Analisando a estrutura da fonte e a questão focada em 'Trabalho Rural e Agravos à Saúde', e dada a presença da informação sobre camas individuais para tripulação no material, pode haver uma inferência pretendida, mas a questão como formulada ('membros da tripulação') direciona para a NR-30. No entanto, dentro do contexto das 'áreas de vivência' no rural, alojamentos são listados. A fonte não detalha os requisitos específicos das camas para alojamentos *rurais* dentro do capítulo sobre trabalho rural. Há uma aparente inconsistência na questão formulada em relação ao capítulo 'Trabalho Rural'. No entanto, aceitando a questão como está e buscando a resposta mais plausível *dentro do contexto das fontes fornecidas*, a única menção sobre camas individuais é para 'membros da tripulação' na seção da NR-30. Se a questão pretendia se restringir estritamente ao capítulo 'Trabalho Rural e Agravos à Saúde', essa pergunta seria inadequada. Assumindo que a banca pode misturar informações de diferentes NRs presentes na fonte, e que a NR-31 remete a outras NRs, a resposta B é a única que menciona camas individuais, conforme presente nas fontes. **Reforçando:** Esta questão parece mal formulada para o tema específico 'Trabalho Rural e Agravos à Saúde' e utiliza informação de outra NR (NR-30) presente nas fontes. No entanto, seguindo a instrução de usar as fontes, esta é a única informação sobre camas individuais."
+    "gabaritoComentado": "Embora a pergunta use o termo 'membros da tripulação', o texto da NR-31 em relação a alojamentos no trabalho aquaviário (NR-30), que é referenciada em outros contextos, estabelece que 'os membros da tripulação devem dispor de camas individuais'. No contexto do trabalho rural (NR-31), embora a fonte não detalhe explicitamente as camas nos alojamentos rurais, ao abordar temas como alojamentos, a norma busca padrões de higiene e conforto. A NR-31 também prevê a aplicação de outras NRs quando remetido. Contudo, o texto focado em NR31 Alojamentos rurais não especifica detalhes das camas. Analisando a estrutura da fonte e a questão focada em 'Trabalho Rural e Agravos à Saúde', e dada a presença da informação sobre camas individuais para tripulação no material, pode haver uma inferência pretendida, mas a questão como formulada ('membros da tripulação') direciona para a NR-30. No entanto, dentro do contexto das 'áreas de vivência' no rural, alojamentos são listados. A fonte não detalha os requisitos específicos das camas para alojamentos *rurais* dentro do capítulo sobre trabalho rural. Há uma aparente inconsistência na questão formulada em relação ao capítulo 'Trabalho Rural'. No entanto, aceitando a questão como está e buscando a resposta mais plausível *dentro do contexto das fontes fornecidas*, a única menção sobre camas individuais é para 'membros da tripulação' na seção da NR-30. Se a questão pretendia se restringir estritamente ao capítulo 'Trabalho Rural e Agravos à Saúde', essa pergunta seria inadequada. Assumindo que a banca pode misturar informações de diferentes NRs presentes na fonte, e que a NR-31 remete a outras NRs, a resposta B é a única que menciona camas individuais, conforme presente nas fontes. <b>Reforçando:<b> Esta questão parece mal formulada para o tema específico 'Trabalho Rural e Agravos à Saúde' e utiliza informação de outra NR (NR-30) presente nas fontes. No entanto, seguindo a instrução de usar as fontes, esta é a única informação sobre camas individuais."
   },
   {
     "tema": "TRABALHO RURAL E AGRAVOS À SAÚDE",
