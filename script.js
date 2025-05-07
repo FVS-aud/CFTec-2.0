@@ -1656,8 +1656,26 @@ function inicializarApp() {
                 const pergunta = questaoAtualObj.pergunta.substring(0, 50) + "...";
                 const confirmReport = confirm(`Reportar erro na questão atual?\n\nTema: ${tema}\nID: ${id}\nInício: ${pergunta}`);
                 if (confirmReport) {
-                    alert("Funcionalidade de reporte ainda não implementada. Por favor, anote o ID da questão e reporte manualmente.");
-                    console.log("Reportar erro para questão ID:", id);
+                    // --- NOVO CÓDIGO PARA MAILTO: ---
+                    const emailDestino = "frankkinho@hotmail.com"; // <-- TROQUE PELO SEU EMAIL
+                    const assunto = encodeURIComponent(`Erro Reportado - Questão ID: ${id}`);
+                    const corpoEmail = encodeURIComponent(
+                        `Foi reportado um erro na questão:\n\n` +
+                        `ID: ${id}\n` +
+                        `Tema: ${tema}\n` +
+                        `Início da Pergunta: ${questaoAtualObj.pergunta}\n\n` + // Pergunta completa
+                        `Por favor, descreva o erro encontrado:\n\n` +
+                        `---------------------\n` +
+                        `Informações Adicionais (Opcional):\n` +
+                        `- Gabarito informado: ${questaoAtualObj.respostaCorreta}\n` +
+                        `- Alternativa marcada (se houver): ${progressoGeral?.respostasUsuario?.[id] || 'N/A'}\n` +
+                        `- Comentário do gabarito: ${questaoAtualObj.gabaritoComentado || 'N/A'}`
+                    );
+
+                    // Abre o cliente de e-mail
+                    window.location.href = `mailto:<span class="math-inline">\{emailDestino\}?subject\=</span>{assunto}&body=${corpoEmail}`;
+                    console.log("Tentativa de abrir e-mail para reportar erro na questão ID:", id);
+                    // --- FIM DO NOVO CÓDIGO ---
                 }
             } else {
                 alert("Não há questão atual selecionada para reportar.");
