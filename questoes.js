@@ -24120,6 +24120,5 @@ const questoes = [
     "respostaCorreta": "D",
     "gabaritoComentado": "O texto afirma: \"O artigo 23 estabelece o critério da dupla visita em quatro situações específicas\". Em seguida, lista essas quatro situações."
   }
-]
     // Você pode adicionar mais questões aqui seguindo este formato
 ];
