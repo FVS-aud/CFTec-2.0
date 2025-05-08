@@ -1,15 +1,17 @@
-const questoes = [
-  {
-"tema": "#Simulasque P2.1 😱",
-"pergunta": "Em relação à avaliação da exposição ocupacional e seus critérios de referência, assinale a opção <b>correta<b>.",
-"alternativa1": "O Nível de Ação para o agente físico ruído é definido na NR-09 como correspondente a 50% do Limite de Tolerância estabelecido na NR-15.",
-"alternativa2": "A Avaliação Quantitativa utiliza medições com instrumentos para determinar a concentração ou intensidade dos agentes, enquanto a Avaliação Qualitativa baseia-se em percepções subjetivas sem metodologia definida.",
-"alternativa3": "As avaliações devem sempre abranger totalmente os trabalhadores expostos ao agente sob análise.",
-"alternativa4": "Os Limites de Exposição Ocupacional (LEO), como os publicados pela ACGIH, são frequentemente citados como referências tecnicamente mais atualizadas que os Limites de Tolerância (LT) da NR-15, os quais são considerados defasados.",
-"alternativa5": "Na Avaliação Quantitativa, as metodologias mais conhecidas utilizam matrizes de risco (consequência x probabilidade) ou, em situações que envolvam agentes químicos, bandas de controle.",
-"respostaCorreta": "D",
-"gabaritoComentado": "A alternativa (D) está correta, pois os Limites de Exposição Ocupacional (LEO), como os da ACGIH, são frequentemente considerados referências tecnicamente mais atualizadas que os Limites de Tolerância (LT) da NR-15, que são vistos como defasados."
-},
+
+if (typeof questoes !== 'undefined') {
+    questoes = questoes.concat([
+        {
+            "tema": "#Simulasque P2.1 😱",
+            "pergunta": "Em relação à avaliação da exposição ocupacional e seus critérios de referência, assinale a opção <b>correta<b>.",
+            "alternativa1": "O Nível de Ação para o agente físico ruído é definido na NR-09 como correspondente a 50% do Limite de Tolerância estabelecido na NR-15.",
+            "alternativa2": "A Avaliação Quantitativa utiliza medições com instrumentos para determinar a concentração ou intensidade dos agentes, enquanto a Avaliação Qualitativa baseia-se em percepções subjetivas sem metodologia definida.",
+            "alternativa3": "As avaliações devem sempre abranger totalmente os trabalhadores expostos ao agente sob análise.",
+            "alternativa4": "Os Limites de Exposição Ocupacional (LEO), como os publicados pela ACGIH, são frequentemente citados como referências tecnicamente mais atualizadas que os Limites de Tolerância (LT) da NR-15, os quais são considerados defasados.",
+            "alternativa5": "Na Avaliação Quantitativa, as metodologias mais conhecidas utilizam matrizes de risco (consequência x probabilidade) ou, em situações que envolvam agentes químicos, bandas de controle.",
+            "respostaCorreta": "D",
+            "gabaritoComentado": "A alternativa (D) está correta, pois os Limites de Exposição Ocupacional (LEO), como os da ACGIH, são frequentemente considerados referências tecnicamente mais atualizadas que os Limites de Tolerância (LT) da NR-15. (A) Incorreta: Conforme NR-09, item 9.3.6.1, o nível de ação para ruído é 50% da dose do LT, e não do LT em si. (B) Incorreta: A Avaliação Qualitativa, embora possa envolver julgamento profissional, deve seguir metodologias e critérios técnicos (ex: Anexo I da NR-01 para riscos ergonômicos, ou métodos de estimativa para agentes químicos). (C) Incorreta: A amostragem e avaliação podem ser feitas em Grupos Homogêneos de Exposição (GHE) ou Grupos de Exposição Similar (GES), não necessariamente abrangendo todos os trabalhadores individualmente. (E) Incorreta: Matrizes de risco e bandas de controle são ferramentas de avaliação de risco (qualitativa ou semiquantitativa), não de avaliação quantitativa da exposição que envolve medições diretas da concentração/intensidade do agente."
+        },
 {
 "tema": "#Simulasque P2.1 😱",
 "pergunta": "Considerando a hierarquia das medidas de controle no contexto da Higiene Ocupacional, julgue os itens a seguir.<br>I.   A ordem de prioridade das medidas de prevenção inicia-se pela eliminação dos fatores de risco, seguida pela minimização e controle com proteção coletiva, depois por medidas administrativas/organizacionais e, por último, pela adoção de proteção individual.<br>II.  Medidas como a substituição de um produto tóxico por um menos nocivo ou a alteração de um processo (ex: umedecer o corte de pedras) visam atuar na fonte ou na trajetória do risco, sendo consideradas prioritárias em relação ao uso de EPI.<br>III. O enclausuramento de uma operação ou o isolamento da fonte (ou dos trabalhadores) são exemplos de medidas de proteção coletiva que buscam, respectivamente, conter o contaminante ou reduzir o número de expostos.<br>IV.  A Ventilação Local Exaustora (VLE), que captura o contaminante na fonte antes que ele se disperse, e a Ventilação Geral Diluidora (VGD), que renova o ar para reduzir a concentração, são ambas classificadas como medidas de proteção coletiva.<br>V.   A manutenção preventiva de máquinas e equipamentos é citada como uma medida de proteção coletiva que pode contribuir para a redução de riscos físicos (ruído, vibrações) e químicos (vazamentos).<br>Assinale a opção correta.",
@@ -20909,4 +20911,10 @@ const questoes = [
     "gabaritoComentado": "A NR-30 estabelece que as máquinas e equipamentos utilizados no trabalho aquaviário devem atender ao disposto na NR-12."
   }
     // Você pode adicionar mais questões aqui seguindo este formato
-];
+
+    ]);
+} else {
+    console.error("Erro: 'questoes' não foi definido por questoesP1.js antes de questoesP2.js tentar adicionar itens.");
+    // Opcional: Definir questoes aqui se questoesP1.js puder falhar e você quiser que questoesP2.js funcione de forma independente
+    // const questoes = [ /* ... colar todas as questões de P2 aqui DENTRO de um array ... */ ];
+}
