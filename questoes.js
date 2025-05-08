@@ -22404,7 +22404,6 @@ const questoes = [
     "respostaCorreta": "C",
     "gabaritoComentado": "A alternativa 'C' está correta. O texto lista explicitamente como compromissos dos Estados aderentes à Convenção nº 97 da OIT facilitar a saída, a viagem e a recepção dos trabalhadores migrantes; a promoção de condições de saúde e a não discriminação do trabalhador migrante."
   },
-[
   {
     "tema": "Igualdade Racial",
     "pergunta": "Conforme o texto, o princípio da não discriminação é consequência da igualdade, tanto formal quanto substancial. A esse respeito, assinale a alternativa correta.",
