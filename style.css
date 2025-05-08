@@ -399,3 +399,12 @@ footer u { text-decoration: underline; text-decoration-color: #007bff; }
 /* Estilos existentes para a mensagem (Incorreto/Correto) - Já devem existir */
 #mensagem-resultado.feedback-acerto { color: #155724; font-weight: bold;}
 #mensagem-resultado.feedback-erro { color: #721c24; font-weight: bold; } /* Vermelho escuro */
+
+
+#contadores-globais-topo,
+#admin-container {
+    display: none;
+}
+#main-content {
+    display: none; /* Esconde o conteúdo principal por padrão */
+}
