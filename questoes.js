@@ -22404,7 +22404,6 @@ const questoes = [
     "respostaCorreta": "C",
     "gabaritoComentado": "A alternativa 'C' está correta. O texto lista explicitamente como compromissos dos Estados aderentes à Convenção nº 97 da OIT facilitar a saída, a viagem e a recepção dos trabalhadores migrantes; a promoção de condições de saúde e a não discriminação do trabalhador migrante."
   },
-```json
 [
   {
     "tema": "Igualdade Racial",
