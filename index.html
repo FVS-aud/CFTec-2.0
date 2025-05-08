@@ -3,196 +3,159 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AFTec 2.0</title>
+    <title>Plataforma de Questões</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="icon" type="image/png" href="images/A3.png">
-</head>
+
+    <script defer src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script> <script defer src="https://www.gstatic.com/firebasejs/9.23.0/firebase-auth-compat.js"></script> <script defer src="https://www.gstatic.com/firebasejs/9.23.0/firebase-firestore-compat.js"></script> <script src="https://cdn.jsdelivr.net/npm/chart.js"></script> </head>
 <body>
-    <div class="container">
+    <header>
+        <div class="logo-container">
+            <img src="images/logo.png" alt="Logo" id="logo"> <h1>Plataforma de Questões</h1>
+        </div>
+        <nav id="user-nav">
+            </nav>
+    </header>
 
-        <div class="top-bar">
-            <div class="logos-container">
-                <img src="images/A1.png" alt="AFTec Logo" id="logo-principal-mikro">
-                <img src="images/A2.png" alt="Logo Secundário" id="logo-secundario-mikro">
+    <main>
+        <aside class="sidebar">
+            <h2>Filtros</h2>
+            <div id="category-filters">
+                <h3>Matérias</h3>
+                <ul id="materias-list">
+                    </ul>
+                <h3>Assuntos</h3>
+                <ul id="assuntos-list">
+                    </ul>
             </div>
-            <div id="auth-container">
+            <button id="create-notebook-btn">Novo Caderno</button>
+            <div id="my-notebooks">
+                <h3>Meus Cadernos</h3>
+                <ul id="notebooks-list">
+                    </ul>
+            </div>
+             <h3>Atalhos</h3>
+            <ul id="shortcuts-list">
+                <li><strong>A-E / 1-5:</strong> Selecionar alternativa</li>
+                <li><strong>C / E:</strong> Selecionar Certo/Errado</li>
+                <li><strong>Enter:</strong> Confirmar Resposta</li>
+                <li><strong>Espaço:</strong> Próxima Questão</li>
+                <li><strong>Backspace:</strong> Questão Anterior</li>
+                <li><strong>F:</strong> Favoritar Questão</li>
+                <li><strong>Duplo Clique na Alternativa:</strong> Taxar/Riscar</li>
+            </ul>
+        </aside>
+
+        <section class="content">
+            <div id="auth-container" class="auth-view">
+                <h2>Acessar Plataforma</h2>
                 <div id="login-form">
-                    <input type="text" id="inscricao" placeholder="240 000 000">
-                    <input type="password" id="password" placeholder="Senha">
-                    <button id="login-btn" class="auth-btn">Entrar</button>
-                    <button id="register-btn" class="auth-btn">Registrar (Nº Inscrição)</button>
-                    <span id="auth-message"></span>
+                    <h3>Login</h3>
+                    <input type="email" id="login-email" placeholder="Email" required>
+                    <input type="password" id="login-password" placeholder="Senha" required>
+                    <button id="login-btn">Entrar</button>
                 </div>
-                <div id="user-info" style="display: none;">
-                    <span id="welcome-message" style="font-weight: bold;"></span>
-                    <button id="logout-btn" class="auth-btn">Sair</button>
+                <div id="signup-form">
+                    <h3>Criar Conta</h3>
+                    <input type="email" id="signup-email" placeholder="Email" required>
+                    <input type="password" id="signup-password" placeholder="Senha" required>
+                    <input type="text" id="signup-name" placeholder="Nome de Exibição" required>
+                    <button id="signup-btn">Registrar</button>
                 </div>
-                 <div id="set-name-modal" style="display: none; margin-top: 10px; padding: 10px; border: 1px solid #ccc; border-radius: 4px; background-color: #f9f9f9;">
-                    <p style="margin-bottom: 8px; font-size: 0.95em;">Para personalizar sua experiência, por favor, informe:</p>
-                    <label for="nome-escolhido" style="font-size: 0.9em; margin-bottom: 3px;">Nome para exibição:</label>
-                    <input type="text" id="nome-escolhido" placeholder="Como prefere ser chamado(a/e/x)?" style="width: calc(100% - 12px); padding: 5px; margin-bottom: 8px; font-size: 0.95em;">
-                    <label for="forma-tratamento" style="font-size: 0.9em; margin-bottom: 3px;">Forma de tratamento (Seja bem-vind...):</label>
-                    <select id="forma-tratamento" style="width: 100%; padding: 5px; margin-bottom: 10px; font-size: 0.95em;">
-                        <option value="o">o (bem-vindo)</option>
-                        <option value="a">a (bem-vinda)</option>
-                        <option value="e">e (bem-vinde)</option>
-                        <option value="x">x (bem-vindx)</option>
-                        <option value="@">@ (bem-vind@)</option>
-                        <option value="">Prefiro não usar</option> </select>
-                    <button id="save-name-btn" class="auth-btn" style="padding: 5px 10px; font-size: 0.9em;">Salvar</button>
-                    <span id="set-name-message" style="margin-left: 10px; font-size: 0.9em; color: green;"></span>
+                <p id="auth-error" class="error-message"></p>
+            </div>
+
+            <div id="question-view" class="hidden">
+                <div class="question-header">
+                    <p id="breadcrumb">Questões > Todas</p>
+                    <p>
+                        Questão <span id="current-question-number">1</span> de <span id="total-questions">10</span>
+                    </p>
+                    <div>
+                        <button id="prev-question-btn">Anterior</button>
+                        <button id="next-question-btn">Próxima</button>
+                        <button id="favorite-btn">Favoritar ☆</button>
+                    </div>
+                </div>
+                <div id="question-container">
+                    </div>
+                <button id="submit-answer-btn">Responder</button>
+                <div id="feedback-container">
+                    </div>
+                <div id="question-forum-btn-container">
+                     <button id="toggle-forum-btn">Comentários da Questão</button>
                 </div>
             </div>
-        </div>
 
-        <div id="contadores-globais-topo">
-            <span class="contador-item">Respondidas: <strong id="glob-respondidas">0</strong></span>
-            <span class="contador-item">Acertos: <strong id="glob-acertos" style="color: #28a745;">0</strong></span>
-            <span class="contador-item">Erros: <strong id="glob-erros" style="color: #dc3545;">0</strong></span>
-        </div>
+            <div id="forum-view" class="hidden">
+                <h3>Comentários sobre a questão <span id="forum-question-id-display"></span></h3>
+                <div id="forum-comments-list">
+                    </div>
+                <textarea id="new-comment-text" placeholder="Escreva seu comentário..."></textarea>
+                <button id="submit-comment-btn">Enviar Comentário</button>
+            </div>
 
-        <div id="main-content">
-             <div id="filtros-navegacao">
-                <div class="filtro-tema-container">
-                    <label for="filtro-tema">Filtrar por Tema:</label>
-                    <select id="filtro-tema">
-                        <option value="todos">Todas as Matérias</option>
+            <div id="stats-view" class="hidden">
+                <h2>Minhas Estatísticas</h2>
+                <div id="general-stats">
+                    <canvas id="geralChart"></canvas>
+                </div>
+                <div id="difficulty-stats">
+                    <canvas id="dificuldadeChart"></canvas>
+                </div>
+                <div id="subject-performance">
+                    </div>
+            </div>
+
+            <div id="add-question-view" class="hidden">
+                <h2>Adicionar Nova Questão</h2>
+                <label for="add-q-statement">Enunciado:</label>
+                <textarea id="add-q-statement"></textarea>
+                <label for="add-q-type">Tipo:</label>
+                <select id="add-q-type">
+                    <option value="multiple_choice">Múltipla Escolha</option>
+                    <option value="true_false">Certo/Errado</option>
+                </select>
+                <div id="add-q-options-mc">
+                    <label>Alternativas (A-E):</label>
+                    <input type="text" id="add-q-opt-a" placeholder="Alternativa A">
+                    <input type="text" id="add-q-opt-b" placeholder="Alternativa B">
+                    <input type="text" id="add-q-opt-c" placeholder="Alternativa C">
+                    <input type="text" id="add-q-opt-d" placeholder="Alternativa D">
+                    <input type="text" id="add-q-opt-e" placeholder="Alternativa E">
+                    <label for="add-q-correct-mc">Correta (A-E):</label>
+                    <select id="add-q-correct-mc">
+                        <option value="0">A</option>
+                        <option value="1">B</option>
+                        <option value="2">C</option>
+                        <option value="3">D</option>
+                        <option value="4">E</option>
                     </select>
                 </div>
-                 <div class="proximo-tema-container">
-                     <button id="proximo-tema-btn" class="btn-nav">Próximo Tema</button>
-                 </div>
-            </div>
-
-            <div id="questao-container">
-                <div class="contador-tema">
-                    <span id="status-bateria"></span>
-                    Tema: <span id="tema-atual">N/A</span> - Questão <span id="questao-atual">0</span> de <span id="total-questoes-tema">0</span>
-                    (<span class="status-resolvidas"><span id="questoes-resolvidas-tema">0</span> Resolvidas</span>,
-                    <span class="status-acertos"><span id="acertos-tema">0</span> Acertos</span>,
-                    <span class="status-erros"><span id="incorretas-tema">0</span> Erros</span>)
+                <div id="add-q-options-tf" class="hidden">
+                     <label for="add-q-correct-tf">Resposta Correta:</label>
+                     <select id="add-q-correct-tf">
+                        <option value="true">Certo</option>
+                        <option value="false">Errado</option>
+                    </select>
                 </div>
-                <hr>
-                <div id="pergunta-autor"></div>
-                <p id="pergunta-texto">Carregando questão...</p>
-                <form id="alternativas">
-                    <label class="alternativa-label" id="label-a"><input type="radio" name="alternativa" value="A"> <span class="letra-alternativa">A</span> <span id="alt-a"></span></label><br>
-                    <label class="alternativa-label" id="label-b"><input type="radio" name="alternativa" value="B"> <span class="letra-alternativa">B</span> <span id="alt-b"></span></label><br>
-                    <label class="alternativa-label" id="label-c"><input type="radio" name="alternativa" value="C"> <span class="letra-alternativa">C</span> <span id="alt-c"></span></label><br>
-                    <label class="alternativa-label" id="label-d"><input type="radio" name="alternativa" value="D"> <span class="letra-alternativa">D</span> <span id="alt-d"></span></label><br>
-                    <label class="alternativa-label" id="label-e"><input type="radio" name="alternativa" value="E"> <span class="letra-alternativa">E</span> <span id="alt-e"></span></label><br>
-
-                    <div class="botoes-quiz-container">
-                        <button type="submit" id="responder-btn" class="btn-quiz">Responder</button>
-                        <button type="button" id="pular-btn" class="btn-quiz">Pular</button>
-                        <button type="button" id="aleatoria-questao-btn" class="btn-quiz">Questão Aleatória</button>
-                    </div>
-                    </form>
-
-                <div id="resultado" style="display: none;">
-                    <p id="mensagem-resultado"></p>
-                    <p id="gabarito"></p>
-                    <button id="proxima-questao-btn" class="btn-quiz">Próxima Questão</button>
-                </div>
-                <p id="mensagem-fim" style="display: none;"></p>
+                <label for="add-q-justification">Justificativa:</label>
+                <textarea id="add-q-justification"></textarea>
+                <label for="add-q-subject">Matéria:</label>
+                <input type="text" id="add-q-subject">
+                <label for="add-q-topic">Assunto:</label>
+                <input type="text" id="add-q-topic">
+                <button id="submit-new-question-btn">Adicionar Questão</button>
             </div>
-        </div>
+        </section>
+    </main>
 
-        <div id="admin-container">
-            <h2 id="admin-toggle" class="collapsible-header admin-header-style">Gerenciamento de Questões <span class="toggle-icon">+</span></h2>
-            <div id="admin-content" class="collapsible-content" style="display: none;">
-                <button id="adicionar-questao-btn" class="btn-admin">Adicionar Questão</button>
-                <button id="resetar-progresso-btn" class="btn-admin">Resetar Progresso</button>
-                <button id="carregar-questoes-btn" class="btn-admin">Carregar Questões (JSON)</button>
-                <input type="file" id="arquivo-questoes" accept=".json" style="display: none;">
-                <div id="mensagem-carregamento"></div>
-                <div id="formulario-questao" style="display: none;">
-                     <label for="tipo-questao">Tipo de Questão:</label>
-                     <select id="tipo-questao">
-                         <option value="ME">Múltipla Escolha (A-E)</option>
-                         <option value="CE">Certo/Errado</option>
-                     </select><br><br>
-                    <label for="tema">Tema/Matéria:</label>
-                    <input type="text" id="tema"><br><br>
-                    <label for="pergunta">Pergunta:</label>
-                    <textarea id="pergunta"></textarea><br><br>
-                    <div id="alternativas-multipla-escolha">
-                        <label for="alternativa1">Alternativa A:</label>
-                        <input type="text" id="alternativa1"><br><br>
-                        <label for="alternativa2">Alternativa B:</label>
-                        <input type="text" id="alternativa2"><br><br>
-                        <label for="alternativa3">Alternativa C:</label>
-                        <input type="text" id="alternativa3"><br><br>
-                        <label for="alternativa4">Alternativa D:</label>
-                        <input type="text" id="alternativa4"><br><br>
-                        <label for="alternativa5">Alternativa E:</label>
-                        <input type="text" id="alternativa5"><br><br>
-                    </div>
-                     <div id="alternativas-certo-errado" style="display: none;">
-                         <p style="font-size:0.9em; color: #555;">Para Certo/Errado, a alternativa 'A' será "Certo" e 'B' será "Errado". Indique a letra da correta.</p>
-                     </div>
-                    <label for="resposta-correta">Resposta Correta (Letra):</label>
-                    <input type="text" id="resposta-correta"><br><br>
-                    <label for="gabarito-comentado">Gabarito Comentado:</label>
-                    <textarea id="gabarito-comentado"></textarea><br><br>
-                    <button id="salvar-questao-btn" class="btn-admin">Salvar Questão</button>
-                    <button id="cancelar-questao-btn" class="btn-admin">Cancelar</button>
-                </div>
-                 <div id="reportar-erro-link" style="margin-top: 20px;">
-                    <a href="#" id="link-reportar">Reportar erro na questão atual</a>
-                </div>
-            </div>
-        </div>
+    <footer>
+        <p>&copy; 2025 Sua Plataforma de Questões. Todos os direitos reservados.</p>
+        <button id="show-stats-btn">Desempenho</button>
+        <button id="show-add-question-btn">Adicionar Questão</button>
+    </footer>
 
-        <div id="questoes-erradas-container" style="display: none;">
-            <h2 id="erradas-toggle" class="collapsible-header">Questões Erradas para Refazer <span class="toggle-icon">+</span></h2>
-            <div id="erradas-content" class="collapsible-content" style="display: none;">
-                <p>Você errou <span id="num-questoes-erradas">0</span> questões.</p>
-                <button id="iniciar-refazer-btn" class="btn-erradas" disabled>Iniciar Bateria de Questões Erradas</button>
-            </div>
-        </div>
-
-        <footer>
-            <p>Este site é <strong>gratuito</strong> e foi criado para apoiar os candidatos do <strong><u>Curso de Formação da Auditoria-Fiscal do Trabalho (CF AFT)</u> – Turma <u>2025</u></strong>. <br>O conteúdo é baseado nas <strong><u>apostilas disponibilizadas pela CEBRASPE</u></strong> e elaborado por <strong>inteligência artificial</strong> e <strong>colaboradores voluntários</strong>. <br>Apesar dos esforços para garantir a <strong>precisão</strong>, podem existir <strong>erros</strong>. Recomenda-se a conferência com <strong>fontes oficiais</strong>. <br>O uso do site implica na <strong><u>aceitação dos termos</u></strong>.</p>
-            </p>
-            <p id="storage-warning" style="font-size: 0.7em; margin-top: 10px; color: #888;">*Funcionalidades de login usam Firebase. Seu progresso no quiz é salvo localmente em seu navegador e, se logado, estatísticas podem ser salvas online.*</p>
-        </footer>
-    </div>
-
-    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app-compat.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-auth-compat.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore-compat.js"></script>
-
-    <script>
-      const firebaseConfig = {
-        apiKey: "AIzaSyAtO2G_qfrOTMYZAxXl2YBnCpuXaS9UpC0", // MANTENHA SUA CHAVE REAL
-        authDomain: "aftec-b507a.firebaseapp.com",
-        projectId: "aftec-b507a",
-        storageBucket: "aftec-b507a.appspot.com", // Verifique se é .appspot.com ou .firebasestorage.app
-        messagingSenderId: "389156716534",
-        appId: "1:389156716534:web:cadbe9d8ac2b124e0f91d7"
-      };
-
-      let appFirebase;
-      if (firebaseConfig.apiKey && !firebaseConfig.apiKey.includes("SUA_API_KEY")) {
-          try {
-            appFirebase = firebase.initializeApp(firebaseConfig);
-          } catch (e) {
-            if (firebase.apps.length) {
-                appFirebase = firebase.app(); 
-            } else {
-                console.warn("Falha crítica na inicialização do Firebase. Verifique suas chaves em firebaseConfig.");
-            }
-          }
-      } else {
-          console.warn("Configuração do Firebase não fornecida ou está com placeholders. Funcionalidades online não estarão ativas.");
-          const authContainer = document.getElementById('auth-container');
-          if(authContainer) authContainer.style.display = 'none';
-          const storageWarning = document.getElementById('storage-warning');
-           if(storageWarning) storageWarning.textContent = '*Seu progresso no quiz é salvo localmente em seu navegador.*';
-      }
-    </script>
-
-    <script src="questoes.js"></script>
-    <script src="script.js"></script> </body>
+    <script type="module" src="firebase-config.js"></script>
+    <script type="module" src="script.js"></script>
+</body>
 </html>
