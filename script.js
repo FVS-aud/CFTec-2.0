@@ -32,6 +32,7 @@ const usuariosCollection = 'usuarios'; // Nome da coleção para dados dos usuá
 
 // --- Elementos Globais do DOM (Definidos aqui para fácil acesso) ---
 let perguntaTexto, alternativasForm, responderBtn, proximaQuestaoBtn, pularBtn, resultadoDiv, mensagemResultado, gabaritoTexto, mensagemFim, filtroTema, questaoAtualSpan, totalQuestoesTemaSpan, temaAtualSpan, statusBateriaSpan, questoesResolvidasTemaSpan, acertosTemaSpan, incorretasTemaSpan, globRespondidasSpan, globAcertosSpan, globErrosSpan, aleatoriaQuestaoBtn, proximoTemaBtn, userIdentifierDisplaySpan, authMessageSpan, loginFormDiv, userInfoDiv, inscricaoInput, passwordInput, nomeInput /* NOVO */, loginBtn, registerBtn, logoutBtn, questoesErradasContainer, erradasContentDiv, numQuestoesErradasSpan, iniciarRefazerBtn, adminToggle, adminContent, adicionarQuestaoBtn, resetarProgressoBtn, carregarQuestoesBtn, arquivoQuestoesInput, mensagemCarregamentoDiv, formularioQuestaoDiv, tipoQuestaoSelect, temaInput, perguntaTextarea, alternativasMultiplaEscolhaDiv, alternativa1Input, alternativa2Input, alternativa3Input, alternativa4Input, alternativa5Input, alternativasCertoErradoDiv, respostaCorretaInput, gabaritoComentadoTextarea, salvarQuestaoBtn, cancelarQuestaoBtn, perguntaAutorDiv;
+let contadoresGlobaisTopo, adminContainer; // <--- ADICIONADO
 let welcomeMessageSpan, // Span para exibir a mensagem de boas-vindas
     setNameModalDiv,    // Div do modal
     nomeEscolhidoInput, // Input do nome no modal
@@ -99,6 +100,8 @@ function mapearElementosDOM() {
     salvarQuestaoBtn = document.getElementById('salvar-questao-btn');
     cancelarQuestaoBtn = document.getElementById('cancelar-questao-btn');
     perguntaAutorDiv = document.getElementById('pergunta-autor');
+    contadoresGlobaisTopo = document.getElementById('contadores-globais-topo'); // <--- ADICIONADO
+    adminContainer = document.getElementById('admin-container');                 // <--- ADICIONADO
     // Mapeando elementos do modal que faltavam na lista global
     welcomeMessageSpan = document.getElementById('welcome-message');
     setNameModalDiv = document.getElementById('set-name-modal');
@@ -357,12 +360,27 @@ function setupAuthListeners() {
     });
     // --- OBSERVADOR DE ESTADO DE AUTENTICAÇÃO ---
     auth.onAuthStateChanged(async (user) => {
-        const isAdminSectionOpen = adminContent && adminContent.style.display === 'block'; // Verifica se admin estava aberto
+        const mainContent = document.getElementById('main-content'); // Pega o elemento do conteúdo principal
+        const isAdminSectionOpen = adminContent && adminContent.style.display === 'block'; // Verifica se admin estava aberto (mantém como estava)
 
         if (user) {
+            // Usuário LOGADO
             console.log("Usuário logado (email fictício):", user.email);
             if(loginFormDiv) loginFormDiv.style.display = 'none';
             if(userInfoDiv) userInfoDiv.style.display = 'block';
+
+            if (mainContent) {
+                mainContent.style.display = 'block'; // Ou 'flex', dependendo do seu layout original
+            }
+
+            // ADICIONADO PARA MOSTRAR OS NOVOS ELEMENTOS
+            if (contadoresGlobaisTopo) {
+                contadoresGlobaisTopo.style.display = 'block'; // Ou 'flex', 'grid', etc., conforme o layout original. 'block' deve funcionar.
+            }
+            if (adminContainer) {
+                adminContainer.style.display = 'block'; // Ou 'flex', 'grid', etc.
+            }
+            // FIM DA ADIÇÃO
 
             // **Verifica se precisa definir nome/tratamento**
             await verificarNecessidadeModalNome(user.uid); // Função que busca dados no Firestore e decide se mostra modal ou welcome message
@@ -384,6 +402,28 @@ function setupAuthListeners() {
             if(loginFormDiv) loginFormDiv.style.display = 'block';
             if(userInfoDiv) userInfoDiv.style.display = 'none';
             if(setNameModalDiv) setNameModalDiv.style.display = 'none'; // Esconde modal
+            // <<< ALTERAÇÃO AQUI: ESCONDER CONTEÚDO PRINCIPAL >>>
+             if (mainContent) {
+                mainContent.style.display = 'none';
+            }
+            // ADICIONADO PARA ESCONDER OS NOVOS ELEMENTOS
+            if (contadoresGlobaisTopo) {
+                contadoresGlobaisTopo.style.display = 'none';
+            }
+            if (adminContainer) {
+                adminContainer.style.display = 'none';
+            }
+            // FIM DA ADIÇÃO
+             // Limpa a área de questão para garantir que nada fique visível
+             if (perguntaTexto) perguntaTexto.textContent = 'Faça login para visualizar as questões.';
+             if (alternativasForm) alternativasForm.style.display = 'none';
+             if (resultadoDiv) resultadoDiv.style.display = 'none';
+             if (mensagemFim) mensagemFim.style.display = 'none';
+             if (perguntaAutorDiv) perguntaAutorDiv.innerHTML = '';
+             if (questaoAtualSpan) questaoAtualSpan.textContent = '0';
+             if (totalQuestoesTemaSpan) totalQuestoesTemaSpan.textContent = '0';
+             if (temaAtualSpan) temaAtualSpan.textContent = 'N/A';
+             // <<< FIM DA ALTERAÇÃO >>>
             if(adminContent) adminContent.style.display = 'none';
              if(adminToggle) {
                 const iconSpan = adminToggle.querySelector('.toggle-icon');
@@ -625,7 +665,7 @@ function carregarDoLocalStorageInterno(key, isUserLoggedIn, dadosFirebasePriorit
          if (isUserLoggedIn) {
              if(authMessageSpan) authMessageSpan.textContent = 'Progresso local carregado (online falhou).';
          } else {
-             if(authMessageSpan) authMessageSpan.textContent = 'Progresso local (anônimo) carregado.';
+             if(authMessageSpan) authMessageSpan.textContent = '';
          }
 
     } else {
